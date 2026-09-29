@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GATE CSE Test Series — Practice Tests & Mock Exams",
+  title: "CheckMate GATE",
   description:
     "Free online test series for GATE Computer Science & Information Technology. Practice MCQ, MSQ, and NAT questions with detailed solutions.",
 };

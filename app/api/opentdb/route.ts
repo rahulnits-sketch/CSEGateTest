@@ -50,6 +50,7 @@ export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const amount = searchParams.get("amount") || "10";
   const difficulty = searchParams.get("difficulty");
+  const category = searchParams.get("category") || "18";
 
   const now = Date.now();
   // If called within 10 seconds and cache has full questions, reuse cache
@@ -62,7 +63,7 @@ export async function GET(request: Request) {
     });
   }
 
-  let url = `https://opentdb.com/api.php?amount=${amount}&category=18&type=multiple`;
+  let url = `https://opentdb.com/api.php?amount=${amount}&category=${category}&type=multiple`;
   if (difficulty && ["easy", "medium", "hard"].includes(difficulty)) {
     url += `&difficulty=${difficulty}`;
   }

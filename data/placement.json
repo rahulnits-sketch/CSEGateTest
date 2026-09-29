@@ -1,0 +1,82 @@
+{
+  "modules": [
+    {
+      "id": "aptitude",
+      "slug": "aptitude",
+      "title": "Quantitative Aptitude",
+      "icon": "📐",
+      "description": "Essential arithmetic & mathematical problems asked in TCS, Infosys, Wipro, Accenture and product hiring rounds.",
+      "color": "from-amber-500/20 to-orange-500/20",
+      "borderColor": "border-amber-500/30",
+      "topics": [
+        "Time & Work",
+        "Speed, Time & Distance",
+        "Percentages & Profit-Loss",
+        "Permutations & Combinations",
+        "Probability & Statistics"
+      ],
+      "tests": [
+        {
+          "id": "placement-aptitude-01",
+          "title": "Quantitative Aptitude — Foundation Test 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Percentages, Profit & Loss, Time & Work, and Ratio proportions."
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "slug": "reasoning",
+      "title": "Logical Reasoning",
+      "icon": "🧠",
+      "description": "Analytical thinking, puzzle solving, coding-decoding, and syllogisms for campus & off-campus tests.",
+      "color": "from-emerald-500/20 to-teal-500/20",
+      "borderColor": "border-emerald-500/30",
+      "topics": [
+        "Number & Letter Series",
+        "Blood Relations",
+        "Direction Sense",
+        "Syllogisms & Deductions",
+        "Seating Arrangements"
+      ],
+      "tests": [
+        {
+          "id": "placement-reasoning-01",
+          "title": "Logical Reasoning — Mock 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy",
+          "description": "Number series, blood relations, syllogisms, and directional logic."
+        }
+      ]
+    },
+    {
+      "id": "verbal",
+      "slug": "verbal",
+      "title": "Verbal Ability & English",
+      "icon": "📝",
+      "description": "Grammar, sentence correction, reading comprehension, vocabulary and verbal reasoning.",
+      "color": "from-blue-500/20 to-indigo-500/20",
+      "borderColor": "border-blue-500/30",
+      "topics": [
+        "Sentence Correction & Error Spotting",
+        "Reading Comprehension",
+        "Synonyms & Antonyms",
+        "Para Jumbles",
+        "Vocabulary in Context"
+      ],
+      "tests": [
+        {
+          "id": "placement-verbal-01",
+          "title": "Verbal Ability — Assessment 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy",
+          "description": "Grammar rules, sentence completion, synonyms, and verbal deductions."
+        }
+      ]
+    }
+  ]
+}

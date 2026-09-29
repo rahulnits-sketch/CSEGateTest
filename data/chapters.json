@@ -1,0 +1,314 @@
+{
+  "dbms": [
+    {
+      "id": "relational-model",
+      "subjectId": "dbms",
+      "name": "ER Model & Relational Algebra",
+      "description": "Entity-Relationship schemas, candidate keys, selection, projection, join operations.",
+      "tests": [
+        {
+          "id": "dbms-01",
+          "title": "Relational Model & Key Concepts",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "normalization",
+      "subjectId": "dbms",
+      "name": "Normalization & Functional Dependencies",
+      "description": "1NF, 2NF, 3NF, BCNF, closure of attributes, lossless decomposition, dependency preservation.",
+      "tests": [
+        {
+          "id": "dbms-01",
+          "title": "Functional Dependencies & Normal Forms",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "transactions",
+      "subjectId": "dbms",
+      "name": "Transactions & Concurrency Control",
+      "description": "ACID properties, serializability (conflict and view), 2-phase locking (2PL), deadlock recovery.",
+      "tests": [
+        {
+          "id": "dbms-01",
+          "title": "Concurrency & Recovery Protocols",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "sql-indexing",
+      "subjectId": "dbms",
+      "name": "SQL & Indexing (B/B+ Trees)",
+      "description": "SQL nested queries, aggregates, group by, dense and sparse indexing, B-Trees and B+ Trees.",
+      "tests": [
+        {
+          "id": "dbms-01",
+          "title": "SQL Queries & File Organization",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ],
+  "os": [
+    {
+      "id": "cpu-scheduling",
+      "subjectId": "os",
+      "name": "Process & CPU Scheduling",
+      "description": "FCFS, SJF, SRTF, Round Robin, Priority scheduling, turnaround & waiting time calculations.",
+      "tests": [
+        {
+          "id": "os-01",
+          "title": "CPU Scheduling Algorithms",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "synchronization-deadlock",
+      "subjectId": "os",
+      "name": "Synchronization & Deadlocks",
+      "description": "Critical section problem, Peterson's algorithm, semaphores, Banker's algorithm, resource graph.",
+      "tests": [
+        {
+          "id": "os-01",
+          "title": "Deadlock & Semaphores Practice",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "memory-management",
+      "subjectId": "os",
+      "name": "Memory Management & Virtual Memory",
+      "description": "Contiguous allocation, paging, segmentation, TLB hit ratios, page replacement (FIFO, LRU, Optimal).",
+      "tests": [
+        {
+          "id": "os-01",
+          "title": "Paging, TLB & Page Replacement",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "storage-file-systems",
+      "subjectId": "os",
+      "name": "Disk Scheduling & File Systems",
+      "description": "SCAN, C-SCAN, LOOK, SSTF disk arm scheduling, inode structure, and allocation methods.",
+      "tests": [
+        {
+          "id": "os-01",
+          "title": "Disk Arm Algorithms & File Systems",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "id": "osi-datalink",
+      "subjectId": "cn",
+      "name": "OSI Layers & Data Link Layer",
+      "description": "Framing, CRC error detection, Flow Control (Stop & Wait, Go-Back-N, Selective Repeat), CSMA/CD.",
+      "tests": [
+        {
+          "id": "cn-01",
+          "title": "Flow Control & Framing",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "network-layer",
+      "subjectId": "cn",
+      "name": "Network Layer & IPv4 Subnetting",
+      "description": "CIDR, classless IP addressing, subnet masking, supernetting, fragmentation, Distance Vector & Link State.",
+      "tests": [
+        {
+          "id": "cn-01",
+          "title": "IP Subnetting & Routing Algorithms",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "transport-layer",
+      "subjectId": "cn",
+      "name": "Transport Layer (TCP / UDP)",
+      "description": "TCP 3-way handshake, connection termination, flow control (sliding window), TCP congestion control (AIMD).",
+      "tests": [
+        {
+          "id": "cn-01",
+          "title": "TCP Congestion & Connection Setup",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "application-layer",
+      "subjectId": "cn",
+      "name": "Application Layer & Security",
+      "description": "DNS resolution, HTTP, SMTP, FTP, RSA public key cryptography, symmetric key basics.",
+      "tests": [
+        {
+          "id": "cn-01",
+          "title": "Application Protocols & Cryptography",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ],
+  "dsa": [
+    {
+      "id": "linear-ds",
+      "subjectId": "dsa",
+      "name": "Linear Data Structures",
+      "description": "Arrays, Singly & Doubly Linked Lists, Stacks, Queues, Circular Queues, Infix/Postfix conversions.",
+      "tests": [
+        {
+          "id": "dsa-01",
+          "title": "Linear Structures & Stack Applications",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "id": "trees-heaps",
+      "subjectId": "dsa",
+      "name": "Trees & Priority Queues",
+      "description": "Binary Trees, BST, AVL Trees, Red-Black Trees, Binary Heaps, Heapify operations, Priority Queues.",
+      "tests": [
+        {
+          "id": "dsa-01",
+          "title": "Trees, Traversals & Balanced BSTs",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "graph-algorithms",
+      "subjectId": "dsa",
+      "name": "Graph Algorithms",
+      "description": "BFS, DFS, Dijkstra's algorithm, Bellman-Ford, Prim's & Kruskal's MST, Topological Sorting.",
+      "tests": [
+        {
+          "id": "dsa-graph-01",
+          "title": "Graph Traversals & MST",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "sorting-searching",
+      "subjectId": "dsa",
+      "name": "Sorting & Searching Techniques",
+      "description": "Binary search, Merge Sort, Quick Sort, Counting Sort, Radix Sort, Lower bounds on comparison sorts.",
+      "tests": [
+        {
+          "id": "dsa-01",
+          "title": "Sorting Algorithms & Recurrence Relations",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ],
+  "toc": [
+    {
+      "id": "regular-languages",
+      "subjectId": "toc",
+      "name": "Regular Expressions & Finite Automata",
+      "description": "DFA construction, NFA to DFA conversion, minimization of DFA, Pumping Lemma for Regular Languages.",
+      "tests": [
+        {
+          "id": "gate-toc-01",
+          "title": "DFA, NFA & Regular Expressions",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "cfg-pda",
+      "subjectId": "toc",
+      "name": "Context-Free Grammars & PDA",
+      "description": "Ambiguity in CFG, Chomsky Normal Form, Deterministic and Non-deterministic Pushdown Automata.",
+      "tests": [
+        {
+          "id": "gate-toc-01",
+          "title": "Context Free Languages & Automata",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ],
+  "coa": [
+    {
+      "id": "pipelining",
+      "subjectId": "coa",
+      "name": "Instruction Pipelining & Hazards",
+      "description": "Structural hazards, data hazards (RAW, WAR, WAW), control hazards, branch prediction, speedup factor.",
+      "tests": [
+        {
+          "id": "gate-coa-01",
+          "title": "Pipelining, Throughput & Hazards",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "cache-memory",
+      "subjectId": "coa",
+      "name": "Cache Memory Organization",
+      "description": "Direct mapped, fully associative, set-associative cache, hit latency, write-through vs write-back.",
+      "tests": [
+        {
+          "id": "gate-coa-01",
+          "title": "Cache Mapping & Hit Rate Calculation",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "opentdb-cs",
+      "slug": "cs-trivia",
+      "testId": "opentdb",
+      "title": "Computer Science Trivia",
+      "source": "Open Trivia DB (Live API)",
+      "icon": "💻",
+      "badge": "Live Test",
+      "categoryParam": "18",
+      "duration": "10 min",
+      "questionCount": "10 (Live)",
+      "color": "from-emerald-500/20 to-teal-500/20",
+      "borderColor": "border-emerald-500/30"
+    },
+    {
+      "id": "opentdb-science",
+      "slug": "science-gadgets",
+      "testId": "opentdb",
+      "title": "Science, Tech & Gadgets",
+      "source": "Open Trivia DB (Live API)",
+      "icon": "🔬",
+      "badge": "Live Test",
+      "categoryParam": "17",
+      "duration": "10 min",
+      "questionCount": "10 (Live)",
+      "color": "from-blue-500/20 to-indigo-500/20",
+      "borderColor": "border-blue-500/30"
+    },
+    {
+      "id": "opentdb-gk",
+      "slug": "general-knowledge",
+      "testId": "opentdb",
+      "title": "General Knowledge & Tech News",
+      "source": "Open Trivia DB (Live API)",
+      "icon": "🌐",
+      "badge": "Live Test",
+      "categoryParam": "9",
+      "duration": "10 min",
+      "questionCount": "10 (Live)",
+      "color": "from-purple-500/20 to-pink-500/20",
+      "borderColor": "border-purple-500/30"
+    }
+  ]
+}

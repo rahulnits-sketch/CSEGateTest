@@ -1,0 +1,118 @@
+{
+  "topics": [
+    {
+      "id": "arrays",
+      "slug": "arrays",
+      "title": "Arrays & Strings",
+      "icon": "📦",
+      "color": "from-cyan-500/20 to-blue-500/20",
+      "borderColor": "border-cyan-500/30",
+      "difficulty": "Easy to Medium",
+      "tests": [
+        {
+          "id": "dsa-arrays-01",
+          "title": "Arrays & Two Pointers — Practice 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Prefix sum, sliding window, 2-pointer techniques, and element frequency."
+        }
+      ]
+    },
+    {
+      "id": "linked-list",
+      "slug": "linked-list",
+      "title": "Linked Lists",
+      "icon": "🔗",
+      "color": "from-emerald-500/20 to-green-500/20",
+      "borderColor": "border-emerald-500/30",
+      "difficulty": "Medium",
+      "tests": [
+        {
+          "id": "dsa-ll-01",
+          "title": "Linked List Pointer Manipulations",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Cycle detection, reversing in K-groups, mid-point, and deletion edge cases."
+        }
+      ]
+    },
+    {
+      "id": "stack",
+      "slug": "stack",
+      "title": "Stacks",
+      "icon": "📚",
+      "color": "from-amber-500/20 to-yellow-500/20",
+      "borderColor": "border-amber-500/30",
+      "difficulty": "Medium",
+      "tests": [
+        {
+          "id": "dsa-stack-01",
+          "title": "Stack Applications & Monotonic Stack",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Parentheses validity, evaluation of expressions, and stack-based queue simulations."
+        }
+      ]
+    },
+    {
+      "id": "queue",
+      "slug": "queue",
+      "title": "Queues & Deques",
+      "icon": "🚶‍♂️",
+      "color": "from-pink-500/20 to-rose-500/20",
+      "borderColor": "border-pink-500/30",
+      "difficulty": "Easy to Medium",
+      "tests": [
+        {
+          "id": "dsa-queue-01",
+          "title": "Queues & Sliding Window Deque",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Circular queue capacity, BFS queuing, and double ended queue operations."
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "slug": "tree",
+      "title": "Trees & Binary Search Trees",
+      "icon": "🌲",
+      "color": "from-emerald-500/20 to-teal-500/20",
+      "borderColor": "border-emerald-500/30",
+      "difficulty": "Medium to Hard",
+      "tests": [
+        {
+          "id": "dsa-tree-01",
+          "title": "Binary Trees & BST Traversals",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium",
+          "description": "Level order, height calculation, BST properties, and LCA."
+        }
+      ]
+    },
+    {
+      "id": "graph",
+      "slug": "graph",
+      "title": "Graphs & Algorithms",
+      "icon": "🕸️",
+      "color": "from-purple-500/20 to-indigo-500/20",
+      "borderColor": "border-purple-500/30",
+      "difficulty": "Hard",
+      "tests": [
+        {
+          "id": "dsa-graph-01",
+          "title": "Graph Traversals & Shortest Paths",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard",
+          "description": "BFS/DFS properties, topological sort, cycle detection in directed graphs."
+        }
+      ]
+    }
+  ]
+}

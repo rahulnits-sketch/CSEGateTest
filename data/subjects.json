@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dbms",
+    "name": "Database Management Systems",
+    "shortName": "DBMS",
+    "icon": "🗄️",
+    "category": "GATE Core",
+    "color": "from-blue-500/20 to-indigo-500/20",
+    "borderColor": "border-blue-500/30"
+  },
+  {
+    "id": "os",
+    "name": "Operating Systems",
+    "shortName": "OS",
+    "icon": "⚙️",
+    "category": "GATE Core",
+    "color": "from-emerald-500/20 to-teal-500/20",
+    "borderColor": "border-emerald-500/30"
+  },
+  {
+    "id": "cn",
+    "name": "Computer Networks",
+    "shortName": "CN",
+    "icon": "🌐",
+    "category": "GATE Core",
+    "color": "from-cyan-500/20 to-blue-500/20",
+    "borderColor": "border-cyan-500/30"
+  },
+  {
+    "id": "dsa",
+    "name": "Data Structures & Algorithms",
+    "shortName": "DSA",
+    "icon": "⚡",
+    "category": "GATE Core",
+    "color": "from-purple-500/20 to-pink-500/20",
+    "borderColor": "border-purple-500/30"
+  },
+  {
+    "id": "toc",
+    "name": "Theory of Computation",
+    "shortName": "TOC",
+    "icon": "🔄",
+    "category": "GATE Core",
+    "color": "from-amber-500/20 to-orange-500/20",
+    "borderColor": "border-amber-500/30"
+  },
+  {
+    "id": "coa",
+    "name": "Computer Organization & Architecture",
+    "shortName": "COA",
+    "icon": "💻",
+    "category": "GATE Core",
+    "color": "from-rose-500/20 to-red-500/20",
+    "borderColor": "border-rose-500/30"
+  },
+  {
+    "id": "compiler",
+    "name": "Compiler Design",
+    "shortName": "CD",
+    "icon": "🛠️",
+    "category": "GATE Core",
+    "color": "from-violet-500/20 to-purple-500/20",
+    "borderColor": "border-violet-500/30"
+  },
+  {
+    "id": "discrete-math",
+    "name": "Discrete Mathematics",
+    "shortName": "DM",
+    "icon": "📐",
+    "category": "GATE Foundation",
+    "color": "from-sky-500/20 to-indigo-500/20",
+    "borderColor": "border-sky-500/30"
+  }
+]

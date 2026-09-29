@@ -1,0 +1,189 @@
+[
+  {
+    "id": "dsa-01",
+    "title": "Data Structures & Algorithms — Test 01",
+    "subject": "Data Structures & Algorithms",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Binary search, stack, tree heights & linear data structures.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dbms-01",
+    "title": "Database Management Systems — Test 01",
+    "subject": "DBMS",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Normal forms (2NF), ACID properties, candidate keys & closures.",
+    "isLiveApi": false
+  },
+  {
+    "id": "cn-01",
+    "title": "Computer Networks — Test 01",
+    "subject": "Computer Networks",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "OSI network layer, transport protocols (UDP), Go-Back-N windowing.",
+    "isLiveApi": false
+  },
+  {
+    "id": "os-01",
+    "title": "Operating Systems — Test 01",
+    "subject": "Operating Systems",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "CPU scheduling starvation, deadlock conditions & resource allocation.",
+    "isLiveApi": false
+  },
+  {
+    "id": "gate-toc-01",
+    "title": "Theory of Computation — Test 01",
+    "subject": "Theory of Computation",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Regular languages, DFA states, and CFG pumping lemma.",
+    "isLiveApi": false
+  },
+  {
+    "id": "gate-coa-01",
+    "title": "Computer Organization — Test 01",
+    "subject": "COA",
+    "category": "gate",
+    "categoryLabel": "GATE CSE",
+    "duration": "15 min",
+    "difficulty": "Hard",
+    "description": "Instruction pipelining, hazards, and cache hit latency.",
+    "isLiveApi": false
+  },
+  {
+    "id": "all",
+    "title": "GATE CSE Full Subject Mock Test",
+    "subject": "Comprehensive",
+    "category": "gate",
+    "categoryLabel": "GATE Full Mock",
+    "duration": "30 min",
+    "difficulty": "GATE Level",
+    "description": "Curated mix of MCQ, MSQ, and NAT questions across core subjects.",
+    "isLiveApi": false
+  },
+  {
+    "id": "placement-aptitude-01",
+    "title": "Quantitative Aptitude — Foundation Test 01",
+    "subject": "Aptitude",
+    "category": "placement",
+    "categoryLabel": "Placement Prep",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Time & Work, Percentages, Profit-Loss, and Speed calculations for campus hiring.",
+    "isLiveApi": false
+  },
+  {
+    "id": "placement-reasoning-01",
+    "title": "Logical Reasoning — Mock 01",
+    "subject": "Reasoning",
+    "category": "placement",
+    "categoryLabel": "Placement Prep",
+    "duration": "15 min",
+    "difficulty": "Easy",
+    "description": "Number series, blood relations, syllogisms, and directional logic.",
+    "isLiveApi": false
+  },
+  {
+    "id": "placement-verbal-01",
+    "title": "Verbal Ability — Assessment 01",
+    "subject": "Verbal English",
+    "category": "placement",
+    "categoryLabel": "Placement Prep",
+    "duration": "15 min",
+    "difficulty": "Easy",
+    "description": "Grammar rules, sentence completion, synonyms, and verbal deductions.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-arrays-01",
+    "title": "Arrays & Two Pointers — Practice 01",
+    "subject": "Arrays & Strings",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Prefix sum, sliding window, 2-pointer techniques, and element frequency.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-ll-01",
+    "title": "Linked List Pointer Manipulations",
+    "subject": "Linked Lists",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Cycle detection, reversing in K-groups, mid-point, and deletion edge cases.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-stack-01",
+    "title": "Stack Applications & Monotonic Stack",
+    "subject": "Stacks",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Parentheses validity, evaluation of expressions, and stack-based queue simulations.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-queue-01",
+    "title": "Queues & Sliding Window Deque",
+    "subject": "Queues",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Circular queue capacity, BFS queuing, and double ended queue operations.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-tree-01",
+    "title": "Binary Trees & BST Traversals",
+    "subject": "Trees & BST",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Medium",
+    "description": "Level order, height calculation, BST properties, and LCA.",
+    "isLiveApi": false
+  },
+  {
+    "id": "dsa-graph-01",
+    "title": "Graph Traversals & Shortest Paths",
+    "subject": "Graphs",
+    "category": "dsa",
+    "categoryLabel": "DSA Practice",
+    "duration": "15 min",
+    "difficulty": "Hard",
+    "description": "BFS/DFS properties, topological sort, cycle detection in directed graphs.",
+    "isLiveApi": false
+  },
+  {
+    "id": "opentdb",
+    "title": "Computer Science Trivia — Open Trivia DB",
+    "subject": "General / Trivia",
+    "category": "general",
+    "categoryLabel": "Live API",
+    "duration": "10 min",
+    "difficulty": "Mixed",
+    "description": "Dynamic live questions fetched directly from Open Trivia DB REST API.",
+    "isLiveApi": true
+  }
+]

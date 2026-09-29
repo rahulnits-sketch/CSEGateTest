@@ -33,7 +33,19 @@ export default function TestPage() {
   useEffect(() => {
     if (testId === "opentdb") {
       let isMounted = true;
-      fetch("/api/opentdb")
+      let apiUrl = "/api/opentdb";
+      if (typeof window !== "undefined") {
+        const sp = new URLSearchParams(window.location.search);
+        const cat = sp.get("category");
+        const diff = sp.get("difficulty");
+        const qp = new URLSearchParams();
+        if (cat) qp.set("category", cat);
+        if (diff) qp.set("difficulty", diff);
+        const qs = qp.toString();
+        if (qs) apiUrl += `?${qs}`;
+      }
+
+      fetch(apiUrl)
         .then((res) => res.json())
         .then((data) => {
           if (isMounted) {

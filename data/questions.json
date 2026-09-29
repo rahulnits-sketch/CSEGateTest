@@ -4,8 +4,15 @@
     "testId": "dsa-01",
     "type": "MCQ",
     "question": "What is the worst-case time complexity of searching in a balanced Binary Search Tree (AVL/Red-Black) with n keys?",
-    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
-    "answer": ["O(log n)"],
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": [
+      "O(log n)"
+    ],
     "subject": "Data Structures",
     "topic": "Trees",
     "difficulty": "Easy",
@@ -18,8 +25,15 @@
     "testId": "dsa-01",
     "type": "MCQ",
     "question": "Which data structure follows the LIFO (Last In First Out) principle?",
-    "options": ["Queue", "Stack", "Linked List", "Tree"],
-    "answer": ["Stack"],
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "answer": [
+      "Stack"
+    ],
     "subject": "Data Structures",
     "topic": "Stack",
     "difficulty": "Easy",
@@ -32,8 +46,16 @@
     "testId": "dsa-01",
     "type": "MSQ",
     "question": "Which of the following sorting algorithms have a worst-case time complexity of O(n log n)?",
-    "options": ["Merge Sort", "Heap Sort", "Quick Sort", "Bubble Sort"],
-    "answer": ["Merge Sort", "Heap Sort"],
+    "options": [
+      "Merge Sort",
+      "Heap Sort",
+      "Quick Sort",
+      "Bubble Sort"
+    ],
+    "answer": [
+      "Merge Sort",
+      "Heap Sort"
+    ],
     "subject": "Data Structures",
     "topic": "Sorting",
     "difficulty": "Medium",
@@ -47,7 +69,9 @@
     "type": "NAT",
     "question": "If a binary tree has 15 nodes, what is the maximum possible height (in terms of number of edges)?",
     "options": [],
-    "answer": ["14"],
+    "answer": [
+      "14"
+    ],
     "subject": "Data Structures",
     "topic": "Trees",
     "difficulty": "Medium",
@@ -60,8 +84,15 @@
     "testId": "dsa-01",
     "type": "MCQ",
     "question": "The inorder traversal of a Binary Search Tree (BST) always produces keys in:",
-    "options": ["Descending order", "Strictly ascending order", "Non-decreasing sorted order", "Random order"],
-    "answer": ["Non-decreasing sorted order"],
+    "options": [
+      "Descending order",
+      "Strictly ascending order",
+      "Non-decreasing sorted order",
+      "Random order"
+    ],
+    "answer": [
+      "Non-decreasing sorted order"
+    ],
     "subject": "Data Structures",
     "topic": "Trees",
     "difficulty": "Easy",
@@ -74,8 +105,17 @@
     "testId": "dsa-01",
     "type": "MSQ",
     "question": "Which of the following are linear data structures? (Select all that apply)",
-    "options": ["Array", "Stack", "Queue", "Binary Tree"],
-    "answer": ["Array", "Stack", "Queue"],
+    "options": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Binary Tree"
+    ],
+    "answer": [
+      "Array",
+      "Stack",
+      "Queue"
+    ],
     "subject": "Data Structures",
     "topic": "Basics",
     "difficulty": "Easy",
@@ -89,7 +129,9 @@
     "type": "NAT",
     "question": "A complete binary tree has 63 nodes. What is the height of this tree in terms of levels (where root is level 1)?",
     "options": [],
-    "answer": ["6"],
+    "answer": [
+      "6"
+    ],
     "subject": "Data Structures",
     "topic": "Trees",
     "difficulty": "Medium",
@@ -102,8 +144,15 @@
     "testId": "dsa-01",
     "type": "MCQ",
     "question": "What is the worst-case number of comparisons in QuickSort for an array of n distinct elements?",
-    "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
-    "answer": ["O(n^2)"],
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "answer": [
+      "O(n^2)"
+    ],
     "subject": "Data Structures",
     "topic": "Sorting",
     "difficulty": "Medium",
@@ -116,8 +165,16 @@
     "testId": "dsa-01",
     "type": "MSQ",
     "question": "Which of the following graph traversal algorithms can be used to detect a cycle in an undirected graph?",
-    "options": ["Breadth First Search (BFS)", "Depth First Search (DFS)", "Dijkstra's Algorithm", "Prim's Algorithm"],
-    "answer": ["Breadth First Search (BFS)", "Depth First Search (DFS)"],
+    "options": [
+      "Breadth First Search (BFS)",
+      "Depth First Search (DFS)",
+      "Dijkstra's Algorithm",
+      "Prim's Algorithm"
+    ],
+    "answer": [
+      "Breadth First Search (BFS)",
+      "Depth First Search (DFS)"
+    ],
     "subject": "Data Structures",
     "topic": "Graphs",
     "difficulty": "Medium",
@@ -131,7 +188,9 @@
     "type": "NAT",
     "question": "In a max-heap with 10 elements, what is the minimum number of comparisons needed to find the maximum element?",
     "options": [],
-    "answer": ["0"],
+    "answer": [
+      "0"
+    ],
     "subject": "Data Structures",
     "topic": "Heaps",
     "difficulty": "Easy",
@@ -144,8 +203,15 @@
     "testId": "dbms-01",
     "type": "MCQ",
     "question": "Which normal form removes partial functional dependencies in a relational schema?",
-    "options": ["1NF", "2NF", "3NF", "BCNF"],
-    "answer": ["2NF"],
+    "options": [
+      "1NF",
+      "2NF",
+      "3NF",
+      "BCNF"
+    ],
+    "answer": [
+      "2NF"
+    ],
     "subject": "DBMS",
     "topic": "Normalization",
     "difficulty": "Medium",
@@ -158,8 +224,18 @@
     "testId": "dbms-01",
     "type": "MSQ",
     "question": "Which of the following are fundamental ACID properties of database transactions?",
-    "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
-    "answer": ["Atomicity", "Consistency", "Isolation", "Durability"],
+    "options": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
+    "answer": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
     "subject": "DBMS",
     "topic": "Transactions",
     "difficulty": "Easy",
@@ -173,7 +249,9 @@
     "type": "NAT",
     "question": "A relation R(A, B, C, D) has functional dependencies: A -> B, B -> C, C -> D. How many candidate keys does relation R have?",
     "options": [],
-    "answer": ["1"],
+    "answer": [
+      "1"
+    ],
     "subject": "DBMS",
     "topic": "Keys",
     "difficulty": "Easy",
@@ -186,8 +264,15 @@
     "testId": "dbms-01",
     "type": "MCQ",
     "question": "In a B+ tree index of order m, each internal node (except root) has at least how many child pointers?",
-    "options": ["m", "ceil(m/2)", "floor(m/2)", "m - 1"],
-    "answer": ["ceil(m/2)"],
+    "options": [
+      "m",
+      "ceil(m/2)",
+      "floor(m/2)",
+      "m - 1"
+    ],
+    "answer": [
+      "ceil(m/2)"
+    ],
     "subject": "DBMS",
     "topic": "Indexing",
     "difficulty": "Medium",
@@ -200,8 +285,17 @@
     "testId": "dbms-01",
     "type": "MSQ",
     "question": "Which of the following schedules are guaranteed to be conflict serializable?",
-    "options": ["Strict 2PL schedules", "Basic 2PL schedules", "Conservative 2PL schedules", "Any schedule without write locks"],
-    "answer": ["Strict 2PL schedules", "Basic 2PL schedules", "Conservative 2PL schedules"],
+    "options": [
+      "Strict 2PL schedules",
+      "Basic 2PL schedules",
+      "Conservative 2PL schedules",
+      "Any schedule without write locks"
+    ],
+    "answer": [
+      "Strict 2PL schedules",
+      "Basic 2PL schedules",
+      "Conservative 2PL schedules"
+    ],
     "subject": "DBMS",
     "topic": "Concurrency Control",
     "difficulty": "Medium",
@@ -215,7 +309,9 @@
     "type": "NAT",
     "question": "Consider a relation R(A, B, C) with candidate keys {A} and {B}. How many superkeys are possible for relation R?",
     "options": [],
-    "answer": ["6"],
+    "answer": [
+      "6"
+    ],
     "subject": "DBMS",
     "topic": "Relational Model",
     "difficulty": "Medium",
@@ -228,8 +324,15 @@
     "testId": "dbms-01",
     "type": "MCQ",
     "question": "Which SQL clause is used to filter records after aggregation with GROUP BY?",
-    "options": ["WHERE", "HAVING", "FILTER", "ORDER BY"],
-    "answer": ["HAVING"],
+    "options": [
+      "WHERE",
+      "HAVING",
+      "FILTER",
+      "ORDER BY"
+    ],
+    "answer": [
+      "HAVING"
+    ],
     "subject": "DBMS",
     "topic": "SQL",
     "difficulty": "Easy",
@@ -266,7 +369,9 @@
     "type": "NAT",
     "question": "A transaction log with checkpointing uses undo/redo recovery. If a transaction committed before the latest checkpoint, how many log undo actions are performed for it?",
     "options": [],
-    "answer": ["0"],
+    "answer": [
+      "0"
+    ],
     "subject": "DBMS",
     "topic": "Recovery",
     "difficulty": "Easy",
@@ -279,8 +384,15 @@
     "testId": "dbms-01",
     "type": "MCQ",
     "question": "In relational algebra, which operator is equivalent to Cartesian Product followed by Selection?",
-    "options": ["Theta Join", "Natural Join", "Projection", "Division"],
-    "answer": ["Theta Join"],
+    "options": [
+      "Theta Join",
+      "Natural Join",
+      "Projection",
+      "Division"
+    ],
+    "answer": [
+      "Theta Join"
+    ],
     "subject": "DBMS",
     "topic": "Relational Algebra",
     "difficulty": "Easy",
@@ -293,8 +405,15 @@
     "testId": "cn-01",
     "type": "MCQ",
     "question": "Which layer of the OSI reference model is responsible for host-to-host routing and logical addressing?",
-    "options": ["Data Link Layer", "Network Layer", "Transport Layer", "Application Layer"],
-    "answer": ["Network Layer"],
+    "options": [
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Application Layer"
+    ],
+    "answer": [
+      "Network Layer"
+    ],
     "subject": "Computer Networks",
     "topic": "OSI Model",
     "difficulty": "Easy",
@@ -307,8 +426,17 @@
     "testId": "cn-01",
     "type": "MSQ",
     "question": "Which of the following application layer protocols typically use UDP at the transport layer?",
-    "options": ["DNS", "DHCP", "FTP", "TFTP"],
-    "answer": ["DNS", "DHCP", "TFTP"],
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "TFTP"
+    ],
+    "answer": [
+      "DNS",
+      "DHCP",
+      "TFTP"
+    ],
     "subject": "Computer Networks",
     "topic": "Transport Layer Protocols",
     "difficulty": "Medium",
@@ -322,7 +450,9 @@
     "type": "NAT",
     "question": "In a Go-Back-N ARQ protocol with a sender window size of 7, what is the minimum number of distinct sequence numbers needed to avoid ambiguity?",
     "options": [],
-    "answer": ["8"],
+    "answer": [
+      "8"
+    ],
     "subject": "Computer Networks",
     "topic": "Flow Control",
     "difficulty": "Medium",
@@ -335,8 +465,15 @@
     "testId": "cn-01",
     "type": "MCQ",
     "question": "In IPv4 addressing, which class of addresses is reserved for IP Multicasting?",
-    "options": ["Class A", "Class B", "Class C", "Class D"],
-    "answer": ["Class D"],
+    "options": [
+      "Class A",
+      "Class B",
+      "Class C",
+      "Class D"
+    ],
+    "answer": [
+      "Class D"
+    ],
     "subject": "Computer Networks",
     "topic": "IP Addressing",
     "difficulty": "Easy",
@@ -350,7 +487,9 @@
     "type": "NAT",
     "question": "An IPv4 subnet has subnet mask 255.255.255.224 (/27). How many usable host IP addresses are available in this subnet?",
     "options": [],
-    "answer": ["30"],
+    "answer": [
+      "30"
+    ],
     "subject": "Computer Networks",
     "topic": "Subnetting",
     "difficulty": "Medium",
@@ -387,7 +526,9 @@
     "type": "NAT",
     "question": "In CSMA/CD, the bandwidth is 10 Mbps and propagation delay is 25.6 microseconds. What is the minimum frame size in bytes?",
     "options": [],
-    "answer": ["64"],
+    "answer": [
+      "64"
+    ],
     "subject": "Computer Networks",
     "topic": "Data Link Layer",
     "difficulty": "Hard",
@@ -400,8 +541,15 @@
     "testId": "cn-01",
     "type": "MCQ",
     "question": "Which protocol resolves a known IP address to its corresponding MAC hardware address?",
-    "options": ["DNS", "ARP", "RARP", "DHCP"],
-    "answer": ["ARP"],
+    "options": [
+      "DNS",
+      "ARP",
+      "RARP",
+      "DHCP"
+    ],
+    "answer": [
+      "ARP"
+    ],
     "subject": "Computer Networks",
     "topic": "Network Protocols",
     "difficulty": "Easy",
@@ -414,8 +562,16 @@
     "testId": "cn-01",
     "type": "MSQ",
     "question": "Which of the following routing protocols use Dijkstra's Shortest Path First algorithm?",
-    "options": ["OSPF", "IS-IS", "RIP", "BGP"],
-    "answer": ["OSPF", "IS-IS"],
+    "options": [
+      "OSPF",
+      "IS-IS",
+      "RIP",
+      "BGP"
+    ],
+    "answer": [
+      "OSPF",
+      "IS-IS"
+    ],
     "subject": "Computer Networks",
     "topic": "Routing",
     "difficulty": "Medium",
@@ -429,7 +585,9 @@
     "type": "NAT",
     "question": "In a Selective Repeat ARQ protocol with 4-bit sequence numbers (0 to 15), what is the maximum sender window size?",
     "options": [],
-    "answer": ["8"],
+    "answer": [
+      "8"
+    ],
     "subject": "Computer Networks",
     "topic": "Flow Control",
     "difficulty": "Medium",
@@ -442,8 +600,15 @@
     "testId": "os-01",
     "type": "MCQ",
     "question": "Which of the following CPU scheduling algorithms is prone to starvation for long processes?",
-    "options": ["Round Robin", "First Come First Served (FCFS)", "Shortest Job First (SJF)", "FIFO"],
-    "answer": ["Shortest Job First (SJF)"],
+    "options": [
+      "Round Robin",
+      "First Come First Served (FCFS)",
+      "Shortest Job First (SJF)",
+      "FIFO"
+    ],
+    "answer": [
+      "Shortest Job First (SJF)"
+    ],
     "subject": "Operating Systems",
     "topic": "CPU Scheduling",
     "difficulty": "Easy",
@@ -456,8 +621,18 @@
     "testId": "os-01",
     "type": "MSQ",
     "question": "Which of the following are necessary conditions for a deadlock to occur in an operating system?",
-    "options": ["Mutual Exclusion", "Hold and Wait", "No Preemption", "Circular Wait"],
-    "answer": ["Mutual Exclusion", "Hold and Wait", "No Preemption", "Circular Wait"],
+    "options": [
+      "Mutual Exclusion",
+      "Hold and Wait",
+      "No Preemption",
+      "Circular Wait"
+    ],
+    "answer": [
+      "Mutual Exclusion",
+      "Hold and Wait",
+      "No Preemption",
+      "Circular Wait"
+    ],
     "subject": "Operating Systems",
     "topic": "Deadlocks",
     "difficulty": "Easy",
@@ -471,7 +646,9 @@
     "type": "NAT",
     "question": "A system has 4 processes and each process requires at most 3 units of resource R. What is the minimum number of units of R required to guarantee that deadlock will never occur?",
     "options": [],
-    "answer": ["9"],
+    "answer": [
+      "9"
+    ],
     "subject": "Operating Systems",
     "topic": "Deadlocks",
     "difficulty": "Medium",
@@ -484,8 +661,15 @@
     "testId": "os-01",
     "type": "MCQ",
     "question": "Belady's Anomaly (where increasing the number of page frames results in an increase in page faults) occurs in:",
-    "options": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement", "LFU Page Replacement"],
-    "answer": ["FIFO Page Replacement"],
+    "options": [
+      "FIFO Page Replacement",
+      "LRU Page Replacement",
+      "Optimal Page Replacement",
+      "LFU Page Replacement"
+    ],
+    "answer": [
+      "FIFO Page Replacement"
+    ],
     "subject": "Operating Systems",
     "topic": "Virtual Memory",
     "difficulty": "Medium",
@@ -499,7 +683,9 @@
     "type": "NAT",
     "question": "In a paged virtual memory system with 32-bit virtual address and 4 KB page size, how many entries are in a single-level page table?",
     "options": [],
-    "answer": ["1048576"],
+    "answer": [
+      "1048576"
+    ],
     "subject": "Operating Systems",
     "topic": "Memory Management",
     "difficulty": "Medium",
@@ -535,7 +721,9 @@
     "type": "NAT",
     "question": "How many total child processes are created by the execution of 3 consecutive fork() calls in a C program?",
     "options": [],
-    "answer": ["7"],
+    "answer": [
+      "7"
+    ],
     "subject": "Operating Systems",
     "topic": "Process Creation",
     "difficulty": "Easy",
@@ -548,8 +736,15 @@
     "testId": "os-01",
     "type": "MCQ",
     "question": "Which disk scheduling algorithm services requests by moving the disk arm in one direction until the end, then reversing direction?",
-    "options": ["FCFS", "SCAN (Elevator)", "C-SCAN", "SSTF"],
-    "answer": ["SCAN (Elevator)"],
+    "options": [
+      "FCFS",
+      "SCAN (Elevator)",
+      "C-SCAN",
+      "SSTF"
+    ],
+    "answer": [
+      "SCAN (Elevator)"
+    ],
     "subject": "Operating Systems",
     "topic": "Disk Scheduling",
     "difficulty": "Easy",
@@ -562,8 +757,18 @@
     "testId": "os-01",
     "type": "MSQ",
     "question": "Which of the following are valid solutions to the Critical Section problem that satisfy Mutual Exclusion?",
-    "options": ["Peterson's Algorithm", "Counting Semaphores", "Test-and-Set Lock", "Bakery Algorithm"],
-    "answer": ["Peterson's Algorithm", "Counting Semaphores", "Test-and-Set Lock", "Bakery Algorithm"],
+    "options": [
+      "Peterson's Algorithm",
+      "Counting Semaphores",
+      "Test-and-Set Lock",
+      "Bakery Algorithm"
+    ],
+    "answer": [
+      "Peterson's Algorithm",
+      "Counting Semaphores",
+      "Test-and-Set Lock",
+      "Bakery Algorithm"
+    ],
     "subject": "Operating Systems",
     "topic": "Synchronization",
     "difficulty": "Medium",
@@ -577,12 +782,392 @@
     "type": "NAT",
     "question": "A system uses TLB with access time 10 ns and main memory access time 100 ns. If the TLB hit ratio is 90%, what is the Effective Memory Access Time (EMAT) in ns?",
     "options": [],
-    "answer": ["120"],
+    "answer": [
+      "120"
+    ],
     "subject": "Operating Systems",
     "topic": "Virtual Memory",
     "difficulty": "Hard",
     "marks": 2,
     "negativeMarks": 0,
     "explanation": "EMAT = Hit_ratio * (TLB + Mem) + (1 - Hit_ratio) * (TLB + 2*Mem) = 0.9 * (10 + 100) + 0.1 * (10 + 200) = 0.9 * 110 + 0.1 * 210 = 99 + 21 = 120 ns."
+  },
+  {
+    "id": 41,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A can do a piece of work in 12 days and B can do it in 24 days. Working together, in how many days will they finish the work?",
+    "options": [
+      "6 days",
+      "8 days",
+      "10 days",
+      "16 days"
+    ],
+    "answer": [
+      "8 days"
+    ],
+    "subject": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/24. (A+B) 1-day work = 1/12 + 1/24 = 3/24 = 1/8. Total days = 8."
+  },
+  {
+    "id": 42,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A train 150m long passes a pole in 15 seconds. What is the speed of the train in km/h?",
+    "options": [
+      "30 km/h",
+      "36 km/h",
+      "40 km/h",
+      "45 km/h"
+    ],
+    "answer": [
+      "36 km/h"
+    ],
+    "subject": "Aptitude",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Speed = Distance / Time = 150 / 15 = 10 m/s. In km/h: 10 * (18/5) = 36 km/h."
+  },
+  {
+    "id": 43,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the cost price of 12 pens is equal to the selling price of 8 pens, find the gain percentage.",
+    "options": [
+      "25%",
+      "33.33%",
+      "50%",
+      "66.66%"
+    ],
+    "answer": [
+      "50%"
+    ],
+    "subject": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Let CP of 1 pen = 1. CP of 12 pens = 12 = SP of 8 pens. SP of 1 pen = 12/8 = 1.5. Profit = 0.5. Profit % = (0.5/1)*100 = 50%."
+  },
+  {
+    "id": 44,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose sum is greater than 9?",
+    "options": [
+      "1/6",
+      "5/36",
+      "1/9",
+      "7/36"
+    ],
+    "answer": [
+      "1/6"
+    ],
+    "subject": "Aptitude",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Sums > 9 are 10, 11, 12. Pairs: (4,6),(5,5),(6,4) for 10; (5,6),(6,5) for 11; (6,6) for 12. Total 6 outcomes out of 36. Probability = 6/36 = 1/6."
+  },
+  {
+    "id": 45,
+    "testId": "placement-reasoning-01",
+    "type": "MCQ",
+    "question": "Find the next term in the series: 3, 7, 15, 31, 63, ?",
+    "options": [
+      "95",
+      "115",
+      "127",
+      "131"
+    ],
+    "answer": [
+      "127"
+    ],
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Pattern is 2 * n + 1: 3*2+1=7, 7*2+1=15, 15*2+1=31, 31*2+1=63, 63*2+1=127."
+  },
+  {
+    "id": 46,
+    "testId": "placement-reasoning-01",
+    "type": "MCQ",
+    "question": "Pointing to a photograph, a woman says: \"He is the only son of the wife of my father-in-law.\" How is the man related to the woman?",
+    "options": [
+      "Brother",
+      "Husband",
+      "Son",
+      "Father"
+    ],
+    "answer": [
+      "Husband"
+    ],
+    "subject": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Wife of her father-in-law = Mother-in-law. Only son of her mother-in-law = Her Husband."
+  },
+  {
+    "id": 47,
+    "testId": "placement-reasoning-01",
+    "type": "MCQ",
+    "question": "A person walks 10 km North, turns right and walks 5 km, then turns right again and walks 10 km. In which direction is he now from his starting point?",
+    "options": [
+      "North",
+      "East",
+      "South",
+      "West"
+    ],
+    "answer": [
+      "East"
+    ],
+    "subject": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Walking 10 km North then 10 km South brings his vertical displacement to 0. He is 5 km due East."
+  },
+  {
+    "id": 48,
+    "testId": "placement-verbal-01",
+    "type": "MCQ",
+    "question": "Choose the correct synonym for the word: EPHEMERAL",
+    "options": [
+      "Enduring",
+      "Short-lived",
+      "Spiritual",
+      "Sacred"
+    ],
+    "answer": [
+      "Short-lived"
+    ],
+    "subject": "Verbal",
+    "topic": "Vocabulary",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Ephemeral means lasting for a very short time; transient."
+  },
+  {
+    "id": 49,
+    "testId": "placement-verbal-01",
+    "type": "MCQ",
+    "question": "Identify the grammatically correct sentence:",
+    "options": [
+      "Neither of the students were present.",
+      "Neither of the students was present.",
+      "Neither of the students are present.",
+      "Neither of the students have been present."
+    ],
+    "answer": [
+      "Neither of the students was present."
+    ],
+    "subject": "Verbal",
+    "topic": "Grammar",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "explanation": "Neither is singular and requires a singular verb: was present."
+  },
+  {
+    "id": 50,
+    "testId": "dsa-arrays-01",
+    "type": "MCQ",
+    "question": "What is the time complexity of Kadane's algorithm for the Maximum Subarray Sum problem on an array of size n?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": [
+      "O(n)"
+    ],
+    "subject": "DSA",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Kadane algorithm iterates through the array in a single pass maintaining current and maximum sums in O(n) time and O(1) space."
+  },
+  {
+    "id": 51,
+    "testId": "dsa-arrays-01",
+    "type": "MCQ",
+    "question": "Given a sorted array of distinct integers, what is the best algorithm to find two numbers that sum up to a target T?",
+    "options": [
+      "Nested loops in O(n^2)",
+      "Two Pointers in O(n) time and O(1) space",
+      "Sorting in O(n log n)",
+      "Bit manipulation"
+    ],
+    "answer": [
+      "Two Pointers in O(n) time and O(1) space"
+    ],
+    "subject": "DSA",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Since the array is already sorted, two pointers initialized at left and right indices can find the pair in O(n) time without additional memory."
+  },
+  {
+    "id": 52,
+    "testId": "dsa-ll-01",
+    "type": "MCQ",
+    "question": "In Floyd's cycle-finding algorithm (tortoise and hare), if the hare moves 2 steps while tortoise moves 1 step, in what time complexity will a loop of size L be detected after entering the loop?",
+    "options": [
+      "O(L)",
+      "O(L log L)",
+      "O(L^2)",
+      "O(1)"
+    ],
+    "answer": [
+      "O(L)"
+    ],
+    "subject": "DSA",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The relative speed between the two pointers is 1 step per iteration. Therefore, the distance between them decreases by 1 in each step, taking at most L iterations."
+  },
+  {
+    "id": 53,
+    "testId": "dsa-stack-01",
+    "type": "MCQ",
+    "question": "What data structure is optimal for solving the Next Greater Element (NGE) problem for all elements of an array in O(n) total time?",
+    "options": [
+      "Max Heap",
+      "Monotonic Decreasing Stack",
+      "Queue",
+      "Balanced BST"
+    ],
+    "answer": [
+      "Monotonic Decreasing Stack"
+    ],
+    "subject": "DSA",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "A monotonic decreasing stack processes each element at most once pushed and once popped, resulting in an O(n) total amortized time."
+  },
+  {
+    "id": 54,
+    "testId": "dsa-queue-01",
+    "type": "MCQ",
+    "question": "In an array implementation of a circular queue of size N, what is the full condition when one slot is left empty to distinguish from empty state?",
+    "options": [
+      "front == rear",
+      "(rear + 1) % N == front",
+      "rear == N - 1",
+      "(front + 1) % N == rear"
+    ],
+    "answer": [
+      "(rear + 1) % N == front"
+    ],
+    "subject": "DSA",
+    "topic": "Queue",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The standard condition to test if a circular queue is full is (rear + 1) % N == front."
+  },
+  {
+    "id": 55,
+    "testId": "dsa-tree-01",
+    "type": "MCQ",
+    "question": "In a Binary Search Tree (BST), what is the Lowest Common Ancestor (LCA) of two nodes with values u and v (where u < v)?",
+    "options": [
+      "The deepest node whose key satisfies u <= key <= v",
+      "Always the root of the tree",
+      "The node with minimum key value",
+      "The parent of v"
+    ],
+    "answer": [
+      "The deepest node whose key satisfies u <= key <= v"
+    ],
+    "subject": "DSA",
+    "topic": "Tree",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "In a BST, traversing from root downward, the first node whose key lies between u and v is the Lowest Common Ancestor."
+  },
+  {
+    "id": 56,
+    "testId": "dsa-graph-01",
+    "type": "MCQ",
+    "question": "Topological sort is possible for which of the following graph types?",
+    "options": [
+      "Any directed graph",
+      "Directed Acyclic Graph (DAG) only",
+      "Undirected graph with no cycles",
+      "Complete graphs only"
+    ],
+    "answer": [
+      "Directed Acyclic Graph (DAG) only"
+    ],
+    "subject": "DSA",
+    "topic": "Graph",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Topological sorting of vertices is only defined for Directed Acyclic Graphs (DAGs)."
+  },
+  {
+    "id": 57,
+    "testId": "gate-toc-01",
+    "type": "MCQ",
+    "question": "What is the minimum number of states in a Minimal DFA that accepts strings over {0, 1} ending with \"01\"?",
+    "options": [
+      "2 states",
+      "3 states",
+      "4 states",
+      "5 states"
+    ],
+    "answer": [
+      "3 states"
+    ],
+    "subject": "TOC",
+    "topic": "Finite Automata",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "States correspond to suffixes: empty/other (start), ending in 0, and ending in 01 (accept). Thus exactly 3 states are required."
+  },
+  {
+    "id": 58,
+    "testId": "gate-coa-01",
+    "type": "MCQ",
+    "question": "A 5-stage instruction pipeline has no hazards or branch delays. What is the theoretical maximum speedup over a non-pipelined processor with identical stage delays?",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "10"
+    ],
+    "answer": [
+      "5"
+    ],
+    "subject": "COA",
+    "topic": "Pipelining",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Ideal speedup of a k-stage pipeline for a large number of instructions n is equal to the number of stages k = 5."
   }
 ]

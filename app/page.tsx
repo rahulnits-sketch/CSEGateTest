@@ -1,102 +1,35 @@
 import Link from "next/link";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#08090b] text-white">
-      
-      {/* Navbar */}
-      <nav className="border-b border-white/10">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-          
-          <Link href="/" className="text-xl font-bold tracking-tight">
-            GATE<span className="text-blue-500">CSE</span>
-          </Link>
+    <main className="min-h-screen bg-[#08090b] text-white flex flex-col selection:bg-blue-500 selection:text-white">
+      <Navbar />
+      <section className="relative mx-auto flex min-h-[calc(100svh-4rem)] w-full max-w-5xl flex-col items-center justify-center gap-10 px-6 py-12 text-center md:gap-12 md:py-16">
+        <h1 className="-translate-y-3 text-5xl font-extrabold leading-[0.95] tracking-tight md:text-7xl lg:text-8xl">
+          <span className="block">Prepare Smarter.</span>
+          <span className="mt-3 block bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
+            Test Faster.
+          </span>
+        </h1>
 
-          <div className="hidden gap-8 text-sm text-gray-400 md:flex">
-            <Link href="/tests" className="hover:text-white">
-              Tests
-            </Link>
+        <p className="max-w-2xl text-base leading-relaxed text-gray-400 md:text-lg">
+          Master GATE CSE, conquer placement aptitude tests, sharpen your DSA logic, and take live tech quizzes — all organized in dedicated, clean sections.
+        </p>
 
-            <Link href="/tests" className="hover:text-white">
-              PYQs
-            </Link>
-
-            <Link href="/tests" className="hover:text-white">
-              Subjects
-            </Link>
-          </div>
-
+        <div>
           <Link
             href="/tests"
-            className="rounded-full bg-white px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-gray-200"
+            className="inline-flex items-center gap-3 rounded-full bg-white px-9 py-4 text-base font-bold text-black shadow-xl shadow-white/10 transition duration-200 hover:scale-105 hover:bg-gray-100"
           >
-            Start Test
+            <span>Explore</span>
+            <span className="text-lg">→</span>
           </Link>
         </div>
-      </nav>
-
-      {/* Hero */}
-      <section className="mx-auto flex min-h-[75vh] max-w-7xl items-center px-6">
-        <div className="max-w-4xl">
-
-          <div className="mb-6 inline-flex rounded-full border border-blue-500/20 bg-blue-500/10 px-4 py-2 text-sm text-blue-400">
-            GATE CSE • Online Test Series
-          </div>
-
-          <h1 className="text-5xl font-bold leading-tight tracking-tight md:text-7xl">
-            Prepare for GATE CSE.
-            <br />
-            <span className="text-gray-500">
-              One test at a time.
-            </span>
-          </h1>
-
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-400">
-            Practice programming, DSA, DBMS, OS, Computer Networks
-            and other core CSE subjects through focused online tests.
-          </p>
-
-          <div className="mt-9 flex gap-4">
-            <Link
-              href="/tests"
-              className="rounded-full bg-blue-600 px-7 py-3.5 font-semibold transition hover:bg-blue-500"
-            >
-              Explore Tests →
-            </Link>
-
-            <Link
-              href="/tests"
-              className="rounded-full border border-white/15 px-7 py-3.5 font-semibold transition hover:bg-white/5"
-            >
-              Free Mock
-            </Link>
-          </div>
-
-        </div>
       </section>
 
-      {/* Stats */}
-      <section className="border-t border-white/10">
-        <div className="mx-auto grid max-w-7xl grid-cols-2 md:grid-cols-4">
-          
-          {[
-            ["10+", "Practice Tests"],
-            ["5+", "CSE Subjects"],
-            ["100+", "Questions"],
-            ["24/7", "Practice"],
-          ].map(([number, label]) => (
-            <div
-              key={label}
-              className="border-r border-white/10 px-6 py-10"
-            >
-              <div className="text-3xl font-bold">{number}</div>
-              <div className="mt-2 text-sm text-gray-500">{label}</div>
-            </div>
-          ))}
-
-        </div>
-      </section>
-
+      <Footer />
     </main>
   );
 }
