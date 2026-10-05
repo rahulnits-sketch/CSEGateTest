@@ -1,0 +1,2607 @@
+{
+  "id": "gate-2024-additional",
+  "yearSetKey": "2024-additional",
+  "year": 2024,
+  "set": 1,
+  "title": "GATE CSE 2024",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 57,
+  "totalQuestions": 48,
+  "gaQuestions": 48,
+  "csQuestions": 0,
+  "questions": [
+    {
+      "id": "go:426523",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3275,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [talk $\\rightarrow$ shout $\\rightarrow$ scream] is analogous to [please $\\rightarrow$&nbsp;__________&nbsp;$\\rightarrow$ pander].</p>\n\n<p>Which one of the given options is appropriate to fill the blank?</p>",
+      "rawQuestionHtml": "<a name=\"426523\"></a><div itemprop=\"text\"><p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [talk $\\rightarrow$ shout $\\rightarrow$ scream] is analogous to [please $\\rightarrow$&nbsp;__________&nbsp;$\\rightarrow$ pander].</p>\n\n<p>Which one of the given options is appropriate to fill the blank?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>flatter</li>\n\t<li>flutter</li>\n\t<li>fritter</li>\n\t<li>frizzle</li>\n</ol></div>",
+      "options": [
+        "flatter",
+        "flutter",
+        "fritter",
+        "frizzle"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "flatter",
+          "html": "flatter"
+        },
+        {
+          "label": "B",
+          "text": "flutter",
+          "html": "flutter"
+        },
+        {
+          "label": "C",
+          "text": "fritter",
+          "html": "fritter"
+        },
+        {
+          "label": "D",
+          "text": "frizzle",
+          "html": "frizzle"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426523/gate-2024-electrical-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426523/gate-2024-electrical-ga-question-1"
+    },
+    {
+      "id": "go:426524",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3276,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​$\\text{P}$ and $\\text{Q}$ have been allotted a hostel room with two beds, a study table, and an almirah. $\\mathrm{P}$ is an avid bird-watcher and wants to sit at the table and watch birds outside the window. $\\text{Q}$ does not mind that as long as his bed is close to the ceiling fan.<br>\n<br>\nWhich one of the following arrangements suits them the most?</p>",
+      "rawQuestionHtml": "<a name=\"426524\"></a><div itemprop=\"text\"><p>​​​​​$\\text{P}$ and $\\text{Q}$ have been allotted a hostel room with two beds, a study table, and an almirah. $\\mathrm{P}$ is an avid bird-watcher and wants to sit at the table and watch birds outside the window. $\\text{Q}$ does not mind that as long as his bed is close to the ceiling fan.<br>\n<br>\nWhich one of the following arrangements suits them the most?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/14440878429162128080.png\" width=\"350\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/13109023906501291656.png\" width=\"350\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/1959162130660523257.png\" width=\"350\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/5065341327946735537.png\" width=\"350\"></li>\n</ol></div>",
+      "options": [
+        "<img alt=\"\" src=\"/Gate_QA/question-images/14440878429162128080.png\" width=\"350\">",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/13109023906501291656.png\" width=\"350\">",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/1959162130660523257.png\" width=\"350\">",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/5065341327946735537.png\" width=\"350\">"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/14440878429162128080.png\" width=\"350\">",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/14440878429162128080.png\" width=\"350\">"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/13109023906501291656.png\" width=\"350\">",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/13109023906501291656.png\" width=\"350\">"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/1959162130660523257.png\" width=\"350\">",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/1959162130660523257.png\" width=\"350\">"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/5065341327946735537.png\" width=\"350\">",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/5065341327946735537.png\" width=\"350\">"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426524/gate-2024-electrical-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426524/gate-2024-electrical-ga-question-2"
+    },
+    {
+      "id": "go:426521",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3277,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​The decimal number system uses the characters $0,1,2, \\ldots, 8,9$, and the octal number system uses the characters $0,1,2, \\ldots, 6,7$.<br><br>For example, the decimal number $12\\left(=1 \\times 10^{1}+2 \\times 10^{0}\\right)$ is expressed as $14\\left(=1 \\times 8^{1}+4 \\times 8^{0}\\right)$ in the octal number system.<br><br>The decimal number $108$ in the octal number system is</p>",
+      "rawQuestionHtml": "<a name=\"426521\"></a><div itemprop=\"text\"><p>​​​​The decimal number system uses the characters $0,1,2, \\ldots, 8,9$, and the octal number system uses the characters $0,1,2, \\ldots, 6,7$.<br><br>For example, the decimal number $12\\left(=1 \\times 10^{1}+2 \\times 10^{0}\\right)$ is expressed as $14\\left(=1 \\times 8^{1}+4 \\times 8^{0}\\right)$ in the octal number system.<br><br>The decimal number $108$ in the octal number system is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$168$</li><li>$108$</li><li>$150$</li><li>$154$</li></ol></div>",
+      "options": [
+        "$168$",
+        "$108$",
+        "$150$",
+        "$154$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$168$",
+          "html": "$168$"
+        },
+        {
+          "label": "B",
+          "text": "$108$",
+          "html": "$108$"
+        },
+        {
+          "label": "C",
+          "text": "$150$",
+          "html": "$150$"
+        },
+        {
+          "label": "D",
+          "text": "$154$",
+          "html": "$154$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426521/gate-2024-electrical-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426521/gate-2024-electrical-ga-question-3"
+    },
+    {
+      "id": "go:426520",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3278,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​A shopkeeper buys shirts from a producer and sells them at $20 \\%$ profit. A customer has to pay ₹ $3,186.00$ including $18 \\%$ taxes, per shirt. At what price did the shopkeeper buy each shirt from the producer?</p>",
+      "rawQuestionHtml": "<a name=\"426520\"></a><div itemprop=\"text\"><p>​​​​A shopkeeper buys shirts from a producer and sells them at $20 \\%$ profit. A customer has to pay ₹ $3,186.00$ including $18 \\%$ taxes, per shirt. At what price did the shopkeeper buy each shirt from the producer?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>₹ $2,500.00$</li>\n\t<li>₹ $1,975.40$</li>\n\t<li>₹ $2,250.00$</li>\n\t<li>₹ $2,548.80$</li>\n</ol></div>",
+      "options": [
+        "₹ $2,500.00$",
+        "₹ $1,975.40$",
+        "₹ $2,250.00$",
+        "₹ $2,548.80$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "₹ $2,500.00$",
+          "html": "₹ $2,500.00$"
+        },
+        {
+          "label": "B",
+          "text": "₹ $1,975.40$",
+          "html": "₹ $1,975.40$"
+        },
+        {
+          "label": "C",
+          "text": "₹ $2,250.00$",
+          "html": "₹ $2,250.00$"
+        },
+        {
+          "label": "D",
+          "text": "₹ $2,548.80$",
+          "html": "₹ $2,548.80$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426520/gate-2024-electrical-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426520/gate-2024-electrical-ga-question-4"
+    },
+    {
+      "id": "go:426518",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3279,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​If, for non-zero real variables $x, y$, and real parameter $a&gt;1$,<br>\n\\[<br>\nx: y=(a+1):(a-1) \\text {, }<br>\n\\]<br>\nthen, the ratio $\\left(x^{2}-y^{2}\\right):\\left(x^{2}+y^{2}\\right)$ is</p>",
+      "rawQuestionHtml": "<a name=\"426518\"></a><div itemprop=\"text\"><p>​​If, for non-zero real variables $x, y$, and real parameter $a&gt;1$,<br>\n\\[<br>\nx: y=(a+1):(a-1) \\text {, }<br>\n\\]<br>\nthen, the ratio $\\left(x^{2}-y^{2}\\right):\\left(x^{2}+y^{2}\\right)$ is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$2 a:\\left(a^{2}+1\\right)$</li>\n\t<li>$a:\\left(a^{2}+1\\right)$</li>\n\t<li>$2 a:\\left(a^{2}-1\\right)$</li>\n\t<li>$a:\\left(a^{2}-1\\right)$</li>\n</ol></div>",
+      "options": [
+        "$2 a:\\left(a^{2}+1\\right)$",
+        "$a:\\left(a^{2}+1\\right)$",
+        "$2 a:\\left(a^{2}-1\\right)$",
+        "$a:\\left(a^{2}-1\\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2 a:\\left(a^{2}+1\\right)$",
+          "html": "$2 a:\\left(a^{2}+1\\right)$"
+        },
+        {
+          "label": "B",
+          "text": "$a:\\left(a^{2}+1\\right)$",
+          "html": "$a:\\left(a^{2}+1\\right)$"
+        },
+        {
+          "label": "C",
+          "text": "$2 a:\\left(a^{2}-1\\right)$",
+          "html": "$2 a:\\left(a^{2}-1\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$a:\\left(a^{2}-1\\right)$",
+          "html": "$a:\\left(a^{2}-1\\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426518/gate-2024-electrical-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426518/gate-2024-electrical-ga-question-5"
+    },
+    {
+      "id": "go:426522",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3280,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br>\n<br>\nFollowing a row&nbsp;<u>&nbsp;</u>$\\text{(i)}$<u>&nbsp;&nbsp;</u> the shopkeeper&nbsp;<u> </u>$\\text{(ii)}$_the price of a frying pan, the cook stood&nbsp;<u> </u>$\\text{(iii)}$<u>&nbsp;&nbsp;</u>a row to withdraw cash <u>$\\text{(iv)}$</u><u>&nbsp;&nbsp;</u>the ATM booth.</p>",
+      "rawQuestionHtml": "<a name=\"426522\"></a><div itemprop=\"text\"><p>​​​​In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br>\n<br>\nFollowing a row&nbsp;<u>&nbsp;</u>$\\text{(i)}$<u>&nbsp;&nbsp;</u> the shopkeeper&nbsp;<u> </u>$\\text{(ii)}$_the price of a frying pan, the cook stood&nbsp;<u> </u>$\\text{(iii)}$<u>&nbsp;&nbsp;</u>a row to withdraw cash <u>$\\text{(iv)}$</u><u>&nbsp;&nbsp;</u>the ATM booth.</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{(i)}$ with $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;at $\\text{(iv)}$&nbsp;with</li>\n\t<li>$\\text{(i)}$&nbsp;at $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;over $\\text{(iv)}$&nbsp;in</li>\n\t<li>$\\text{(i)}$&nbsp;with $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;in $\\text{(iv)}$&nbsp;at</li>\n\t<li>$\\text{(i)}$&nbsp;over $\\text{(ii)}$&nbsp;with $\\text{(iii)}$&nbsp;over $\\text{(iv)}$&nbsp;at</li>\n</ol></div>",
+      "options": [
+        "$\\text{(i)}$ with $\\text{(ii)}$ over $\\text{(iii)}$ at $\\text{(iv)}$ with",
+        "$\\text{(i)}$ at $\\text{(ii)}$ over $\\text{(iii)}$ over $\\text{(iv)}$ in",
+        "$\\text{(i)}$ with $\\text{(ii)}$ over $\\text{(iii)}$ in $\\text{(iv)}$ at",
+        "$\\text{(i)}$ over $\\text{(ii)}$ with $\\text{(iii)}$ over $\\text{(iv)}$ at"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{(i)}$ with $\\text{(ii)}$ over $\\text{(iii)}$ at $\\text{(iv)}$ with",
+          "html": "$\\text{(i)}$ with $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;at $\\text{(iv)}$&nbsp;with"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{(i)}$ at $\\text{(ii)}$ over $\\text{(iii)}$ over $\\text{(iv)}$ in",
+          "html": "$\\text{(i)}$&nbsp;at $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;over $\\text{(iv)}$&nbsp;in"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{(i)}$ with $\\text{(ii)}$ over $\\text{(iii)}$ in $\\text{(iv)}$ at",
+          "html": "$\\text{(i)}$&nbsp;with $\\text{(ii)}$&nbsp;over $\\text{(iii)}$&nbsp;in $\\text{(iv)}$&nbsp;at"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{(i)}$ over $\\text{(ii)}$ with $\\text{(iii)}$ over $\\text{(iv)}$ at",
+          "html": "$\\text{(i)}$&nbsp;over $\\text{(ii)}$&nbsp;with $\\text{(iii)}$&nbsp;over $\\text{(iv)}$&nbsp;at"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426522/gate-2024-electrical-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426522/gate-2024-electrical-ga-question-6"
+    },
+    {
+      "id": "go:426516",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3281,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​The chart below shows the data of the number of cars bought by Millennials and Gen $\\text{X}$ people in a country from the year $2010$ to $2020$ as well as the yearly fuel consumption of the country (in Million liters).</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6178735450556558630.png\" width=\"600\"></p>\n\n<p><br>\n<br>\nConsidering the data presented in the chart, which one of the following options is true?</p>",
+      "rawQuestionHtml": "<a name=\"426516\"></a><div itemprop=\"text\"><p>​The chart below shows the data of the number of cars bought by Millennials and Gen $\\text{X}$ people in a country from the year $2010$ to $2020$ as well as the yearly fuel consumption of the country (in Million liters).</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6178735450556558630.png\" width=\"600\"></p>\n\n<p><br>\n<br>\nConsidering the data presented in the chart, which one of the following options is true?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>The percentage increase in fuel consumption from $2010$ to $2015$ is more than the percentage increase in fuel consumption from $2015$ to $2020$.</li>\n\t<li>The increase in the number of Millennial car buyers from $2015$ to $2020$ is less than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.</li>\n\t<li>The increase in the number of Millennial car buyers from $2010$ to $2015$ is more than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.</li>\n\t<li>The decrease in the number of Gen $\\text{X}$ car buyers from $2015$ to $2020$ is more than the increase in the number of Millennial car buyers from $2010$ to $2015$.</li>\n</ol></div>",
+      "options": [
+        "The percentage increase in fuel consumption from $2010$ to $2015$ is more than the percentage increase in fuel consumption from $2015$ to $2020$.",
+        "The increase in the number of Millennial car buyers from $2015$ to $2020$ is less than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.",
+        "The increase in the number of Millennial car buyers from $2010$ to $2015$ is more than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.",
+        "The decrease in the number of Gen $\\text{X}$ car buyers from $2015$ to $2020$ is more than the increase in the number of Millennial car buyers from $2010$ to $2015$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The percentage increase in fuel consumption from $2010$ to $2015$ is more than the percentage increase in fuel consumption from $2015$ to $2020$.",
+          "html": "The percentage increase in fuel consumption from $2010$ to $2015$ is more than the percentage increase in fuel consumption from $2015$ to $2020$."
+        },
+        {
+          "label": "B",
+          "text": "The increase in the number of Millennial car buyers from $2015$ to $2020$ is less than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.",
+          "html": "The increase in the number of Millennial car buyers from $2015$ to $2020$ is less than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$."
+        },
+        {
+          "label": "C",
+          "text": "The increase in the number of Millennial car buyers from $2010$ to $2015$ is more than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$.",
+          "html": "The increase in the number of Millennial car buyers from $2010$ to $2015$ is more than the decrease in the number of Gen $\\text{X}$ car buyers from $2010$ to $2015$."
+        },
+        {
+          "label": "D",
+          "text": "The decrease in the number of Gen $\\text{X}$ car buyers from $2015$ to $2020$ is more than the increase in the number of Millennial car buyers from $2010$ to $2015$.",
+          "html": "The decrease in the number of Gen $\\text{X}$ car buyers from $2015$ to $2020$ is more than the increase in the number of Millennial car buyers from $2010$ to $2015$."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426516/gate-2024-electrical-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426516/gate-2024-electrical-ga-question-8"
+    },
+    {
+      "id": "go:426525",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3282,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p>​​​​The assembly shown below has three teethed circular objects (Pinions) and two teethed flat objects (Racks), which are perfectly mating with each other. Pinions can only rotate clockwise or anti-clockwise staying at its own center. Racks can translate towards the left $(\\leftarrow)$ or the right $(\\rightarrow)$ direction.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/10847719545095312304.png\" width=\"400\"></p>\n\n<p><br>\n<br>\nIf the object $\\text{A}$ (Rack) is translating towards the right $(\\rightarrow)$ direction, the correct statement among the following is</p>",
+      "rawQuestionHtml": "<a name=\"426525\"></a><div itemprop=\"text\"><p>​​​​The assembly shown below has three teethed circular objects (Pinions) and two teethed flat objects (Racks), which are perfectly mating with each other. Pinions can only rotate clockwise or anti-clockwise staying at its own center. Racks can translate towards the left $(\\leftarrow)$ or the right $(\\rightarrow)$ direction.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/10847719545095312304.png\" width=\"400\"></p>\n\n<p><br>\n<br>\nIf the object $\\text{A}$ (Rack) is translating towards the right $(\\rightarrow)$ direction, the correct statement among the following is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>Object $\\text{B}$ translates towards the right direction.</li>\n\t<li>Object $\\text{B}$ translates towards the left direction.</li>\n\t<li>Object $\\mathrm{R}$ rotates in the anticlockwise direction.</li>\n\t<li>Object $\\mathrm{Q}$ rotates in the clockwise direction.</li>\n</ol></div>",
+      "options": [
+        "Object $\\text{B}$ translates towards the right direction.",
+        "Object $\\text{B}$ translates towards the left direction.",
+        "Object $\\mathrm{R}$ rotates in the anticlockwise direction.",
+        "Object $\\mathrm{Q}$ rotates in the clockwise direction."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Object $\\text{B}$ translates towards the right direction.",
+          "html": "Object $\\text{B}$ translates towards the right direction."
+        },
+        {
+          "label": "B",
+          "text": "Object $\\text{B}$ translates towards the left direction.",
+          "html": "Object $\\text{B}$ translates towards the left direction."
+        },
+        {
+          "label": "C",
+          "text": "Object $\\mathrm{R}$ rotates in the anticlockwise direction.",
+          "html": "Object $\\mathrm{R}$ rotates in the anticlockwise direction."
+        },
+        {
+          "label": "D",
+          "text": "Object $\\mathrm{Q}$ rotates in the clockwise direction.",
+          "html": "Object $\\mathrm{Q}$ rotates in the clockwise direction."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426525/gate-2024-electrical-ga-question-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426525/gate-2024-electrical-ga-question-9"
+    },
+    {
+      "id": "go:426514",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3283,
+      "section": "GA",
+      "title": "GATE 2024 Electrical | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​A surveyor has to measure the horizontal distance from her position to a distant reference point $\\text{C}$. Using her position as the center, a $200 \\mathrm{~m}$ horizontal line segment is drawn with the two endpoints $\\text{A}$ and $\\text{B}$. Points $\\text{A}$, $\\text{B}$, and $\\text{C}$&nbsp;are not collinear. Each of the angles $\\angle \\mathrm{CAB}$ and $\\angle \\mathrm{CBA}$ are measured as $87.8^{\\circ}$. The distance (in $\\mathrm{m}$ ) of the reference point $\\mathrm{C}$ from her position is nearest to</p>",
+      "rawQuestionHtml": "<a name=\"426514\"></a><div itemprop=\"text\"><p>​​​​A surveyor has to measure the horizontal distance from her position to a distant reference point $\\text{C}$. Using her position as the center, a $200 \\mathrm{~m}$ horizontal line segment is drawn with the two endpoints $\\text{A}$ and $\\text{B}$. Points $\\text{A}$, $\\text{B}$, and $\\text{C}$&nbsp;are not collinear. Each of the angles $\\angle \\mathrm{CAB}$ and $\\angle \\mathrm{CBA}$ are measured as $87.8^{\\circ}$. The distance (in $\\mathrm{m}$ ) of the reference point $\\mathrm{C}$ from her position is nearest to</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$2603$</li>\n\t<li>$2606$</li>\n\t<li>$2306$</li>\n\t<li>$2063$</li>\n</ol></div>",
+      "options": [
+        "$2603$",
+        "$2606$",
+        "$2306$",
+        "$2063$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2603$",
+          "html": "$2603$"
+        },
+        {
+          "label": "B",
+          "text": "$2606$",
+          "html": "$2606$"
+        },
+        {
+          "label": "C",
+          "text": "$2306$",
+          "html": "$2306$"
+        },
+        {
+          "label": "D",
+          "text": "$2063$",
+          "html": "$2063$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426514/gate-2024-electrical-ga-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426514/gate-2024-electrical-ga-question-10"
+    },
+    {
+      "id": "go:426494",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3284,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [simmer $\\rightarrow$ seethe $\\rightarrow$ smolder] is analogous to [break $\\rightarrow$ raze $\\_\\_\\_\\_\\_\\_ $ $\\rightarrow$ ]<br>\n<br>\nWhich one of the given options is appropriate to fill the blank?</p>",
+      "rawQuestionHtml": "<a name=\"426494\"></a><div itemprop=\"text\"><p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [simmer $\\rightarrow$ seethe $\\rightarrow$ smolder] is analogous to [break $\\rightarrow$ raze $\\_\\_\\_\\_\\_\\_ $ $\\rightarrow$ ]<br>\n<br>\nWhich one of the given options is appropriate to fill the blank?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>obfuscate</li>\n\t<li>obliterate</li>\n\t<li>fracture</li>\n\t<li>fissure</li>\n</ol></div>",
+      "options": [
+        "obfuscate",
+        "obliterate",
+        "fracture",
+        "fissure"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "obfuscate",
+          "html": "obfuscate"
+        },
+        {
+          "label": "B",
+          "text": "obliterate",
+          "html": "obliterate"
+        },
+        {
+          "label": "C",
+          "text": "fracture",
+          "html": "fracture"
+        },
+        {
+          "label": "D",
+          "text": "fissure",
+          "html": "fissure"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426494/gate-civil-2024-set-1-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426494/gate-civil-2024-set-1-ga-question-1"
+    },
+    {
+      "id": "go:426487",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3285,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>\n\tIn a locality, the houses are numbered in the following way:\n</p>\n<p>\n\tThe house-numbers on one side of a road are consecutive odd integers starting from $301$, while the house-numbers on the other side of the road are consecutive even numbers starting from $302$. The total number of houses is the same on both sides of the road.<br> <br> If the difference of the sum of the house-numbers between the two sides of the road is $27$, then the number of houses on each side of the road is\n</p>",
+      "rawQuestionHtml": "<a name=\"426487\"></a><div itemprop=\"text\"><p>\n\tIn a locality, the houses are numbered in the following way:\n</p>\n<p>\n\tThe house-numbers on one side of a road are consecutive odd integers starting from $301$, while the house-numbers on the other side of the road are consecutive even numbers starting from $302$. The total number of houses is the same on both sides of the road.<br> <br> If the difference of the sum of the house-numbers between the two sides of the road is $27$, then the number of houses on each side of the road is\n</p>\n<ol style=\"list-style-type:upper-alpha\" start=\"1\">\n\t<li>\n\t\t$27$\n\t</li>\n\t<li>\n\t\t$52$\n\t</li>\n\t<li>\n\t\t$54$\n\t</li>\n\t<li>\n\t\t$26$\n\t</li>\n</ol></div>",
+      "options": [
+        "$27$",
+        "$52$",
+        "$54$",
+        "$26$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$27$",
+          "html": "$27$"
+        },
+        {
+          "label": "B",
+          "text": "$52$",
+          "html": "$52$"
+        },
+        {
+          "label": "C",
+          "text": "$54$",
+          "html": "$54$"
+        },
+        {
+          "label": "D",
+          "text": "$26$",
+          "html": "$26$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426487/gate-civil-2024-set-1-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426487/gate-civil-2024-set-1-ga-question-2"
+    },
+    {
+      "id": "go:426486",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3286,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>For positive integers $p$ and $q$, with $\\frac{p}{q} \\neq 1,\\left(\\frac{p}{q}\\right)^{\\frac{p}{q}}=p^{\\left(\\frac{p}{q}-1\\right)}$. Then,</p>",
+      "rawQuestionHtml": "<a name=\"426486\"></a><div itemprop=\"text\"><p>For positive integers $p$ and $q$, with $\\frac{p}{q} \\neq 1,\\left(\\frac{p}{q}\\right)^{\\frac{p}{q}}=p^{\\left(\\frac{p}{q}-1\\right)}$. Then,</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$q^{p}=p^{q}$</li>\n\t<li>$q^{p}=p^{2 q}$</li>\n\t<li>$\\sqrt{q}=\\sqrt{p}$</li>\n\t<li>$\\sqrt[p]{q}=\\sqrt[q]{p}$</li>\n</ol></div>",
+      "options": [
+        "$q^{p}=p^{q}$",
+        "$q^{p}=p^{2 q}$",
+        "$\\sqrt{q}=\\sqrt{p}$",
+        "$\\sqrt[p]{q}=\\sqrt[q]{p}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$q^{p}=p^{q}$",
+          "html": "$q^{p}=p^{q}$"
+        },
+        {
+          "label": "B",
+          "text": "$q^{p}=p^{2 q}$",
+          "html": "$q^{p}=p^{2 q}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\sqrt{q}=\\sqrt{p}$",
+          "html": "$\\sqrt{q}=\\sqrt{p}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sqrt[p]{q}=\\sqrt[q]{p}$",
+          "html": "$\\sqrt[p]{q}=\\sqrt[q]{p}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426486/gate-civil-2024-set-1-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426486/gate-civil-2024-set-1-ga-question-3"
+    },
+    {
+      "id": "go:426498",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3287,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​Which one of the given options is a possible value of $x$ in the following sequence?<br>\n\\[<br>\n3,7,15, x, 63,127,255<br>\n\\]</p>",
+      "rawQuestionHtml": "<a name=\"426498\"></a><div itemprop=\"text\"><p>​Which one of the given options is a possible value of $x$ in the following sequence?<br>\n\\[<br>\n3,7,15, x, 63,127,255<br>\n\\]</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$35$</li>\n\t<li>$40$</li>\n\t<li>$45$</li>\n\t<li>$31$</li>\n</ol></div>",
+      "options": [
+        "$35$",
+        "$40$",
+        "$45$",
+        "$31$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$35$",
+          "html": "$35$"
+        },
+        {
+          "label": "B",
+          "text": "$40$",
+          "html": "$40$"
+        },
+        {
+          "label": "C",
+          "text": "$45$",
+          "html": "$45$"
+        },
+        {
+          "label": "D",
+          "text": "$31$",
+          "html": "$31$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426498/gate-civil-2024-set-1-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426498/gate-civil-2024-set-1-ga-question-4"
+    },
+    {
+      "id": "go:426485",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3288,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​On a given day, how many times will the second-hand and the minute-hand of a clock cross each other during the clock time $12:05:00$ hours to $12: 55: 00$ hours?</p>",
+      "rawQuestionHtml": "<a name=\"426485\"></a><div itemprop=\"text\"><p>​​​​​On a given day, how many times will the second-hand and the minute-hand of a clock cross each other during the clock time $12:05:00$ hours to $12: 55: 00$ hours?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$51$</li>\n\t<li>$49$</li>\n\t<li>$50$</li>\n\t<li>$55$</li>\n</ol></div>",
+      "options": [
+        "$51$",
+        "$49$",
+        "$50$",
+        "$55$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$51$",
+          "html": "$51$"
+        },
+        {
+          "label": "B",
+          "text": "$49$",
+          "html": "$49$"
+        },
+        {
+          "label": "C",
+          "text": "$50$",
+          "html": "$50$"
+        },
+        {
+          "label": "D",
+          "text": "$55$",
+          "html": "$55$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426485/gate-civil-2024-set-1-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426485/gate-civil-2024-set-1-ga-question-5"
+    },
+    {
+      "id": "go:426493",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3289,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.</p>\n\n<p>From the ancient Athenian arena to the modern Olympic stadiums, athletics (i) the potential for a spectacle. The crowd (ii) with bated breath as the Olympian artist twists his body, stretching the javelin behind him. Twelve strides in, he begins to cross-step. Six cross-steps (iii) in an abrupt stop on his left foot. As his body (iv) like a door turning on a hinge, the javelin is launched skyward at a precise angle.</p>",
+      "rawQuestionHtml": "<a name=\"426493\"></a><div itemprop=\"text\"><p>​​​​​In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.</p>\n\n<p>From the ancient Athenian arena to the modern Olympic stadiums, athletics (i) the potential for a spectacle. The crowd (ii) with bated breath as the Olympian artist twists his body, stretching the javelin behind him. Twelve strides in, he begins to cross-step. Six cross-steps (iii) in an abrupt stop on his left foot. As his body (iv) like a door turning on a hinge, the javelin is launched skyward at a precise angle.</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{(i)}$ hold $\\text{(ii)}$&nbsp;waits $\\text{(iii)}$&nbsp;culminates $\\text{(iv)}$&nbsp;pivot</li>\n\t<li>$\\text{(i)}$&nbsp;holds $\\text{(ii)}$&nbsp;wait $\\text{(iii)}$&nbsp;culminates $\\text{(iv)}$&nbsp;pivot</li>\n\t<li>$\\text{(i)}$&nbsp;hold $\\text{(ii)}$&nbsp;wait $\\text{(iii)}$&nbsp;culminate $\\text{(iv)}$&nbsp;pivots</li>\n\t<li>$\\text{(i)}$&nbsp;holds $\\text{(ii)}$&nbsp;waits $\\text{(iii)}$&nbsp;culminate $\\text{(iv)}$&nbsp;pivots</li>\n</ol></div>",
+      "options": [
+        "$\\text{(i)}$ hold $\\text{(ii)}$ waits $\\text{(iii)}$ culminates $\\text{(iv)}$ pivot",
+        "$\\text{(i)}$ holds $\\text{(ii)}$ wait $\\text{(iii)}$ culminates $\\text{(iv)}$ pivot",
+        "$\\text{(i)}$ hold $\\text{(ii)}$ wait $\\text{(iii)}$ culminate $\\text{(iv)}$ pivots",
+        "$\\text{(i)}$ holds $\\text{(ii)}$ waits $\\text{(iii)}$ culminate $\\text{(iv)}$ pivots"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{(i)}$ hold $\\text{(ii)}$ waits $\\text{(iii)}$ culminates $\\text{(iv)}$ pivot",
+          "html": "$\\text{(i)}$ hold $\\text{(ii)}$&nbsp;waits $\\text{(iii)}$&nbsp;culminates $\\text{(iv)}$&nbsp;pivot"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{(i)}$ holds $\\text{(ii)}$ wait $\\text{(iii)}$ culminates $\\text{(iv)}$ pivot",
+          "html": "$\\text{(i)}$&nbsp;holds $\\text{(ii)}$&nbsp;wait $\\text{(iii)}$&nbsp;culminates $\\text{(iv)}$&nbsp;pivot"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{(i)}$ hold $\\text{(ii)}$ wait $\\text{(iii)}$ culminate $\\text{(iv)}$ pivots",
+          "html": "$\\text{(i)}$&nbsp;hold $\\text{(ii)}$&nbsp;wait $\\text{(iii)}$&nbsp;culminate $\\text{(iv)}$&nbsp;pivots"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{(i)}$ holds $\\text{(ii)}$ waits $\\text{(iii)}$ culminate $\\text{(iv)}$ pivots",
+          "html": "$\\text{(i)}$&nbsp;holds $\\text{(ii)}$&nbsp;waits $\\text{(iii)}$&nbsp;culminate $\\text{(iv)}$&nbsp;pivots"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426493/gate-civil-2024-set-1-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426493/gate-civil-2024-set-1-ga-question-6"
+    },
+    {
+      "id": "go:426484",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3290,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​Three distinct sets of indistinguishable twins are to be seated at a circular table that has $8$ identical chairs. Unique seating arrangements are defined by the relative positions of the people.</p>\n\n<p><br>\nHow many unique seating arrangements are possible such that each person is sitting next to their twin?</p>",
+      "rawQuestionHtml": "<a name=\"426484\"></a><div itemprop=\"text\"><p>​​​​​Three distinct sets of indistinguishable twins are to be seated at a circular table that has $8$ identical chairs. Unique seating arrangements are defined by the relative positions of the people.</p>\n\n<p><br>\nHow many unique seating arrangements are possible such that each person is sitting next to their twin?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$12$</li>\n\t<li>$14$</li>\n\t<li>$10$</li>\n\t<li>$28$</li>\n</ol></div>",
+      "options": [
+        "$12$",
+        "$14$",
+        "$10$",
+        "$28$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$12$",
+          "html": "$12$"
+        },
+        {
+          "label": "B",
+          "text": "$14$",
+          "html": "$14$"
+        },
+        {
+          "label": "C",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "D",
+          "text": "$28$",
+          "html": "$28$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426484/gate-civil-2024-set-1-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426484/gate-civil-2024-set-1-ga-question-7"
+    },
+    {
+      "id": "go:426483",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3291,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The chart given below compares the Installed Capacity (MW) of four power generation technologies, $\\text{T}1, \\text{T}2, \\text{T}3$, and $\\text{T}4$, and their Electricity Generation (MWh) in a time of $1000$ hours (h).<br>\n<img alt=\"\" height=\"369\" src=\"/Gate_QA/question-images/4471110732964128469.jpg\" width=\"600\"><br>\nThe Capacity Factor of a power generation technology is:<br>\n\\[<br>\n\\text { Capacity Factor }=\\frac{\\text { Electricity Generation (MWh) }}{\\text { Installed Capacity (MW) } \\times 1000(\\mathrm{~h})}<br>\n\\]<br>\n<br>\nWhich one of the given technologies has the highest Capacity Factor?</p>\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"426483\"></a><div itemprop=\"text\"><p>The chart given below compares the Installed Capacity (MW) of four power generation technologies, $\\text{T}1, \\text{T}2, \\text{T}3$, and $\\text{T}4$, and their Electricity Generation (MWh) in a time of $1000$ hours (h).<br>\n<img alt=\"\" height=\"369\" src=\"/Gate_QA/question-images/4471110732964128469.jpg\" width=\"600\"><br>\nThe Capacity Factor of a power generation technology is:<br>\n\\[<br>\n\\text { Capacity Factor }=\\frac{\\text { Electricity Generation (MWh) }}{\\text { Installed Capacity (MW) } \\times 1000(\\mathrm{~h})}<br>\n\\]<br>\n<br>\nWhich one of the given technologies has the highest Capacity Factor?</p>\n\n<p>&nbsp;</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{T}1$</li>\n\t<li>$\\text{T}2$</li>\n\t<li>$\\text{T}3$</li>\n\t<li>$\\text{T}4$</li>\n</ol></div>",
+      "options": [
+        "$\\text{T}1$",
+        "$\\text{T}2$",
+        "$\\text{T}3$",
+        "$\\text{T}4$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{T}1$",
+          "html": "$\\text{T}1$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{T}2$",
+          "html": "$\\text{T}2$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{T}3$",
+          "html": "$\\text{T}3$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{T}4$",
+          "html": "$\\text{T}4$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426483/gate-civil-2024-set-1-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426483/gate-civil-2024-set-1-ga-question-8"
+    },
+    {
+      "id": "go:426500",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3292,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​In the $4 \\times 4$ array shown below, each cell of the first three columns has either a cross $(X)$ or a number, as per the given rule.</p><p>\\begin{array}{|l|l|l|l|}<br>\\hline 1 &amp; 1 &amp; 2 &amp; \\\\<br>\\hline 2 &amp; X &amp; 3 &amp; \\\\<br>\\hline 2 &amp; X &amp; 4 &amp; \\\\<br>\\hline 1 &amp; 2 &amp; X &amp; \\\\<br>\\hline<br>\\end{array}<br><br><strong>Rule:</strong> The number in a cell represents the count of crosses around its immediate neighboring cells (left, right, top, bottom, diagonals).<br><br>As per this rule, the <strong>maximum</strong> number of crosses possible in the empty column is</p>",
+      "rawQuestionHtml": "<a name=\"426500\"></a><div itemprop=\"text\"><p>​​​​​In the $4 \\times 4$ array shown below, each cell of the first three columns has either a cross $(X)$ or a number, as per the given rule.</p><p>\\begin{array}{|l|l|l|l|}<br>\\hline 1 &amp; 1 &amp; 2 &amp; \\\\<br>\\hline 2 &amp; X &amp; 3 &amp; \\\\<br>\\hline 2 &amp; X &amp; 4 &amp; \\\\<br>\\hline 1 &amp; 2 &amp; X &amp; \\\\<br>\\hline<br>\\end{array}<br><br><strong>Rule:</strong> The number in a cell represents the count of crosses around its immediate neighboring cells (left, right, top, bottom, diagonals).<br><br>As per this rule, the <strong>maximum</strong> number of crosses possible in the empty column is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$0$</li><li>$1$</li><li>$2$</li><li>$3$</li></ol></div>",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426500/gate-civil-2024-set-1-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426500/gate-civil-2024-set-1-ga-question-9"
+    },
+    {
+      "id": "go:426482",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3293,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 1 | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>During a half-moon phase, the Earth-Moon-Sun form a right triangle. If the Moon-Earth-Sun angle at this half-moon phase is measured to be $89.85^{\\circ}$, the ratio of the Earth-Sun and Earth-Moon distances is closest to</p>",
+      "rawQuestionHtml": "<a name=\"426482\"></a><div itemprop=\"text\"><p>During a half-moon phase, the Earth-Moon-Sun form a right triangle. If the Moon-Earth-Sun angle at this half-moon phase is measured to be $89.85^{\\circ}$, the ratio of the Earth-Sun and Earth-Moon distances is closest to</p><ol style=\"list-style-type:upper-alpha\"><li>$328$</li><li>$382$</li><li>$238$</li><li>$283$</li></ol></div>",
+      "options": [
+        "$328$",
+        "$382$",
+        "$238$",
+        "$283$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$328$",
+          "html": "$328$"
+        },
+        {
+          "label": "B",
+          "text": "$382$",
+          "html": "$382$"
+        },
+        {
+          "label": "C",
+          "text": "$238$",
+          "html": "$238$"
+        },
+        {
+          "label": "D",
+          "text": "$283$",
+          "html": "$283$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426482/gate-civil-2024-set-1-ga-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426482/gate-civil-2024-set-1-ga-question-10"
+    },
+    {
+      "id": "go:426496",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3294,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words<br>[drizzle $\\rightarrow$ rain $\\rightarrow$ downpour] is analogous to [$\\_\\_\\_\\_\\_$ $\\rightarrow$ quarrel $\\rightarrow$ feud].<br><br>Which one of the given options is appropriate to fill the blank?</p><p></p><p></p>",
+      "rawQuestionHtml": "<a name=\"426496\"></a><div itemprop=\"text\"><p>If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words<br>[drizzle $\\rightarrow$ rain $\\rightarrow$ downpour] is analogous to [$\\_\\_\\_\\_\\_$ $\\rightarrow$ quarrel $\\rightarrow$ feud].<br><br>Which one of the given options is appropriate to fill the blank?</p><p></p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>bicker</li><li>bog</li><li>dither</li><li>dodge</li></ol><p></p></div>",
+      "options": [
+        "bicker",
+        "bog",
+        "dither",
+        "dodge"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "bicker",
+          "html": "bicker"
+        },
+        {
+          "label": "B",
+          "text": "bog",
+          "html": "bog"
+        },
+        {
+          "label": "C",
+          "text": "dither",
+          "html": "dither"
+        },
+        {
+          "label": "D",
+          "text": "dodge",
+          "html": "dodge"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426496/gate-civil-2024-set-2-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426496/gate-civil-2024-set-2-ga-question-1"
+    },
+    {
+      "id": "go:426492",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3295,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A student was supposed to <strong>multiply</strong> a positive real number $p$ with another positive real number $q$. Instead, the student <strong>divided</strong> $p$ by $q$. If the percentage error in the student's answer is $80 \\%$, the value of $q$ is</p><p></p>",
+      "rawQuestionHtml": "<a name=\"426492\"></a><div itemprop=\"text\"><p>A student was supposed to <strong>multiply</strong> a positive real number $p$ with another positive real number $q$. Instead, the student <strong>divided</strong> $p$ by $q$. If the percentage error in the student's answer is $80 \\%$, the value of $q$ is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$5$</li><li>$\\sqrt{2}$</li><li>$2$</li><li>$\\sqrt{5}$</li></ol><p></p></div>",
+      "options": [
+        "$5$",
+        "$\\sqrt{2}$",
+        "$2$",
+        "$\\sqrt{5}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "B",
+          "text": "$\\sqrt{2}$",
+          "html": "$\\sqrt{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sqrt{5}$",
+          "html": "$\\sqrt{5}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426492/gate-civil-2024-set-2-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426492/gate-civil-2024-set-2-ga-question-3"
+    },
+    {
+      "id": "go:426491",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3296,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>If the sum of the first $20$ consecutive positive odd numbers is divided by $20^{2}$, the result is</p><p></p>",
+      "rawQuestionHtml": "<a name=\"426491\"></a><div itemprop=\"text\"><p>If the sum of the first $20$ consecutive positive odd numbers is divided by $20^{2}$, the result is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$1$</li><li>$20$</li><li>$2$</li><li>$1 / 2$</li></ol><p></p></div>",
+      "options": [
+        "$1$",
+        "$20$",
+        "$2$",
+        "$1 / 2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "B",
+          "text": "$20$",
+          "html": "$20$"
+        },
+        {
+          "label": "C",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$1 / 2$",
+          "html": "$1 / 2$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426491/gate-civil-2024-set-2-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426491/gate-civil-2024-set-2-ga-question-4"
+    },
+    {
+      "id": "go:426490",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3297,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The ratio of the number of girls to boys in class $\\text{VIII}$ is the same as the ratio of the number of boys to girls in class $\\text{IX}$. The total number of students (boys and girls) in classes $\\text{VIII}$ and $\\text{IX}$ is $450$ and $360$, respectively. If the number of girls in classes $\\text{VIII}$ and $\\text{IX}$ is the same, then the number of girls in each class is</p><p></p>",
+      "rawQuestionHtml": "<a name=\"426490\"></a><div itemprop=\"text\"><p>The ratio of the number of girls to boys in class $\\text{VIII}$ is the same as the ratio of the number of boys to girls in class $\\text{IX}$. The total number of students (boys and girls) in classes $\\text{VIII}$ and $\\text{IX}$ is $450$ and $360$, respectively. If the number of girls in classes $\\text{VIII}$ and $\\text{IX}$ is the same, then the number of girls in each class is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$150$</li><li>$200$</li><li>$250$</li><li>$175$</li></ol><p></p></div>",
+      "options": [
+        "$150$",
+        "$200$",
+        "$250$",
+        "$175$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$150$",
+          "html": "$150$"
+        },
+        {
+          "label": "B",
+          "text": "$200$",
+          "html": "$200$"
+        },
+        {
+          "label": "C",
+          "text": "$250$",
+          "html": "$250$"
+        },
+        {
+          "label": "D",
+          "text": "$175$",
+          "html": "$175$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426490/gate-civil-2024-set-2-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426490/gate-civil-2024-set-2-ga-question-5"
+    },
+    {
+      "id": "go:426495",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3298,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br><br>Yoko Roi stands <u>$\\text{(i)}$</u> as an author for standing <u>$\\text{(ii)}$</u>&nbsp;as an honorary fellow, after she stood <u>$\\text{(iii)}$</u>&nbsp;her writings that stand <u>$\\text{(iv)}$</u>&nbsp;the freedom of speech.</p><p></p>",
+      "rawQuestionHtml": "<a name=\"426495\"></a><div itemprop=\"text\"><p>In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br><br>Yoko Roi stands <u>$\\text{(i)}$</u> as an author for standing <u>$\\text{(ii)}$</u>&nbsp;as an honorary fellow, after she stood <u>$\\text{(iii)}$</u>&nbsp;her writings that stand <u>$\\text{(iv)}$</u>&nbsp;the freedom of speech.</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$\\text{(i)}$ out $\\text{(ii)}$&nbsp;down $\\text{(iii)}$&nbsp;in $\\text{(iv)}$&nbsp;for</li><li>$\\text{(i)}$&nbsp;down $\\text{(ii)}$&nbsp;out $\\text{(iii)}$&nbsp;by $\\text{(iv)}$&nbsp;in</li><li>$\\text{(i)}$&nbsp;down $\\text{(ii)}$&nbsp;out $\\text{(iii)}$&nbsp;for $\\text{(iv)}$&nbsp;in</li><li>$\\text{(i)}$&nbsp;out $\\text{(ii)}$&nbsp;down $\\text{(iii)}$&nbsp;by $\\text{(iv)}$&nbsp;for</li></ol><p></p></div>",
+      "options": [
+        "$\\text{(i)}$ out $\\text{(ii)}$ down $\\text{(iii)}$ in $\\text{(iv)}$ for",
+        "$\\text{(i)}$ down $\\text{(ii)}$ out $\\text{(iii)}$ by $\\text{(iv)}$ in",
+        "$\\text{(i)}$ down $\\text{(ii)}$ out $\\text{(iii)}$ for $\\text{(iv)}$ in",
+        "$\\text{(i)}$ out $\\text{(ii)}$ down $\\text{(iii)}$ by $\\text{(iv)}$ for"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{(i)}$ out $\\text{(ii)}$ down $\\text{(iii)}$ in $\\text{(iv)}$ for",
+          "html": "$\\text{(i)}$ out $\\text{(ii)}$&nbsp;down $\\text{(iii)}$&nbsp;in $\\text{(iv)}$&nbsp;for"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{(i)}$ down $\\text{(ii)}$ out $\\text{(iii)}$ by $\\text{(iv)}$ in",
+          "html": "$\\text{(i)}$&nbsp;down $\\text{(ii)}$&nbsp;out $\\text{(iii)}$&nbsp;by $\\text{(iv)}$&nbsp;in"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{(i)}$ down $\\text{(ii)}$ out $\\text{(iii)}$ for $\\text{(iv)}$ in",
+          "html": "$\\text{(i)}$&nbsp;down $\\text{(ii)}$&nbsp;out $\\text{(iii)}$&nbsp;for $\\text{(iv)}$&nbsp;in"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{(i)}$ out $\\text{(ii)}$ down $\\text{(iii)}$ by $\\text{(iv)}$ for",
+          "html": "$\\text{(i)}$&nbsp;out $\\text{(ii)}$&nbsp;down $\\text{(iii)}$&nbsp;by $\\text{(iv)}$&nbsp;for"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426495/gate-civil-2024-set-2-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426495/gate-civil-2024-set-2-ga-question-6"
+    },
+    {
+      "id": "go:426489",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3299,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Seven identical cylindrical chalk-sticks are fitted tightly in a cylindrical container. The figure below shows the arrangement of the chalk-sticks inside the cylinder.</p><p><img alt=\"\" src=\"/Gate_QA/question-images/15753075694115642806.png\" style=\"height:307px; width:300px\"><br><br>The length of the container is equal to the length of the chalk-sticks. The ratio of the occupied space to the empty space of the container is</p><p></p>",
+      "rawQuestionHtml": "<a name=\"426489\"></a><div itemprop=\"text\"><p>Seven identical cylindrical chalk-sticks are fitted tightly in a cylindrical container. The figure below shows the arrangement of the chalk-sticks inside the cylinder.</p><p><img alt=\"\" src=\"/Gate_QA/question-images/15753075694115642806.png\" style=\"height:307px; width:300px\"><br><br>The length of the container is equal to the length of the chalk-sticks. The ratio of the occupied space to the empty space of the container is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$5 / 2$</li><li>$7 / 2$</li><li>$9 / 2$</li><li>$3$</li></ol><p></p></div>",
+      "options": [
+        "$5 / 2$",
+        "$7 / 2$",
+        "$9 / 2$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$5 / 2$",
+          "html": "$5 / 2$"
+        },
+        {
+          "label": "B",
+          "text": "$7 / 2$",
+          "html": "$7 / 2$"
+        },
+        {
+          "label": "C",
+          "text": "$9 / 2$",
+          "html": "$9 / 2$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426489/gate-civil-2024-set-2-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426489/gate-civil-2024-set-2-ga-question-7"
+    },
+    {
+      "id": "go:426501",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 2,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3300,
+      "section": "GA",
+      "title": "GATE Civil 2024 Set 2 | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p>​​​​Visualize a cube that is held with one of the four body diagonals aligned to the vertical axis. Rotate the cube about this axis such that its view remains unchanged. The magnitude of the minimum angle of rotation is</p>",
+      "rawQuestionHtml": "<a name=\"426501\"></a><div itemprop=\"text\"><p>​​​​Visualize a cube that is held with one of the four body diagonals aligned to the vertical axis. Rotate the cube about this axis such that its view remains unchanged. The magnitude of the minimum angle of rotation is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$120^{\\circ}$</li><li>$60^{\\circ}$</li><li>$90^{\\circ}$</li><li>$180^{\\circ}$</li></ol></div>",
+      "options": [
+        "$120^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$120^{\\circ}$",
+          "html": "$120^{\\circ}$"
+        },
+        {
+          "label": "B",
+          "text": "$60^{\\circ}$",
+          "html": "$60^{\\circ}$"
+        },
+        {
+          "label": "C",
+          "text": "$90^{\\circ}$",
+          "html": "$90^{\\circ}$"
+        },
+        {
+          "label": "D",
+          "text": "$180^{\\circ}$",
+          "html": "$180^{\\circ}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426501/gate-civil-2024-set-2-ga-question-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426501/gate-civil-2024-set-2-ga-question-10"
+    },
+    {
+      "id": "go:422971",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3301,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [sick $\\rightarrow$ infirm $\\rightarrow$ moribund] is analogous to [silly $\\rightarrow \\_\\_\\_\\_\\_\\_\\_ \\longrightarrow$ daft].</p><p>Which one of the given options is appropriate to fill the blank?</p><p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"422971\"></a><div itemprop=\"text\"><p>​​​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [sick $\\rightarrow$ infirm $\\rightarrow$ moribund] is analogous to [silly $\\rightarrow \\_\\_\\_\\_\\_\\_\\_ \\longrightarrow$ daft].</p><p>Which one of the given options is appropriate to fill the blank?</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>frown</li><li>fawn</li><li>vein</li><li>vain</li></ol><p>&nbsp;</p></div>",
+      "options": [
+        "frown",
+        "fawn",
+        "vein",
+        "vain"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "frown",
+          "html": "frown"
+        },
+        {
+          "label": "B",
+          "text": "fawn",
+          "html": "fawn"
+        },
+        {
+          "label": "C",
+          "text": "vein",
+          "html": "vein"
+        },
+        {
+          "label": "D",
+          "text": "vain",
+          "html": "vain"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422971/gate-ds%26ai-2024-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422971/gate-ds%26ai-2024-ga-question-1"
+    },
+    {
+      "id": "go:422970",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3302,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​​The $15$ parts of the given figure are to be painted such that no two adjacent parts with shared boundaries (excluding corners) have the same color. The minimum number of colors required is</p><p><img alt=\"\" width=\"420\" height=\"280\" src=\"/Gate_QA/question-images/15609401783881808984.webp\"></p><p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"422970\"></a><div itemprop=\"text\"><p>​​​​​​The $15$ parts of the given figure are to be painted such that no two adjacent parts with shared boundaries (excluding corners) have the same color. The minimum number of colors required is</p><p><img alt=\"\" width=\"420\" height=\"280\" src=\"/Gate_QA/question-images/15609401783881808984.webp\"></p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$4$</li><li>$3$</li><li>$5$</li><li>$6$</li></ol><p>&nbsp;</p></div>",
+      "options": [
+        "$4$",
+        "$3$",
+        "$5$",
+        "$6$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$6$",
+          "html": "$6$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422970/gate-ds%26ai-2024-ga-question-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422970/gate-ds%26ai-2024-ga-question-2"
+    },
+    {
+      "id": "go:422969",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3303,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>How many $4$-digit positive integers divisible by $3$ can be formed using only the digits $\\{1,3,4,6,7\\}$, such that no digit appears more than once in a number?</p><p></p>",
+      "rawQuestionHtml": "<a name=\"422969\"></a><div itemprop=\"text\"><p>How many $4$-digit positive integers divisible by $3$ can be formed using only the digits $\\{1,3,4,6,7\\}$, such that no digit appears more than once in a number?</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$24$</li><li>$48$</li><li>$72$</li><li>$12$</li></ol><p></p></div>",
+      "options": [
+        "$24$",
+        "$48$",
+        "$72$",
+        "$12$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$24$",
+          "html": "$24$"
+        },
+        {
+          "label": "B",
+          "text": "$48$",
+          "html": "$48$"
+        },
+        {
+          "label": "C",
+          "text": "$72$",
+          "html": "$72$"
+        },
+        {
+          "label": "D",
+          "text": "$12$",
+          "html": "$12$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422969/gate-ds%26ai-2024-ga-question-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422969/gate-ds%26ai-2024-ga-question-3"
+    },
+    {
+      "id": "go:422968",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3304,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​​The sum of the following infinite series is</p><p>\\[<br>2+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+\\frac{1}{8}+\\frac{1}{9}+\\frac{1}{16}+\\frac{1}{27}+\\cdots<br>\\]</p><p></p>",
+      "rawQuestionHtml": "<a name=\"422968\"></a><div itemprop=\"text\"><p>​​​​​​The sum of the following infinite series is</p><p>\\[<br>2+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+\\frac{1}{8}+\\frac{1}{9}+\\frac{1}{16}+\\frac{1}{27}+\\cdots<br>\\]</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$11 / 3$</li><li>$7 / 2$</li><li>$13 / 4$</li><li>$9 / 2$</li></ol><p></p></div>",
+      "options": [
+        "$11 / 3$",
+        "$7 / 2$",
+        "$13 / 4$",
+        "$9 / 2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$11 / 3$",
+          "html": "$11 / 3$"
+        },
+        {
+          "label": "B",
+          "text": "$7 / 2$",
+          "html": "$7 / 2$"
+        },
+        {
+          "label": "C",
+          "text": "$13 / 4$",
+          "html": "$13 / 4$"
+        },
+        {
+          "label": "D",
+          "text": "$9 / 2$",
+          "html": "$9 / 2$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422968/gate-ds%26ai-2024-ga-question-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422968/gate-ds%26ai-2024-ga-question-4"
+    },
+    {
+      "id": "go:422967",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3305,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​​In an election, the share of valid votes received by the four candidates $\\text{A, B, C}$, and $\\mathrm{D}$ is represented by the pie chart shown. The total number of votes cast in the election were $1,15,000$, out of which $5,000$ were invalid.</p><p><img alt=\"\" width=\"360\" height=\"358\" src=\"/Gate_QA/question-images/13355229848745641780.webp\"><br><br>Based on the data provided, the total number of valid votes received by the candidates $\\mathrm{B}$ and $\\mathrm{C}$ is</p>",
+      "rawQuestionHtml": "<a name=\"422967\"></a><div itemprop=\"text\"><p>​​​​​​In an election, the share of valid votes received by the four candidates $\\text{A, B, C}$, and $\\mathrm{D}$ is represented by the pie chart shown. The total number of votes cast in the election were $1,15,000$, out of which $5,000$ were invalid.</p><p><img alt=\"\" width=\"360\" height=\"358\" src=\"/Gate_QA/question-images/13355229848745641780.webp\"><br><br>Based on the data provided, the total number of valid votes received by the candidates $\\mathrm{B}$ and $\\mathrm{C}$ is</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$45,000$</li><li>$49,500$</li><li>$51,750$</li><li>$54,000$</li></ol></div>",
+      "options": [
+        "$45,000$",
+        "$49,500$",
+        "$51,750$",
+        "$54,000$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$45,000$",
+          "html": "$45,000$"
+        },
+        {
+          "label": "B",
+          "text": "$49,500$",
+          "html": "$49,500$"
+        },
+        {
+          "label": "C",
+          "text": "$51,750$",
+          "html": "$51,750$"
+        },
+        {
+          "label": "D",
+          "text": "$54,000$",
+          "html": "$54,000$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422967/gate-ds%26ai-2024-ga-question-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422967/gate-ds%26ai-2024-ga-question-5"
+    },
+    {
+      "id": "go:422966",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3306,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Analytical & Logical Reasoning",
+      "type": "MCQ",
+      "question": "<p>​​​​​​Thousands of years ago, some people began dairy farming. This coincided with a number of mutations in a particular gene that resulted in these people developing the ability to digest dairy milk.<br><br>Based on the given passage, which of the following can be inferred?</p><p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"422966\"></a><div itemprop=\"text\"><p>​​​​​​Thousands of years ago, some people began dairy farming. This coincided with a number of mutations in a particular gene that resulted in these people developing the ability to digest dairy milk.<br><br>Based on the given passage, which of the following can be inferred?</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>All human beings can digest dairy milk.</li><li>No human being can digest dairy milk.</li><li>Digestion of dairy milk is essential for human beings.</li><li>In human beings, digestion of dairy milk resulted from a mutated gene.</li></ol><p>&nbsp;</p></div>",
+      "options": [
+        "All human beings can digest dairy milk.",
+        "No human being can digest dairy milk.",
+        "Digestion of dairy milk is essential for human beings.",
+        "In human beings, digestion of dairy milk resulted from a mutated gene."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "All human beings can digest dairy milk.",
+          "html": "All human beings can digest dairy milk."
+        },
+        {
+          "label": "B",
+          "text": "No human being can digest dairy milk.",
+          "html": "No human being can digest dairy milk."
+        },
+        {
+          "label": "C",
+          "text": "Digestion of dairy milk is essential for human beings.",
+          "html": "Digestion of dairy milk is essential for human beings."
+        },
+        {
+          "label": "D",
+          "text": "In human beings, digestion of dairy milk resulted from a mutated gene.",
+          "html": "In human beings, digestion of dairy milk resulted from a mutated gene."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422966/gate-ds%26ai-2024-ga-question-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422966/gate-ds%26ai-2024-ga-question-6"
+    },
+    {
+      "id": "go:422965",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3307,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The probability of a boy or a girl being born is $1 / 2$. For a family having only three children, what is the probability of having two girls and one boy?</p><p></p>",
+      "rawQuestionHtml": "<a name=\"422965\"></a><div itemprop=\"text\"><p>The probability of a boy or a girl being born is $1 / 2$. For a family having only three children, what is the probability of having two girls and one boy?</p><ol style=\"list-style-type:upper-alpha\"><li>$3 / 8$</li><li>$1 / 8$</li><li>$1 / 4$</li><li>$1 / 2$</li></ol><p></p></div>",
+      "options": [
+        "$3 / 8$",
+        "$1 / 8$",
+        "$1 / 4$",
+        "$1 / 2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3 / 8$",
+          "html": "$3 / 8$"
+        },
+        {
+          "label": "B",
+          "text": "$1 / 8$",
+          "html": "$1 / 8$"
+        },
+        {
+          "label": "C",
+          "text": "$1 / 4$",
+          "html": "$1 / 4$"
+        },
+        {
+          "label": "D",
+          "text": "$1 / 2$",
+          "html": "$1 / 2$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422965/gate-ds%26ai-2024-ga-question-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422965/gate-ds%26ai-2024-ga-question-7"
+    },
+    {
+      "id": "go:422964",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3308,
+      "section": "GA",
+      "title": "GATE DS&AI 2024 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​Person $1$ and Person $2$ invest in three mutual funds $\\text{A, B}$, and $\\text{C}$. The amounts they invest in each of these mutual funds are given in the table.</p><p>$$\\begin{array}{|c|c|c|c|}<br>\\hline &amp; \\text{Mutual fund A} &amp; \\text{Mutual fund B} &amp; \\text{Mutual fund C} \\\\<br>\\hline \\text{Person} 1 &amp; 10,000 &amp; 20,000 &amp; 20,000 \\\\<br>\\hline \\text{Person} 2 &amp; 20,000 &amp; 15,000 &amp; 15,000 \\\\<br>\\hline<br>\\end{array}$$<br>At the end of one year, the total amount that Person $1$ gets is ₹$500$ more than Person $2$. The annual rate of return for the mutual funds $\\text{B}$ and $\\mathrm{C}$ is $15 \\%$ each. What is the annual rate of return for the mutual fund $\\mathrm{A}$?</p>",
+      "rawQuestionHtml": "<a name=\"422964\"></a><div itemprop=\"text\"><p>​​​​​Person $1$ and Person $2$ invest in three mutual funds $\\text{A, B}$, and $\\text{C}$. The amounts they invest in each of these mutual funds are given in the table.</p><p>$$\\begin{array}{|c|c|c|c|}<br>\\hline &amp; \\text{Mutual fund A} &amp; \\text{Mutual fund B} &amp; \\text{Mutual fund C} \\\\<br>\\hline \\text{Person} 1 &amp; 10,000 &amp; 20,000 &amp; 20,000 \\\\<br>\\hline \\text{Person} 2 &amp; 20,000 &amp; 15,000 &amp; 15,000 \\\\<br>\\hline<br>\\end{array}$$<br>At the end of one year, the total amount that Person $1$ gets is ₹$500$ more than Person $2$. The annual rate of return for the mutual funds $\\text{B}$ and $\\mathrm{C}$ is $15 \\%$ each. What is the annual rate of return for the mutual fund $\\mathrm{A}$?</p><ol start=\"1\" style=\"list-style-type:upper-alpha\"><li>$7.5 \\%$</li><li>$10 \\%$</li><li>$15 \\%$</li><li>$20 \\%$</li></ol></div>",
+      "options": [
+        "$7.5 \\%$",
+        "$10 \\%$",
+        "$15 \\%$",
+        "$20 \\%$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$7.5 \\%$",
+          "html": "$7.5 \\%$"
+        },
+        {
+          "label": "B",
+          "text": "$10 \\%$",
+          "html": "$10 \\%$"
+        },
+        {
+          "label": "C",
+          "text": "$15 \\%$",
+          "html": "$15 \\%$"
+        },
+        {
+          "label": "D",
+          "text": "$20 \\%$",
+          "html": "$20 \\%$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/422964/gate-ds%26ai-2024-ga-question-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/422964/gate-ds%26ai-2024-ga-question-8"
+    },
+    {
+      "id": "go:426530",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3309,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words</p>\n\n<p>[ charm $\\rightarrow$ enamor $\\rightarrow$ bewitch] is analogous to [bored $\\rightarrow \\_\\_\\_\\_\\_\\_ \\longrightarrow$ weary]</p>\n\n<p>Which one of the given options is appropriate to fill the blank?</p>\n\n\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"426530\"></a><div itemprop=\"text\"><p>​​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words</p>\n\n<p>[ charm $\\rightarrow$ enamor $\\rightarrow$ bewitch] is analogous to [bored $\\rightarrow \\_\\_\\_\\_\\_\\_ \\longrightarrow$ weary]</p>\n\n<p>Which one of the given options is appropriate to fill the blank?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>jaded</li>\n\t<li>baffled</li>\n\t<li>dead</li>\n\t<li>worsted</li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "options": [
+        "jaded",
+        "baffled",
+        "dead",
+        "worsted"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "jaded",
+          "html": "jaded"
+        },
+        {
+          "label": "B",
+          "text": "baffled",
+          "html": "baffled"
+        },
+        {
+          "label": "C",
+          "text": "dead",
+          "html": "dead"
+        },
+        {
+          "label": "D",
+          "text": "worsted",
+          "html": "worsted"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426530/gate-ece-2024-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426530/gate-ece-2024-ga-question-1"
+    },
+    {
+      "id": "go:426528",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3310,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​$\\text{P, Q, R, S}$, and $\\text{T}$ have launched a new startup. Two of them are siblings. The office of the startup has just three rooms. All of them agree that the siblings should not share the same room.<br>\n<br>\nIf $\\text{S}$ and $\\text{Q}$ are single children, and the room allocations shown below are acceptable to all.<br>\n$$\\begin{array}{|l|l|l|}<br>\n\\hline \\text{PR} &amp; \\text{TS} &amp; \\text{Q} \\\\<br>\n\\hline<br>\n\\end{array}$$$$\\begin{array}{|l|l|l|}<br>\n\\hline \\text{PQ} &amp; \\text{RT} &amp; \\text{S} \\\\<br>\n\\hline<br>\n\\end{array}$$</p>\n\n<p>then, which one of the given options is the siblings?</p>\n\n\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"426528\"></a><div itemprop=\"text\"><p>​​​​$\\text{P, Q, R, S}$, and $\\text{T}$ have launched a new startup. Two of them are siblings. The office of the startup has just three rooms. All of them agree that the siblings should not share the same room.<br>\n<br>\nIf $\\text{S}$ and $\\text{Q}$ are single children, and the room allocations shown below are acceptable to all.<br>\n$$\\begin{array}{|l|l|l|}<br>\n\\hline \\text{PR} &amp; \\text{TS} &amp; \\text{Q} \\\\<br>\n\\hline<br>\n\\end{array}$$$$\\begin{array}{|l|l|l|}<br>\n\\hline \\text{PQ} &amp; \\text{RT} &amp; \\text{S} \\\\<br>\n\\hline<br>\n\\end{array}$$</p>\n\n<p>then, which one of the given options is the siblings?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\mathrm{P}$ and $\\mathrm{T}$</li>\n\t<li>$\\mathrm{P}$&nbsp;and&nbsp;$\\mathrm{S}$</li>\n\t<li>$\\mathrm{T}$ and $\\mathrm{Q}$</li>\n\t<li>$\\mathrm{T}$ and $\\mathrm{R}$</li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "options": [
+        "$\\mathrm{P}$ and $\\mathrm{T}$",
+        "$\\mathrm{P}$ and $\\mathrm{S}$",
+        "$\\mathrm{T}$ and $\\mathrm{Q}$",
+        "$\\mathrm{T}$ and $\\mathrm{R}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\mathrm{P}$ and $\\mathrm{T}$",
+          "html": "$\\mathrm{P}$ and $\\mathrm{T}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\mathrm{P}$ and $\\mathrm{S}$",
+          "html": "$\\mathrm{P}$&nbsp;and&nbsp;$\\mathrm{S}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\mathrm{T}$ and $\\mathrm{Q}$",
+          "html": "$\\mathrm{T}$ and $\\mathrm{Q}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\mathrm{T}$ and $\\mathrm{R}$",
+          "html": "$\\mathrm{T}$ and $\\mathrm{R}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426528/gate-ece-2024-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426528/gate-ece-2024-ga-question-2"
+    },
+    {
+      "id": "go:426537",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3311,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​Five years ago, the ratio of Aman's age to his father's age was $1: 4$, and five years from now, the ratio will be $2:5$. What was his father's age when Aman was born?</p>",
+      "rawQuestionHtml": "<a name=\"426537\"></a><div itemprop=\"text\"><p>​​​​Five years ago, the ratio of Aman's age to his father's age was $1: 4$, and five years from now, the ratio will be $2:5$. What was his father's age when Aman was born?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$28$ years</li>\n\t<li>$30$ years</li>\n\t<li>$35$ years</li>\n\t<li>$32$ years</li>\n</ol></div>",
+      "options": [
+        "$28$ years",
+        "$30$ years",
+        "$35$ years",
+        "$32$ years"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$28$ years",
+          "html": "$28$ years"
+        },
+        {
+          "label": "B",
+          "text": "$30$ years",
+          "html": "$30$ years"
+        },
+        {
+          "label": "C",
+          "text": "$35$ years",
+          "html": "$35$ years"
+        },
+        {
+          "label": "D",
+          "text": "$32$ years",
+          "html": "$32$ years"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426537/gate-ece-2024-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426537/gate-ece-2024-ga-question-3"
+    },
+    {
+      "id": "go:426536",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3312,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​For a real number $x&gt;1$,<br>\n$$\\frac{1}{\\log _{2} x}+\\frac{1}{\\log _{3} x}+\\frac{1}{\\log _{4} x}=1$$ The value of $x$ is</p>",
+      "rawQuestionHtml": "<a name=\"426536\"></a><div itemprop=\"text\"><p>​​​​For a real number $x&gt;1$,<br>\n$$\\frac{1}{\\log _{2} x}+\\frac{1}{\\log _{3} x}+\\frac{1}{\\log _{4} x}=1$$ The value of $x$ is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$4$</li>\n\t<li>$12$</li>\n\t<li>$24$</li>\n\t<li>$36$</li>\n</ol></div>",
+      "options": [
+        "$4$",
+        "$12$",
+        "$24$",
+        "$36$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$12$",
+          "html": "$12$"
+        },
+        {
+          "label": "C",
+          "text": "$24$",
+          "html": "$24$"
+        },
+        {
+          "label": "D",
+          "text": "$36$",
+          "html": "$36$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426536/gate-ece-2024-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426536/gate-ece-2024-ga-question-4"
+    },
+    {
+      "id": "go:426533",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3313,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The greatest prime factor of $\\left(3^{199}-3^{196}\\right)$ is</p>\n\n\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"426533\"></a><div itemprop=\"text\"><p>The greatest prime factor of $\\left(3^{199}-3^{196}\\right)$ is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$13$</li>\n\t<li>$17$</li>\n\t<li>$3$</li>\n\t<li>$11$</li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "options": [
+        "$13$",
+        "$17$",
+        "$3$",
+        "$11$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$13$",
+          "html": "$13$"
+        },
+        {
+          "label": "B",
+          "text": "$17$",
+          "html": "$17$"
+        },
+        {
+          "label": "C",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "D",
+          "text": "$11$",
+          "html": "$11$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426533/gate-ece-2024-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426533/gate-ece-2024-ga-question-5"
+    },
+    {
+      "id": "go:426532",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3314,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​Four identical cylindrical chalk-sticks, each of radius $r=0.5 \\mathrm{~cm}$ and length $l=10 \\mathrm{~cm}$, are bound tightly together using a duct tape as shown in the following figure.</p>\n\n<p><img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/12886385924799653099.jpg\" width=\"400\"><br>\n<br>\nThe width of the duct tape is equal to the length of the chalk-stick. The area (in $\\mathrm{cm}^{2}$ ) of the duct tape required to wrap the bundle of chalk-sticks once, is</p>",
+      "rawQuestionHtml": "<a name=\"426532\"></a><div itemprop=\"text\"><p>​​​​​Four identical cylindrical chalk-sticks, each of radius $r=0.5 \\mathrm{~cm}$ and length $l=10 \\mathrm{~cm}$, are bound tightly together using a duct tape as shown in the following figure.</p>\n\n<p><img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/12886385924799653099.jpg\" width=\"400\"><br>\n<br>\nThe width of the duct tape is equal to the length of the chalk-stick. The area (in $\\mathrm{cm}^{2}$ ) of the duct tape required to wrap the bundle of chalk-sticks once, is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$20(4+\\pi)$</li>\n\t<li>$20(8+\\pi)$</li>\n\t<li>$10(8+\\pi)$</li>\n\t<li>$10(4+\\pi)$</li>\n</ol></div>",
+      "options": [
+        "$20(4+\\pi)$",
+        "$20(8+\\pi)$",
+        "$10(8+\\pi)$",
+        "$10(4+\\pi)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$20(4+\\pi)$",
+          "html": "$20(4+\\pi)$"
+        },
+        {
+          "label": "B",
+          "text": "$20(8+\\pi)$",
+          "html": "$20(8+\\pi)$"
+        },
+        {
+          "label": "C",
+          "text": "$10(8+\\pi)$",
+          "html": "$10(8+\\pi)$"
+        },
+        {
+          "label": "D",
+          "text": "$10(4+\\pi)$",
+          "html": "$10(4+\\pi)$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426532/gate-ece-2024-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426532/gate-ece-2024-ga-question-7"
+    },
+    {
+      "id": "go:426531",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3315,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The bar chart shows the data for the percentage of population falling into different categories based on Body Mass Index $\\text{(BMI)}$ in $2003$ and $2023$.</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" height=\"359\" src=\"/Gate_QA/question-images/16025276189815033258.jpg\" width=\"600\"><br>\n<br>\nBased on the data provided, which one of the following options is INCORRECT?</p>\n\n\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"426531\"></a><div itemprop=\"text\"><p>The bar chart shows the data for the percentage of population falling into different categories based on Body Mass Index $\\text{(BMI)}$ in $2003$ and $2023$.</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" height=\"359\" src=\"/Gate_QA/question-images/16025276189815033258.jpg\" width=\"600\"><br>\n<br>\nBased on the data provided, which one of the following options is INCORRECT?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>The ratio of the percentage of population falling into overweight category to the percentage of population falling into normal category has increased in $20$ years.</li>\n\t<li>The ratio of the percentage of population falling into underweight category to the percentage of population falling into normal category has decreased in $20$ years.</li>\n\t<li>The ratio of the percentage of population falling into obese category to the percentage of population falling into normal category has decreased in $20$ years.</li>\n\t<li>The percentage of population falling into normal category has decreased in $20$ years.</li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "options": [
+        "The ratio of the percentage of population falling into overweight category to the percentage of population falling into normal category has increased in $20$ years.",
+        "The ratio of the percentage of population falling into underweight category to the percentage of population falling into normal category has decreased in $20$ years.",
+        "The ratio of the percentage of population falling into obese category to the percentage of population falling into normal category has decreased in $20$ years.",
+        "The percentage of population falling into normal category has decreased in $20$ years."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The ratio of the percentage of population falling into overweight category to the percentage of population falling into normal category has increased in $20$ years.",
+          "html": "The ratio of the percentage of population falling into overweight category to the percentage of population falling into normal category has increased in $20$ years."
+        },
+        {
+          "label": "B",
+          "text": "The ratio of the percentage of population falling into underweight category to the percentage of population falling into normal category has decreased in $20$ years.",
+          "html": "The ratio of the percentage of population falling into underweight category to the percentage of population falling into normal category has decreased in $20$ years."
+        },
+        {
+          "label": "C",
+          "text": "The ratio of the percentage of population falling into obese category to the percentage of population falling into normal category has decreased in $20$ years.",
+          "html": "The ratio of the percentage of population falling into obese category to the percentage of population falling into normal category has decreased in $20$ years."
+        },
+        {
+          "label": "D",
+          "text": "The percentage of population falling into normal category has decreased in $20$ years.",
+          "html": "The percentage of population falling into normal category has decreased in $20$ years."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426531/gate-ece-2024-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426531/gate-ece-2024-ga-question-8"
+    },
+    {
+      "id": "go:426526",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3316,
+      "section": "GA",
+      "title": "GATE ECE 2024 | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​Two identical sheets $\\text{A}$ and $\\text{B}$, of dimensions $24 \\mathrm{~cm} \\times 16 \\mathrm{~cm}$, can be folded into half using two distinct operations, $\\text{FO1}$ or $\\text{FO2}$.</p>\n\n<p>In $\\text{FO1}$, the axis of folding remains parallel to the initial long edge, and in $\\text{FO2}$, the axis of folding remains parallel to the initial short edge.</p>\n\n<p>If sheet $\\text{A}$ is folded twice using $\\text{FO1}$, and sheet $\\text{B}$ is folded twice using $\\text{FO2}$, the ratio of the perimeters of the final shapes of $\\text{A}$ and $\\text{B}$ is</p>",
+      "rawQuestionHtml": "<a name=\"426526\"></a><div itemprop=\"text\"><p>​​​Two identical sheets $\\text{A}$ and $\\text{B}$, of dimensions $24 \\mathrm{~cm} \\times 16 \\mathrm{~cm}$, can be folded into half using two distinct operations, $\\text{FO1}$ or $\\text{FO2}$.</p>\n\n<p>In $\\text{FO1}$, the axis of folding remains parallel to the initial long edge, and in $\\text{FO2}$, the axis of folding remains parallel to the initial short edge.</p>\n\n<p>If sheet $\\text{A}$ is folded twice using $\\text{FO1}$, and sheet $\\text{B}$ is folded twice using $\\text{FO2}$, the ratio of the perimeters of the final shapes of $\\text{A}$ and $\\text{B}$ is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$14:11$</li>\n\t<li>$11: 14$</li>\n\t<li>$18:11$</li>\n\t<li>$11: 18$</li>\n</ol></div>",
+      "options": [
+        "$14:11$",
+        "$11: 14$",
+        "$18:11$",
+        "$11: 18$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$14:11$",
+          "html": "$14:11$"
+        },
+        {
+          "label": "B",
+          "text": "$11: 14$",
+          "html": "$11: 14$"
+        },
+        {
+          "label": "C",
+          "text": "$18:11$",
+          "html": "$18:11$"
+        },
+        {
+          "label": "D",
+          "text": "$11: 18$",
+          "html": "$11: 18$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426526/gate-ece-2024-ga-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426526/gate-ece-2024-ga-question-10"
+    },
+    {
+      "id": "go:426508",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3317,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [smile $\\rightarrow$ giggle $\\rightarrow$ laugh] is analogous to [disapprove $\\rightarrow$&nbsp;_________$\\rightarrow$ chide]<br>\n<br>\nWhich one of the given options is appropriate to fill the blank?</p>",
+      "rawQuestionHtml": "<a name=\"426508\"></a><div itemprop=\"text\"><p>​​If ' $\\rightarrow$ ' denotes increasing order of intensity, then the meaning of the words [smile $\\rightarrow$ giggle $\\rightarrow$ laugh] is analogous to [disapprove $\\rightarrow$&nbsp;_________$\\rightarrow$ chide]<br>\n<br>\nWhich one of the given options is appropriate to fill the blank?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>reprove</li>\n\t<li>praise</li>\n\t<li>reprise</li>\n\t<li>grieve</li>\n</ol></div>",
+      "options": [
+        "reprove",
+        "praise",
+        "reprise",
+        "grieve"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "reprove",
+          "html": "reprove"
+        },
+        {
+          "label": "B",
+          "text": "praise",
+          "html": "praise"
+        },
+        {
+          "label": "C",
+          "text": "reprise",
+          "html": "reprise"
+        },
+        {
+          "label": "D",
+          "text": "grieve",
+          "html": "grieve"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426508/gate-mechanical-2024-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426508/gate-mechanical-2024-ga-question-1"
+    },
+    {
+      "id": "go:426513",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3318,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​In the following series, identify the number that needs to be changed to form the Fibonacci series.</p>\n\n<p><br>\n$1,1,2,3,6,8,13,21, \\ldots$</p>",
+      "rawQuestionHtml": "<a name=\"426513\"></a><div itemprop=\"text\"><p>​​​​​In the following series, identify the number that needs to be changed to form the Fibonacci series.</p>\n\n<p><br>\n$1,1,2,3,6,8,13,21, \\ldots$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$8$</li>\n\t<li>$21$</li>\n\t<li>$6$</li>\n\t<li>$13$</li>\n</ol></div>",
+      "options": [
+        "$8$",
+        "$21$",
+        "$6$",
+        "$13$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "B",
+          "text": "$21$",
+          "html": "$21$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$13$",
+          "html": "$13$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426513/gate-mechanical-2024-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426513/gate-mechanical-2024-ga-question-3"
+    },
+    {
+      "id": "go:426512",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3319,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​The real variables $x, y, z$, and the real constants $p, q, r$ satisfy</p>\n\n<p>\\[<br>\n\\frac{x}{p q-r^{2}}=\\frac{y}{q r-p^{2}}=\\frac{z}{r p-q^{2}}<br>\n\\]<br>\n<br>\nGiven that the denominators are non-zero, the value of $p x+q y+r z$ is</p>",
+      "rawQuestionHtml": "<a name=\"426512\"></a><div itemprop=\"text\"><p>​​The real variables $x, y, z$, and the real constants $p, q, r$ satisfy</p>\n\n<p>\\[<br>\n\\frac{x}{p q-r^{2}}=\\frac{y}{q r-p^{2}}=\\frac{z}{r p-q^{2}}<br>\n\\]<br>\n<br>\nGiven that the denominators are non-zero, the value of $p x+q y+r z$ is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$0$</li>\n\t<li>$1$</li>\n\t<li>$p q r$</li>\n\t<li>$p^{2}+q^{2}+r^{2}$</li>\n</ol></div>",
+      "options": [
+        "$0$",
+        "$1$",
+        "$p q r$",
+        "$p^{2}+q^{2}+r^{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$p q r$",
+          "html": "$p q r$"
+        },
+        {
+          "label": "D",
+          "text": "$p^{2}+q^{2}+r^{2}$",
+          "html": "$p^{2}+q^{2}+r^{2}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426512/gate-mechanical-2024-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426512/gate-mechanical-2024-ga-question-4"
+    },
+    {
+      "id": "go:426511",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3320,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as $2,3,5$, and $7$. If thrown, the long dice cannot land on the square faces and has $1 / 4$ probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw.<br>\n<br>\nIf thrown together, what is the probability of getting the sum of the two long dice scores greater than $11$?</p>",
+      "rawQuestionHtml": "<a name=\"426511\"></a><div itemprop=\"text\"><p>Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as $2,3,5$, and $7$. If thrown, the long dice cannot land on the square faces and has $1 / 4$ probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw.<br>\n<br>\nIf thrown together, what is the probability of getting the sum of the two long dice scores greater than $11$?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$3 / 8$</li>\n\t<li>$1 / 8$</li>\n\t<li>$1 / 16$</li>\n\t<li>$3 / 16$</li>\n</ol></div>",
+      "options": [
+        "$3 / 8$",
+        "$1 / 8$",
+        "$1 / 16$",
+        "$3 / 16$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3 / 8$",
+          "html": "$3 / 8$"
+        },
+        {
+          "label": "B",
+          "text": "$1 / 8$",
+          "html": "$1 / 8$"
+        },
+        {
+          "label": "C",
+          "text": "$1 / 16$",
+          "html": "$1 / 16$"
+        },
+        {
+          "label": "D",
+          "text": "$3 / 16$",
+          "html": "$3 / 16$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426511/gate-mechanical-2024-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426511/gate-mechanical-2024-ga-question-5"
+    },
+    {
+      "id": "go:426507",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3321,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br>\n<br>\nProf. $\\text{P}$&nbsp;&nbsp;<u> (i)</u>&nbsp; &nbsp;merely a man who narrated funny stories. <u>(ii)</u> in his blackest moments he was capable of self-deprecating humor.<br>\n<br>\nProf. $\\text{Q}$&nbsp;<u>(iii)</u> a man who hardly narrated funny stories. <u>(iv) </u>in his blackest moments was he able to find humor.</p>",
+      "rawQuestionHtml": "<a name=\"426507\"></a><div itemprop=\"text\"><p>In the given text, the blanks are numbered $\\text{(i)-(iv)}$. Select the best match for all the blanks.<br>\n<br>\nProf. $\\text{P}$&nbsp;&nbsp;<u> (i)</u>&nbsp; &nbsp;merely a man who narrated funny stories. <u>(ii)</u> in his blackest moments he was capable of self-deprecating humor.<br>\n<br>\nProf. $\\text{Q}$&nbsp;<u>(iii)</u> a man who hardly narrated funny stories. <u>(iv) </u>in his blackest moments was he able to find humor.</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>(i) was (ii) Only (iii) wasn't (iv) Even</li>\n\t<li>(i) wasn't (ii) Even (iii) was (iv) Only</li>\n\t<li>(i) was (ii) Even (iii) wasn't (iv) Only</li>\n\t<li>(i) wasn't (ii) Only (iii) was (iv) Even</li>\n</ol></div>",
+      "options": [
+        "(i) was (ii) Only (iii) wasn't (iv) Even",
+        "(i) wasn't (ii) Even (iii) was (iv) Only",
+        "(i) was (ii) Even (iii) wasn't (iv) Only",
+        "(i) wasn't (ii) Only (iii) was (iv) Even"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(i) was (ii) Only (iii) wasn't (iv) Even",
+          "html": "(i) was (ii) Only (iii) wasn't (iv) Even"
+        },
+        {
+          "label": "B",
+          "text": "(i) wasn't (ii) Even (iii) was (iv) Only",
+          "html": "(i) wasn't (ii) Even (iii) was (iv) Only"
+        },
+        {
+          "label": "C",
+          "text": "(i) was (ii) Even (iii) wasn't (iv) Only",
+          "html": "(i) was (ii) Even (iii) wasn't (iv) Only"
+        },
+        {
+          "label": "D",
+          "text": "(i) wasn't (ii) Only (iii) was (iv) Even",
+          "html": "(i) wasn't (ii) Only (iii) was (iv) Even"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426507/gate-mechanical-2024-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426507/gate-mechanical-2024-ga-question-6"
+    },
+    {
+      "id": "go:426509",
+      "testId": "gate-2024-additional",
+      "year": 2024,
+      "set": 1,
+      "yearSetKey": "2024-additional",
+      "orderIndex": 3322,
+      "section": "GA",
+      "title": "GATE Mechanical 2024 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The bar chart gives the batting averages of $\\mathrm{VK}$&nbsp;and $\\mathrm{RS}$&nbsp;for $11$ calendar years from $2012$ to $2022$. Considering that $2015$ and $2019$ are world cup years, which one of the following options is true?</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4192721585903941195.png\" width=\"600\"></p>",
+      "rawQuestionHtml": "<a name=\"426509\"></a><div itemprop=\"text\"><p>The bar chart gives the batting averages of $\\mathrm{VK}$&nbsp;and $\\mathrm{RS}$&nbsp;for $11$ calendar years from $2012$ to $2022$. Considering that $2015$ and $2019$ are world cup years, which one of the following options is true?</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4192721585903941195.png\" width=\"600\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\mathrm{RS}$&nbsp;has a higher yearly batting average than that of $\\mathrm{VK}$&nbsp;in every world cup year.</li>\n\t<li>$\\mathrm{VK}$&nbsp;has a higher yearly batting average than that of $\\mathrm{RS}$&nbsp;in every world cup year.</li>\n\t<li>$\\mathrm{VK’s}$&nbsp;yearly batting average is consistently higher than that of $\\mathrm{RS}$&nbsp;between the two world cup years.</li>\n\t<li>$\\mathrm{RS’s}$ yearly batting average is consistently higher than that of $\\mathrm{VK}$ in the last three years.</li>\n</ol></div>",
+      "options": [
+        "$\\mathrm{RS}$ has a higher yearly batting average than that of $\\mathrm{VK}$ in every world cup year.",
+        "$\\mathrm{VK}$ has a higher yearly batting average than that of $\\mathrm{RS}$ in every world cup year.",
+        "$\\mathrm{VK’s}$ yearly batting average is consistently higher than that of $\\mathrm{RS}$ between the two world cup years.",
+        "$\\mathrm{RS’s}$ yearly batting average is consistently higher than that of $\\mathrm{VK}$ in the last three years."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\mathrm{RS}$ has a higher yearly batting average than that of $\\mathrm{VK}$ in every world cup year.",
+          "html": "$\\mathrm{RS}$&nbsp;has a higher yearly batting average than that of $\\mathrm{VK}$&nbsp;in every world cup year."
+        },
+        {
+          "label": "B",
+          "text": "$\\mathrm{VK}$ has a higher yearly batting average than that of $\\mathrm{RS}$ in every world cup year.",
+          "html": "$\\mathrm{VK}$&nbsp;has a higher yearly batting average than that of $\\mathrm{RS}$&nbsp;in every world cup year."
+        },
+        {
+          "label": "C",
+          "text": "$\\mathrm{VK’s}$ yearly batting average is consistently higher than that of $\\mathrm{RS}$ between the two world cup years.",
+          "html": "$\\mathrm{VK’s}$&nbsp;yearly batting average is consistently higher than that of $\\mathrm{RS}$&nbsp;between the two world cup years."
+        },
+        {
+          "label": "D",
+          "text": "$\\mathrm{RS’s}$ yearly batting average is consistently higher than that of $\\mathrm{VK}$ in the last three years.",
+          "html": "$\\mathrm{RS’s}$ yearly batting average is consistently higher than that of $\\mathrm{VK}$ in the last three years."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/426509/gate-mechanical-2024-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/426509/gate-mechanical-2024-ga-question-8"
+    }
+  ]
+}

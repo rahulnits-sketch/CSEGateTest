@@ -1,0 +1,3519 @@
+{
+  "id": "gate-2011-s0",
+  "yearSetKey": "2011-s0",
+  "year": 2011,
+  "set": 1,
+  "title": "GATE CSE 2011",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "gaQuestions": 10,
+  "csQuestions": 55,
+  "questions": [
+    {
+      "id": "go:2103",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 1",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>In a compiler, keywords of a language are recognized during</p>",
+      "rawQuestionHtml": "<p>In a compiler, keywords of a language are recognized during</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>parsing of the program</li>\n<li>the code generation</li>\n<li>the lexical analysis of the program</li>\n<li>dataflow analysis</li>\n</ol>",
+      "options": [
+        "parsing of the program",
+        "the code generation",
+        "the lexical analysis of the program",
+        "dataflow analysis"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "parsing of the program",
+          "html": "parsing of the program"
+        },
+        {
+          "label": "B",
+          "text": "the code generation",
+          "html": "the code generation"
+        },
+        {
+          "label": "C",
+          "text": "the lexical analysis of the program",
+          "html": "the lexical analysis of the program"
+        },
+        {
+          "label": "D",
+          "text": "dataflow analysis",
+          "html": "dataflow analysis"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2103/gate-cse-2011-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2103/gate-cse-2011-question-1"
+    },
+    {
+      "id": "go:2165",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 1,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 56",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Which of the following options is the closest in the meaning to the word below:</p>\n<p><strong>Inexplicable</strong></p>",
+      "rawQuestionHtml": "<p>Which of the following options is the closest in the meaning to the word below:</p>\n<p><strong>Inexplicable</strong></p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li> Incomprehensible</li>\n<li> Indelible</li>\n<li> Inextricable</li>\n<li> Infallible</li>\n</ol>",
+      "options": [
+        "Incomprehensible",
+        "Indelible",
+        "Inextricable",
+        "Infallible"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Incomprehensible",
+          "html": "Incomprehensible"
+        },
+        {
+          "label": "B",
+          "text": "Indelible",
+          "html": "Indelible"
+        },
+        {
+          "label": "C",
+          "text": "Inextricable",
+          "html": "Inextricable"
+        },
+        {
+          "label": "D",
+          "text": "Infallible",
+          "html": "Infallible"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2165/gate-cse-2011-question-56",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2165/gate-cse-2011-question-56"
+    },
+    {
+      "id": "go:2104",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 2",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>A layer-$4$ firewall (a device that can look at all protocol headers up to the transport layer)&nbsp;<strong>CANNOT</strong></p>",
+      "rawQuestionHtml": "<a name=\"2104\"></a><div itemprop=\"text\"><p>A layer-$4$ firewall (a device that can look at all protocol headers up to the transport layer)&nbsp;<strong>CANNOT</strong></p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>block entire $\\text{HTTP}$ traffic during&nbsp;$9:00PM$ and $5:00AM$</li>\n\t<li>block all $\\text{ICMP}$ traffic</li>\n\t<li>stop incoming traffic from specific $\\text{IP}$ address but allow outgoing traffic to the same IP address</li>\n\t<li>block $\\text{TCP}$ traffic from a specific user on a multi-user system during $9:00PM$ to $5:00AM$</li>\n</ol></div>",
+      "options": [
+        "block entire $\\text{HTTP}$ traffic during $9:00PM$ and $5:00AM$",
+        "block all $\\text{ICMP}$ traffic",
+        "stop incoming traffic from specific $\\text{IP}$ address but allow outgoing traffic to the same IP address",
+        "block $\\text{TCP}$ traffic from a specific user on a multi-user system during $9:00PM$ to $5:00AM$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "block entire $\\text{HTTP}$ traffic during $9:00PM$ and $5:00AM$",
+          "html": "block entire $\\text{HTTP}$ traffic during&nbsp;$9:00PM$ and $5:00AM$"
+        },
+        {
+          "label": "B",
+          "text": "block all $\\text{ICMP}$ traffic",
+          "html": "block all $\\text{ICMP}$ traffic"
+        },
+        {
+          "label": "C",
+          "text": "stop incoming traffic from specific $\\text{IP}$ address but allow outgoing traffic to the same IP address",
+          "html": "stop incoming traffic from specific $\\text{IP}$ address but allow outgoing traffic to the same IP address"
+        },
+        {
+          "label": "D",
+          "text": "block $\\text{TCP}$ traffic from a specific user on a multi-user system during $9:00PM$ to $5:00AM$",
+          "html": "block $\\text{TCP}$ traffic from a specific user on a multi-user system during $9:00PM$ to $5:00AM$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2104/gate-cse-2011-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2104/gate-cse-2011-question-2"
+    },
+    {
+      "id": "go:2166",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 2,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 57",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>If $\\log (\\text{P}) = (1/2)\\log (\\text{Q}) = (1/3)\\log (\\text{R})$, then which of the following options is <strong>TRUE</strong>?</p>",
+      "rawQuestionHtml": "<p>If $\\log (\\text{P}) = (1/2)\\log (\\text{Q}) = (1/3)\\log (\\text{R})$, then which of the following options is <strong>TRUE</strong>?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{P}^2 = \\text{Q}^3\\text{R}^2$</li>\n<li>$\\text{Q}^2=\\text{P}\\text{R}$</li>\n<li>$\\text{Q}^2 = \\text{R}^3\\text{P}$</li>\n<li>$\\text{R}=\\text{P}^2\\text{Q}^2$</li>\n</ol>",
+      "options": [
+        "$\\text{P}^2 = \\text{Q}^3\\text{R}^2$",
+        "$\\text{Q}^2=\\text{P}\\text{R}$",
+        "$\\text{Q}^2 = \\text{R}^3\\text{P}$",
+        "$\\text{R}=\\text{P}^2\\text{Q}^2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{P}^2 = \\text{Q}^3\\text{R}^2$",
+          "html": "$\\text{P}^2 = \\text{Q}^3\\text{R}^2$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Q}^2=\\text{P}\\text{R}$",
+          "html": "$\\text{Q}^2=\\text{P}\\text{R}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Q}^2 = \\text{R}^3\\text{P}$",
+          "html": "$\\text{Q}^2 = \\text{R}^3\\text{P}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{R}=\\text{P}^2\\text{Q}^2$",
+          "html": "$\\text{R}=\\text{P}^2\\text{Q}^2$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2166/gate-cse-2011-question-57",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2166/gate-cse-2011-question-57"
+    },
+    {
+      "id": "go:2105",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "MCQ",
+      "question": "<p>If two fair coins are flipped and at least one of the outcomes is known to be a head, what is the probability that both outcomes are heads?</p>",
+      "rawQuestionHtml": "<p>If two fair coins are flipped and at least one of the outcomes is known to be a head, what is the probability that both outcomes are heads?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left(\\dfrac{1}{3}\\right)$</li>\n<li>$\\left(\\dfrac{1}{4}\\right)$</li>\n<li>$\\left(\\dfrac{1}{2}\\right)$</li>\n<li>$\\left(\\dfrac{2}{3}\\right)$</li>\n</ol>",
+      "options": [
+        "$\\left(\\dfrac{1}{3}\\right)$",
+        "$\\left(\\dfrac{1}{4}\\right)$",
+        "$\\left(\\dfrac{1}{2}\\right)$",
+        "$\\left(\\dfrac{2}{3}\\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\left(\\dfrac{1}{3}\\right)$",
+          "html": "$\\left(\\dfrac{1}{3}\\right)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left(\\dfrac{1}{4}\\right)$",
+          "html": "$\\left(\\dfrac{1}{4}\\right)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(\\dfrac{1}{2}\\right)$",
+          "html": "$\\left(\\dfrac{1}{2}\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left(\\dfrac{2}{3}\\right)$",
+          "html": "$\\left(\\dfrac{2}{3}\\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2105/gate-cse-2011-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2105/gate-cse-2011-question-3"
+    },
+    {
+      "id": "go:2167",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 3,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 58",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Choose the most appropriate word(s) from the options given below to complete the following sentence.</p>\n<p><strong>I contemplated _________ Singapore for my vacation but decided against it.</strong></p>",
+      "rawQuestionHtml": "<p>Choose the most appropriate word(s) from the options given below to complete the following sentence.</p>\n<p><strong>I contemplated _________ Singapore for my vacation but decided against it.</strong></p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>to visit</li>\n<li>having to visit</li>\n<li>visiting</li>\n<li>for a visit</li>\n</ol>",
+      "options": [
+        "to visit",
+        "having to visit",
+        "visiting",
+        "for a visit"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "to visit",
+          "html": "to visit"
+        },
+        {
+          "label": "B",
+          "text": "having to visit",
+          "html": "having to visit"
+        },
+        {
+          "label": "C",
+          "text": "visiting",
+          "html": "visiting"
+        },
+        {
+          "label": "D",
+          "text": "for a visit",
+          "html": "for a visit"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2167/gate-cse-2011-question-58",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2167/gate-cse-2011-question-58"
+    },
+    {
+      "id": "go:2106",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 4",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Application Layer Protocols",
+      "type": "MCQ",
+      "question": "<p>Consider the different activities related to email.</p>\n<ul>\n<li>$\\text{m1}:$ Send an email from mail client to mail server</li>\n<li>$\\text{m2}:$ Download an email from mailbox server to a mail client</li>\n<li>$\\text{m3}:$ Checking email in a web browser</li>\n</ul>\n<p>Which is the application level protocol used in each activity?</p>",
+      "rawQuestionHtml": "<p>Consider the different activities related to email.</p>\n<ul>\n<li>$\\text{m1}:$ Send an email from mail client to mail server</li>\n<li>$\\text{m2}:$ Download an email from mailbox server to a mail client</li>\n<li>$\\text{m3}:$ Checking email in a web browser</li>\n</ul>\n<p>Which is the application level protocol used in each activity?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{m1}: \\textsf{HTTP}\\;\\;  \\text{m2}: \\textsf{SMTP}\\;\\;  \\text{m3}: \\textsf{POP}$</li>\n<li>$\\text{m1}: \\textsf{SMTP}\\;\\;  \\text{m2}: \\textsf{FTP}\\;\\;  \\text{m3}:\\textsf{HTTP}$</li>\n<li>$\\text{m1}: \\textsf{SMTP}\\;\\;  \\text{m2}: \\textsf{POP} \\;\\;  \\text{m3}: \\textsf{HTTP}$</li>\n<li>$\\text{m1}: \\textsf{POP}\\;\\;   \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{IMAP}$</li>\n</ol>",
+      "options": [
+        "$\\text{m1}: \\textsf{HTTP}\\;\\; \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{POP}$",
+        "$\\text{m1}: \\textsf{SMTP}\\;\\; \\text{m2}: \\textsf{FTP}\\;\\; \\text{m3}:\\textsf{HTTP}$",
+        "$\\text{m1}: \\textsf{SMTP}\\;\\; \\text{m2}: \\textsf{POP} \\;\\; \\text{m3}: \\textsf{HTTP}$",
+        "$\\text{m1}: \\textsf{POP}\\;\\; \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{IMAP}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{m1}: \\textsf{HTTP}\\;\\; \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{POP}$",
+          "html": "$\\text{m1}: \\textsf{HTTP}\\;\\;  \\text{m2}: \\textsf{SMTP}\\;\\;  \\text{m3}: \\textsf{POP}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{m1}: \\textsf{SMTP}\\;\\; \\text{m2}: \\textsf{FTP}\\;\\; \\text{m3}:\\textsf{HTTP}$",
+          "html": "$\\text{m1}: \\textsf{SMTP}\\;\\;  \\text{m2}: \\textsf{FTP}\\;\\;  \\text{m3}:\\textsf{HTTP}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{m1}: \\textsf{SMTP}\\;\\; \\text{m2}: \\textsf{POP} \\;\\; \\text{m3}: \\textsf{HTTP}$",
+          "html": "$\\text{m1}: \\textsf{SMTP}\\;\\;  \\text{m2}: \\textsf{POP} \\;\\;  \\text{m3}: \\textsf{HTTP}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{m1}: \\textsf{POP}\\;\\; \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{IMAP}$",
+          "html": "$\\text{m1}: \\textsf{POP}\\;\\;   \\text{m2}: \\textsf{SMTP}\\;\\; \\text{m3}: \\textsf{IMAP}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2106/gate-cse-2011-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2106/gate-cse-2011-question-4"
+    },
+    {
+      "id": "go:2169",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 4,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 59",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Choose the most appropriate word from the options given below to complete the following sentence.</p>\n<p><strong>If you are trying to make a strong impression on your audience, you cannot do so by being understated, tentative or ________.</strong></p>",
+      "rawQuestionHtml": "<p>Choose the most appropriate word from the options given below to complete the following sentence.</p>\n<p><strong>If you are trying to make a strong impression on your audience, you cannot do so by being understated, tentative or ________.</strong></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>hyperbolic</li>\n<li>restrained</li>\n<li>argumentative</li>\n<li>indifferent</li>\n</ol>",
+      "options": [
+        "hyperbolic",
+        "restrained",
+        "argumentative",
+        "indifferent"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "hyperbolic",
+          "html": "hyperbolic"
+        },
+        {
+          "label": "B",
+          "text": "restrained",
+          "html": "restrained"
+        },
+        {
+          "label": "C",
+          "text": "argumentative",
+          "html": "argumentative"
+        },
+        {
+          "label": "D",
+          "text": "indifferent",
+          "html": "indifferent"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2169/gate-cse-2011-question-59",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2169/gate-cse-2011-question-59"
+    },
+    {
+      "id": "go:2107",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 5, ISRO2016-64",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p style=\"text-align:justify\"><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">A company needs to develop a strategy for software product development for which it has a choice of two programming languages L1 and L2. The number lines of code (LOC) developed using L2 is estimated to be twice of the LOC developed with L1. The product will have to be maintained for five years. Various parameters for the company are given in the table below.</span></p><table border=\"1\" cellpadding=\"1\" style=\"margin:auto; width:500px; border-spacing: 1px;\"><tbody><tr><td><strong>Parameter</strong></td><td><strong>Language L1</strong></td><td><strong>Language L2</strong></td></tr><tr><td>Man years needed for development</td><td>LOC/10000</td><td>LOC/10000</td></tr><tr><td>Development Cost per man year</td><td><span style=\"color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र&nbsp;</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">10, 00, 000</span></td><td><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;7, 50, 000</span></td></tr><tr><td>Maintenance Time</td><td>5 years</td><td>5 years</td></tr><tr><td>Cost of maintenance per year</td><td><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;1,00,000</span></td><td><span style=\"background-color:transparent; font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\"><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif\">र</span>&nbsp;</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">50, 000</span></td></tr></tbody></table><p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Total cost of the project includes cost of development and maintenance. What is the LOC for L1 for which of the cost of the project using L1 is equal to the cost of the project using L2?</span></p>",
+      "rawQuestionHtml": "<a name=\"2107\"></a><div itemprop=\"text\"><p style=\"text-align:justify\"><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">A company needs to develop a strategy for software product development for which it has a choice of two programming languages L1 and L2. The number lines of code (LOC) developed using L2 is estimated to be twice of the LOC developed with L1. The product will have to be maintained for five years. Various parameters for the company are given in the table below.</span></p><table border=\"1\" cellpadding=\"1\" style=\"margin:auto; width:500px; border-spacing: 1px;\"><tbody><tr><td><strong>Parameter</strong></td><td><strong>Language L1</strong></td><td><strong>Language L2</strong></td></tr><tr><td>Man years needed for development</td><td>LOC/10000</td><td>LOC/10000</td></tr><tr><td>Development Cost per man year</td><td><span style=\"color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र&nbsp;</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">10, 00, 000</span></td><td><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;7, 50, 000</span></td></tr><tr><td>Maintenance Time</td><td>5 years</td><td>5 years</td></tr><tr><td>Cost of maintenance per year</td><td><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif; font-size:14px\">र</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;1,00,000</span></td><td><span style=\"background-color:transparent; font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\"><span style=\"background-color:transparent; color:rgb(37, 37, 37); font-family:sans-serif\">र</span>&nbsp;</span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">50, 000</span></td></tr></tbody></table><p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Total cost of the project includes cost of development and maintenance. What is the LOC for L1 for which of the cost of the project using L1 is equal to the cost of the project using L2?</span></p><ol style=\"list-style-type: upper-alpha;\"><li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4000</span></li><li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">5000</span></li><li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4333</span></li><li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4667</span></li></ol></div>",
+      "options": [
+        "4000",
+        "5000",
+        "4333",
+        "4667"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "4000",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4000</span>"
+        },
+        {
+          "label": "B",
+          "text": "5000",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">5000</span>"
+        },
+        {
+          "label": "C",
+          "text": "4333",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4333</span>"
+        },
+        {
+          "label": "D",
+          "text": "4667",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">4667</span>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2107/gate-cse-2011-question-5-isro2016-64",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2107/gate-cse-2011-question-5-isro2016-64"
+    },
+    {
+      "id": "go:2170",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 5,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 60",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Choose the word from the options given below that is most nearly opposite in the meaning to the given word</p>\n<p><strong>Amalgamate</strong></p>",
+      "rawQuestionHtml": "<p>Choose the word from the options given below that is most nearly opposite in the meaning to the given word</p>\n<p><strong>Amalgamate</strong></p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>merge</li>\n<li>split</li>\n<li>collect</li>\n<li>separate</li>\n</ol>",
+      "options": [
+        "merge",
+        "split",
+        "collect",
+        "separate"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "merge",
+          "html": "merge"
+        },
+        {
+          "label": "B",
+          "text": "split",
+          "html": "split"
+        },
+        {
+          "label": "C",
+          "text": "collect",
+          "html": "collect"
+        },
+        {
+          "label": "D",
+          "text": "separate",
+          "html": "separate"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2170/gate-cse-2011-question-60",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2170/gate-cse-2011-question-60"
+    },
+    {
+      "id": "go:2108",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 6, UGCNET-June2013-III: 62",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Let the time taken to switch from user mode to kernel mode of execution be $T1$ while time taken to switch between two user processes be $T2$. Which of the following is correct?</p>",
+      "rawQuestionHtml": "<p>Let the time taken to switch from user mode to kernel mode of execution be $T1$ while time taken to switch between two user processes be $T2$. Which of the following is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$T1 &gt; T2$</li>\n<li>$T1 = T2$</li>\n<li>$T1 &lt; T2$</li>\n<li>Nothing can be said about the relation between $T1$ and $T2$</li>\n</ol>",
+      "options": [
+        "$T1 &gt; T2$",
+        "$T1 = T2$",
+        "$T1 &lt; T2$",
+        "Nothing can be said about the relation between $T1$ and $T2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$T1 &gt; T2$",
+          "html": "$T1 &gt; T2$"
+        },
+        {
+          "label": "B",
+          "text": "$T1 = T2$",
+          "html": "$T1 = T2$"
+        },
+        {
+          "label": "C",
+          "text": "$T1 &lt; T2$",
+          "html": "$T1 &lt; T2$"
+        },
+        {
+          "label": "D",
+          "text": "Nothing can be said about the relation between $T1$ and $T2$",
+          "html": "Nothing can be said about the relation between $T1$ and $T2$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2108/gate-cse-2011-question-6-ugcnet-june2013-iii-62",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2108/gate-cse-2011-question-6-ugcnet-june2013-iii-62"
+    },
+    {
+      "id": "go:2171",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 6,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 61",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p><strong>Few school curricula include a unit on how to deal with bereavement and grief, and yet all students at some point in their lives suffer from losses through death and parting.</strong></p>\n<p>Based on the above passage which topic would not be included in a unit on bereavement?</p>",
+      "rawQuestionHtml": "<p><strong>Few school curricula include a unit on how to deal with bereavement and grief, and yet all students at some point in their lives suffer from losses through death and parting.</strong></p>\n<p>Based on the above passage which topic would not be included in a unit on bereavement?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>how to write a letter of condolence</li>\n<li>what emotional stages are passed through in the healing process</li>\n<li>what the leading causes of death are</li>\n<li>how to give support to a grieving friend</li>\n</ol>",
+      "options": [
+        "how to write a letter of condolence",
+        "what emotional stages are passed through in the healing process",
+        "what the leading causes of death are",
+        "how to give support to a grieving friend"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "how to write a letter of condolence",
+          "html": "how to write a letter of condolence"
+        },
+        {
+          "label": "B",
+          "text": "what emotional stages are passed through in the healing process",
+          "html": "what emotional stages are passed through in the healing process"
+        },
+        {
+          "label": "C",
+          "text": "what the leading causes of death are",
+          "html": "what the leading causes of death are"
+        },
+        {
+          "label": "D",
+          "text": "how to give support to a grieving friend",
+          "html": "how to give support to a grieving friend"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2171/gate-cse-2011-question-61",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2171/gate-cse-2011-question-61"
+    },
+    {
+      "id": "go:2109",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 7",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A company needs to develop a digital signal processing software for one of its newest inventions. The software is expected to have 40000 lines of code. The company needs to determine the effort in person-months needed to develop this software using the basic COCOMO model. The multiplicative factor for this model is given as 2.8 for the software development on embedded systems, while the exponentiation factor is given as 1.20. What is the estimated effort in person-months?</p>",
+      "rawQuestionHtml": "<a name=\"2109\"></a><div itemprop=\"text\">\n<p>A company needs to develop a digital signal processing software for one of its newest inventions. The software is expected to have 40000 lines of code. The company needs to determine the effort in person-months needed to develop this software using the basic COCOMO model. The multiplicative factor for this model is given as 2.8 for the software development on embedded systems, while the exponentiation factor is given as 1.20. What is the estimated effort in person-months?</p>\n\n<ol style=\"list-style-type: upper-alpha;\"><li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">234.25</span></li>\n\t<li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">932.50</span></li>\n\t<li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">287.80</span></li>\n\t<li><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">122.40</span></li>\n</ol>\n</div>",
+      "options": [
+        "234.25",
+        "932.50",
+        "287.80",
+        "122.40"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "234.25",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">234.25</span>"
+        },
+        {
+          "label": "B",
+          "text": "932.50",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">932.50</span>"
+        },
+        {
+          "label": "C",
+          "text": "287.80",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">287.80</span>"
+        },
+        {
+          "label": "D",
+          "text": "122.40",
+          "html": "<span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">122.40</span>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2109/gate-cse-2011-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2109/gate-cse-2011-question-7"
+    },
+    {
+      "id": "go:2172",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 7,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 62",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>$P, Q, R$ and $S$ are four types of dangerous microbes recently found in a human habitat. The area of each circle with its diameter printed in brackets represents the growth of a single microbe surviving human immunity system within $24$ hours of entering the body. The danger to human beings varies proportionately with the toxicity, potency and growth attributed to a microbe shown in the figure below:</p>\n<p><img alt=\"\" height=\"352\" src=\"/Gate_QA/question-images/11916305292822871507.webp\" width=\"576\"/></p>\n<p>A pharmaceutical company is contemplating the development of a vaccine against the most dangerous microbe. Which microbe should the company target in its first attempt?</p>",
+      "rawQuestionHtml": "<p>$P, Q, R$ and $S$ are four types of dangerous microbes recently found in a human habitat. The area of each circle with its diameter printed in brackets represents the growth of a single microbe surviving human immunity system within $24$ hours of entering the body. The danger to human beings varies proportionately with the toxicity, potency and growth attributed to a microbe shown in the figure below:</p>\n<p><img alt=\"\" height=\"352\" src=\"/Gate_QA/question-images/11916305292822871507.webp\" width=\"576\"/></p>\n<p>A pharmaceutical company is contemplating the development of a vaccine against the most dangerous microbe. Which microbe should the company target in its first attempt?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$P$</li>\n<li>$Q$</li>\n<li>$R$</li>\n<li>$S$</li>\n</ol>",
+      "options": [
+        "$P$",
+        "$Q$",
+        "$R$",
+        "$S$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P$",
+          "html": "$P$"
+        },
+        {
+          "label": "B",
+          "text": "$Q$",
+          "html": "$Q$"
+        },
+        {
+          "label": "C",
+          "text": "$R$",
+          "html": "$R$"
+        },
+        {
+          "label": "D",
+          "text": "$S$",
+          "html": "$S$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2172/gate-cse-2011-question-62",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2172/gate-cse-2011-question-62"
+    },
+    {
+      "id": "go:2110",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 8",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Which of the following pairs have <strong>DIFFERENT </strong>expressive power?</p>",
+      "rawQuestionHtml": "<p>Which of the following pairs have <strong>DIFFERENT </strong>expressive power?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>Deterministic finite automata (DFA) and Non-deterministic finite automata (NFA)</li>\n<li>Deterministic push down automata (DPDA) and Non-deterministic push down automata (NPDA)</li>\n<li>Deterministic single tape Turing machine and Non-deterministic single tape Turing machine</li>\n<li>Single tape Turing machine and multi-tape Turing machine</li>\n</ol>",
+      "options": [
+        "Deterministic finite automata (DFA) and Non-deterministic finite automata (NFA)",
+        "Deterministic push down automata (DPDA) and Non-deterministic push down automata (NPDA)",
+        "Deterministic single tape Turing machine and Non-deterministic single tape Turing machine",
+        "Single tape Turing machine and multi-tape Turing machine"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Deterministic finite automata (DFA) and Non-deterministic finite automata (NFA)",
+          "html": "Deterministic finite automata (DFA) and Non-deterministic finite automata (NFA)"
+        },
+        {
+          "label": "B",
+          "text": "Deterministic push down automata (DPDA) and Non-deterministic push down automata (NPDA)",
+          "html": "Deterministic push down automata (DPDA) and Non-deterministic push down automata (NPDA)"
+        },
+        {
+          "label": "C",
+          "text": "Deterministic single tape Turing machine and Non-deterministic single tape Turing machine",
+          "html": "Deterministic single tape Turing machine and Non-deterministic single tape Turing machine"
+        },
+        {
+          "label": "D",
+          "text": "Single tape Turing machine and multi-tape Turing machine",
+          "html": "Single tape Turing machine and multi-tape Turing machine"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2110/gate-cse-2011-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2110/gate-cse-2011-question-8"
+    },
+    {
+      "id": "go:2173",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 8,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 63",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The variable cost $(V)$ of manufacturing a product varies according to the equation $V=4q$, where $q$ is the quantity produced. The fixed cost $(F)$ of production of same product reduces with $q$ according to the equation $F=\\dfrac{100}{q}$. How many units should be produced to minimize the total cost $(V+F)$?</p>",
+      "rawQuestionHtml": "<p>The variable cost $(V)$ of manufacturing a product varies according to the equation $V=4q$, where $q$ is the quantity produced. The fixed cost $(F)$ of production of same product reduces with $q$ according to the equation $F=\\dfrac{100}{q}$. How many units should be produced to minimize the total cost $(V+F)$?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$5$</li>\n<li>$4$</li>\n<li>$7$</li>\n<li>$6$</li>\n</ol>",
+      "options": [
+        "$5$",
+        "$4$",
+        "$7$",
+        "$6$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "B",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "C",
+          "text": "$7$",
+          "html": "$7$"
+        },
+        {
+          "label": "D",
+          "text": "$6$",
+          "html": "$6$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2173/gate-cse-2011-question-63",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2173/gate-cse-2011-question-63"
+    },
+    {
+      "id": "go:2111",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 9",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p style=\"text-align: justify;\"><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">HTML (HyperText Markup Language) has language element which permit certain actions other than describing the structure of the web document. Which one of the following actions is </span><strong>NOT </strong><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">supported by pure HTML (without any server or client side scripting) pages?</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(A) Embed web objects from different sites into the same page</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B) Refresh the page automatically after a specified interval </span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C) Automatically redirect to another page upon download</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D) Display the client time as part of the page</span></p>",
+      "rawQuestionHtml": "<p style=\"text-align: justify;\"><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">HTML (HyperText Markup Language) has language element which permit certain actions other than describing the structure of the web document. Which one of the following actions is </span><strong>NOT </strong><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">supported by pure HTML (without any server or client side scripting) pages?</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(A) Embed web objects from different sites into the same page</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B) Refresh the page automatically after a specified interval </span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C) Automatically redirect to another page upon download</span></p>\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D) Display the client time as part of the page</span></p>",
+      "options": [
+        "Embed web objects from different sites into the same page",
+        "Refresh the page automatically after a specified interval",
+        "Automatically redirect to another page upon download",
+        "Display the client time as part of the page"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Embed web objects from different sites into the same page",
+          "html": "Embed web objects from different sites into the same page</span>"
+        },
+        {
+          "label": "B",
+          "text": "Refresh the page automatically after a specified interval",
+          "html": "Refresh the page automatically after a specified interval </span>"
+        },
+        {
+          "label": "C",
+          "text": "Automatically redirect to another page upon download",
+          "html": "Automatically redirect to another page upon download</span>"
+        },
+        {
+          "label": "D",
+          "text": "Display the client time as part of the page",
+          "html": "Display the client time as part of the page</span>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2111/gate-cse-2011-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2111/gate-cse-2011-question-9"
+    },
+    {
+      "id": "go:2174",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 9,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 64",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A transporter receives the same number of orders each day. Currently, he has some pending orders (backlog) to be shipped. If he uses $7$ trucks, then at the end of the $4^{th}$ day he can clear all the orders. Alternatively, if he uses only $3$ trucks, then all the orders are cleared at the end of the $10^{th}$ day. What is the minimum number of trucks required so that there will be no pending order at the end of $5^{th}$ day?</p>",
+      "rawQuestionHtml": "<p>A transporter receives the same number of orders each day. Currently, he has some pending orders (backlog) to be shipped. If he uses $7$ trucks, then at the end of the $4^{th}$ day he can clear all the orders. Alternatively, if he uses only $3$ trucks, then all the orders are cleared at the end of the $10^{th}$ day. What is the minimum number of trucks required so that there will be no pending order at the end of $5^{th}$ day?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n<li>$7$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$7$",
+          "html": "$7$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2174/gate-cse-2011-question-64",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2174/gate-cse-2011-question-64"
+    },
+    {
+      "id": "go:2112",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 10",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Which one of the following is&nbsp;</span><strong>NOT</strong><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;desired in a good Software Requirement Specifications (SRS) document?</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif\"><span style=\"font-size:14px\">(A)&nbsp;</span></span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Functional Requirements</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B)&nbsp;Non-Functional Requirements</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C)&nbsp;Goals of Implementation</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D)&nbsp;Algorithm for Software Implementation</span></p>",
+      "rawQuestionHtml": "<a name=\"2112\"></a><div itemprop=\"text\">\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Which one of the following is&nbsp;</span><strong>NOT</strong><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">&nbsp;desired in a good Software Requirement Specifications (SRS) document?</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif\"><span style=\"font-size:14px\">(A)&nbsp;</span></span><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Functional Requirements</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B)&nbsp;Non-Functional Requirements</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C)&nbsp;Goals of Implementation</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D)&nbsp;Algorithm for Software Implementation</span></p>\n</div>",
+      "options": [
+        "Non-Functional Requirements",
+        "Goals of Implementation",
+        "Algorithm for Software Implementation"
+      ],
+      "structuredOptions": [
+        {
+          "label": "B",
+          "text": "Non-Functional Requirements",
+          "html": "&nbsp;Non-Functional Requirements</span>"
+        },
+        {
+          "label": "C",
+          "text": "Goals of Implementation",
+          "html": "&nbsp;Goals of Implementation</span>"
+        },
+        {
+          "label": "D",
+          "text": "Algorithm for Software Implementation",
+          "html": "&nbsp;Algorithm for Software Implementation</span>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2112/gate-cse-2011-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2112/gate-cse-2011-question-10"
+    },
+    {
+      "id": "go:2175",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 10,
+      "section": "GA",
+      "title": "GATE CSE 2011 | Question: 65",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A container originally contains $10$ litres of pure spirit. From this container, $1$ litre of spirit replaced with $1$ litre of water. Subsequently, $1$ litre of the mixture is again replaced with $1$ litre of water and this process is repeated one more time. How much spirit is now left in the container?</p>",
+      "rawQuestionHtml": "<p>A container originally contains $10$ litres of pure spirit. From this container, $1$ litre of spirit replaced with $1$ litre of water. Subsequently, $1$ litre of the mixture is again replaced with $1$ litre of water and this process is repeated one more time. How much spirit is now left in the container?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$7.58$ litres</li>\n<li>$7.84$ litres</li>\n<li>$7$ litres</li>\n<li>$7.29$ litres</li>\n</ol>",
+      "options": [
+        "$7.58$ litres",
+        "$7.84$ litres",
+        "$7$ litres",
+        "$7.29$ litres"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$7.58$ litres",
+          "html": "$7.58$ litres"
+        },
+        {
+          "label": "B",
+          "text": "$7.84$ litres",
+          "html": "$7.84$ litres"
+        },
+        {
+          "label": "C",
+          "text": "$7$ litres",
+          "html": "$7$ litres"
+        },
+        {
+          "label": "D",
+          "text": "$7.29$ litres",
+          "html": "$7.29$ litres"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2175/gate-cse-2011-question-65",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2175/gate-cse-2011-question-65"
+    },
+    {
+      "id": "go:2113",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 11",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "MCQ",
+      "question": "<p>A computer handles several interrupt sources of which of the following are relevant for this question.</p>\n<ul>\n<li>Interrupt from CPU temperature sensor (raises interrupt if CPU temperature is too high)</li>\n<li>Interrupt from Mouse (raises Interrupt if the mouse is moved or a button is pressed)</li>\n<li>Interrupt from Keyboard (raises Interrupt if a key is pressed or released)</li>\n<li>Interrupt from Hard Disk (raises Interrupt when a disk read is completed)</li>\n</ul>\n<div style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;\">Which one of these will be handled at the <strong>HIGHEST</strong> priority?",
+      "rawQuestionHtml": "<p>A computer handles several interrupt sources of which of the following are relevant for this question.</p>\n<ul>\n<li>Interrupt from CPU temperature sensor (raises interrupt if CPU temperature is too high)</li>\n<li>Interrupt from Mouse (raises Interrupt if the mouse is moved or a button is pressed)</li>\n<li>Interrupt from Keyboard (raises Interrupt if a key is pressed or released)</li>\n<li>Interrupt from Hard Disk (raises Interrupt when a disk read is completed)</li>\n</ul>\n<div style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;\">Which one of these will be handled at the <strong>HIGHEST</strong> priority?</div>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li>Interrupt from Hard Disk</li>\n<li>Interrupt from Mouse</li>\n<li>Interrupt from Keyboard</li>\n<li>Interrupt from CPU temperature sensor</li>\n</ol>",
+      "options": [
+        "Interrupt from Hard Disk",
+        "Interrupt from Mouse",
+        "Interrupt from Keyboard",
+        "Interrupt from CPU temperature sensor"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Interrupt from Hard Disk",
+          "html": "Interrupt from Hard Disk"
+        },
+        {
+          "label": "B",
+          "text": "Interrupt from Mouse",
+          "html": "Interrupt from Mouse"
+        },
+        {
+          "label": "C",
+          "text": "Interrupt from Keyboard",
+          "html": "Interrupt from Keyboard"
+        },
+        {
+          "label": "D",
+          "text": "Interrupt from CPU temperature sensor",
+          "html": "Interrupt from CPU temperature sensor"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2113/gate-cse-2011-question-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2113/gate-cse-2011-question-11"
+    },
+    {
+      "id": "go:2114",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 12",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Consider a relational table with a single record for each registered student with the following attributes:</p>\n<ol>\n<li>$\\text {Registration_Num:}$ Unique registration number for each registered student</li>\n<li>$\\text {UID:}$ Unique identity number, unique at the national level for each citizen</li>\n<li>$\\text {BankAccount_Num:}$ Unique account number at the bank. A student can have multiple accounts or joint accounts. This attribute stores the primary account number.</li>\n<li>$\\text {Name:}$ Name of the student</li>\n<li>$\\text {Hostel_Room:}$ Room number of the hostel</li>\n</ol>\n<p>Which of the following options is <strong>INCORRECT</strong>?</p>",
+      "rawQuestionHtml": "<p>Consider a relational table with a single record for each registered student with the following attributes:</p>\n<ol>\n<li>$\\text {Registration_Num:}$ Unique registration number for each registered student</li>\n<li>$\\text {UID:}$ Unique identity number, unique at the national level for each citizen</li>\n<li>$\\text {BankAccount_Num:}$ Unique account number at the bank. A student can have multiple accounts or joint accounts. This attribute stores the primary account number.</li>\n<li>$\\text {Name:}$ Name of the student</li>\n<li>$\\text {Hostel_Room:}$ Room number of the hostel</li>\n</ol>\n<p>Which of the following options is <strong>INCORRECT</strong>?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$\\text {BankAccount_Num}$ is a candidate key</li>\n<li>$\\text {Registration_Num}$ can be a primary key</li>\n<li>$\\text {UID}$ is a candidate key if all students are from the same country</li>\n<li>If $S$ is a super key such that $S \\cap \\text{UID}$ is $\\text{NULL}$ then $S \\cup \\text{UID}$ is also a superkey</li>\n</ol>",
+      "options": [
+        "$\\text {BankAccount_Num}$ is a candidate key",
+        "$\\text {Registration_Num}$ can be a primary key",
+        "$\\text {UID}$ is a candidate key if all students are from the same country",
+        "If $S$ is a super key such that $S \\cap \\text{UID}$ is $\\text{NULL}$ then $S \\cup \\text{UID}$ is also a superkey"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text {BankAccount_Num}$ is a candidate key",
+          "html": "$\\text {BankAccount_Num}$ is a candidate key"
+        },
+        {
+          "label": "B",
+          "text": "$\\text {Registration_Num}$ can be a primary key",
+          "html": "$\\text {Registration_Num}$ can be a primary key"
+        },
+        {
+          "label": "C",
+          "text": "$\\text {UID}$ is a candidate key if all students are from the same country",
+          "html": "$\\text {UID}$ is a candidate key if all students are from the same country"
+        },
+        {
+          "label": "D",
+          "text": "If $S$ is a super key such that $S \\cap \\text{UID}$ is $\\text{NULL}$ then $S \\cup \\text{UID}$ is also a superkey",
+          "html": "If $S$ is a super key such that $S \\cap \\text{UID}$ is $\\text{NULL}$ then $S \\cup \\text{UID}$ is also a superkey"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2114/gate-cse-2011-question-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2114/gate-cse-2011-question-12"
+    },
+    {
+      "id": "go:2115",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 13",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Which one of the following circuits is <strong>NOT </strong>equivalent to a $2$-input $XNOR$ (exclusive $NOR$) gate?</p>",
+      "rawQuestionHtml": "<p>Which one of the following circuits is <strong>NOT </strong>equivalent to a $2$-input $XNOR$ (exclusive $NOR$) gate?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/></li>\n</ol>",
+      "options": [
+        "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2115/gate-cse-2011-question-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2115/gate-cse-2011-question-13"
+    },
+    {
+      "id": "go:2116",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 14",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The simplified SOP (Sum of Product) from the Boolean expression</p>\n<p>$$(P + \\bar{Q} + \\bar{R}) . (P + \\bar{Q} + R) . (P + Q +\\bar{R})$$ is </p>",
+      "rawQuestionHtml": "<p>The simplified SOP (Sum of Product) from the Boolean expression</p>\n<p>$$(P + \\bar{Q} + \\bar{R}) . (P + \\bar{Q} + R) . (P + Q +\\bar{R})$$ is </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$(\\bar{P}.Q+\\bar{R})$</li>\n<li>$(P+\\bar{Q}.\\bar{R})$</li>\n<li>$(\\bar{P}.Q+R)$</li>\n<li>$(P.Q+R)$</li>\n</ol>",
+      "options": [
+        "$(\\bar{P}.Q+\\bar{R})$",
+        "$(P+\\bar{Q}.\\bar{R})$",
+        "$(\\bar{P}.Q+R)$",
+        "$(P.Q+R)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(\\bar{P}.Q+\\bar{R})$",
+          "html": "$(\\bar{P}.Q+\\bar{R})$"
+        },
+        {
+          "label": "B",
+          "text": "$(P+\\bar{Q}.\\bar{R})$",
+          "html": "$(P+\\bar{Q}.\\bar{R})$"
+        },
+        {
+          "label": "C",
+          "text": "$(\\bar{P}.Q+R)$",
+          "html": "$(\\bar{P}.Q+R)$"
+        },
+        {
+          "label": "D",
+          "text": "$(P.Q+R)$",
+          "html": "$(P.Q+R)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2116/gate-cse-2011-question-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2116/gate-cse-2011-question-14"
+    },
+    {
+      "id": "go:2117",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 15",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The minimum number of $\\text{D}$ flip-flops needed to design a mod-258 counter is</p>",
+      "rawQuestionHtml": "<p>The minimum number of $\\text{D}$ flip-flops needed to design a mod-258 counter is</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>9</li>\n<li>8</li>\n<li>512</li>\n<li>258</li>\n</ol>",
+      "options": [
+        "9",
+        "8",
+        "512",
+        "258"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "label": "C",
+          "text": "512",
+          "html": "512"
+        },
+        {
+          "label": "D",
+          "text": "258",
+          "html": "258"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2117/gate-cse-2011-question-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2117/gate-cse-2011-question-15"
+    },
+    {
+      "id": "go:2118",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 16, UGCNET-June2013-III: 65",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>A thread is usually defined as a light weight process because an Operating System (OS) maintains smaller data structure for a thread than for a process. In relation to this, which of the following statement is correct?</p>",
+      "rawQuestionHtml": "<p>A thread is usually defined as a light weight process because an Operating System (OS) maintains smaller data structure for a thread than for a process. In relation to this, which of the following statement is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>OS maintains only scheduling and accounting information for each thread</li>\n<li>OS maintains only CPU registers for each thread</li>\n<li>OS does not maintain virtual memory state for each thread</li>\n<li>OS does not maintain a separate stack for each thread</li>\n</ol>",
+      "options": [
+        "OS maintains only scheduling and accounting information for each thread",
+        "OS maintains only CPU registers for each thread",
+        "OS does not maintain virtual memory state for each thread",
+        "OS does not maintain a separate stack for each thread"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "OS maintains only scheduling and accounting information for each thread",
+          "html": "OS maintains only scheduling and accounting information for each thread"
+        },
+        {
+          "label": "B",
+          "text": "OS maintains only CPU registers for each thread",
+          "html": "OS maintains only CPU registers for each thread"
+        },
+        {
+          "label": "C",
+          "text": "OS does not maintain virtual memory state for each thread",
+          "html": "OS does not maintain virtual memory state for each thread"
+        },
+        {
+          "label": "D",
+          "text": "OS does not maintain a separate stack for each thread",
+          "html": "OS does not maintain a separate stack for each thread"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2118/gate-cse-2011-question-16-ugcnet-june2013-iii-65",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2118/gate-cse-2011-question-16-ugcnet-june2013-iii-65"
+    },
+    {
+      "id": "go:2119",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 17",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/Gate_QA/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/Gate_QA/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>",
+      "rawQuestionHtml": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/Gate_QA/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/Gate_QA/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>K4 is a planar while Q3 is not</li>\n<li>Both K4 and Q3 are planar</li>\n<li>Q3 is planar while K4 is not</li>\n<li>Neither K4 nor Q3 is planar</li>\n</ol>",
+      "options": [
+        "K4 is a planar while Q3 is not",
+        "Both K4 and Q3 are planar",
+        "Q3 is planar while K4 is not",
+        "Neither K4 nor Q3 is planar"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "K4 is a planar while Q3 is not",
+          "html": "K4 is a planar while Q3 is not"
+        },
+        {
+          "label": "B",
+          "text": "Both K4 and Q3 are planar",
+          "html": "Both K4 and Q3 are planar"
+        },
+        {
+          "label": "C",
+          "text": "Q3 is planar while K4 is not",
+          "html": "Q3 is planar while K4 is not"
+        },
+        {
+          "label": "D",
+          "text": "Neither K4 nor Q3 is planar",
+          "html": "Neither K4 nor Q3 is planar"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2119/gate-cse-2011-question-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2119/gate-cse-2011-question-17"
+    },
+    {
+      "id": "go:2120",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 18",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>If the difference between the expectation of the square of a random variable $\\left(E\\left[X^2\\right]\\right)$ and the square of the expectation of the random variable $\\left(E\\left[X\\right]\\right)^2$ is denoted by $R$, then</p>",
+      "rawQuestionHtml": "<p>If the difference between the expectation of the square of a random variable $\\left(E\\left[X^2\\right]\\right)$ and the square of the expectation of the random variable $\\left(E\\left[X\\right]\\right)^2$ is denoted by $R$, then</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$R=0$</li>\n<li>$R&lt;0$</li>\n<li>$R\\geq 0$</li>\n<li>$R &gt; 0$</li>\n</ol>",
+      "options": [
+        "$R=0$",
+        "$R&lt;0$",
+        "$R\\geq 0$",
+        "$R &gt; 0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$R=0$",
+          "html": "$R=0$"
+        },
+        {
+          "label": "B",
+          "text": "$R&lt;0$",
+          "html": "$R&lt;0$"
+        },
+        {
+          "label": "C",
+          "text": "$R\\geq 0$",
+          "html": "$R\\geq 0$"
+        },
+        {
+          "label": "D",
+          "text": "$R &gt; 0$",
+          "html": "$R &gt; 0$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2120/gate-cse-2011-question-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2120/gate-cse-2011-question-18"
+    },
+    {
+      "id": "go:2121",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 19",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>The lexical analysis for a modern computer language such as Java needs the power of which one of the following machine models in a necessary and sufficient sense?</p>",
+      "rawQuestionHtml": "<p>The lexical analysis for a modern computer language such as Java needs the power of which one of the following machine models in a necessary and sufficient sense?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>Finite state automata</li>\n<li>Deterministic pushdown automata</li>\n<li>Non-deterministic pushdown automata</li>\n<li>Turing machine</li>\n</ol>",
+      "options": [
+        "Finite state automata",
+        "Deterministic pushdown automata",
+        "Non-deterministic pushdown automata",
+        "Turing machine"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Finite state automata",
+          "html": "Finite state automata"
+        },
+        {
+          "label": "B",
+          "text": "Deterministic pushdown automata",
+          "html": "Deterministic pushdown automata"
+        },
+        {
+          "label": "C",
+          "text": "Non-deterministic pushdown automata",
+          "html": "Non-deterministic pushdown automata"
+        },
+        {
+          "label": "D",
+          "text": "Turing machine",
+          "html": "Turing machine"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2121/gate-cse-2011-question-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2121/gate-cse-2011-question-19"
+    },
+    {
+      "id": "go:2122",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 20, UGCNET-June2013-II: 48",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Let the page fault service time be $10$ milliseconds(ms) in a computer with average memory access time being $20$ nanoseconds (ns). If one page fault is generated every $10^6$ memory accesses, what is the effective access time for memory?</p>",
+      "rawQuestionHtml": "<p>Let the page fault service time be $10$ milliseconds(ms) in a computer with average memory access time being $20$ nanoseconds (ns). If one page fault is generated every $10^6$ memory accesses, what is the effective access time for memory?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$21$ ns</li>\n<li>$30$ ns</li>\n<li>$23$ ns</li>\n<li>$35$ ns</li>\n</ol>",
+      "options": [
+        "$21$ ns",
+        "$30$ ns",
+        "$23$ ns",
+        "$35$ ns"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$21$ ns",
+          "html": "$21$ ns"
+        },
+        {
+          "label": "B",
+          "text": "$30$ ns",
+          "html": "$30$ ns"
+        },
+        {
+          "label": "C",
+          "text": "$23$ ns",
+          "html": "$23$ ns"
+        },
+        {
+          "label": "D",
+          "text": "$35$ ns",
+          "html": "$35$ ns"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2122/gate-cse-2011-question-20-ugcnet-june2013-ii-48",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2122/gate-cse-2011-question-20-ugcnet-june2013-ii-48"
+    },
+    {
+      "id": "go:2123",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 21",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Consider a hypothetical processor with an instruction of type $\\text{LW  R1, 20(R2)}$, which during execution reads a $32\\text{-bit}$ word from memory and stores it in a $32\\text{-bit}$ register $\\text{R1}$. The effective address of the memory location is obtained by the addition of a constant $20$ and the contents of register $\\text{R2}$. Which of the following best reflects the addressing mode implemented by this instruction for the operand in memory?</p>",
+      "rawQuestionHtml": "<p>Consider a hypothetical processor with an instruction of type $\\text{LW  R1, 20(R2)}$, which during execution reads a $32\\text{-bit}$ word from memory and stores it in a $32\\text{-bit}$ register $\\text{R1}$. The effective address of the memory location is obtained by the addition of a constant $20$ and the contents of register $\\text{R2}$. Which of the following best reflects the addressing mode implemented by this instruction for the operand in memory?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Immediate addressing</li>\n<li>Register addressing</li>\n<li>Register Indirect Scaled Addressing</li>\n<li>Base Indexed Addressing</li>\n</ol>",
+      "options": [
+        "Immediate addressing",
+        "Register addressing",
+        "Register Indirect Scaled Addressing",
+        "Base Indexed Addressing"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Immediate addressing",
+          "html": "Immediate addressing"
+        },
+        {
+          "label": "B",
+          "text": "Register addressing",
+          "html": "Register addressing"
+        },
+        {
+          "label": "C",
+          "text": "Register Indirect Scaled Addressing",
+          "html": "Register Indirect Scaled Addressing"
+        },
+        {
+          "label": "D",
+          "text": "Base Indexed Addressing",
+          "html": "Base Indexed Addressing"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2123/gate-cse-2011-question-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2123/gate-cse-2011-question-21"
+    },
+    {
+      "id": "go:2124",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 22",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>What does the following fragment of C program print?</p>\n<pre class=\"prettyprint lang-c_cpp\">    char c = \"GATE2011\";\n    char *p = c;\n    printf(\"%s\", p + p[3] - p[1]);</pre>",
+      "rawQuestionHtml": "<p>What does the following fragment of C program print?</p>\n<pre class=\"prettyprint lang-c_cpp\">    char c = \"GATE2011\";\n    char *p = c;\n    printf(\"%s\", p + p[3] - p[1]);</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{GATE2011}$</li>\n<li>$\\text{E2011}$</li>\n<li>$2011$</li>\n<li>$011$</li>\n</ol>",
+      "options": [
+        "$\\text{GATE2011}$",
+        "$\\text{E2011}$",
+        "$2011$",
+        "$011$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{GATE2011}$",
+          "html": "$\\text{GATE2011}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{E2011}$",
+          "html": "$\\text{E2011}$"
+        },
+        {
+          "label": "C",
+          "text": "$2011$",
+          "html": "$2011$"
+        },
+        {
+          "label": "D",
+          "text": "$011$",
+          "html": "$011$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2124/gate-cse-2011-question-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2124/gate-cse-2011-question-22"
+    },
+    {
+      "id": "go:2125",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 23",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>A max-heap is a heap where the value of each parent is greater than or equal to the value of its children. Which of the following is a max-heap?</p>",
+      "rawQuestionHtml": "<p>A max-heap is a heap where the value of each parent is greater than or equal to the value of its children. Which of the following is a max-heap?</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>       <img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/></li>\n<li><img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/></li>\n<li>  <img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/></li>\n<li><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/></li>\n</ol>",
+      "options": [
+        "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>",
+        "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>",
+        "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>",
+        "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>",
+          "html": "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>",
+          "html": "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>",
+          "html": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>",
+          "html": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2125/gate-cse-2011-question-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2125/gate-cse-2011-question-23"
+    },
+    {
+      "id": "go:3429",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 24",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $P$ be a regular language and $Q$ be a context-free language such that $Q \\subseteq P$. (For example, let $P$ be the language represented by the regular expression $p^*q^*$ and $Q$ be $\\{p^nq^n \\mid n \\in N\\})$. Then which of the following is <strong>ALWAYS</strong> regular?</p>",
+      "rawQuestionHtml": "<p>Let $P$ be a regular language and $Q$ be a context-free language such that $Q \\subseteq P$. (For example, let $P$ be the language represented by the regular expression $p^*q^*$ and $Q$ be $\\{p^nq^n \\mid n \\in N\\})$. Then which of the following is <strong>ALWAYS</strong> regular?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$P \\cap Q$</li>\n<li>$P-Q$</li>\n<li>$\\Sigma^*-P$</li>\n<li>$\\Sigma^*-Q$</li>\n</ol>",
+      "options": [
+        "$P \\cap Q$",
+        "$P-Q$",
+        "$\\Sigma^*-P$",
+        "$\\Sigma^*-Q$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P \\cap Q$",
+          "html": "$P \\cap Q$"
+        },
+        {
+          "label": "B",
+          "text": "$P-Q$",
+          "html": "$P-Q$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Sigma^*-P$",
+          "html": "$\\Sigma^*-P$"
+        },
+        {
+          "label": "D",
+          "text": "$\\Sigma^*-Q$",
+          "html": "$\\Sigma^*-Q$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/3429/gate-cse-2011-question-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/3429/gate-cse-2011-question-24"
+    },
+    {
+      "id": "go:2127",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 25",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>An algorithm to find the length of the longest monotonically increasing sequence of numbers in an array $A[0:n-1]$ is given below.</p>\n<p>Let $L_i$, denote the length of the longest monotonically increasing sequence starting at index $i$ in the array.</p>\n<p>Initialize $L_{n-1} = 1$.</p>\n<p>For all $i$ such that $0 \\leq i \\leq n-2$</p>\n<p>$ L_i = \\begin{cases} 1+ L_{i+1} &amp;  \\quad\\text{if A[i] &lt; A[i+1]} \\\\ 1 &amp; \\quad\\text{Otherwise}\\end{cases} $</p>\n<p>Finally, the length of the longest monotonically increasing sequence is $\\text{max} \\:(L_0, L_1, \\dots , L_{n-1}).$</p>\n<p>Which of the following statements is <strong>TRUE</strong>?</p>",
+      "rawQuestionHtml": "<p>An algorithm to find the length of the longest monotonically increasing sequence of numbers in an array $A[0:n-1]$ is given below.</p>\n<p>Let $L_i$, denote the length of the longest monotonically increasing sequence starting at index $i$ in the array.</p>\n<p>Initialize $L_{n-1} = 1$.</p>\n<p>For all $i$ such that $0 \\leq i \\leq n-2$</p>\n<p>$ L_i = \\begin{cases} 1+ L_{i+1} &amp;  \\quad\\text{if A[i] &lt; A[i+1]} \\\\ 1 &amp; \\quad\\text{Otherwise}\\end{cases} $</p>\n<p>Finally, the length of the longest monotonically increasing sequence is $\\text{max} \\:(L_0, L_1, \\dots , L_{n-1}).$</p>\n<p>Which of the following statements is <strong>TRUE</strong>?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The algorithm uses dynamic programming paradigm</li>\n<li>The algorithm has a linear complexity and uses branch and bound paradigm</li>\n<li>The algorithm has a non-linear polynomial complexity and uses branch and bound paradigm</li>\n<li>The algorithm uses divide and conquer paradigm</li>\n</ol>",
+      "options": [
+        "The algorithm uses dynamic programming paradigm",
+        "The algorithm has a linear complexity and uses branch and bound paradigm",
+        "The algorithm has a non-linear polynomial complexity and uses branch and bound paradigm",
+        "The algorithm uses divide and conquer paradigm"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The algorithm uses dynamic programming paradigm",
+          "html": "The algorithm uses dynamic programming paradigm"
+        },
+        {
+          "label": "B",
+          "text": "The algorithm has a linear complexity and uses branch and bound paradigm",
+          "html": "The algorithm has a linear complexity and uses branch and bound paradigm"
+        },
+        {
+          "label": "C",
+          "text": "The algorithm has a non-linear polynomial complexity and uses branch and bound paradigm",
+          "html": "The algorithm has a non-linear polynomial complexity and uses branch and bound paradigm"
+        },
+        {
+          "label": "D",
+          "text": "The algorithm uses divide and conquer paradigm",
+          "html": "The algorithm uses divide and conquer paradigm"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2127/gate-cse-2011-question-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2127/gate-cse-2011-question-25"
+    },
+    {
+      "id": "go:2128",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 26",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the languages $L1, \\:L2 \\:and \\: L3$ as given below.</p>\n<p>$L1=\\{0^p 1^q \\mid p, q \\in N\\}, \\\\ L2 = \\{0^p 1^q \\mid p, q \\in N \\:and \\:p=q\\} \\: and \\\\ L3 = \\{0^p 1^q 0^r \\mid p, q, r \\in N\\: and \\: p=q=r\\}.$ </p>\n<p>Which of the following statements is <strong>NOT TRUE</strong>?</p>",
+      "rawQuestionHtml": "<p>Consider the languages $L1, \\:L2 \\:and \\: L3$ as given below.</p>\n<p>$L1=\\{0^p 1^q \\mid p, q \\in N\\}, \\\\ L2 = \\{0^p 1^q \\mid p, q \\in N \\:and \\:p=q\\} \\: and \\\\ L3 = \\{0^p 1^q 0^r \\mid p, q, r \\in N\\: and \\: p=q=r\\}.$ </p>\n<p>Which of the following statements is <strong>NOT TRUE</strong>?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>Push Down Automata (PDA) can be used to recognize $L1$ and $L2$</li>\n<li>$L1$ is a regular language</li>\n<li>All the three languages are context free</li>\n<li>Turing machines can be used to recognize all the languages</li>\n</ol>",
+      "options": [
+        "Push Down Automata (PDA) can be used to recognize $L1$ and $L2$",
+        "$L1$ is a regular language",
+        "All the three languages are context free",
+        "Turing machines can be used to recognize all the languages"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Push Down Automata (PDA) can be used to recognize $L1$ and $L2$",
+          "html": "Push Down Automata (PDA) can be used to recognize $L1$ and $L2$"
+        },
+        {
+          "label": "B",
+          "text": "$L1$ is a regular language",
+          "html": "$L1$ is a regular language"
+        },
+        {
+          "label": "C",
+          "text": "All the three languages are context free",
+          "html": "All the three languages are context free"
+        },
+        {
+          "label": "D",
+          "text": "Turing machines can be used to recognize all the languages",
+          "html": "Turing machines can be used to recognize all the languages"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2128/gate-cse-2011-question-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2128/gate-cse-2011-question-26"
+    },
+    {
+      "id": "go:2129",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 27",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Consider two binary operators $\\text{‘} \\uparrow \\text{’}$  and $\\text{‘} \\downarrow \\text{’}$ with the precedence of operator $\\downarrow$ being lower than that of the operator $\\uparrow$. Operator $\\uparrow$ is right associative while operator $\\downarrow$ is left associative. Which one of the following represents the parse tree for expression $(7 \\downarrow 3 \\uparrow 4 \\uparrow 3 \\downarrow 2)$</p>",
+      "rawQuestionHtml": "<p>Consider two binary operators $\\text{‘} \\uparrow \\text{’}$  and $\\text{‘} \\downarrow \\text{’}$ with the precedence of operator $\\downarrow$ being lower than that of the operator $\\uparrow$. Operator $\\uparrow$ is right associative while operator $\\downarrow$ is left associative. Which one of the following represents the parse tree for expression $(7 \\downarrow 3 \\uparrow 4 \\uparrow 3 \\downarrow 2)$</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/1651572004790271113.webp\" width=\"340\"/></li>\n<li><br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/14685249810066660094.webp\" width=\"340\"/>\n<p> </p>\n</li>\n<li><br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/5640214279654826605.webp\" width=\"340\"/>\n<p> </p>\n</li>\n<li><br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/9473099613090365677.webp\" width=\"340\"/></li>\n</ol>",
+      "options": [
+        "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/1651572004790271113.webp\" width=\"340\"/>",
+        "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/14685249810066660094.webp\" width=\"340\"/>\n<p> </p>",
+        "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/5640214279654826605.webp\" width=\"340\"/>\n<p> </p>",
+        "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/9473099613090365677.webp\" width=\"340\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/1651572004790271113.webp\" width=\"340\"/>",
+          "html": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/1651572004790271113.webp\" width=\"340\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/14685249810066660094.webp\" width=\"340\"/>\n<p> </p>",
+          "html": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/14685249810066660094.webp\" width=\"340\"/>\n<p> </p>"
+        },
+        {
+          "label": "C",
+          "text": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/5640214279654826605.webp\" width=\"340\"/>\n<p> </p>",
+          "html": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/5640214279654826605.webp\" width=\"340\"/>\n<p> </p>"
+        },
+        {
+          "label": "D",
+          "text": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/9473099613090365677.webp\" width=\"340\"/>",
+          "html": "<br/>\n<img alt=\"\" src=\"/Gate_QA/question-images/9473099613090365677.webp\" width=\"340\"/>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2129/gate-cse-2011-question-27",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2129/gate-cse-2011-question-27"
+    },
+    {
+      "id": "go:2130",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 28",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>On a non-pipelined sequential processor, a program segment, which is the part of the interrupt service routine, is given to transfer $500$ bytes from an I/O device to memory.</p>\n<pre class=\"prettyprint lang-c_cpp\">        Initialize the address register\n        Initialize the count to 500\nLOOP:   Load a byte from device              \n        Store in memory at address given by address register\n        Increment the address register\n        Decrement the count\n        If count !=0 go to LOOP</pre>\n<p>Assume that each statement in this program is equivalent to a machine instruction which takes one clock cycle to execute if it is a non-load/store instruction. The load-store instructions take two clock cycles to execute.</p>\n<p>The designer of the system also has an alternate approach of using the DMA controller to implement the same transfer. The DMA controller requires $20$ clock cycles for initialization and other overheads. Each DMA transfer cycle takes two clock cycles to transfer one byte of data from the device to the memory.</p>\n<p>What is the approximate speed up when the DMA controller based design is used in a place of the interrupt driven program based input-output?</p>",
+      "rawQuestionHtml": "<p>On a non-pipelined sequential processor, a program segment, which is the part of the interrupt service routine, is given to transfer $500$ bytes from an I/O device to memory.</p>\n<pre class=\"prettyprint lang-c_cpp\">        Initialize the address register\n        Initialize the count to 500\nLOOP:   Load a byte from device              \n        Store in memory at address given by address register\n        Increment the address register\n        Decrement the count\n        If count !=0 go to LOOP</pre>\n<p>Assume that each statement in this program is equivalent to a machine instruction which takes one clock cycle to execute if it is a non-load/store instruction. The load-store instructions take two clock cycles to execute.</p>\n<p>The designer of the system also has an alternate approach of using the DMA controller to implement the same transfer. The DMA controller requires $20$ clock cycles for initialization and other overheads. Each DMA transfer cycle takes two clock cycles to transfer one byte of data from the device to the memory.</p>\n<p>What is the approximate speed up when the DMA controller based design is used in a place of the interrupt driven program based input-output?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3.4$</li>\n<li>$4.4$</li>\n<li>$5.1$</li>\n<li>$6.7$</li>\n</ol>",
+      "options": [
+        "$3.4$",
+        "$4.4$",
+        "$5.1$",
+        "$6.7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3.4$",
+          "html": "$3.4$"
+        },
+        {
+          "label": "B",
+          "text": "$4.4$",
+          "html": "$4.4$"
+        },
+        {
+          "label": "C",
+          "text": "$5.1$",
+          "html": "$5.1$"
+        },
+        {
+          "label": "D",
+          "text": "$6.7$",
+          "html": "$6.7$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2130/gate-cse-2011-question-28",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2130/gate-cse-2011-question-28"
+    },
+    {
+      "id": "go:2131",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 29",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>We are given a set of $n$ distinct elements and an unlabeled binary tree with $n$ nodes. In how many ways can we populate the tree with the given set so that it becomes a binary search tree?</p>",
+      "rawQuestionHtml": "<p>We are given a set of $n$ distinct elements and an unlabeled binary tree with $n$ nodes. In how many ways can we populate the tree with the given set so that it becomes a binary search tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$1$</li>\n<li>$n!$</li>\n<li>$\\frac{1} {n+1} .^{2n}C_n$</li>\n</ol>",
+      "options": [
+        "$0$",
+        "$1$",
+        "$n!$",
+        "$\\frac{1} {n+1} .^{2n}C_n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$n!$",
+          "html": "$n!$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{1} {n+1} .^{2n}C_n$",
+          "html": "$\\frac{1} {n+1} .^{2n}C_n$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2131/gate-cse-2011-question-29",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2131/gate-cse-2011-question-29"
+    },
+    {
+      "id": "go:2132",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 30",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Which one of the following options is CORRECT given three positive integers $x, y$ and $z$, and a predicate<br/>\n$$P\\left(x\\right) = \\neg \\left(x=1\\right)\\wedge \\forall y \\left(\\exists z\\left(x=y*z\\right) \\Rightarrow \\left(y=x\\right) \\vee \\left(y=1\\right) \\right)$$</p>",
+      "rawQuestionHtml": "<p>Which one of the following options is CORRECT given three positive integers $x, y$ and $z$, and a predicate<br/>\n$$P\\left(x\\right) = \\neg \\left(x=1\\right)\\wedge \\forall y \\left(\\exists z\\left(x=y*z\\right) \\Rightarrow \\left(y=x\\right) \\vee \\left(y=1\\right) \\right)$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P(x)$ being true means that $x$ is a prime number</li>\n<li>$P(x)$ being true means that $x$ is a number other than $1$</li>\n<li>$P(x)$ is always true irrespective of the value of $x$</li>\n<li>$P(x)$ being true means that $x$ has exactly two factors other than $1$ and $x$</li>\n</ol>",
+      "options": [
+        "$P(x)$ being true means that $x$ is a prime number",
+        "$P(x)$ being true means that $x$ is a number other than $1$",
+        "$P(x)$ is always true irrespective of the value of $x$",
+        "$P(x)$ being true means that $x$ has exactly two factors other than $1$ and $x$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P(x)$ being true means that $x$ is a prime number",
+          "html": "$P(x)$ being true means that $x$ is a prime number"
+        },
+        {
+          "label": "B",
+          "text": "$P(x)$ being true means that $x$ is a number other than $1$",
+          "html": "$P(x)$ being true means that $x$ is a number other than $1$"
+        },
+        {
+          "label": "C",
+          "text": "$P(x)$ is always true irrespective of the value of $x$",
+          "html": "$P(x)$ is always true irrespective of the value of $x$"
+        },
+        {
+          "label": "D",
+          "text": "$P(x)$ being true means that $x$ has exactly two factors other than $1$ and $x$",
+          "html": "$P(x)$ being true means that $x$ has exactly two factors other than $1$ and $x$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2132/gate-cse-2011-question-30",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2132/gate-cse-2011-question-30"
+    },
+    {
+      "id": "go:2133",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 31",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Given $i = \\sqrt{-1}$, what will be the evaluation of the definite integral $\\int \\limits_0^{\\pi/2} \\dfrac{\\cos x +i \\sin x} {\\cos x - i \\sin x} dx$ ?</p>",
+      "rawQuestionHtml": "<p>Given $i = \\sqrt{-1}$, what will be the evaluation of the definite integral $\\int \\limits_0^{\\pi/2} \\dfrac{\\cos x +i \\sin x} {\\cos x - i \\sin x} dx$ ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$2$</li>\n<li>$-i$</li>\n<li>$i$</li>\n</ol>",
+      "options": [
+        "$0$",
+        "$2$",
+        "$-i$",
+        "$i$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$-i$",
+          "html": "$-i$"
+        },
+        {
+          "label": "D",
+          "text": "$i$",
+          "html": "$i$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2133/gate-cse-2011-question-31",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2133/gate-cse-2011-question-31"
+    },
+    {
+      "id": "go:2134",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 32",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Consider a database table T containing two columns $\\text{X}$ and $\\text{Y}$ each of type $\\text{integer}$. After the creation of the table, one record $\\text{(X=1, Y=1)}$ is inserted in the table.</p>\n<p>Let $\\text{MX}$ and $\\text{MY}$ denote the respective maximum values of $\\text{X}$ and $\\text{Y}$ among all records in the table at any point in time. Using $\\text{MX}$ and $\\text{MY}$, new records are inserted in the table $128$ times with $\\text{X}$ and $\\text{Y}$ values being $\\text{MX+1, 2*MY+1}$ respectively. It may be noted that each time after the insertion, values of $\\text{MX}$ and $\\text{MY}$ change.</p>\n<p>What will be the output of the following SQL query after the steps mentioned above are carried out?</p>\n<pre class=\"prettyprint lang-sql\">SELECT Y FROM T WHERE X=7;</pre>",
+      "rawQuestionHtml": "<p>Consider a database table T containing two columns $\\text{X}$ and $\\text{Y}$ each of type $\\text{integer}$. After the creation of the table, one record $\\text{(X=1, Y=1)}$ is inserted in the table.</p>\n<p>Let $\\text{MX}$ and $\\text{MY}$ denote the respective maximum values of $\\text{X}$ and $\\text{Y}$ among all records in the table at any point in time. Using $\\text{MX}$ and $\\text{MY}$, new records are inserted in the table $128$ times with $\\text{X}$ and $\\text{Y}$ values being $\\text{MX+1, 2*MY+1}$ respectively. It may be noted that each time after the insertion, values of $\\text{MX}$ and $\\text{MY}$ change.</p>\n<p>What will be the output of the following SQL query after the steps mentioned above are carried out?</p>\n<pre class=\"prettyprint lang-sql\">SELECT Y FROM T WHERE X=7;</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$127$</li>\n<li>$255$</li>\n<li>$129$</li>\n<li>$257$</li>\n</ol>",
+      "options": [
+        "$127$",
+        "$255$",
+        "$129$",
+        "$257$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$127$",
+          "html": "$127$"
+        },
+        {
+          "label": "B",
+          "text": "$255$",
+          "html": "$255$"
+        },
+        {
+          "label": "C",
+          "text": "$129$",
+          "html": "$129$"
+        },
+        {
+          "label": "D",
+          "text": "$257$",
+          "html": "$257$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2134/gate-cse-2011-question-32",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2134/gate-cse-2011-question-32"
+    },
+    {
+      "id": "go:2135",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 33",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Consider a finite sequence of random values $X=[x_1,x_2,\\dots x_n]$. Let $\\mu_x$ be the mean and $\\sigma_x$ be the standard deviation of $X$. Let another finite sequence $Y$ of equal length be derived from this as $y_i=a*x_i+b$, where $a$ and $b$ are positive constants. Let $\\mu_y$ be the mean and $\\sigma_y$ be the standard deviation of this sequence.</p>\n<p>Which one of the following statements is <strong>INCORRECT</strong>?</p>",
+      "rawQuestionHtml": "<p>Consider a finite sequence of random values $X=[x_1,x_2,\\dots x_n]$. Let $\\mu_x$ be the mean and $\\sigma_x$ be the standard deviation of $X$. Let another finite sequence $Y$ of equal length be derived from this as $y_i=a*x_i+b$, where $a$ and $b$ are positive constants. Let $\\mu_y$ be the mean and $\\sigma_y$ be the standard deviation of this sequence.</p>\n<p>Which one of the following statements is <strong>INCORRECT</strong>?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>Index position of mode of $X$ in $X$ is the same as the index position of mode of $Y$ in $Y$</li>\n<li>Index position of median of $X$ in $X$ is the same as the index position of median of $Y$ in $Y$</li>\n<li>$\\mu_y=a \\mu_x + b$</li>\n<li>$\\sigma_y=a \\sigma_x + b$</li>\n</ol>",
+      "options": [
+        "Index position of mode of $X$ in $X$ is the same as the index position of mode of $Y$ in $Y$",
+        "Index position of median of $X$ in $X$ is the same as the index position of median of $Y$ in $Y$",
+        "$\\mu_y=a \\mu_x + b$",
+        "$\\sigma_y=a \\sigma_x + b$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Index position of mode of $X$ in $X$ is the same as the index position of mode of $Y$ in $Y$",
+          "html": "Index position of mode of $X$ in $X$ is the same as the index position of mode of $Y$ in $Y$"
+        },
+        {
+          "label": "B",
+          "text": "Index position of median of $X$ in $X$ is the same as the index position of median of $Y$ in $Y$",
+          "html": "Index position of median of $X$ in $X$ is the same as the index position of median of $Y$ in $Y$"
+        },
+        {
+          "label": "C",
+          "text": "$\\mu_y=a \\mu_x + b$",
+          "html": "$\\mu_y=a \\mu_x + b$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sigma_y=a \\sigma_x + b$",
+          "html": "$\\sigma_y=a \\sigma_x + b$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2135/gate-cse-2011-question-33",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2135/gate-cse-2011-question-33"
+    },
+    {
+      "id": "go:2136",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 34",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A deck of $5$ cards (each carrying a distinct number from $1$ to $5$) is shuffled thoroughly. Two cards are then removed one at a time from the deck. What is the probability that the two cards are selected with the number on the first card being one higher than the number on the second card?<br/>\n </p>",
+      "rawQuestionHtml": "<p>A deck of $5$ cards (each carrying a distinct number from $1$ to $5$) is shuffled thoroughly. Two cards are then removed one at a time from the deck. What is the probability that the two cards are selected with the number on the first card being one higher than the number on the second card?<br/>\n </p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li>$\\left(\\dfrac{1}{5}\\right)$  </li>\n<li>$\\left(\\dfrac{4}{25}\\right)$  </li>\n<li>$\\left(\\dfrac{1}{4}\\right)$  </li>\n<li>$\\left(\\dfrac{2}{5}\\right)$</li>\n</ol>",
+      "options": [
+        "$\\left(\\dfrac{1}{5}\\right)$",
+        "$\\left(\\dfrac{4}{25}\\right)$",
+        "$\\left(\\dfrac{1}{4}\\right)$",
+        "$\\left(\\dfrac{2}{5}\\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\left(\\dfrac{1}{5}\\right)$",
+          "html": "$\\left(\\dfrac{1}{5}\\right)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left(\\dfrac{4}{25}\\right)$",
+          "html": "$\\left(\\dfrac{4}{25}\\right)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(\\dfrac{1}{4}\\right)$",
+          "html": "$\\left(\\dfrac{1}{4}\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left(\\dfrac{2}{5}\\right)$",
+          "html": "$\\left(\\dfrac{2}{5}\\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2136/gate-cse-2011-question-34",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2136/gate-cse-2011-question-34"
+    },
+    {
+      "id": "go:2137",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 35",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Consider the following table of arrival time and burst time for three processes $P0, P1$ and $P2.$$$\\small \\begin{array}{|c|c|c|} \\hline \\textbf{Process} &amp; \\textbf{Arrival Time} &amp; \\textbf{Burst Time}\\\\\\hline \\text{P0} &amp; \\text{0 ms} &amp; 9 \\\\\\hline \\text{P1} &amp; \\text{1 ms} &amp; 4 \\\\\\hline \\text{P2} &amp; \\text{2 ms} &amp; 9 \\\\\\hline  \\end{array}$$The pre-emptive shortest job first scheduling algorithm is used. Scheduling is carried out only at arrival or completion of processes. What is the average waiting time for the three processes?</p>",
+      "rawQuestionHtml": "<p>Consider the following table of arrival time and burst time for three processes $P0, P1$ and $P2.$$$\\small \\begin{array}{|c|c|c|} \\hline \\textbf{Process} &amp; \\textbf{Arrival Time} &amp; \\textbf{Burst Time}\\\\\\hline \\text{P0} &amp; \\text{0 ms} &amp; 9 \\\\\\hline \\text{P1} &amp; \\text{1 ms} &amp; 4 \\\\\\hline \\text{P2} &amp; \\text{2 ms} &amp; 9 \\\\\\hline  \\end{array}$$The pre-emptive shortest job first scheduling algorithm is used. Scheduling is carried out only at arrival or completion of processes. What is the average waiting time for the three processes?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$5.0$ ms</li>\n<li>$4.33$ ms</li>\n<li>$6.33$ ms</li>\n<li>$7.33$ ms</li>\n</ol>",
+      "options": [
+        "$5.0$ ms",
+        "$4.33$ ms",
+        "$6.33$ ms",
+        "$7.33$ ms"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$5.0$ ms",
+          "html": "$5.0$ ms"
+        },
+        {
+          "label": "B",
+          "text": "$4.33$ ms",
+          "html": "$4.33$ ms"
+        },
+        {
+          "label": "C",
+          "text": "$6.33$ ms",
+          "html": "$6.33$ ms"
+        },
+        {
+          "label": "D",
+          "text": "$7.33$ ms",
+          "html": "$7.33$ ms"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2137/gate-cse-2011-question-35",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2137/gate-cse-2011-question-35"
+    },
+    {
+      "id": "go:2138",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 36",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>Consider evaluating the following expression tree on a machine with load-store architecture in which memory can be accessed only through load and store instructions. The variables $a, b, c, d,$ and $e$ are initially stored in memory. The binary operators used in this expression tree can be evaluated by the machine only when operands are in registers. The instructions produce result only in a register. If no intermediate results can be stored in memory, what is the minimum number of registers needed to evaluate this expression?</p>\n<p><img alt=\"\" height=\"274\" src=\"/Gate_QA/question-images/9249537303951334365.webp\" width=\"250\"/></p>",
+      "rawQuestionHtml": "<p>Consider evaluating the following expression tree on a machine with load-store architecture in which memory can be accessed only through load and store instructions. The variables $a, b, c, d,$ and $e$ are initially stored in memory. The binary operators used in this expression tree can be evaluated by the machine only when operands are in registers. The instructions produce result only in a register. If no intermediate results can be stored in memory, what is the minimum number of registers needed to evaluate this expression?</p>\n<p><img alt=\"\" height=\"274\" src=\"/Gate_QA/question-images/9249537303951334365.webp\" width=\"250\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$9$</li>\n<li>$5$</li>\n<li>$3$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$9$",
+        "$5$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2138/gate-cse-2011-question-36",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2138/gate-cse-2011-question-36"
+    },
+    {
+      "id": "go:2139",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 37",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Which of the given options provides the increasing order of asymptotic complexity of functions $f_1, f_2, f_3$ and $f_4$?</p>",
+      "rawQuestionHtml": "<p>Which of the given options provides the increasing order of asymptotic complexity of functions $f_1, f_2, f_3$ and $f_4$?</p>\n<ul>\n<li>$f_1(n) = 2^n$</li>\n<li>$f_2(n) = n^{3/2}$</li>\n<li>$f_3(n) = n \\log_2 n$</li>\n<li>$f_4(n) = n^{\\log_2 n}$</li>\n</ul>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f_3,  f_2, f_4, f_1$ </li>\n<li>$f_3, f_2, f_1, f_4$</li>\n<li>$f_2, f_3, f_1, f_4$</li>\n<li>$f_2, f_3, f_4, f_1$</li>\n</ol>",
+      "options": [
+        "$f_3, f_2, f_4, f_1$",
+        "$f_3, f_2, f_1, f_4$",
+        "$f_2, f_3, f_1, f_4$",
+        "$f_2, f_3, f_4, f_1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f_3, f_2, f_4, f_1$",
+          "html": "$f_3,  f_2, f_4, f_1$"
+        },
+        {
+          "label": "B",
+          "text": "$f_3, f_2, f_1, f_4$",
+          "html": "$f_3, f_2, f_1, f_4$"
+        },
+        {
+          "label": "C",
+          "text": "$f_2, f_3, f_1, f_4$",
+          "html": "$f_2, f_3, f_1, f_4$"
+        },
+        {
+          "label": "D",
+          "text": "$f_2, f_3, f_4, f_1$",
+          "html": "$f_2, f_3, f_4, f_1$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2139/gate-cse-2011-question-37",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2139/gate-cse-2011-question-37"
+    },
+    {
+      "id": "go:2140",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 38",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Four Matrices $M_1, M_2, M_3$ and $M_4$ of dimensions $ p \\times q, \\:\\:q \\times r, \\:\\:r \\times s$ and $s \\times t$ respectively can be multiplied in several ways with different number of total scalar multiplications. For example when multiplied as $((M_1 \\times M_2) \\times (M_3 \\times M_4))$, the total number of scalar multiplications is $pqr + rst + prt$. When multiplied as $(((M_1 \\times M_2) \\times M_3) \\times M_4)$, the total number of scalar multiplications is $pqr + prs + pst$.<br/>\n<br/>\nIf $p=10, q=100, r=20, s=5$ and $t=80$, then the minimum number of scalar multiplications needed is</p>",
+      "rawQuestionHtml": "<p>Four Matrices $M_1, M_2, M_3$ and $M_4$ of dimensions $ p \\times q, \\:\\:q \\times r, \\:\\:r \\times s$ and $s \\times t$ respectively can be multiplied in several ways with different number of total scalar multiplications. For example when multiplied as $((M_1 \\times M_2) \\times (M_3 \\times M_4))$, the total number of scalar multiplications is $pqr + rst + prt$. When multiplied as $(((M_1 \\times M_2) \\times M_3) \\times M_4)$, the total number of scalar multiplications is $pqr + prs + pst$.<br/>\n<br/>\nIf $p=10, q=100, r=20, s=5$ and $t=80$, then the minimum number of scalar multiplications needed is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li> $248000$</li>\n<li> $44000$</li>\n<li> $19000$</li>\n<li> $25000$</li>\n</ol>",
+      "options": [
+        "$248000$",
+        "$44000$",
+        "$19000$",
+        "$25000$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$248000$",
+          "html": "$248000$"
+        },
+        {
+          "label": "B",
+          "text": "$44000$",
+          "html": "$44000$"
+        },
+        {
+          "label": "C",
+          "text": "$19000$",
+          "html": "$19000$"
+        },
+        {
+          "label": "D",
+          "text": "$25000$",
+          "html": "$25000$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2140/gate-cse-2011-question-38",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2140/gate-cse-2011-question-38"
+    },
+    {
+      "id": "go:2141",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 39",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Consider a relational table $r$ with sufficient number of records, having attributes $A_1, A_2, \\dots ,A_n$ and let $1 \\leq p \\leq n$. Two queries $Q1$ and $Q2$ are given below.</p>\n<ul>\n<li>$Q1: \\pi_{A_1, \\dots ,A_p} \\left(\\sigma_{A_p=c}\\left(r\\right)\\right)$ where $c$ is a constant</li>\n<li>$Q2: \\pi_{A_1, \\dots ,A_p} \\left(\\sigma_{c_1 \\leq A_p \\leq c_2}\\left(r\\right)\\right)$ where $c_1$ and $c_2$ are constants.</li>\n</ul>\n<p>The database can be configured to do ordered indexing on $A_p$ or hashing on $A_p$. Which of the following statements is <strong>TRUE</strong>?</p>",
+      "rawQuestionHtml": "<p>Consider a relational table $r$ with sufficient number of records, having attributes $A_1, A_2, \\dots ,A_n$ and let $1 \\leq p \\leq n$. Two queries $Q1$ and $Q2$ are given below.</p>\n<ul>\n<li>$Q1: \\pi_{A_1, \\dots ,A_p} \\left(\\sigma_{A_p=c}\\left(r\\right)\\right)$ where $c$ is a constant</li>\n<li>$Q2: \\pi_{A_1, \\dots ,A_p} \\left(\\sigma_{c_1 \\leq A_p \\leq c_2}\\left(r\\right)\\right)$ where $c_1$ and $c_2$ are constants.</li>\n</ul>\n<p>The database can be configured to do ordered indexing on $A_p$ or hashing on $A_p$. Which of the following statements is <strong>TRUE</strong>?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Ordered indexing will always outperform hashing for both queries</li>\n<li>Hashing will always outperform ordered indexing for both queries</li>\n<li>Hashing will outperform ordered indexing on $Q1$, but not on $Q2$</li>\n<li>Hashing will outperform ordered indexing on $Q2$, but not on $Q1$</li>\n</ol>",
+      "options": [
+        "Ordered indexing will always outperform hashing for both queries",
+        "Hashing will always outperform ordered indexing for both queries",
+        "Hashing will outperform ordered indexing on $Q1$, but not on $Q2$",
+        "Hashing will outperform ordered indexing on $Q2$, but not on $Q1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Ordered indexing will always outperform hashing for both queries",
+          "html": "Ordered indexing will always outperform hashing for both queries"
+        },
+        {
+          "label": "B",
+          "text": "Hashing will always outperform ordered indexing for both queries",
+          "html": "Hashing will always outperform ordered indexing for both queries"
+        },
+        {
+          "label": "C",
+          "text": "Hashing will outperform ordered indexing on $Q1$, but not on $Q2$",
+          "html": "Hashing will outperform ordered indexing on $Q1$, but not on $Q2$"
+        },
+        {
+          "label": "D",
+          "text": "Hashing will outperform ordered indexing on $Q2$, but not on $Q1$",
+          "html": "Hashing will outperform ordered indexing on $Q2$, but not on $Q1$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2141/gate-cse-2011-question-39",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2141/gate-cse-2011-question-39"
+    },
+    {
+      "id": "go:2142",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 40",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Consider the matrix as given below.</p>\n<p>$$\\begin{bmatrix} 1 &amp; 2 &amp; 3 \\\\  0 &amp; 4 &amp; 7 \\\\  0 &amp; 0 &amp; 3\\end{bmatrix}$$</p>\n<p>Which one of the following options provides the <strong>CORRECT </strong>values of the eigenvalues of the matrix?</p>",
+      "rawQuestionHtml": "<p>Consider the matrix as given below.</p>\n<p>$$\\begin{bmatrix} 1 &amp; 2 &amp; 3 \\\\  0 &amp; 4 &amp; 7 \\\\  0 &amp; 0 &amp; 3\\end{bmatrix}$$</p>\n<p>Which one of the following options provides the <strong>CORRECT </strong>values of the eigenvalues of the matrix?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$1, 4, 3$</li>\n<li>$3, 7, 3$</li>\n<li>$7, 3, 2$</li>\n<li>$1, 2, 3$</li>\n</ol>",
+      "options": [
+        "$1, 4, 3$",
+        "$3, 7, 3$",
+        "$7, 3, 2$",
+        "$1, 2, 3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1, 4, 3$",
+          "html": "$1, 4, 3$"
+        },
+        {
+          "label": "B",
+          "text": "$3, 7, 3$",
+          "html": "$3, 7, 3$"
+        },
+        {
+          "label": "C",
+          "text": "$7, 3, 2$",
+          "html": "$7, 3, 2$"
+        },
+        {
+          "label": "D",
+          "text": "$1, 2, 3$",
+          "html": "$1, 2, 3$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2142/gate-cse-2011-question-40",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2142/gate-cse-2011-question-40"
+    },
+    {
+      "id": "go:2143",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 41",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "MCQ",
+      "question": "<p>Consider an instruction pipeline with four stages $\\text{(S1, S2, S3 and S4)}$ each with combinational circuit only. The pipeline registers are required between each stage and at the end of the last stage. Delays for the stages and for the pipeline registers are as given in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/18396337495202634078.webp\" width=\"650\"/></p>\n<p>What is the approximate speed up of the pipeline in steady state under ideal conditions when compared to the corresponding non-pipeline implementation?</p>",
+      "rawQuestionHtml": "<p>Consider an instruction pipeline with four stages $\\text{(S1, S2, S3 and S4)}$ each with combinational circuit only. The pipeline registers are required between each stage and at the end of the last stage. Delays for the stages and for the pipeline registers are as given in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/18396337495202634078.webp\" width=\"650\"/></p>\n<p>What is the approximate speed up of the pipeline in steady state under ideal conditions when compared to the corresponding non-pipeline implementation?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4.0$</li>\n<li>$2.5$</li>\n<li>$1.1$</li>\n<li>$3.0$</li>\n</ol>",
+      "options": [
+        "$4.0$",
+        "$2.5$",
+        "$1.1$",
+        "$3.0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4.0$",
+          "html": "$4.0$"
+        },
+        {
+          "label": "B",
+          "text": "$2.5$",
+          "html": "$2.5$"
+        },
+        {
+          "label": "C",
+          "text": "$1.1$",
+          "html": "$1.1$"
+        },
+        {
+          "label": "D",
+          "text": "$3.0$",
+          "html": "$3.0$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2143/gate-cse-2011-question-41",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2143/gate-cse-2011-question-41"
+    },
+    {
+      "id": "go:2144",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 42",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Definition of a language $L$ with alphabet $\\{a\\}$ is given as following.$$ L = \\left\\{a^{nk} \\mid k &gt; 0, \\:\\: and \\:\\: n \\text{ is a positive integer constant} \\right\\}$$What is the minimum number of states needed in a DFA to recognize $L$?</p>",
+      "rawQuestionHtml": "<p>Definition of a language $L$ with alphabet $\\{a\\}$ is given as following.$$ L = \\left\\{a^{nk} \\mid k &gt; 0, \\:\\: and \\:\\: n \\text{ is a positive integer constant} \\right\\}$$What is the minimum number of states needed in a DFA to recognize $L$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$k+1$</li>\n<li>$n+1$</li>\n<li>$2^{n+1}$</li>\n<li>$2^{k+1}$</li>\n</ol>",
+      "options": [
+        "$k+1$",
+        "$n+1$",
+        "$2^{n+1}$",
+        "$2^{k+1}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$k+1$",
+          "html": "$k+1$"
+        },
+        {
+          "label": "B",
+          "text": "$n+1$",
+          "html": "$n+1$"
+        },
+        {
+          "label": "C",
+          "text": "$2^{n+1}$",
+          "html": "$2^{n+1}$"
+        },
+        {
+          "label": "D",
+          "text": "$2^{k+1}$",
+          "html": "$2^{k+1}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2144/gate-cse-2011-question-42",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2144/gate-cse-2011-question-42"
+    },
+    {
+      "id": "go:2145",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 43",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>An $8\\text{KB}$ direct-mapped write-back cache is organized as multiple blocks, each size of $32\\text{-bytes}$. The processor generates $32\\text{-bit}$ addresses. The cache controller contains the tag information for each cache block comprising of the following.</p>\n<ul>\n<li>$1$ valid bit</li>\n<li>$1$ modified bit</li>\n<li>As many bits as the minimum needed to identify the memory block mapped in the cache.</li>\n</ul>\n<p>What is the total size of memory needed at the cache controller to store meta-data (tags) for the cache?</p>",
+      "rawQuestionHtml": "<p>An $8\\text{KB}$ direct-mapped write-back cache is organized as multiple blocks, each size of $32\\text{-bytes}$. The processor generates $32\\text{-bit}$ addresses. The cache controller contains the tag information for each cache block comprising of the following.</p>\n<ul>\n<li>$1$ valid bit</li>\n<li>$1$ modified bit</li>\n<li>As many bits as the minimum needed to identify the memory block mapped in the cache.</li>\n</ul>\n<p>What is the total size of memory needed at the cache controller to store meta-data (tags) for the cache?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4864$ bits</li>\n<li>$6144$ bits</li>\n<li>$6656$ bits</li>\n<li>$5376$ bits</li>\n</ol>",
+      "options": [
+        "$4864$ bits",
+        "$6144$ bits",
+        "$6656$ bits",
+        "$5376$ bits"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4864$ bits",
+          "html": "$4864$ bits"
+        },
+        {
+          "label": "B",
+          "text": "$6144$ bits",
+          "html": "$6144$ bits"
+        },
+        {
+          "label": "C",
+          "text": "$6656$ bits",
+          "html": "$6656$ bits"
+        },
+        {
+          "label": "D",
+          "text": "$5376$ bits",
+          "html": "$5376$ bits"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2145/gate-cse-2011-question-43",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2145/gate-cse-2011-question-43"
+    },
+    {
+      "id": "go:2146",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 44",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "MCQ",
+      "question": "<p>An application loads $100$ libraries at startup. Loading each library requires exactly one disk access. The seek time of the disk to a random location is given as $10$ ms. Rotational speed of disk is $6000$ rpm. If all $100$ libraries are loaded from random locations on the disk, how long does it take to load all libraries? (The time to transfer data from the disk block once the head has been positioned at the start of the block may be neglected.) </p>",
+      "rawQuestionHtml": "<p>An application loads $100$ libraries at startup. Loading each library requires exactly one disk access. The seek time of the disk to a random location is given as $10$ ms. Rotational speed of disk is $6000$ rpm. If all $100$ libraries are loaded from random locations on the disk, how long does it take to load all libraries? (The time to transfer data from the disk block once the head has been positioned at the start of the block may be neglected.) </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0.50 \\ s$</li>\n<li>$1.50 \\ s$</li>\n<li>$1.25 \\ s$</li>\n<li>$1.00 \\ s$</li>\n</ol>",
+      "options": [
+        "$0.50 \\ s$",
+        "$1.50 \\ s$",
+        "$1.25 \\ s$",
+        "$1.00 \\ s$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0.50 \\ s$",
+          "html": "$0.50 \\ s$"
+        },
+        {
+          "label": "B",
+          "text": "$1.50 \\ s$",
+          "html": "$1.50 \\ s$"
+        },
+        {
+          "label": "C",
+          "text": "$1.25 \\ s$",
+          "html": "$1.25 \\ s$"
+        },
+        {
+          "label": "D",
+          "text": "$1.00 \\ s$",
+          "html": "$1.00 \\ s$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2146/gate-cse-2011-question-44",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2146/gate-cse-2011-question-44"
+    },
+    {
+      "id": "go:2147",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 45",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>",
+      "rawQuestionHtml": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/></li>\n<li><br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/></li>\n<li><br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/></li>\n<li><br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/></li>\n</ol>",
+      "options": [
+        "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>",
+        "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>",
+        "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>",
+        "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2147/gate-cse-2011-question-45",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2147/gate-cse-2011-question-45"
+    },
+    {
+      "id": "go:2148",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 46",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Database table by name $\\text{Loan_Records}$ is given below.<br/>\n$$\\begin{array}{|c|c|c|} \\hline \\textbf {Borrower} &amp; \\textbf {Bank_Manager} &amp;\\textbf {Loan_Amount} \\\\\\hline  \\text{Ramesh }&amp; \\text{Sunderajan} &amp; 10000.00 \\\\\\hline \\text{Suresh} &amp; \\text{Ramgopal} &amp; 5000.00 \\\\\\hline \\text{Mahesh} &amp; \\text{Sunderajan} &amp; 7000.00\\\\\\hline \\end{array}$$<br/>\nWhat is the output of the following SQL query?</p>\n<pre class=\"prettyprint lang-sql\">SELECT count(*)\nFROM (\n    SELECT Borrower, Bank_Manager FROM Loan_Records) AS S \n    NATURAL JOIN\n    (SELECT Bank_Manager, Loan_Amount FROM Loan_Records) AS T\n);</pre>",
+      "rawQuestionHtml": "<p>Database table by name $\\text{Loan_Records}$ is given below.<br/>\n$$\\begin{array}{|c|c|c|} \\hline \\textbf {Borrower} &amp; \\textbf {Bank_Manager} &amp;\\textbf {Loan_Amount} \\\\\\hline  \\text{Ramesh }&amp; \\text{Sunderajan} &amp; 10000.00 \\\\\\hline \\text{Suresh} &amp; \\text{Ramgopal} &amp; 5000.00 \\\\\\hline \\text{Mahesh} &amp; \\text{Sunderajan} &amp; 7000.00\\\\\\hline \\end{array}$$<br/>\nWhat is the output of the following SQL query?</p>\n<pre class=\"prettyprint lang-sql\">SELECT count(*)\nFROM (\n    SELECT Borrower, Bank_Manager FROM Loan_Records) AS S \n    NATURAL JOIN\n    (SELECT Bank_Manager, Loan_Amount FROM Loan_Records) AS T\n);</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$9$</li>\n<li>$5$</li>\n<li>$6$</li>\n</ol>",
+      "options": [
+        "$3$",
+        "$9$",
+        "$5$",
+        "$6$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "B",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$6$",
+          "html": "$6$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2148/gate-cse-2011-question-46",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2148/gate-cse-2011-question-46"
+    },
+    {
+      "id": "go:2152",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 47",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The following is the comment written for a C function.</p>\n\n<pre class=\"prettyprint lang-c_cpp\">/* This function computes the roots of a quadratic equation\na.x^2 + b.x + c = 0. The function stores two real roots\nin *root1 and *root2 and returns the status of validity\nof roots. It handles four different kinds of cases.\n    (i) When coefficient a is zero irrespective of discriminant\n    (ii) When discriminant is positive\n    (iii) When discriminant is zero\n    (iv) When discriminant is negative\nOnly in case (ii) and (iii), the stored roots are valid.\nOtherwise 0 is stored in the roots. The function returns\n0 when the roots are valid and -1 otherwise.\nThe function also ensures root1 &gt;= root2.\n    int get_QuadRoots (float a, float b, float c,\n        float *root1, float *root2);\n*/</pre>\n\n<p>A software engineer is assigned the job of doing black box testing. He comes up with the following test cases, many of which are redundant.</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"margin:auto; width:500px; border-spacing: 1px;\"><tbody><tr><td colspan=\"1\" rowspan=\"2\"><strong>Test<br>\n\t\t\tCase</strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\"><strong>Input Set</strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\"><strong>Expected Output Set</strong></td>\n\t\t</tr><tr><td><strong>a</strong></td>\n\t\t\t<td><strong>b</strong></td>\n\t\t\t<td><strong>c</strong></td>\n\t\t\t<td><strong>root1</strong></td>\n\t\t\t<td><strong>root2</strong></td>\n\t\t\t<td><strong>Return Value</strong></td>\n\t\t</tr><tr><td>T1</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>7.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr><tr><td>T2</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>3.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr><tr><td>T3</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>2.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T4</td>\n\t\t\t<td>4.0</td>\n\t\t\t<td>-12.0</td>\n\t\t\t<td>9.0</td>\n\t\t\t<td>1.5</td>\n\t\t\t<td>1.5</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T5</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>-2.0</td>\n\t\t\t<td>-3.0</td>\n\t\t\t<td>3.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T6</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>4.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr></tbody></table><p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Which one of the following options provide the set of non-redundant tests using equivalence class partitioning approach from input perspective for black box testing?</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(A)&nbsp;T1, T2, T3, T6</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B)&nbsp;T1, T3, T4, T5</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C)&nbsp;T2, T4, T5, T6</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D)&nbsp;T2, T3, T4, T5</span></p>",
+      "rawQuestionHtml": "<a name=\"2152\"></a><div itemprop=\"text\">\n<p>The following is the comment written for a C function.</p>\n\n<pre class=\"prettyprint lang-c_cpp\">/* This function computes the roots of a quadratic equation\na.x^2 + b.x + c = 0. The function stores two real roots\nin *root1 and *root2 and returns the status of validity\nof roots. It handles four different kinds of cases.\n    (i) When coefficient a is zero irrespective of discriminant\n    (ii) When discriminant is positive\n    (iii) When discriminant is zero\n    (iv) When discriminant is negative\nOnly in case (ii) and (iii), the stored roots are valid.\nOtherwise 0 is stored in the roots. The function returns\n0 when the roots are valid and -1 otherwise.\nThe function also ensures root1 &gt;= root2.\n    int get_QuadRoots (float a, float b, float c,\n        float *root1, float *root2);\n*/</pre>\n\n<p>A software engineer is assigned the job of doing black box testing. He comes up with the following test cases, many of which are redundant.</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"margin:auto; width:500px; border-spacing: 1px;\"><tbody><tr><td colspan=\"1\" rowspan=\"2\"><strong>Test<br>\n\t\t\tCase</strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\"><strong>Input Set</strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\"><strong>Expected Output Set</strong></td>\n\t\t</tr><tr><td><strong>a</strong></td>\n\t\t\t<td><strong>b</strong></td>\n\t\t\t<td><strong>c</strong></td>\n\t\t\t<td><strong>root1</strong></td>\n\t\t\t<td><strong>root2</strong></td>\n\t\t\t<td><strong>Return Value</strong></td>\n\t\t</tr><tr><td>T1</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>7.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr><tr><td>T2</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>3.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr><tr><td>T3</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>2.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T4</td>\n\t\t\t<td>4.0</td>\n\t\t\t<td>-12.0</td>\n\t\t\t<td>9.0</td>\n\t\t\t<td>1.5</td>\n\t\t\t<td>1.5</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T5</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>-2.0</td>\n\t\t\t<td>-3.0</td>\n\t\t\t<td>3.0</td>\n\t\t\t<td>-1.0</td>\n\t\t\t<td>0</td>\n\t\t</tr><tr><td>T6</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>1.0</td>\n\t\t\t<td>4.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>0.0</td>\n\t\t\t<td>-1</td>\n\t\t</tr></tbody></table><p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">Which one of the following options provide the set of non-redundant tests using equivalence class partitioning approach from input perspective for black box testing?</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(A)&nbsp;T1, T2, T3, T6</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(B)&nbsp;T1, T3, T4, T5</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(C)&nbsp;T2, T4, T5, T6</span></p>\n\n<p><span style=\"font-family:helvetica neue,helvetica,arial,sans-serif; font-size:14px\">(D)&nbsp;T2, T3, T4, T5</span></p>\n</div>",
+      "options": [
+        "T1, T2, T3, T6",
+        "T1, T3, T4, T5",
+        "T2, T4, T5, T6",
+        "T2, T3, T4, T5"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "T1, T2, T3, T6",
+          "html": "&nbsp;T1, T2, T3, T6</span>"
+        },
+        {
+          "label": "B",
+          "text": "T1, T3, T4, T5",
+          "html": "&nbsp;T1, T3, T4, T5</span>"
+        },
+        {
+          "label": "C",
+          "text": "T2, T4, T5, T6",
+          "html": "&nbsp;T2, T4, T5, T6</span>"
+        },
+        {
+          "label": "D",
+          "text": "T2, T3, T4, T5",
+          "html": "&nbsp;T2, T3, T4, T5</span>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2152/gate-cse-2011-question-47",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2152/gate-cse-2011-question-47"
+    },
+    {
+      "id": "go:2154",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 48",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Consider the following recursive C function that takes two arguments.</p>\n<pre class=\"prettyprint lang-c_cpp\">unsigned int foo(unsigned int n, unsigned int r) {\n    if (n&gt;0) return ((n%r) + foo(n/r, r));\n    else return 0;\n}\n</pre>\n<p>What is the return value of the function $\\text{foo}$ when it is called as $\\text{foo(345, 10)}$?</p>",
+      "rawQuestionHtml": "<p>Consider the following recursive C function that takes two arguments.</p>\n<pre class=\"prettyprint lang-c_cpp\">unsigned int foo(unsigned int n, unsigned int r) {\n    if (n&gt;0) return ((n%r) + foo(n/r, r));\n    else return 0;\n}\n</pre>\n<p>What is the return value of the function $\\text{foo}$ when it is called as $\\text{foo(345, 10)}$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$345$</li>\n<li>$12$</li>\n<li>$5$</li>\n<li>$3$</li>\n</ol>",
+      "options": [
+        "$345$",
+        "$12$",
+        "$5$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$345$",
+          "html": "$345$"
+        },
+        {
+          "label": "B",
+          "text": "$12$",
+          "html": "$12$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2154/gate-cse-2011-question-48",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2154/gate-cse-2011-question-48"
+    },
+    {
+      "id": "go:43324",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 49",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Consider the following recursive C function that takes two arguments.</p>\n<pre class=\"prettyprint lang-\" style=\"line-height:15.6pt\">unsigned int foo(unsigned int n, unsigned int r) {\n    if (n&gt;0) return ((n%r) + foo(n/r, r));\n    else return 0;\n}\n</pre>\n<p>What is the return value of the function $\\text{foo}$ when it is called as $\\text{foo(513, 2)}$?</p>",
+      "rawQuestionHtml": "<p>Consider the following recursive C function that takes two arguments.</p>\n<pre class=\"prettyprint lang-\" style=\"line-height:15.6pt\">unsigned int foo(unsigned int n, unsigned int r) {\n    if (n&gt;0) return ((n%r) + foo(n/r, r));\n    else return 0;\n}\n</pre>\n<p>What is the return value of the function $\\text{foo}$ when it is called as $\\text{foo(513, 2)}$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$9$</li>\n<li>$8$</li>\n<li>$5$</li>\n<li>$2$</li>\n</ol>",
+      "options": [
+        "$9$",
+        "$8$",
+        "$5$",
+        "$2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "B",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$2$",
+          "html": "$2$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43324/gate-cse-2011-question-49",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43324/gate-cse-2011-question-49"
+    },
+    {
+      "id": "go:2157",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 50",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$000$</li>\n<li>$001$</li>\n<li>$010$</li>\n<li>$011$</li>\n</ol>",
+      "options": [
+        "$000$",
+        "$001$",
+        "$010$",
+        "$011$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$000$",
+          "html": "$000$"
+        },
+        {
+          "label": "B",
+          "text": "$001$",
+          "html": "$001$"
+        },
+        {
+          "label": "C",
+          "text": "$010$",
+          "html": "$010$"
+        },
+        {
+          "label": "D",
+          "text": "$011$",
+          "html": "$011$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2157/gate-cse-2011-question-50",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2157/gate-cse-2011-question-50"
+    },
+    {
+      "id": "go:43318",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 51",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/Gate_QA/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/Gate_QA/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n</ol>",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "B",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "C",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "D",
+          "text": "$6$",
+          "html": "$6$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43318/gate-cse-2011-question-51",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43318/gate-cse-2011-question-51"
+    },
+    {
+      "id": "go:2160",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 52",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Routing Algorithms & Protocols",
+      "type": "MCQ",
+      "question": "<p>Consider a network with five nodes, $N1$ to $N5$, as shown as below.</p>\n<p><img alt=\"\" height=\"379\" src=\"/Gate_QA/question-images/15776199822496699650.webp\" width=\"376\"/></p>\n<p>The network uses a Distance Vector Routing protocol. Once the routes have been stabilized, the distance vectors at different nodes are as follows.</p>\n<p><strong>N1</strong>: $(0, 1, 7, 8, 4)$</p>\n<p><strong>N2</strong>: $(1, 0, 6, 7, 3)$</p>\n<p><strong>N3</strong>: $(7, 6, 0, 2, 6)$</p>\n<p><strong>N4</strong>: $(8, 7, 2, 0, 4)$</p>\n<p><strong>N5</strong>: $(4, 3, 6, 4, 0)$</p>\n<p>Each distance vector is the distance of the best known path at that instance to nodes, $N1$ to $N5$, where the distance to itself is $0$. Also, all links are symmetric and the cost is identical in both directions. In each round, all nodes exchange their distance vectors with their respective neighbors. Then all nodes update their distance vectors. In between two rounds, any change in cost of a link will cause the two incident nodes to change only that entry in their distance vectors.</p>\n<p>The cost of link $N2-N3$ reduces to $2$ (in both directions). After the next round of updates, what will be the new distance vector at node, $N3$?</p>",
+      "rawQuestionHtml": "<p>Consider a network with five nodes, $N1$ to $N5$, as shown as below.</p>\n<p><img alt=\"\" height=\"379\" src=\"/Gate_QA/question-images/15776199822496699650.webp\" width=\"376\"/></p>\n<p>The network uses a Distance Vector Routing protocol. Once the routes have been stabilized, the distance vectors at different nodes are as follows.</p>\n<p><strong>N1</strong>: $(0, 1, 7, 8, 4)$</p>\n<p><strong>N2</strong>: $(1, 0, 6, 7, 3)$</p>\n<p><strong>N3</strong>: $(7, 6, 0, 2, 6)$</p>\n<p><strong>N4</strong>: $(8, 7, 2, 0, 4)$</p>\n<p><strong>N5</strong>: $(4, 3, 6, 4, 0)$</p>\n<p>Each distance vector is the distance of the best known path at that instance to nodes, $N1$ to $N5$, where the distance to itself is $0$. Also, all links are symmetric and the cost is identical in both directions. In each round, all nodes exchange their distance vectors with their respective neighbors. Then all nodes update their distance vectors. In between two rounds, any change in cost of a link will cause the two incident nodes to change only that entry in their distance vectors.</p>\n<p>The cost of link $N2-N3$ reduces to $2$ (in both directions). After the next round of updates, what will be the new distance vector at node, $N3$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(3, 2, 0, 2, 5)$</li>\n<li>$(3, 2, 0, 2, 6)$</li>\n<li>$(7, 2, 0, 2, 5)$</li>\n<li>$(7, 2, 0, 2, 6)$</li>\n</ol>",
+      "options": [
+        "$(3, 2, 0, 2, 5)$",
+        "$(3, 2, 0, 2, 6)$",
+        "$(7, 2, 0, 2, 5)$",
+        "$(7, 2, 0, 2, 6)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(3, 2, 0, 2, 5)$",
+          "html": "$(3, 2, 0, 2, 5)$"
+        },
+        {
+          "label": "B",
+          "text": "$(3, 2, 0, 2, 6)$",
+          "html": "$(3, 2, 0, 2, 6)$"
+        },
+        {
+          "label": "C",
+          "text": "$(7, 2, 0, 2, 5)$",
+          "html": "$(7, 2, 0, 2, 5)$"
+        },
+        {
+          "label": "D",
+          "text": "$(7, 2, 0, 2, 6)$",
+          "html": "$(7, 2, 0, 2, 6)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2160/gate-cse-2011-question-52",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2160/gate-cse-2011-question-52"
+    },
+    {
+      "id": "go:43317",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 53",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Routing Algorithms & Protocols",
+      "type": "MCQ",
+      "question": "<p>Consider a network with five nodes, $N1$ to $N5$, as shown as below.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3030732859344903507.webp\" width=\"400\"/></p>\n<p>The network uses a Distance Vector Routing protocol. Once the routes have been stabilized, the distance vectors at different nodes are as follows.</p>\n<ul>\n<li><strong>N1</strong>: $(0, 1, 7, 8, 4)$</li>\n<li><strong>N2</strong>: $(1, 0, 6, 7, 3)$</li>\n<li><strong>N3</strong>: $(7, 6, 0, 2, 6)$</li>\n<li><strong>N4</strong>: $(8, 7, 2, 0, 4)$</li>\n<li><strong>N5</strong>: $(4, 3, 6, 4, 0)$</li>\n</ul>\n<p>Each distance vector is the distance of the best known path at that instance to nodes, $N1$ to $N5$, where the distance to itself is $0$. Also, all links are symmetric and the cost is identical in both directions. In each round, all nodes exchange their distance vectors with their respective neighbors. Then all nodes update their distance vectors. In between two rounds, any change in cost of a link will cause the two incident nodes to change only that entry in their distance vectors.</p>\n<p>The cost of link $N2-N3$ reduces to $2$ (in both directions). After the next round of updates, the link $N1-N2$ goes down. $N2$ will reflect this change immediately in its distance vector as cost, $\\infty$. After the <strong>NEXT ROUND</strong> of update, what will be the cost to $N1$ in the distance vector of $N3$ ?</p>",
+      "rawQuestionHtml": "<p>Consider a network with five nodes, $N1$ to $N5$, as shown as below.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3030732859344903507.webp\" width=\"400\"/></p>\n<p>The network uses a Distance Vector Routing protocol. Once the routes have been stabilized, the distance vectors at different nodes are as follows.</p>\n<ul>\n<li><strong>N1</strong>: $(0, 1, 7, 8, 4)$</li>\n<li><strong>N2</strong>: $(1, 0, 6, 7, 3)$</li>\n<li><strong>N3</strong>: $(7, 6, 0, 2, 6)$</li>\n<li><strong>N4</strong>: $(8, 7, 2, 0, 4)$</li>\n<li><strong>N5</strong>: $(4, 3, 6, 4, 0)$</li>\n</ul>\n<p>Each distance vector is the distance of the best known path at that instance to nodes, $N1$ to $N5$, where the distance to itself is $0$. Also, all links are symmetric and the cost is identical in both directions. In each round, all nodes exchange their distance vectors with their respective neighbors. Then all nodes update their distance vectors. In between two rounds, any change in cost of a link will cause the two incident nodes to change only that entry in their distance vectors.</p>\n<p>The cost of link $N2-N3$ reduces to $2$ (in both directions). After the next round of updates, the link $N1-N2$ goes down. $N2$ will reflect this change immediately in its distance vector as cost, $\\infty$. After the <strong>NEXT ROUND</strong> of update, what will be the cost to $N1$ in the distance vector of $N3$ ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$9$</li>\n<li>$10$ </li>\n<li>$\\infty$</li>\n</ol>",
+      "options": [
+        "$3$",
+        "$9$",
+        "$10$",
+        "$\\infty$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "B",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "C",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "D",
+          "text": "$\\infty$",
+          "html": "$\\infty$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43317/gate-cse-2011-question-53",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43317/gate-cse-2011-question-53"
+    },
+    {
+      "id": "go:2162",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 54,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 54",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>",
+      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{12} (11n^2 - 5 n)$</li>\n<li>$n^2-n+1$</li>\n<li>$6n-11$</li>\n<li>$2n+1$</li>\n</ol>",
+      "options": [
+        "$\\frac{1}{12} (11n^2 - 5 n)$",
+        "$n^2-n+1$",
+        "$6n-11$",
+        "$2n+1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{12} (11n^2 - 5 n)$",
+          "html": "$\\frac{1}{12} (11n^2 - 5 n)$"
+        },
+        {
+          "label": "B",
+          "text": "$n^2-n+1$",
+          "html": "$n^2-n+1$"
+        },
+        {
+          "label": "C",
+          "text": "$6n-11$",
+          "html": "$6n-11$"
+        },
+        {
+          "label": "D",
+          "text": "$2n+1$",
+          "html": "$2n+1$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2162/gate-cse-2011-question-54",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2162/gate-cse-2011-question-54"
+    },
+    {
+      "id": "go:43325",
+      "testId": "gate-2011-s0",
+      "year": 2011,
+      "set": 1,
+      "yearSetKey": "2011-s0",
+      "orderIndex": 55,
+      "section": "CS",
+      "title": "GATE CSE 2011 | Question: 55",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/Gate_QA/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>",
+      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/Gate_QA/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$11$</li>\n<li>$25$</li>\n<li>$31$</li>\n<li>$41$</li>\n</ol>",
+      "options": [
+        "$11$",
+        "$25$",
+        "$31$",
+        "$41$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$11$",
+          "html": "$11$"
+        },
+        {
+          "label": "B",
+          "text": "$25$",
+          "html": "$25$"
+        },
+        {
+          "label": "C",
+          "text": "$31$",
+          "html": "$31$"
+        },
+        {
+          "label": "D",
+          "text": "$41$",
+          "html": "$41$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43325/gate-cse-2011-question-55",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43325/gate-cse-2011-question-55"
+    }
+  ]
+}

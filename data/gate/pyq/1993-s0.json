@@ -1,0 +1,1873 @@
+{
+  "id": "gate-1993-s0",
+  "yearSetKey": "1993-s0",
+  "year": 1993,
+  "set": 1,
+  "title": "GATE CSE 1993",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 53,
+  "totalQuestions": 39,
+  "gaQuestions": 0,
+  "csQuestions": 39,
+  "questions": [
+    {
+      "id": "go:596",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.1",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MSQ",
+      "question": "<p>The eigen vector $(s)$ of the matrix $$\\begin{bmatrix} 0 &amp;0 &amp;\\alpha\\\\ 0 &amp;0 &amp;0\\\\ 0 &amp;0 &amp;0 \\end{bmatrix},\\alpha \\neq 0$$ is (are)</p>",
+      "rawQuestionHtml": "<p>The eigen vector $(s)$ of the matrix $$\\begin{bmatrix} 0 &amp;0 &amp;\\alpha\\\\ 0 &amp;0 &amp;0\\\\ 0 &amp;0 &amp;0 \\end{bmatrix},\\alpha \\neq 0$$ is (are)</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$(0,0,\\alpha)$</li>\n<li>$(\\alpha,0,0)$</li>\n<li>$(0,0,1)$</li>\n<li>$(0,\\alpha,0)$</li>\n</ol>",
+      "options": [
+        "$(0,0,\\alpha)$",
+        "$(\\alpha,0,0)$",
+        "$(0,0,1)$",
+        "$(0,\\alpha,0)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(0,0,\\alpha)$",
+          "html": "$(0,0,\\alpha)$"
+        },
+        {
+          "label": "B",
+          "text": "$(\\alpha,0,0)$",
+          "html": "$(\\alpha,0,0)$"
+        },
+        {
+          "label": "C",
+          "text": "$(0,0,1)$",
+          "html": "$(0,0,1)$"
+        },
+        {
+          "label": "D",
+          "text": "$(0,\\alpha,0)$",
+          "html": "$(0,\\alpha,0)$"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/596/gate-cse-1993-question-01-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/596/gate-cse-1993-question-01-1"
+    },
+    {
+      "id": "go:597",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The differential equation&nbsp; $\\frac{d^2 y}{dx^2}+\\frac{dy}{dx}+\\sin y =0$ is:</p>",
+      "rawQuestionHtml": "<a name=\"597\"></a><div itemprop=\"text\"><p>The differential equation&nbsp; $\\frac{d^2 y}{dx^2}+\\frac{dy}{dx}+\\sin y =0$ is:</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>linear</li>\n\t<li>non- linear &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>\n\t<li>homogeneous</li>\n\t<li>of degree two</li>\n</ol></div>",
+      "options": [
+        "linear",
+        "non- linear",
+        "homogeneous",
+        "of degree two"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "linear",
+          "html": "linear"
+        },
+        {
+          "label": "B",
+          "text": "non- linear",
+          "html": "non- linear &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+        },
+        {
+          "label": "C",
+          "text": "homogeneous",
+          "html": "homogeneous"
+        },
+        {
+          "label": "D",
+          "text": "of degree two",
+          "html": "of degree two"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/597/gate-cse-1993-question-01-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/597/gate-cse-1993-question-01-2"
+    },
+    {
+      "id": "go:598",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MSQ",
+      "question": "<p>Simpson's rule for integration gives exact result when $f(x)$ is a polynomial of degree</p>",
+      "rawQuestionHtml": "<a name=\"598\"></a><div itemprop=\"text\"><p>Simpson's rule for integration gives exact result when $f(x)$ is a polynomial of degree</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$1$</li>\n\t<li>$2$</li>\n\t<li>$3$</li>\n\t<li>$4$</li>\n</ol></div>",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "D",
+          "text": "$4$",
+          "html": "$4$"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/598/gate-cse-1993-question-01-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/598/gate-cse-1993-question-01-3"
+    },
+    {
+      "id": "go:599",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.4",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MSQ",
+      "question": "<ol>\n\t<li>In questions 1.1 to 1.7 below, one or more of the alternatives are correct.&nbsp; Write the code letter(s) a, b, c, d corresponding to the correct alternative(s) in the answer book.&nbsp; Marks will be given only if all the correct alternatives have been selected and no incorrect alternative is picked up.</li>\n</ol>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2509613817040982768.webp\" style=\"height:79px; width:524px\"></p>",
+      "rawQuestionHtml": "<a name=\"599\"></a><div itemprop=\"text\"><ol>\n\t<li>In questions 1.1 to 1.7 below, one or more of the alternatives are correct.&nbsp; Write the code letter(s) a, b, c, d corresponding to the correct alternative(s) in the answer book.&nbsp; Marks will be given only if all the correct alternatives have been selected and no incorrect alternative is picked up.</li>\n</ol>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2509613817040982768.webp\" style=\"height:79px; width:524px\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/599/gate-cse-1993-question-01-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/599/gate-cse-1993-question-01-4"
+    },
+    {
+      "id": "go:262",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.5",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Fourier series of the periodic function (period 2π) defined by</p>\n\n<p>$$f(x) = \\begin{cases} 0, -p &lt; x &lt; 0\\\\x, 0 &lt; x &lt; p \\end{cases} \\text { is }\\\\ \\frac{\\pi}{4} + \\sum \\left [ \\frac{1}{\\pi n^2} \\left(\\cos n\\pi - 1 \\right) \\cos nx - \\frac{1}{n} \\cos n\\pi \\sin nx \\right ]$$</p>\n\n<p>But putting $x = \\pi$, we get the sum of the series</p>\n\n<p>$$ 1 + \\frac{1}{3^2} + \\frac{1}{5^2} + \\frac{1}{7^2} + \\cdots \\text { is }$$&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"262\"></a><div itemprop=\"text\"><p>Fourier series of the periodic function (period 2π) defined by</p>\n\n<p>$$f(x) = \\begin{cases} 0, -p &lt; x &lt; 0\\\\x, 0 &lt; x &lt; p \\end{cases} \\text { is }\\\\ \\frac{\\pi}{4} + \\sum \\left [ \\frac{1}{\\pi n^2} \\left(\\cos n\\pi - 1 \\right) \\cos nx - \\frac{1}{n} \\cos n\\pi \\sin nx \\right ]$$</p>\n\n<p>But putting $x = \\pi$, we get the sum of the series</p>\n\n<p>$$ 1 + \\frac{1}{3^2} + \\frac{1}{5^2} + \\frac{1}{7^2} + \\cdots \\text { is }$$&nbsp;</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$\\frac{{\\pi }^2 }{4}$</li>\n\t<li>$\\frac{{\\pi }^2 }{6}$</li>\n\t<li>$\\frac{{\\pi }^2 }{8}$</li>\n\t<li>$\\frac{{\\pi }^2 }{12}$</li>\n</ol></div>",
+      "options": [
+        "$\\frac{{\\pi }^2 }{4}$",
+        "$\\frac{{\\pi }^2 }{6}$",
+        "$\\frac{{\\pi }^2 }{8}$",
+        "$\\frac{{\\pi }^2 }{12}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{{\\pi }^2 }{4}$",
+          "html": "$\\frac{{\\pi }^2 }{4}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{{\\pi }^2 }{6}$",
+          "html": "$\\frac{{\\pi }^2 }{6}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{{\\pi }^2 }{8}$",
+          "html": "$\\frac{{\\pi }^2 }{8}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{{\\pi }^2 }{12}$",
+          "html": "$\\frac{{\\pi }^2 }{12}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/262/gate-cse-1993-question-01-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/262/gate-cse-1993-question-01-5"
+    },
+    {
+      "id": "go:601",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.6",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Which of the following improper integrals is (are) convergent?</p>",
+      "rawQuestionHtml": "<a name=\"601\"></a><div itemprop=\"text\"><p>Which of the following improper integrals is (are) convergent?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$\\int ^{1} _{0} \\frac{\\sin x}{1-\\cos x}dx$</li>\n\t<li>$\\int ^{\\infty} _{0} \\frac{\\cos x}{1+x} dx$</li>\n\t<li>$\\int ^{\\infty} _{0} \\frac{x}{1+x^2} dx$</li>\n\t<li>$\\int ^{1} _{0} \\frac{1-\\cos x}{\\frac{x^5}{2}} dx$</li>\n</ol></div>",
+      "options": [
+        "$\\int ^{1} _{0} \\frac{\\sin x}{1-\\cos x}dx$",
+        "$\\int ^{\\infty} _{0} \\frac{\\cos x}{1+x} dx$",
+        "$\\int ^{\\infty} _{0} \\frac{x}{1+x^2} dx$",
+        "$\\int ^{1} _{0} \\frac{1-\\cos x}{\\frac{x^5}{2}} dx$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\int ^{1} _{0} \\frac{\\sin x}{1-\\cos x}dx$",
+          "html": "$\\int ^{1} _{0} \\frac{\\sin x}{1-\\cos x}dx$"
+        },
+        {
+          "label": "B",
+          "text": "$\\int ^{\\infty} _{0} \\frac{\\cos x}{1+x} dx$",
+          "html": "$\\int ^{\\infty} _{0} \\frac{\\cos x}{1+x} dx$"
+        },
+        {
+          "label": "C",
+          "text": "$\\int ^{\\infty} _{0} \\frac{x}{1+x^2} dx$",
+          "html": "$\\int ^{\\infty} _{0} \\frac{x}{1+x^2} dx$"
+        },
+        {
+          "label": "D",
+          "text": "$\\int ^{1} _{0} \\frac{1-\\cos x}{\\frac{x^5}{2}} dx$",
+          "html": "$\\int ^{1} _{0} \\frac{1-\\cos x}{\\frac{x^5}{2}} dx$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/601/gate-cse-1993-question-01-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/601/gate-cse-1993-question-01-6"
+    },
+    {
+      "id": "go:602",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 01.7",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The function $f\\left(x,y\\right) = x^2y - 3xy + 2y +x$ has</p>",
+      "rawQuestionHtml": "<a name=\"602\"></a><div itemprop=\"text\"><p>The function $f\\left(x,y\\right) = x^2y - 3xy + 2y +x$ has</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>no local extremum</li>\n\t<li>one local minimum but no local maximum</li>\n\t<li>one local maximum but no local minimum</li>\n\t<li>one local minimum and one local maximum</li>\n</ol></div>",
+      "options": [
+        "no local extremum",
+        "one local minimum but no local maximum",
+        "one local maximum but no local minimum",
+        "one local minimum and one local maximum"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "no local extremum",
+          "html": "no local extremum"
+        },
+        {
+          "label": "B",
+          "text": "one local minimum but no local maximum",
+          "html": "one local minimum but no local maximum"
+        },
+        {
+          "label": "C",
+          "text": "one local maximum but no local minimum",
+          "html": "one local maximum but no local minimum"
+        },
+        {
+          "label": "D",
+          "text": "one local minimum and one local maximum",
+          "html": "one local minimum and one local maximum"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/602/gate-cse-1993-question-01-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/602/gate-cse-1993-question-01-7"
+    },
+    {
+      "id": "go:605",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.1",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "$\\displaystyle \\lim_{x \\to 0} \\frac{x(e^x - 1) + 2(\\cos x -1)}{x(1 - \\cos x)}$ is __________",
+      "rawQuestionHtml": "$\\displaystyle \\lim_{x \\to 0} \\frac{x(e^x - 1) + 2(\\cos x -1)}{x(1 - \\cos x)}$ is __________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/605/gate-cse-1993-question-02-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/605/gate-cse-1993-question-02-1"
+    },
+    {
+      "id": "go:606",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "The radius of convergence of the power series$$\\sum_{}^{\\infty} \\frac{(3m)!}{(m!)^3}x^{3m}$$ is: &nbsp;&nbsp;_____________",
+      "rawQuestionHtml": "<a name=\"606\"></a><div itemprop=\"text\">The radius of convergence of the power series$$\\sum_{}^{\\infty} \\frac{(3m)!}{(m!)^3}x^{3m}$$ is: &nbsp;&nbsp;_____________</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.3333333333333333"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/606/gate-cse-1993-question-02-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/606/gate-cse-1993-question-02-2"
+    },
+    {
+      "id": "go:607",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "If the linear velocity $\\vec V$ is given by $$\\vec V = x^2y\\,\\hat i + xyz\\,\\hat j – yz^2\\,\\hat k$$<br>\n<br>\nThe angular velocity $\\vec \\omega$ at the point $(1, 1, -1)$ is ________",
+      "rawQuestionHtml": "<a name=\"607\"></a><div itemprop=\"text\">If the linear velocity $\\vec V$ is given by $$\\vec V = x^2y\\,\\hat i + xyz\\,\\hat j – yz^2\\,\\hat k$$<br>\n<br>\nThe angular velocity $\\vec \\omega$ at the point $(1, 1, -1)$ is ________</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/607/gate-cse-1993-question-02-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/607/gate-cse-1993-question-02-3"
+    },
+    {
+      "id": "go:608",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.4",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "<p><img alt=\"\" height=\"77\" src=\"/Gate_QA/question-images/14778015892815019594.webp\" width=\"577\"></p>",
+      "rawQuestionHtml": "<a name=\"608\"></a><div itemprop=\"text\"><p><img alt=\"\" height=\"77\" src=\"/Gate_QA/question-images/14778015892815019594.webp\" width=\"577\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.005"
+      ],
+      "tolerance": {
+        "abs": 0.001
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/608/gate-cse-1993-question-02-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/608/gate-cse-1993-question-02-4"
+    },
+    {
+      "id": "go:609",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 2.5",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/10650388927615441636.webp\" style=\"height:69px; width:564px\"></p>",
+      "rawQuestionHtml": "<a name=\"609\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10650388927615441636.webp\" style=\"height:69px; width:564px\"></p>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "-2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/609/gate-cse-1993-question-2-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/609/gate-cse-1993-question-2-5"
+    },
+    {
+      "id": "go:610",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.6",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "The value of the double integral $\\int^{1}_{0} \\int_{0}^{\\frac{1}{x}} \\frac {x}{1+y^2} dxdy$ is_________.",
+      "rawQuestionHtml": "<a name=\"610\"></a><div itemprop=\"text\">The value of the double integral $\\int^{1}_{0} \\int_{0}^{\\frac{1}{x}} \\frac {x}{1+y^2} dxdy$ is_________.</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/610/gate-cse-1993-question-02-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/610/gate-cse-1993-question-02-6"
+    },
+    {
+      "id": "go:612",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.8",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Given $\\vec v= x\\cos ^2y \\hat i + x^2e^z\\hat j+ z\\sin^2y\\hat k$ and $S$ the surface of a unit cube with one corner at the origin and edges parallel to the coordinate axes, the value of integral &nbsp;&nbsp;$\\int^1 \\int_s \\vec V. \\hat n dS$ &nbsp;is __________.",
+      "rawQuestionHtml": "<a name=\"612\"></a><div itemprop=\"text\">Given $\\vec v= x\\cos ^2y \\hat i + x^2e^z\\hat j+ z\\sin^2y\\hat k$ and $S$ the surface of a unit cube with one corner at the origin and edges parallel to the coordinate axes, the value of integral &nbsp;&nbsp;$\\int^1 \\int_s \\vec V. \\hat n dS$ &nbsp;is __________.</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/612/gate-cse-1993-question-02-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/612/gate-cse-1993-question-02-8"
+    },
+    {
+      "id": "go:613",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.9",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/13982609586461554785.webp\" style=\"height:106px; width:557px\"></p>",
+      "rawQuestionHtml": "<a name=\"613\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13982609586461554785.webp\" style=\"height:106px; width:557px\"></p>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/613/gate-cse-1993-question-02-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/613/gate-cse-1993-question-02-9"
+    },
+    {
+      "id": "go:614",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 02.10",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/5577920930692788623.webp\" style=\"height:274px; width:549px\"></p>",
+      "rawQuestionHtml": "<a name=\"614\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/5577920930692788623.webp\" style=\"height:274px; width:549px\"></p>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/614/gate-cse-1993-question-02-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/614/gate-cse-1993-question-02-10"
+    },
+    {
+      "id": "go:2288",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 6.1",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4659966365982334750.webp\"/></p>",
+      "rawQuestionHtml": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4659966365982334750.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>exclusive OR</li>\n<li>exclusive NOR</li>\n<li>NAND</li>\n<li>NOR</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "exclusive OR",
+        "exclusive NOR",
+        "NAND",
+        "NOR",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "exclusive OR",
+          "html": "exclusive OR"
+        },
+        {
+          "label": "B",
+          "text": "exclusive NOR",
+          "html": "exclusive NOR"
+        },
+        {
+          "label": "C",
+          "text": "NAND",
+          "html": "NAND"
+        },
+        {
+          "label": "D",
+          "text": "NOR",
+          "html": "NOR"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2288/gate-cse-1993-question-6-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2288/gate-cse-1993-question-6-1"
+    },
+    {
+      "id": "go:17235",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 6.2",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11950775580811503216.webp\" width=\"600\"/></p>",
+      "rawQuestionHtml": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11950775580811503216.webp\" width=\"600\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$a.b=1$</li>\n<li>$a+b=1$</li>\n<li>$\\bar{a} + \\bar{b} =0$</li>\n<li>$\\overline{a.b}=1$</li>\n<li>$\\overline{a+b} =1$</li>\n</ol>",
+      "options": [
+        "$a.b=1$",
+        "$a+b=1$",
+        "$\\bar{a} + \\bar{b} =0$",
+        "$\\overline{a.b}=1$",
+        "$\\overline{a+b} =1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$a.b=1$",
+          "html": "$a.b=1$"
+        },
+        {
+          "label": "B",
+          "text": "$a+b=1$",
+          "html": "$a+b=1$"
+        },
+        {
+          "label": "C",
+          "text": "$\\bar{a} + \\bar{b} =0$",
+          "html": "$\\bar{a} + \\bar{b} =0$"
+        },
+        {
+          "label": "D",
+          "text": "$\\overline{a.b}=1$",
+          "html": "$\\overline{a.b}=1$"
+        },
+        {
+          "label": "E",
+          "text": "$\\overline{a+b} =1$",
+          "html": "$\\overline{a+b} =1$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/17235/gate-cse-1993-question-6-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/17235/gate-cse-1993-question-6-2"
+    },
+    {
+      "id": "go:17237",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 6-3",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MSQ",
+      "question": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/Gate_QA/question-images/11587881660080084842.webp\" width=\"567\"/></p>",
+      "rawQuestionHtml": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/Gate_QA/question-images/11587881660080084842.webp\" width=\"567\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Shift Register</li>\n<li>$\\text{Mod- 3}$ Counter</li>\n<li>$\\text{Mod- 6}$ Counter</li>\n<li>$\\text{Mod- 2}$ Counter</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Shift Register",
+        "$\\text{Mod- 3}$ Counter",
+        "$\\text{Mod- 6}$ Counter",
+        "$\\text{Mod- 2}$ Counter",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Shift Register",
+          "html": "Shift Register"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Mod- 3}$ Counter",
+          "html": "$\\text{Mod- 3}$ Counter"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Mod- 6}$ Counter",
+          "html": "$\\text{Mod- 6}$ Counter"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{Mod- 2}$ Counter",
+          "html": "$\\text{Mod- 2}$ Counter"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/17237/gate-cse-1993-question-6-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/17237/gate-cse-1993-question-6-3"
+    },
+    {
+      "id": "go:2287",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 6.4, ISRO2008-14",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>Assume that each character code consists of $8$ bits. The number of characters that can be transmitted per second through an asynchronous serial line at $2400$ baud rate, and with two stop bits is</p>",
+      "rawQuestionHtml": "<a name=\"2287\"></a><div itemprop=\"text\"><p>Assume that each character code consists of $8$ bits. The number of characters that can be transmitted per second through an asynchronous serial line at $2400$ baud rate, and with two stop bits is</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$109$</li>\n\t<li>$216$</li>\n\t<li>$218$</li>\n\t<li>$219$</li>\n</ol></div>",
+      "options": [
+        "$109$",
+        "$216$",
+        "$218$",
+        "$219$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$109$",
+          "html": "$109$"
+        },
+        {
+          "label": "B",
+          "text": "$216$",
+          "html": "$216$"
+        },
+        {
+          "label": "C",
+          "text": "$218$",
+          "html": "$218$"
+        },
+        {
+          "label": "D",
+          "text": "$219$",
+          "html": "$219$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2287/gate-cse-1993-question-6-4-isro2008-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2287/gate-cse-1993-question-6-4-isro2008-14"
+    },
+    {
+      "id": "go:2290",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 6.8",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "NAT",
+      "question": "<p>The details of an interrupt cycle are shown in figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"295\" src=\"/Gate_QA/question-images/15661087435691607666.webp\" width=\"570\"/></p>\n<p>Given that an interrupt input arrives every $1$ msec, what is the percentage  of the  total time that the CPU devotes for the main program execution.</p>",
+      "rawQuestionHtml": "<p>The details of an interrupt cycle are shown in figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"295\" src=\"/Gate_QA/question-images/15661087435691607666.webp\" width=\"570\"/></p>\n<p>Given that an interrupt input arrives every $1$ msec, what is the percentage  of the  total time that the CPU devotes for the main program execution.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "90"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2290/gate-cse-1993-question-6-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2290/gate-cse-1993-question-6-8"
+    },
+    {
+      "id": "go:2291",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.1,2,3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/12226817143404830995.webp\" style=\"height:625px; width:480px\"></p>",
+      "rawQuestionHtml": "<a name=\"2291\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/12226817143404830995.webp\" style=\"height:625px; width:480px\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2291/gate-cse-1993-question-7-1-2-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2291/gate-cse-1993-question-7-1-2-3"
+    },
+    {
+      "id": "go:2292",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.4",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>What does the following code do?</p>\n<pre class=\"prettyprint lang-c_cpp\">var a, b: integer;\nbegin\n    a:=a+b;\n    b:=a-b;\n    a:a-b;\nend;</pre>",
+      "rawQuestionHtml": "<p>What does the following code do?</p>\n<pre class=\"prettyprint lang-c_cpp\">var a, b: integer;\nbegin\n    a:=a+b;\n    b:=a-b;\n    a:a-b;\nend;</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>exchanges $a$ and $b$</li>\n<li>doubles $a$ and stores in $b$</li>\n<li>doubles $b$ and stores in $a$</li>\n<li>leaves $a$ and $b$ unchanged</li>\n<li>none of the above<br/>\n </li>\n</ol>",
+      "options": [
+        "exchanges $a$ and $b$",
+        "doubles $a$ and stores in $b$",
+        "doubles $b$ and stores in $a$",
+        "leaves $a$ and $b$ unchanged",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "exchanges $a$ and $b$",
+          "html": "exchanges $a$ and $b$"
+        },
+        {
+          "label": "B",
+          "text": "doubles $a$ and stores in $b$",
+          "html": "doubles $a$ and stores in $b$"
+        },
+        {
+          "label": "C",
+          "text": "doubles $b$ and stores in $a$",
+          "html": "doubles $b$ and stores in $a$"
+        },
+        {
+          "label": "D",
+          "text": "leaves $a$ and $b$ unchanged",
+          "html": "leaves $a$ and $b$ unchanged"
+        },
+        {
+          "label": "E",
+          "text": "none of the above",
+          "html": "none of the above<br/>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2292/gate-cse-1993-question-7-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2292/gate-cse-1993-question-7-4"
+    },
+    {
+      "id": "go:2293",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.5",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "MSQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/3113001633135681740.webp\" style=\"height:364px; width:481px\"></p>",
+      "rawQuestionHtml": "<a name=\"2293\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/3113001633135681740.webp\" style=\"height:364px; width:481px\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2293/gate-cse-1993-question-7-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2293/gate-cse-1993-question-7-5"
+    },
+    {
+      "id": "go:2294",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.6",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MSQ",
+      "question": "<p>A simple two-pass assembler does the following in the first pass:</p>",
+      "rawQuestionHtml": "<p>A simple two-pass assembler does the following in the first pass:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>It allocates space for the literals.</p>\n</li>\n<li>\n<p>It computes the total length of the program.</p>\n</li>\n<li>\n<p>It builds the symbol table for the symbols and their values.</p>\n</li>\n<li>\n<p>It generates code for all the load and store register instructions.</p>\n</li>\n<li>\n<p>None of the above.</p>\n</li>\n</ol>",
+      "options": [
+        "It allocates space for the literals.",
+        "It computes the total length of the program.",
+        "It builds the symbol table for the symbols and their values.",
+        "It generates code for all the load and store register instructions.",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It allocates space for the literals.",
+          "html": "<p>It allocates space for the literals.</p>"
+        },
+        {
+          "label": "B",
+          "text": "It computes the total length of the program.",
+          "html": "<p>It computes the total length of the program.</p>"
+        },
+        {
+          "label": "C",
+          "text": "It builds the symbol table for the symbols and their values.",
+          "html": "<p>It builds the symbol table for the symbols and their values.</p>"
+        },
+        {
+          "label": "D",
+          "text": "It generates code for all the load and store register instructions.",
+          "html": "<p>It generates code for all the load and store register instructions.</p>"
+        },
+        {
+          "label": "E",
+          "text": "None of the above.",
+          "html": "<p>None of the above.</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2294/gate-cse-1993-question-7-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2294/gate-cse-1993-question-7-6"
+    },
+    {
+      "id": "go:2295",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.7",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>A part of the system software which under all circumstances must reside in the main memory is:</p>",
+      "rawQuestionHtml": "<p>A part of the system software which under all circumstances must reside in the main memory is:</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>text editor</li>\n<li>assembler</li>\n<li>linker</li>\n<li>loader</li>\n<li>none of the above</li>\n</ol>",
+      "options": [
+        "text editor",
+        "assembler",
+        "linker",
+        "loader",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "text editor",
+          "html": "text editor"
+        },
+        {
+          "label": "B",
+          "text": "assembler",
+          "html": "assembler"
+        },
+        {
+          "label": "C",
+          "text": "linker",
+          "html": "linker"
+        },
+        {
+          "label": "D",
+          "text": "loader",
+          "html": "loader"
+        },
+        {
+          "label": "E",
+          "text": "none of the above",
+          "html": "none of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2295/gate-cse-1993-question-7-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2295/gate-cse-1993-question-7-7"
+    },
+    {
+      "id": "go:2296",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.8",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "MCQ",
+      "question": "<p>The root directory of a disk should be placed</p>",
+      "rawQuestionHtml": "<p>The root directory of a disk should be placed</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>at a fixed address in main memory</li>\n<li>at a fixed location on the disk</li>\n<li>anywhere on the disk</li>\n<li>at a fixed location on the system disk</li>\n<li>anywhere on the system disk</li>\n</ol>",
+      "options": [
+        "at a fixed address in main memory",
+        "at a fixed location on the disk",
+        "anywhere on the disk",
+        "at a fixed location on the system disk",
+        "anywhere on the system disk"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "at a fixed address in main memory",
+          "html": "at a fixed address in main memory"
+        },
+        {
+          "label": "B",
+          "text": "at a fixed location on the disk",
+          "html": "at a fixed location on the disk"
+        },
+        {
+          "label": "C",
+          "text": "anywhere on the disk",
+          "html": "anywhere on the disk"
+        },
+        {
+          "label": "D",
+          "text": "at a fixed location on the system disk",
+          "html": "at a fixed location on the system disk"
+        },
+        {
+          "label": "E",
+          "text": "anywhere on the system disk",
+          "html": "anywhere on the system disk"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2296/gate-cse-1993-question-7-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2296/gate-cse-1993-question-7-8"
+    },
+    {
+      "id": "go:2297",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.9",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Process Synchronization & Semaphores",
+      "type": "MCQ",
+      "question": "<p>Consider a system having m resources of the same type. These resources are shared by 3 processes A,B, and C which have peak demands of 3, 4 and 6 respectively.  For what value of m deadlock will not occur?</p>",
+      "rawQuestionHtml": "<p>Consider a system having m resources of the same type. These resources are shared by 3 processes A,B, and C which have peak demands of 3, 4 and 6 respectively.  For what value of m deadlock will not occur?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>7</p>\n</li>\n<li>\n<p>9</p>\n</li>\n<li>\n<p>10</p>\n</li>\n<li>\n<p>13</p>\n</li>\n</ol>",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "13"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "label": "B",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "label": "C",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "label": "D",
+          "text": "13",
+          "html": "<p>13</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2297/gate-cse-1993-question-7-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2297/gate-cse-1993-question-7-9"
+    },
+    {
+      "id": "go:2298",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 7.10",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Assume that  the following jobs are to be executed on a single processor system$$\\begin{array}{|c|c|} \\hline  \\textbf{Job Id} &amp; \\textbf{CPU Burst Time} \\\\\\hline \\text{p} &amp; 4 \\\\\\hline  \\text{q} &amp; 1 \\\\\\hline \\text{r} &amp; 8 \\\\\\hline \\text{s} &amp; 1 \\\\\\hline \\text{t} &amp; 2 \\\\\\hline \\end{array}$$The jobs are assumed to have arrived at time $0^+$ and in the order $p,q,r,s,t$. Calculate the departure time (completion time) for job $p$ if scheduling is round robin with time slice $1$</p>",
+      "rawQuestionHtml": "<p>Assume that  the following jobs are to be executed on a single processor system$$\\begin{array}{|c|c|} \\hline  \\textbf{Job Id} &amp; \\textbf{CPU Burst Time} \\\\\\hline \\text{p} &amp; 4 \\\\\\hline  \\text{q} &amp; 1 \\\\\\hline \\text{r} &amp; 8 \\\\\\hline \\text{s} &amp; 1 \\\\\\hline \\text{t} &amp; 2 \\\\\\hline \\end{array}$$The jobs are assumed to have arrived at time $0^+$ and in the order $p,q,r,s,t$. Calculate the departure time (completion time) for job $p$ if scheduling is round robin with time slice $1$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$10$</li>\n<li>$11$</li>\n<li>$12$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$10$",
+        "$11$",
+        "$12$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "C",
+          "text": "$11$",
+          "html": "$11$"
+        },
+        {
+          "label": "D",
+          "text": "$12$",
+          "html": "$12$"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2298/gate-cse-1993-question-7-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2298/gate-cse-1993-question-7-10"
+    },
+    {
+      "id": "go:2299",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.1",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MSQ",
+      "question": "<p>Consider a simple connected graph $G$ with $n$ vertices and $n$ edges $(n &gt; 2)$. Then, which of the following statements are true?</p>",
+      "rawQuestionHtml": "<p>Consider a simple connected graph $G$ with $n$ vertices and $n$ edges $(n &gt; 2)$. Then, which of the following statements are true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$G$ has no cycles</li>\n<li>The graph obtained by removing any edge from $G$ is not connected</li>\n<li>$G$ has at least one cycle</li>\n<li>The graph obtained by removing any two edges from $G$ is not connected</li>\n<li>None of the above </li>\n</ol>",
+      "options": [
+        "$G$ has no cycles",
+        "The graph obtained by removing any edge from $G$ is not connected",
+        "$G$ has at least one cycle",
+        "The graph obtained by removing any two edges from $G$ is not connected",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$G$ has no cycles",
+          "html": "$G$ has no cycles"
+        },
+        {
+          "label": "B",
+          "text": "The graph obtained by removing any edge from $G$ is not connected",
+          "html": "The graph obtained by removing any edge from $G$ is not connected"
+        },
+        {
+          "label": "C",
+          "text": "$G$ has at least one cycle",
+          "html": "$G$ has at least one cycle"
+        },
+        {
+          "label": "D",
+          "text": "The graph obtained by removing any two edges from $G$ is not connected",
+          "html": "The graph obtained by removing any two edges from $G$ is not connected"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2299/gate-cse-1993-question-8-1",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2299/gate-cse-1993-question-8-1"
+    },
+    {
+      "id": "go:2300",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.2",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>The proposition $p \\wedge (\\sim p \\vee q)$ is:</p>",
+      "rawQuestionHtml": "<p>The proposition $p \\wedge (\\sim p \\vee q)$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>a tautology</p>\n</li>\n<li>\n<p>logically equivalent to $p \\wedge q$</p>\n</li>\n<li>\n<p>logically equivalent to $p \\vee q$</p>\n</li>\n<li>\n<p>a contradiction</p>\n</li>\n<li>\n<p>none of the above</p>\n</li>\n</ol>",
+      "options": [
+        "a tautology",
+        "logically equivalent to $p \\wedge q$",
+        "logically equivalent to $p \\vee q$",
+        "a contradiction",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "a tautology",
+          "html": "<p>a tautology</p>"
+        },
+        {
+          "label": "B",
+          "text": "logically equivalent to $p \\wedge q$",
+          "html": "<p>logically equivalent to $p \\wedge q$</p>"
+        },
+        {
+          "label": "C",
+          "text": "logically equivalent to $p \\vee q$",
+          "html": "<p>logically equivalent to $p \\vee q$</p>"
+        },
+        {
+          "label": "D",
+          "text": "a contradiction",
+          "html": "<p>a contradiction</p>"
+        },
+        {
+          "label": "E",
+          "text": "none of the above",
+          "html": "<p>none of the above</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2300/gate-cse-1993-question-8-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2300/gate-cse-1993-question-8-2"
+    },
+    {
+      "id": "go:2301",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.3",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $S$ be an infinite set and $S_1 \\dots , S_n$ be sets such that $S_1 \\cup S_2 \\cup \\dots \\cup S_n = S$. Then</p>",
+      "rawQuestionHtml": "<p>Let $S$ be an infinite set and $S_1 \\dots , S_n$ be sets such that $S_1 \\cup S_2 \\cup \\dots \\cup S_n = S$. Then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>at least one of the sets $S_i$ is a finite set</li>\n<li>not more than one of the sets $S_i$ can be finite</li>\n<li>at least one of the sets $S_i$ is an infinite</li>\n<li>not more than one of the sets $S_i$ can be infinite</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "at least one of the sets $S_i$ is a finite set",
+        "not more than one of the sets $S_i$ can be finite",
+        "at least one of the sets $S_i$ is an infinite",
+        "not more than one of the sets $S_i$ can be infinite",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "at least one of the sets $S_i$ is a finite set",
+          "html": "at least one of the sets $S_i$ is a finite set"
+        },
+        {
+          "label": "B",
+          "text": "not more than one of the sets $S_i$ can be finite",
+          "html": "not more than one of the sets $S_i$ can be finite"
+        },
+        {
+          "label": "C",
+          "text": "at least one of the sets $S_i$ is an infinite",
+          "html": "at least one of the sets $S_i$ is an infinite"
+        },
+        {
+          "label": "D",
+          "text": "not more than one of the sets $S_i$ can be infinite",
+          "html": "not more than one of the sets $S_i$ can be infinite"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2301/gate-cse-1993-question-8-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2301/gate-cse-1993-question-8-3"
+    },
+    {
+      "id": "go:2302",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.4",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let A be a finite set of size n. The number of elements in the power set of $A\\times A$ is:</p>",
+      "rawQuestionHtml": "<p>Let A be a finite set of size n. The number of elements in the power set of $A\\times A$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2^{2^n}$</li>\n<li>$2^{n^2}$</li>\n<li>$\\left(2^n\\right)^2$</li>\n<li>$\\left(2^2\\right)^n$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$2^{2^n}$",
+        "$2^{n^2}$",
+        "$\\left(2^n\\right)^2$",
+        "$\\left(2^2\\right)^n$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2^{2^n}$",
+          "html": "$2^{2^n}$"
+        },
+        {
+          "label": "B",
+          "text": "$2^{n^2}$",
+          "html": "$2^{n^2}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(2^n\\right)^2$",
+          "html": "$\\left(2^n\\right)^2$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left(2^2\\right)^n$",
+          "html": "$\\left(2^2\\right)^n$"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2302/gate-cse-1993-question-8-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2302/gate-cse-1993-question-8-4"
+    },
+    {
+      "id": "go:2303",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.5",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>The less-than relation, [latex]\\lt[/latex], on reals is</p>",
+      "rawQuestionHtml": "<p>The less-than relation, [latex]\\lt[/latex], on reals is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>a partial ordering since it is asymmetric and reflexive</p>\n</li>\n<li>\n<p>a partial ordering since it is antisymmetric and reflexive</p>\n</li>\n<li>\n<p>not a partial ordering because it is not asymmetric and not reflexive</p>\n</li>\n<li>\n<p>not a partial ordering because it is not antisymmetric and reflexive</p>\n</li>\n</ol>",
+      "options": [
+        "a partial ordering since it is asymmetric and reflexive",
+        "a partial ordering since it is antisymmetric and reflexive",
+        "not a partial ordering because it is not asymmetric and not reflexive",
+        "not a partial ordering because it is not antisymmetric and reflexive"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "a partial ordering since it is asymmetric and reflexive",
+          "html": "<p>a partial ordering since it is asymmetric and reflexive</p>"
+        },
+        {
+          "label": "B",
+          "text": "a partial ordering since it is antisymmetric and reflexive",
+          "html": "<p>a partial ordering since it is antisymmetric and reflexive</p>"
+        },
+        {
+          "label": "C",
+          "text": "not a partial ordering because it is not asymmetric and not reflexive",
+          "html": "<p>not a partial ordering because it is not asymmetric and not reflexive</p>"
+        },
+        {
+          "label": "D",
+          "text": "not a partial ordering because it is not antisymmetric and reflexive",
+          "html": "<p>not a partial ordering because it is not antisymmetric and reflexive</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2303/gate-cse-1993-question-8-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2303/gate-cse-1993-question-8-5"
+    },
+    {
+      "id": "go:2304",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.6",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $A$ and $B$ be sets with cardinalities $m$ and $n$ respectively. The number of one-one mappings from $A$ to $B$, when $m &lt; n$, is</p>",
+      "rawQuestionHtml": "<p>Let $A$ and $B$ be sets with cardinalities $m$ and $n$ respectively. The number of one-one mappings from $A$ to $B$, when $m &lt; n$, is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$m^n$</li>\n<li>$^nP_m$</li>\n<li>$^mC_n$</li>\n<li>$^nC_m$</li>\n<li>$^mP_n$</li>\n</ol>",
+      "options": [
+        "$m^n$",
+        "$^nP_m$",
+        "$^mC_n$",
+        "$^nC_m$",
+        "$^mP_n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$m^n$",
+          "html": "$m^n$"
+        },
+        {
+          "label": "B",
+          "text": "$^nP_m$",
+          "html": "$^nP_m$"
+        },
+        {
+          "label": "C",
+          "text": "$^mC_n$",
+          "html": "$^mC_n$"
+        },
+        {
+          "label": "D",
+          "text": "$^nC_m$",
+          "html": "$^nC_m$"
+        },
+        {
+          "label": "E",
+          "text": "$^mP_n$",
+          "html": "$^mP_n$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2304/gate-cse-1993-question-8-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2304/gate-cse-1993-question-8-6"
+    },
+    {
+      "id": "go:2305",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 8.7",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>[latex] \\sum_{1\\leq k\\leq n} O(n)[/latex],  where [latex]O(n)[/latex] stands for order [latex]n[/latex] is:</p>",
+      "rawQuestionHtml": "<p>[latex] \\sum_{1\\leq k\\leq n} O(n)[/latex],  where [latex]O(n)[/latex] stands for order [latex]n[/latex] is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>O(n)</p>\n</li>\n<li>\n<p>[latex]O(n^2)[/latex]</p>\n</li>\n<li>\n<p>[latex]O(n^3)[/latex]</p>\n</li>\n<li>\n<p>[latex]O(3n^2)[/latex]</p>\n</li>\n</ol>",
+      "options": [
+        "O(n)",
+        "[latex]O(n^2)[/latex]",
+        "[latex]O(n^3)[/latex]",
+        "[latex]O(3n^2)[/latex]"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "O(n)",
+          "html": "<p>O(n)</p>"
+        },
+        {
+          "label": "B",
+          "text": "[latex]O(n^2)[/latex]",
+          "html": "<p>[latex]O(n^2)[/latex]</p>"
+        },
+        {
+          "label": "C",
+          "text": "[latex]O(n^3)[/latex]",
+          "html": "<p>[latex]O(n^3)[/latex]</p>"
+        },
+        {
+          "label": "D",
+          "text": "[latex]O(3n^2)[/latex]",
+          "html": "<p>[latex]O(3n^2)[/latex]</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2305/gate-cse-1993-question-8-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2305/gate-cse-1993-question-8-7"
+    },
+    {
+      "id": "go:2311",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 14",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "NAT",
+      "question": "An $\\text{ISAM}$ (indexed sequential) file consists of records of size $64$ bytes each, including key field of size $14$ bytes. An address of a disk block takes $2$ bytes. If the disk block size is $512$ bytes and there are $16K$ records, compute the size of the data and index areas in terms of number blocks. How many levels of $\\text{tree}$ do you have for the index?",
+      "rawQuestionHtml": "An $\\text{ISAM}$ (indexed sequential) file consists of records of size $64$ bytes each, including key field of size $14$ bytes. An address of a disk block takes $2$ bytes. If the disk block size is $512$ bytes and there are $16K$ records, compute the size of the data and index areas in terms of number blocks. How many levels of $\\text{tree}$ do you have for the index?",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2311/gate-cse-1993-question-14",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2311/gate-cse-1993-question-14"
+    },
+    {
+      "id": "go:2312",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Consider the recursive algorithm given below:</p>\n<pre class=\"prettyprint lang-c_cpp\">procedure bubblesort (n);\nvar i,j: index; temp : item;\nbegin\n    for i:=1 to n-1 do\n        if A[i] &gt; A[i+1] then\n        begin\n            temp := A[i];\n            A[i] := A[i+1];\n            A[i+1] := temp;\n        end;\n    bubblesort (n-1)\nend\n</pre>\n<p>Let $a_n$ be the number of times the ‘if…then…’ statement gets executed when the algorithm is run with value $n$. Set up the recurrence relation by defining $a_n$ in terms of $a_{n-1}$. Solve for $a_n$.</p>",
+      "rawQuestionHtml": "<p>Consider the recursive algorithm given below:</p>\n<pre class=\"prettyprint lang-c_cpp\">procedure bubblesort (n);\nvar i,j: index; temp : item;\nbegin\n    for i:=1 to n-1 do\n        if A[i] &gt; A[i+1] then\n        begin\n            temp := A[i];\n            A[i] := A[i+1];\n            A[i+1] := temp;\n        end;\n    bubblesort (n-1)\nend\n</pre>\n<p>Let $a_n$ be the number of times the ‘if…then…’ statement gets executed when the algorithm is run with value $n$. Set up the recurrence relation by defining $a_n$ in terms of $a_{n-1}$. Solve for $a_n$.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2312/gate-cse-1993-question-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2312/gate-cse-1993-question-15"
+    },
+    {
+      "id": "go:2317",
+      "testId": "gate-1993-s0",
+      "year": 1993,
+      "set": 1,
+      "yearSetKey": "1993-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 1993 | Question: 20",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/10427787454869054011.webp\" width=\"508\"></p>",
+      "rawQuestionHtml": "<a name=\"2317\"></a><div itemprop=\"text\"><p><img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/10427787454869054011.webp\" width=\"508\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2317/gate-cse-1993-question-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2317/gate-cse-1993-question-20"
+    }
+  ]
+}

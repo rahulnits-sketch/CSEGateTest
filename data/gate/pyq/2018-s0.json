@@ -1,0 +1,2959 @@
+{
+  "id": "gate-2018-s0",
+  "yearSetKey": "2018-s0",
+  "year": 2018,
+  "set": 1,
+  "title": "GATE CSE 2018",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "gaQuestions": 10,
+  "csQuestions": 55,
+  "questions": [
+    {
+      "id": "go:204062",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 1,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>\"From where are they bringing their books? _______ bringing _______ books from ________\"</p>\n<p>The words that best fill the blanks in the above sentence are</p>",
+      "rawQuestionHtml": "<p>\"From where are they bringing their books? _______ bringing _______ books from ________\"</p>\n<p>The words that best fill the blanks in the above sentence are</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{Their, they're, there}$</li>\n<li>$\\text{They're, their, there}$</li>\n<li>$\\text{There, their, they're}$</li>\n<li>$\\text{They're, there,there}$</li>\n</ol>",
+      "options": [
+        "$\\text{Their, they're, there}$",
+        "$\\text{They're, their, there}$",
+        "$\\text{There, their, they're}$",
+        "$\\text{They're, there,there}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{Their, they're, there}$",
+          "html": "$\\text{Their, they're, there}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{They're, their, there}$",
+          "html": "$\\text{They're, their, there}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{There, their, they're}$",
+          "html": "$\\text{There, their, they're}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{They're, there,there}$",
+          "html": "$\\text{They're, there,there}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204062/gate-cse-2018-question-ga-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204062/gate-cse-2018-question-ga-1"
+    },
+    {
+      "id": "go:204075",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 1",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "C Programming Constructs & Pointers",
+      "type": "MCQ",
+      "question": "<p>Which one of the following is a closed form expression for the generating function of the sequence $\\{a_n\\}$, where $a_n = 2n +3 \\text{ for all } n=0, 1, 2, \\dots$?</p>",
+      "rawQuestionHtml": "<p>Which one of the following is a closed form expression for the generating function of the sequence $\\{a_n\\}$, where $a_n = 2n +3 \\text{ for all } n=0, 1, 2, \\dots$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{3}{(1-x)^2}$</li>\n<li>$\\frac{3x}{(1-x)^2}$</li>\n<li>$\\frac{2-x}{(1-x)^2}$</li>\n<li>$\\frac{3-x}{(1-x)^2}$</li>\n</ol>",
+      "options": [
+        "$\\frac{3}{(1-x)^2}$",
+        "$\\frac{3x}{(1-x)^2}$",
+        "$\\frac{2-x}{(1-x)^2}$",
+        "$\\frac{3-x}{(1-x)^2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{3}{(1-x)^2}$",
+          "html": "$\\frac{3}{(1-x)^2}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{3x}{(1-x)^2}$",
+          "html": "$\\frac{3x}{(1-x)^2}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{2-x}{(1-x)^2}$",
+          "html": "$\\frac{2-x}{(1-x)^2}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{3-x}{(1-x)^2}$",
+          "html": "$\\frac{3-x}{(1-x)^2}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204075/gate-cse-2018-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204075/gate-cse-2018-question-1"
+    },
+    {
+      "id": "go:204063",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 2,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>A ________ investigation can sometimes yield new facts, but typically organized ones are more successful.</p>\n<p>The word that best fills the blank in the above sentence is</p>",
+      "rawQuestionHtml": "<p>A ________ investigation can sometimes yield new facts, but typically organized ones are more successful.</p>\n<p>The word that best fills the blank in the above sentence is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{meandering}$</li>\n<li>$\\text{timely}$</li>\n<li>$\\text{consistent}$</li>\n<li>$\\text{systematic}$</li>\n</ol>",
+      "options": [
+        "$\\text{meandering}$",
+        "$\\text{timely}$",
+        "$\\text{consistent}$",
+        "$\\text{systematic}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{meandering}$",
+          "html": "$\\text{meandering}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{timely}$",
+          "html": "$\\text{timely}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{consistent}$",
+          "html": "$\\text{consistent}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{systematic}$",
+          "html": "$\\text{systematic}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204063/gate-cse-2018-question-ga-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204063/gate-cse-2018-question-ga-2"
+    },
+    {
+      "id": "go:204076",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 2",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following C program:</p>\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\nstruct Ournode{\n    char x, y, z;\n};\nint main() {\n    struct Ournode p={'1', '0', 'a'+2};\n    struct Ournode *q=&amp;p;\n    printf(\"%c, %c\", *((char*)q+1), *((char*)q+2));\n    return 0;\n}</pre>\n<p>The output of this program is:</p>",
+      "rawQuestionHtml": "<p>Consider the following C program:</p>\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\nstruct Ournode{\n    char x, y, z;\n};\nint main() {\n    struct Ournode p={'1', '0', 'a'+2};\n    struct Ournode *q=&amp;p;\n    printf(\"%c, %c\", *((char*)q+1), *((char*)q+2));\n    return 0;\n}</pre>\n<p>The output of this program is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0, c</li>\n<li>0, a+2</li>\n<li>'0', 'a+2'</li>\n<li>'0', 'c'</li>\n</ol>",
+      "options": [
+        "0, c",
+        "0, a+2",
+        "'0', 'a+2'",
+        "'0', 'c'"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "0, c",
+          "html": "0, c"
+        },
+        {
+          "label": "B",
+          "text": "0, a+2",
+          "html": "0, a+2"
+        },
+        {
+          "label": "C",
+          "text": "'0', 'a+2'",
+          "html": "'0', 'a+2'"
+        },
+        {
+          "label": "D",
+          "text": "'0', 'c'",
+          "html": "'0', 'c'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204076/gate-cse-2018-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204076/gate-cse-2018-question-2"
+    },
+    {
+      "id": "go:204064",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 3,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The area of a square is $d$. What is the area of the circle which has the diagonal of the square as its diameter?</p>",
+      "rawQuestionHtml": "<p>The area of a square is $d$. What is the area of the circle which has the diagonal of the square as its diameter?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\large{\\pi} d$</li>\n<li>$\\large{\\pi} d^2$</li>\n<li>$\\dfrac{1}{4}\\large{\\pi} d^2$</li>\n<li>$\\dfrac{1}{2}\\large{\\pi} d$</li>\n</ol>",
+      "options": [
+        "$\\large{\\pi} d$",
+        "$\\large{\\pi} d^2$",
+        "$\\dfrac{1}{4}\\large{\\pi} d^2$",
+        "$\\dfrac{1}{2}\\large{\\pi} d$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\large{\\pi} d$",
+          "html": "$\\large{\\pi} d$"
+        },
+        {
+          "label": "B",
+          "text": "$\\large{\\pi} d^2$",
+          "html": "$\\large{\\pi} d^2$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{1}{4}\\large{\\pi} d^2$",
+          "html": "$\\dfrac{1}{4}\\large{\\pi} d^2$"
+        },
+        {
+          "label": "D",
+          "text": "$\\dfrac{1}{2}\\large{\\pi} d$",
+          "html": "$\\dfrac{1}{2}\\large{\\pi} d$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204064/gate-cse-2018-question-ga-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204064/gate-cse-2018-question-ga-3"
+    },
+    {
+      "id": "go:204077",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 3",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/Gate_QA/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>",
+      "rawQuestionHtml": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/Gate_QA/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta(1), \\Theta(1)$</li>\n<li>$\\Theta(1), \\Theta(n)$</li>\n<li>$\\Theta(n), \\Theta(1)$</li>\n<li>$\\Theta(n), \\Theta(n)$</li>\n</ol>",
+      "options": [
+        "$\\Theta(1), \\Theta(1)$",
+        "$\\Theta(1), \\Theta(n)$",
+        "$\\Theta(n), \\Theta(1)$",
+        "$\\Theta(n), \\Theta(n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\Theta(1), \\Theta(1)$",
+          "html": "$\\Theta(1), \\Theta(1)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\Theta(1), \\Theta(n)$",
+          "html": "$\\Theta(1), \\Theta(n)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Theta(n), \\Theta(1)$",
+          "html": "$\\Theta(n), \\Theta(1)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\Theta(n), \\Theta(n)$",
+          "html": "$\\Theta(n), \\Theta(n)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204077/gate-cse-2018-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204077/gate-cse-2018-question-3"
+    },
+    {
+      "id": "go:204065",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 4,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>What would be the smallest natural number which when divided either by $20$ or by $42$ or by $76$ leaves a remainder of  $7$ in each case?</p>",
+      "rawQuestionHtml": "<p>What would be the smallest natural number which when divided either by $20$ or by $42$ or by $76$ leaves a remainder of  $7$ in each case?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3047$</li>\n<li>$6047$</li>\n<li>$7987$</li>\n<li>$63847$</li>\n</ol>",
+      "options": [
+        "$3047$",
+        "$6047$",
+        "$7987$",
+        "$63847$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3047$",
+          "html": "$3047$"
+        },
+        {
+          "label": "B",
+          "text": "$6047$",
+          "html": "$6047$"
+        },
+        {
+          "label": "C",
+          "text": "$7987$",
+          "html": "$7987$"
+        },
+        {
+          "label": "D",
+          "text": "$63847$",
+          "html": "$63847$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204065/gate-cse-2018-question-ga-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204065/gate-cse-2018-question-ga-4"
+    },
+    {
+      "id": "go:204078",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 4",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Let $\\oplus$ and $\\odot$ denote the Exclusive OR and Exclusive NOR operations, respectively. Which one of the following is NOT CORRECT?</p>",
+      "rawQuestionHtml": "<p>Let $\\oplus$ and $\\odot$ denote the Exclusive OR and Exclusive NOR operations, respectively. Which one of the following is NOT CORRECT?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline{P \\oplus Q} = P \\odot Q$</li>\n<li>$\\overline{P} \\oplus Q = P \\odot Q$</li>\n<li>$\\overline{P} \\oplus \\overline{Q} = P \\oplus Q$</li>\n<li>$P \\oplus \\overline{P} \\oplus Q = ( P \\odot \\overline{P} \\odot \\overline{Q})$ </li>\n</ol>",
+      "options": [
+        "$\\overline{P \\oplus Q} = P \\odot Q$",
+        "$\\overline{P} \\oplus Q = P \\odot Q$",
+        "$\\overline{P} \\oplus \\overline{Q} = P \\oplus Q$",
+        "$P \\oplus \\overline{P} \\oplus Q = ( P \\odot \\overline{P} \\odot \\overline{Q})$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\overline{P \\oplus Q} = P \\odot Q$",
+          "html": "$\\overline{P \\oplus Q} = P \\odot Q$"
+        },
+        {
+          "label": "B",
+          "text": "$\\overline{P} \\oplus Q = P \\odot Q$",
+          "html": "$\\overline{P} \\oplus Q = P \\odot Q$"
+        },
+        {
+          "label": "C",
+          "text": "$\\overline{P} \\oplus \\overline{Q} = P \\oplus Q$",
+          "html": "$\\overline{P} \\oplus \\overline{Q} = P \\oplus Q$"
+        },
+        {
+          "label": "D",
+          "text": "$P \\oplus \\overline{P} \\oplus Q = ( P \\odot \\overline{P} \\odot \\overline{Q})$",
+          "html": "$P \\oplus \\overline{P} \\oplus Q = ( P \\odot \\overline{P} \\odot \\overline{Q})$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204078/gate-cse-2018-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204078/gate-cse-2018-question-4"
+    },
+    {
+      "id": "go:204066",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 5,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>$\\text{ What is the missing number in the following sequence?}$</p>\n<p>$$2,\\,12,\\,60,\\,240,\\,720,\\,1440,\\,\\underline{\\;\\;\\;\\;\\;\\;\\;\\;},0$$</p>",
+      "rawQuestionHtml": "<p>$\\text{ What is the missing number in the following sequence?}$</p>\n<p>$$2,\\,12,\\,60,\\,240,\\,720,\\,1440,\\,\\underline{\\;\\;\\;\\;\\;\\;\\;\\;},0$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2880$</li>\n<li>$1440$</li>\n<li>$720$</li>\n<li>$0$</li>\n</ol>",
+      "options": [
+        "$2880$",
+        "$1440$",
+        "$720$",
+        "$0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2880$",
+          "html": "$2880$"
+        },
+        {
+          "label": "B",
+          "text": "$1440$",
+          "html": "$1440$"
+        },
+        {
+          "label": "C",
+          "text": "$720$",
+          "html": "$720$"
+        },
+        {
+          "label": "D",
+          "text": "$0$",
+          "html": "$0$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204066/gate-cse-2018-question-ga-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204066/gate-cse-2018-question-ga-5"
+    },
+    {
+      "id": "go:204079",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 5",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Consider the following processor design characteristics:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>Register-to-register arithmetic operations only</li>\n<li>Fixed-length instruction format</li>\n<li>Hardwired control unit</li>\n</ol>\n<p>Which of the characteristics above  are used in the design of a RISC processor?</p>",
+      "rawQuestionHtml": "<p>Consider the following processor design characteristics:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>Register-to-register arithmetic operations only</li>\n<li>Fixed-length instruction format</li>\n<li>Hardwired control unit</li>\n</ol>\n<p>Which of the characteristics above  are used in the design of a RISC processor?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I and II only</li>\n<li>II and III only</li>\n<li>I and III only</li>\n<li>I, II and III</li>\n</ol>",
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "I, II and III"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "I and II only",
+          "html": "I and II only"
+        },
+        {
+          "label": "B",
+          "text": "II and III only",
+          "html": "II and III only"
+        },
+        {
+          "label": "C",
+          "text": "I and III only",
+          "html": "I and III only"
+        },
+        {
+          "label": "D",
+          "text": "I, II and III",
+          "html": "I, II and III"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204079/gate-cse-2018-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204079/gate-cse-2018-question-5"
+    },
+    {
+      "id": "go:204067",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 6,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In appreciation of the social improvements completed in a town, a wealthy philanthropist decided to gift $Rs\\; 750$ to each male senior citizen in the town and $Rs\\; 1000$ to each female senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, only $\\dfrac{8}{9}^{\\text{th}}$ of the eligible men and $\\dfrac{2}{3}^{\\text{rd}}$ of the eligible women claimed the gift.How much money (in Rupees) did the philanthropist give away in total?</p>",
+      "rawQuestionHtml": "<p>In appreciation of the social improvements completed in a town, a wealthy philanthropist decided to gift $Rs\\; 750$ to each male senior citizen in the town and $Rs\\; 1000$ to each female senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, only $\\dfrac{8}{9}^{\\text{th}}$ of the eligible men and $\\dfrac{2}{3}^{\\text{rd}}$ of the eligible women claimed the gift.How much money (in Rupees) did the philanthropist give away in total?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1,50,000$</li>\n<li>$2,00,000$</li>\n<li>$1,75,000$</li>\n<li>$1,51,000$</li>\n</ol>",
+      "options": [
+        "$1,50,000$",
+        "$2,00,000$",
+        "$1,75,000$",
+        "$1,51,000$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1,50,000$",
+          "html": "$1,50,000$"
+        },
+        {
+          "label": "B",
+          "text": "$2,00,000$",
+          "html": "$2,00,000$"
+        },
+        {
+          "label": "C",
+          "text": "$1,75,000$",
+          "html": "$1,75,000$"
+        },
+        {
+          "label": "D",
+          "text": "$1,51,000$",
+          "html": "$1,51,000$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204067/gate-cse-2018-question-ga-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204067/gate-cse-2018-question-ga-6"
+    },
+    {
+      "id": "go:204080",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 6",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $N$ be an NFA with $n$ states. Let $k$ be the number of states of a minimal DFA which is equivalent to $N$. Which one of the following is necessarily true?</p>",
+      "rawQuestionHtml": "<p>Let $N$ be an NFA with $n$ states. Let $k$ be the number of states of a minimal DFA which is equivalent to $N$. Which one of the following is necessarily true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$k \\geq 2^n$</li>\n<li>$k \\geq n$</li>\n<li>$k \\leq n^2$</li>\n<li>$k \\leq 2^n$</li>\n</ol>",
+      "options": [
+        "$k \\geq 2^n$",
+        "$k \\geq n$",
+        "$k \\leq n^2$",
+        "$k \\leq 2^n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$k \\geq 2^n$",
+          "html": "$k \\geq 2^n$"
+        },
+        {
+          "label": "B",
+          "text": "$k \\geq n$",
+          "html": "$k \\geq n$"
+        },
+        {
+          "label": "C",
+          "text": "$k \\leq n^2$",
+          "html": "$k \\leq n^2$"
+        },
+        {
+          "label": "D",
+          "text": "$k \\leq 2^n$",
+          "html": "$k \\leq 2^n$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204080/gate-cse-2018-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204080/gate-cse-2018-question-6"
+    },
+    {
+      "id": "go:204068",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 7,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p> If $pqr \\ne 0$ and $p^{-x}=\\dfrac{1}{q},q^{-y}=\\dfrac{1}{r},r^{-z}=\\dfrac{1}{p},$ what is the value of the product $xyz$ ?</p>",
+      "rawQuestionHtml": "<p> If $pqr \\ne 0$ and $p^{-x}=\\dfrac{1}{q},q^{-y}=\\dfrac{1}{r},r^{-z}=\\dfrac{1}{p},$ what is the value of the product $xyz$ ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$-1$</li>\n<li>$\\dfrac{1}{pqr}$</li>\n<li>$1$</li>\n<li>$pqr$</li>\n</ol>",
+      "options": [
+        "$-1$",
+        "$\\dfrac{1}{pqr}$",
+        "$1$",
+        "$pqr$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$-1$",
+          "html": "$-1$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{1}{pqr}$",
+          "html": "$\\dfrac{1}{pqr}$"
+        },
+        {
+          "label": "C",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "D",
+          "text": "$pqr$",
+          "html": "$pqr$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204068/gate-cse-2018-question-ga-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204068/gate-cse-2018-question-ga-7"
+    },
+    {
+      "id": "go:204081",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 7",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>The set of all recursively enumerable languages is:</p>",
+      "rawQuestionHtml": "<p>The set of all recursively enumerable languages is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>closed under complementation</li>\n<li>closed under intersection</li>\n<li>a subset of the set of all recursive languages</li>\n<li>an uncountable set</li>\n</ol>",
+      "options": [
+        "closed under complementation",
+        "closed under intersection",
+        "a subset of the set of all recursive languages",
+        "an uncountable set"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "closed under complementation",
+          "html": "closed under complementation"
+        },
+        {
+          "label": "B",
+          "text": "closed under intersection",
+          "html": "closed under intersection"
+        },
+        {
+          "label": "C",
+          "text": "a subset of the set of all recursive languages",
+          "html": "a subset of the set of all recursive languages"
+        },
+        {
+          "label": "D",
+          "text": "an uncountable set",
+          "html": "an uncountable set"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204081/gate-cse-2018-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204081/gate-cse-2018-question-7"
+    },
+    {
+      "id": "go:204069",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 8,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In a party, $60\\%$ of the invited guests are male and $40\\%$ are female.If $80\\%$ of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?</p>",
+      "rawQuestionHtml": "<p>In a party, $60\\%$ of the invited guests are male and $40\\%$ are female.If $80\\%$ of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2\\colon 3$</li>\n<li>$1\\colon 1$</li>\n<li>$3\\colon 2$</li>\n<li>$2\\colon 1$</li>\n</ol>",
+      "options": [
+        "$2\\colon 3$",
+        "$1\\colon 1$",
+        "$3\\colon 2$",
+        "$2\\colon 1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2\\colon 3$",
+          "html": "$2\\colon 3$"
+        },
+        {
+          "label": "B",
+          "text": "$1\\colon 1$",
+          "html": "$1\\colon 1$"
+        },
+        {
+          "label": "C",
+          "text": "$3\\colon 2$",
+          "html": "$3\\colon 2$"
+        },
+        {
+          "label": "D",
+          "text": "$2\\colon 1$",
+          "html": "$2\\colon 1$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204069/gate-cse-2018-question-ga-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204069/gate-cse-2018-question-ga-8"
+    },
+    {
+      "id": "go:204082",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 8",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>Which one of the following statements is FALSE?</p>",
+      "rawQuestionHtml": "<p>Which one of the following statements is FALSE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Context-free grammar can be used to specify both lexical and syntax rules</li>\n<li>Type checking is done before parsing</li>\n<li>High-level language programs can be translated to different Intermediate Representations</li>\n<li>Arguments to a function can be passed using the program stack</li>\n</ol>",
+      "options": [
+        "Context-free grammar can be used to specify both lexical and syntax rules",
+        "Type checking is done before parsing",
+        "High-level language programs can be translated to different Intermediate Representations",
+        "Arguments to a function can be passed using the program stack"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Context-free grammar can be used to specify both lexical and syntax rules",
+          "html": "Context-free grammar can be used to specify both lexical and syntax rules"
+        },
+        {
+          "label": "B",
+          "text": "Type checking is done before parsing",
+          "html": "Type checking is done before parsing"
+        },
+        {
+          "label": "C",
+          "text": "High-level language programs can be translated to different Intermediate Representations",
+          "html": "High-level language programs can be translated to different Intermediate Representations"
+        },
+        {
+          "label": "D",
+          "text": "Arguments to a function can be passed using the program stack",
+          "html": "Arguments to a function can be passed using the program stack"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204082/gate-cse-2018-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204082/gate-cse-2018-question-8"
+    },
+    {
+      "id": "go:204070",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 9,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In the figure below, $\\angle DEC + \\angle BFC$ is equal to _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/Gate_QA/question-images/5282132146250219091.webp\" width=\"224\"/></p>",
+      "rawQuestionHtml": "<p>In the figure below, $\\angle DEC + \\angle BFC$ is equal to _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/Gate_QA/question-images/5282132146250219091.webp\" width=\"224\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\angle BCD - \\angle BAD$</li>\n<li>$\\angle BAD + \\angle BCF$</li>\n<li>$\\angle BAD + \\angle BCD$</li>\n<li>$\\angle CBA + \\angle ADC$</li>\n</ol>",
+      "options": [
+        "$\\angle BCD - \\angle BAD$",
+        "$\\angle BAD + \\angle BCF$",
+        "$\\angle BAD + \\angle BCD$",
+        "$\\angle CBA + \\angle ADC$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\angle BCD - \\angle BAD$",
+          "html": "$\\angle BCD - \\angle BAD$"
+        },
+        {
+          "label": "B",
+          "text": "$\\angle BAD + \\angle BCF$",
+          "html": "$\\angle BAD + \\angle BCF$"
+        },
+        {
+          "label": "C",
+          "text": "$\\angle BAD + \\angle BCD$",
+          "html": "$\\angle BAD + \\angle BCD$"
+        },
+        {
+          "label": "D",
+          "text": "$\\angle CBA + \\angle ADC$",
+          "html": "$\\angle CBA + \\angle ADC$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204070/gate-cse-2018-question-ga-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204070/gate-cse-2018-question-ga-9"
+    },
+    {
+      "id": "go:204083",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 9",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "MCQ",
+      "question": "<p>The following are some events that occur after a device controller issues an interrupt while process $L$ is under execution.</p>\n<ul>\n<li>P. The processor pushes the process status of $L$ onto the control stack</li>\n<li>Q. The processor finishes the execution of the current instruction</li>\n<li>R. The processor executes the interrupt service routine</li>\n<li>S. The processor pops the process status of $L$ from the control stack</li>\n<li>T. The processor loads the new PC value based on the interrupt</li>\n</ul>\n<p>Which of the following is the correct order in which the events above occur?</p>",
+      "rawQuestionHtml": "<p>The following are some events that occur after a device controller issues an interrupt while process $L$ is under execution.</p>\n<ul>\n<li>P. The processor pushes the process status of $L$ onto the control stack</li>\n<li>Q. The processor finishes the execution of the current instruction</li>\n<li>R. The processor executes the interrupt service routine</li>\n<li>S. The processor pops the process status of $L$ from the control stack</li>\n<li>T. The processor loads the new PC value based on the interrupt</li>\n</ul>\n<p>Which of the following is the correct order in which the events above occur?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>QPTRS</li>\n<li>PTRSQ</li>\n<li>TRPQS</li>\n<li>QTPRS</li>\n</ol>",
+      "options": [
+        "QPTRS",
+        "PTRSQ",
+        "TRPQS",
+        "QTPRS"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "QPTRS",
+          "html": "QPTRS"
+        },
+        {
+          "label": "B",
+          "text": "PTRSQ",
+          "html": "PTRSQ"
+        },
+        {
+          "label": "C",
+          "text": "TRPQS",
+          "html": "TRPQS"
+        },
+        {
+          "label": "D",
+          "text": "QTPRS",
+          "html": "QTPRS"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204083/gate-cse-2018-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204083/gate-cse-2018-question-9"
+    },
+    {
+      "id": "go:204071",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 10,
+      "section": "GA",
+      "title": "GATE CSE 2018 | Question: GA-10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?</p>",
+      "rawQuestionHtml": "<p>A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Three green faces and four red faces.</li>\n<li>Four green faces and three red faces.</li>\n<li>Five green faces and two red faces.</li>\n<li>Six green faces and one red face</li>\n</ol>",
+      "options": [
+        "Three green faces and four red faces.",
+        "Four green faces and three red faces.",
+        "Five green faces and two red faces.",
+        "Six green faces and one red face"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Three green faces and four red faces.",
+          "html": "Three green faces and four red faces."
+        },
+        {
+          "label": "B",
+          "text": "Four green faces and three red faces.",
+          "html": "Four green faces and three red faces."
+        },
+        {
+          "label": "C",
+          "text": "Five green faces and two red faces.",
+          "html": "Five green faces and two red faces."
+        },
+        {
+          "label": "D",
+          "text": "Six green faces and one red face",
+          "html": "Six green faces and one red face"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204071/gate-cse-2018-question-ga-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204071/gate-cse-2018-question-ga-10"
+    },
+    {
+      "id": "go:204084",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 10",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Consider a process executing on an operating system that uses demand paging. The average time for a memory access in the system is $M$ units if the corresponding memory page is available in memory, and $D$ units if the memory access causes a page fault. It has been experimentally measured that the average time taken for a memory access in the process is $X$ units.</p>\n<p>Which one of the following is the correct expression for the page fault rate experienced by the process.</p>",
+      "rawQuestionHtml": "<p>Consider a process executing on an operating system that uses demand paging. The average time for a memory access in the system is $M$ units if the corresponding memory page is available in memory, and $D$ units if the memory access causes a page fault. It has been experimentally measured that the average time taken for a memory access in the process is $X$ units.</p>\n<p>Which one of the following is the correct expression for the page fault rate experienced by the process.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(D-M) / X-M)$</li>\n<li>$(X-M) / D-M)$</li>\n<li>$(D-X) / D-M)$</li>\n<li>$(X-M) / D-X)$</li>\n</ol>",
+      "options": [
+        "$(D-M) / X-M)$",
+        "$(X-M) / D-M)$",
+        "$(D-X) / D-M)$",
+        "$(X-M) / D-X)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(D-M) / X-M)$",
+          "html": "$(D-M) / X-M)$"
+        },
+        {
+          "label": "B",
+          "text": "$(X-M) / D-M)$",
+          "html": "$(X-M) / D-M)$"
+        },
+        {
+          "label": "C",
+          "text": "$(D-X) / D-M)$",
+          "html": "$(D-X) / D-M)$"
+        },
+        {
+          "label": "D",
+          "text": "$(X-M) / D-X)$",
+          "html": "$(X-M) / D-X)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204084/gate-cse-2018-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204084/gate-cse-2018-question-10"
+    },
+    {
+      "id": "go:204085",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 11",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>In an Entity-Relationship (ER) model, suppose $R$ is a many-to-one relationship from entity set E1 to entity set E2. Assume that E1 and E2 participate totally in $R$ and that the cardinality of E1 is greater than the cardinality of E2.</p>\n<p>Which one of the following is true about $R$?</p>",
+      "rawQuestionHtml": "<p>In an Entity-Relationship (ER) model, suppose $R$ is a many-to-one relationship from entity set E1 to entity set E2. Assume that E1 and E2 participate totally in $R$ and that the cardinality of E1 is greater than the cardinality of E2.</p>\n<p>Which one of the following is true about $R$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Every entity in E1 is associated with exactly one entity in E2</li>\n<li>Some entity in E1 is associated with more than one entity in E2</li>\n<li>Every entity in E2 is associated with exactly one entity in E1</li>\n<li>Every entity in E2 is associated with at most one entity in E1</li>\n</ol>",
+      "options": [
+        "Every entity in E1 is associated with exactly one entity in E2",
+        "Some entity in E1 is associated with more than one entity in E2",
+        "Every entity in E2 is associated with exactly one entity in E1",
+        "Every entity in E2 is associated with at most one entity in E1"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Every entity in E1 is associated with exactly one entity in E2",
+          "html": "Every entity in E1 is associated with exactly one entity in E2"
+        },
+        {
+          "label": "B",
+          "text": "Some entity in E1 is associated with more than one entity in E2",
+          "html": "Some entity in E1 is associated with more than one entity in E2"
+        },
+        {
+          "label": "C",
+          "text": "Every entity in E2 is associated with exactly one entity in E1",
+          "html": "Every entity in E2 is associated with exactly one entity in E1"
+        },
+        {
+          "label": "D",
+          "text": "Every entity in E2 is associated with at most one entity in E1",
+          "html": "Every entity in E2 is associated with at most one entity in E1"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204085/gate-cse-2018-question-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204085/gate-cse-2018-question-11"
+    },
+    {
+      "id": "go:204086",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 12",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the following two tables and four queries in SQL.</p>\n<p>Book (isbn, bname), Stock(isbn, copies)</p>\n<p>Query 1: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B INNER JOIN Stock S ON B.isbn=S.isbn;</pre>\n<p>Query 2:  </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B LEFT OUTER JOIN Stock S ON B.isbn=S.isbn;</pre>\n<p>Query 3: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S,copies FROM Book B RIGHT OUTER JOIN Stock S ON B.isbn=S.isbn</pre>\n<p>Query 4: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B FULL OUTER JOIN Stock S ON B.isbn=S.isbn</pre>\n<p>Which one of the queries above is certain to have an output that is a superset of the outputs of the other three queries?</p>",
+      "rawQuestionHtml": "<p>Consider the following two tables and four queries in SQL.</p>\n<p>Book (isbn, bname), Stock(isbn, copies)</p>\n<p>Query 1: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B INNER JOIN Stock S ON B.isbn=S.isbn;</pre>\n<p>Query 2:  </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B LEFT OUTER JOIN Stock S ON B.isbn=S.isbn;</pre>\n<p>Query 3: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S,copies FROM Book B RIGHT OUTER JOIN Stock S ON B.isbn=S.isbn</pre>\n<p>Query 4: </p>\n<pre class=\"prettyprint lang-sql\">SELECT B.isbn, S.copies FROM Book B FULL OUTER JOIN Stock S ON B.isbn=S.isbn</pre>\n<p>Which one of the queries above is certain to have an output that is a superset of the outputs of the other three queries?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Query 1</li>\n<li>Query 2</li>\n<li>Query 3</li>\n<li>Query 4</li>\n</ol>",
+      "options": [
+        "Query 1",
+        "Query 2",
+        "Query 3",
+        "Query 4"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Query 1",
+          "html": "Query 1"
+        },
+        {
+          "label": "B",
+          "text": "Query 2",
+          "html": "Query 2"
+        },
+        {
+          "label": "C",
+          "text": "Query 3",
+          "html": "Query 3"
+        },
+        {
+          "label": "D",
+          "text": "Query 4",
+          "html": "Query 4"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204086/gate-cse-2018-question-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204086/gate-cse-2018-question-12"
+    },
+    {
+      "id": "go:204087",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 13",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>Match the following:<br/>\n$$\\begin{array}{|l|l|}\\hline \\textbf{Field} &amp; \\textbf{Length in bits} \\\\\\hline  \\text{P. UDP Header's Port Number} &amp; \\text{I.   48} \\\\ \\text{Q. Ethernet MAC Address} &amp; \\text{II.  8} \\\\  \\text{R. IPv6 Next Header} &amp; \\text{III. 32}  \\\\  \\text{S. TCP Header's Sequence Number} &amp; \\text{IV. 16}  \\\\\\hline \\end{array}$$</p>",
+      "rawQuestionHtml": "<p>Match the following:<br/>\n$$\\begin{array}{|l|l|}\\hline \\textbf{Field} &amp; \\textbf{Length in bits} \\\\\\hline  \\text{P. UDP Header's Port Number} &amp; \\text{I.   48} \\\\ \\text{Q. Ethernet MAC Address} &amp; \\text{II.  8} \\\\  \\text{R. IPv6 Next Header} &amp; \\text{III. 32}  \\\\  \\text{S. TCP Header's Sequence Number} &amp; \\text{IV. 16}  \\\\\\hline \\end{array}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{P-III, Q-IV, R-II, S-I}$</li>\n<li>$\\text{P-II, Q-I, R-IV, S-III}$</li>\n<li>$\\text{P-IV, Q-I, R-II, S-III}$</li>\n<li>$\\text{P-IV, Q-I, R-III, S-II}$</li>\n</ol>",
+      "options": [
+        "$\\text{P-III, Q-IV, R-II, S-I}$",
+        "$\\text{P-II, Q-I, R-IV, S-III}$",
+        "$\\text{P-IV, Q-I, R-II, S-III}$",
+        "$\\text{P-IV, Q-I, R-III, S-II}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{P-III, Q-IV, R-II, S-I}$",
+          "html": "$\\text{P-III, Q-IV, R-II, S-I}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{P-II, Q-I, R-IV, S-III}$",
+          "html": "$\\text{P-II, Q-I, R-IV, S-III}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{P-IV, Q-I, R-II, S-III}$",
+          "html": "$\\text{P-IV, Q-I, R-II, S-III}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{P-IV, Q-I, R-III, S-II}$",
+          "html": "$\\text{P-IV, Q-I, R-III, S-II}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204087/gate-cse-2018-question-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204087/gate-cse-2018-question-13"
+    },
+    {
+      "id": "go:204088",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 14",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Transport Layer (TCP/UDP)",
+      "type": "MCQ",
+      "question": "<p>Consider the following statements regarding the slow start phase of the TCP congestion control algorithm. Note that <em>cwnd </em>stands for the TCP congestion window and MSS window denotes the Maximum Segments Size:</p>\n<ol style=\"list-style-type:lower-roman\">\n<li>The <em>cwnd </em>increases by $2$ MSS on every successful acknowledgment</li>\n<li>The <em>cwnd </em>approximately doubles on every successful acknowledgment</li>\n<li>The <em>cwnd </em>increases by $1$ MSS every round trip time</li>\n<li>The <em>cwnd </em>approximately doubles every round trip time</li>\n</ol>\n<p>Which one of the following is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following statements regarding the slow start phase of the TCP congestion control algorithm. Note that <em>cwnd </em>stands for the TCP congestion window and MSS window denotes the Maximum Segments Size:</p>\n<ol style=\"list-style-type:lower-roman\">\n<li>The <em>cwnd </em>increases by $2$ MSS on every successful acknowledgment</li>\n<li>The <em>cwnd </em>approximately doubles on every successful acknowledgment</li>\n<li>The <em>cwnd </em>increases by $1$ MSS every round trip time</li>\n<li>The <em>cwnd </em>approximately doubles every round trip time</li>\n</ol>\n<p>Which one of the following is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $\\text{(ii)}$ and $\\text{(iii)}$ are true</li>\n<li>Only $\\text{(i)}$ and $\\text{(iii)}$ are true</li>\n<li>Only $\\text{(iv)}$ is true</li>\n<li>Only $\\text{(i)}$ and $\\text{(iv)}$ are true</li>\n</ol>",
+      "options": [
+        "Only $\\text{(ii)}$ and $\\text{(iii)}$ are true",
+        "Only $\\text{(i)}$ and $\\text{(iii)}$ are true",
+        "Only $\\text{(iv)}$ is true",
+        "Only $\\text{(i)}$ and $\\text{(iv)}$ are true"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $\\text{(ii)}$ and $\\text{(iii)}$ are true",
+          "html": "Only $\\text{(ii)}$ and $\\text{(iii)}$ are true"
+        },
+        {
+          "label": "B",
+          "text": "Only $\\text{(i)}$ and $\\text{(iii)}$ are true",
+          "html": "Only $\\text{(i)}$ and $\\text{(iii)}$ are true"
+        },
+        {
+          "label": "C",
+          "text": "Only $\\text{(iv)}$ is true",
+          "html": "Only $\\text{(iv)}$ is true"
+        },
+        {
+          "label": "D",
+          "text": "Only $\\text{(i)}$ and $\\text{(iv)}$ are true",
+          "html": "Only $\\text{(i)}$ and $\\text{(iv)}$ are true"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204088/gate-cse-2018-question-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204088/gate-cse-2018-question-14"
+    },
+    {
+      "id": "go:204089",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 15",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Two people, $P$ and $Q$, decide to independently roll two identical dice, each with $6$ faces, numbered $1$ to $6$. The person with the lower number wins. In case of a tie, they roll the dice repeatedly until there is no tie. Define a trial as a throw of the dice by $P$ and $Q.$ Assume that all $6$ numbers on each dice are equi-probable and that all trials are independent. The probability (rounded to $3$ decimal places) that one of them wins on the third trial is ____",
+      "rawQuestionHtml": "Two people, $P$ and $Q$, decide to independently roll two identical dice, each with $6$ faces, numbered $1$ to $6$. The person with the lower number wins. In case of a tie, they roll the dice repeatedly until there is no tie. Define a trial as a throw of the dice by $P$ and $Q.$ Assume that all $6$ numbers on each dice are equi-probable and that all trials are independent. The probability (rounded to $3$ decimal places) that one of them wins on the third trial is ____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.0225"
+      ],
+      "tolerance": {
+        "lower": 0.021,
+        "upper": 0.024,
+        "abs": 0.0015
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204089/gate-cse-2018-question-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204089/gate-cse-2018-question-15"
+    },
+    {
+      "id": "go:204090",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 16",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "The value of $\\int^{\\pi/4} _0 x \\cos(x^2) dx$ correct to three decimal places (assuming that $\\pi = 3.14$) is ____",
+      "rawQuestionHtml": "The value of $\\int^{\\pi/4} _0 x \\cos(x^2) dx$ correct to three decimal places (assuming that $\\pi = 3.14$) is ____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.285"
+      ],
+      "tolerance": {
+        "lower": 0.27,
+        "upper": 0.3,
+        "abs": 0.015
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204090/gate-cse-2018-question-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204090/gate-cse-2018-question-16"
+    },
+    {
+      "id": "go:204091",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 17",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Consider a matrix $A= uv^T$ where $u=\\begin{pmatrix}1 \\\\ 2 \\end{pmatrix} , v = \\begin{pmatrix}1 \\\\1 \\end{pmatrix}$. Note that $v^T$ denotes the transpose of $v$. The largest eigenvalue of $A$ is ____",
+      "rawQuestionHtml": "Consider a matrix $A= uv^T$ where $u=\\begin{pmatrix}1 \\\\ 2 \\end{pmatrix} , v = \\begin{pmatrix}1 \\\\1 \\end{pmatrix}$. Note that $v^T$ denotes the transpose of $v$. The largest eigenvalue of $A$ is ____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204091/gate-cse-2018-question-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204091/gate-cse-2018-question-17"
+    },
+    {
+      "id": "go:204092",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 18",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "NAT",
+      "question": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
+      "rawQuestionHtml": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204092/gate-cse-2018-question-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204092/gate-cse-2018-question-18"
+    },
+    {
+      "id": "go:204093",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 19",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "NAT",
+      "question": "Let $G$ be a finite group on $84$ elements. The size of a largest possible proper subgroup of $G$ is _____",
+      "rawQuestionHtml": "Let $G$ be a finite group on $84$ elements. The size of a largest possible proper subgroup of $G$ is _____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "42"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204093/gate-cse-2018-question-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204093/gate-cse-2018-question-19"
+    },
+    {
+      "id": "go:204094",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 20",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "The postorder traversal of a binary tree is $\\text{8, 9, 6, 7, 4, 5, 2, 3, 1}$. The inorder traversal of the same tree is ${8, 6, 9, 4, 7, 2, 5, 1, 3}$. The height of a tree is the length of the longest path from the root to any leaf. The height of the binary tree above is _____",
+      "rawQuestionHtml": "The postorder traversal of a binary tree is $\\text{8, 9, 6, 7, 4, 5, 2, 3, 1}$. The inorder traversal of the same tree is ${8, 6, 9, 4, 7, 2, 5, 1, 3}$. The height of a tree is the length of the longest path from the root to any leaf. The height of the binary tree above is _____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204094/gate-cse-2018-question-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204094/gate-cse-2018-question-20"
+    },
+    {
+      "id": "go:204095",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 21",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "NAT",
+      "question": "<p>Consider the following $\\text{C}$ program:</p>\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\n\nint counter=0;\n\nint calc (int a, int b) {\n        int c;\n        counter++;\n        if(b==3) return (a*a*a);\n        else {\n                c = calc(a, b/3);\n                return (c*c*c);\n        }\n}\n\nint main() {\n        calc(4, 81);\n        printf(\"%d\", counter);\n}</pre>\n<p>The output of this program is ______.</p>",
+      "rawQuestionHtml": "<p>Consider the following $\\text{C}$ program:</p>\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\n\nint counter=0;\n\nint calc (int a, int b) {\n        int c;\n        counter++;\n        if(b==3) return (a*a*a);\n        else {\n                c = calc(a, b/3);\n                return (c*c*c);\n        }\n}\n\nint main() {\n        calc(4, 81);\n        printf(\"%d\", counter);\n}</pre>\n<p>The output of this program is ______.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204095/gate-cse-2018-question-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204095/gate-cse-2018-question-21"
+    },
+    {
+      "id": "go:204096",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 22",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
+      "rawQuestionHtml": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204096/gate-cse-2018-question-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204096/gate-cse-2018-question-22"
+    },
+    {
+      "id": "go:204097",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 23",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "NAT",
+      "question": "A $32\\text{-bit}$ wide main memory unit with a capacity of $1\\;\\textsf{GB}$ is built using $256\\textsf{M} \\times 4\\text{-bit}$ DRAM chips. The number of rows of memory cells in the DRAM chip is $2^{14}$. The time taken to perform one refresh operation is $50\\;\\text{nanoseconds}$. The refresh period is $2\\;\\text{milliseconds.}$ The percentage (rounded to the closest integer) of the time available for performing the memory read/write operations in the main memory unit is _________.",
+      "rawQuestionHtml": "A $32\\text{-bit}$ wide main memory unit with a capacity of $1\\;\\textsf{GB}$ is built using $256\\textsf{M} \\times 4\\text{-bit}$ DRAM chips. The number of rows of memory cells in the DRAM chip is $2^{14}$. The time taken to perform one refresh operation is $50\\;\\text{nanoseconds}$. The refresh period is $2\\;\\text{milliseconds.}$ The percentage (rounded to the closest integer) of the time available for performing the memory read/write operations in the main memory unit is _________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "59.5"
+      ],
+      "tolerance": {
+        "lower": 59,
+        "upper": 60,
+        "abs": 0.5
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204097/gate-cse-2018-question-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204097/gate-cse-2018-question-23"
+    },
+    {
+      "id": "go:204098",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 24",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Process Synchronization & Semaphores",
+      "type": "NAT",
+      "question": "Consider a system with $3$ processes that share $4$ instances of the same resource type. Each process can request a maximum of $K$ instances. Resources can be requested and releases only one at a time. The largest value of $K$ that will always avoid deadlock is ___",
+      "rawQuestionHtml": "Consider a system with $3$ processes that share $4$ instances of the same resource type. Each process can request a maximum of $K$ instances. Resources can be requested and releases only one at a time. The largest value of $K$ that will always avoid deadlock is ___",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204098/gate-cse-2018-question-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204098/gate-cse-2018-question-24"
+    },
+    {
+      "id": "go:204099",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 25",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Transport Layer (TCP/UDP)",
+      "type": "NAT",
+      "question": "Consider a long-lived $\\text{TCP}$ session with an end-to-end bandwidth of $1\\; \\text{Gbps}\\; (=10^9$ bits-per-second$).$ The session starts with a sequence number of $1234$. The minimum time (in seconds, rounded to the closet integer) before this sequence number can be used again is _________.",
+      "rawQuestionHtml": "Consider a long-lived $\\text{TCP}$ session with an end-to-end bandwidth of $1\\; \\text{Gbps}\\; (=10^9$ bits-per-second$).$ The session starts with a sequence number of $1234$. The minimum time (in seconds, rounded to the closet integer) before this sequence number can be used again is _________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "34.5"
+      ],
+      "tolerance": {
+        "lower": 34,
+        "upper": 35,
+        "abs": 0.5
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204099/gate-cse-2018-question-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204099/gate-cse-2018-question-25"
+    },
+    {
+      "id": "go:204100",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 26",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Consider a matrix P whose only eigenvectors are the multiples of $\\begin{bmatrix} 1 \\\\ 4 \\end{bmatrix}$.</p>\n<p>Consider the following statements.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>P does not have an inverse</li>\n<li>P has a repeated eigenvalue</li>\n<li>P cannot be diagonalized</li>\n</ol>\n<p>Which one of the following options is correct?</p>",
+      "rawQuestionHtml": "<p>Consider a matrix P whose only eigenvectors are the multiples of $\\begin{bmatrix} 1 \\\\ 4 \\end{bmatrix}$.</p>\n<p>Consider the following statements.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>P does not have an inverse</li>\n<li>P has a repeated eigenvalue</li>\n<li>P cannot be diagonalized</li>\n</ol>\n<p>Which one of the following options is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only I and III are necessarily true</li>\n<li>Only II is necessarily true</li>\n<li>Only I and II are necessarily true</li>\n<li>Only II and III are necessarily true</li>\n</ol>",
+      "options": [
+        "Only I and III are necessarily true",
+        "Only II is necessarily true",
+        "Only I and II are necessarily true",
+        "Only II and III are necessarily true"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only I and III are necessarily true",
+          "html": "Only I and III are necessarily true"
+        },
+        {
+          "label": "B",
+          "text": "Only II is necessarily true",
+          "html": "Only II is necessarily true"
+        },
+        {
+          "label": "C",
+          "text": "Only I and II are necessarily true",
+          "html": "Only I and II are necessarily true"
+        },
+        {
+          "label": "D",
+          "text": "Only II and III are necessarily true",
+          "html": "Only II and III are necessarily true"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204100/gate-cse-2018-question-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204100/gate-cse-2018-question-26"
+    },
+    {
+      "id": "go:204101",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 27",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $N$ be the set of natural numbers. Consider the following sets,</p>\n<ul>\n<li>$P:$ Set of Rational numbers (positive and negative)</li>\n<li>$Q:$ Set of functions from $\\{0,1\\}$ to $N$</li>\n<li>$R:$ Set of functions from $N$ to $\\{0, 1\\}$</li>\n<li>$S:$ Set of finite subsets of $N$</li>\n</ul>\n<p>Which of the above sets are countable?</p>",
+      "rawQuestionHtml": "<p>Let $N$ be the set of natural numbers. Consider the following sets,</p>\n<ul>\n<li>$P:$ Set of Rational numbers (positive and negative)</li>\n<li>$Q:$ Set of functions from $\\{0,1\\}$ to $N$</li>\n<li>$R:$ Set of functions from $N$ to $\\{0, 1\\}$</li>\n<li>$S:$ Set of finite subsets of $N$</li>\n</ul>\n<p>Which of the above sets are countable?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Q$ and $S$ only</li>\n<li>$P$ and $S$ only</li>\n<li>$P$ and $R$ only</li>\n<li>$P, Q$ and $S$ only</li>\n</ol>",
+      "options": [
+        "$Q$ and $S$ only",
+        "$P$ and $S$ only",
+        "$P$ and $R$ only",
+        "$P, Q$ and $S$ only"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$Q$ and $S$ only",
+          "html": "$Q$ and $S$ only"
+        },
+        {
+          "label": "B",
+          "text": "$P$ and $S$ only",
+          "html": "$P$ and $S$ only"
+        },
+        {
+          "label": "C",
+          "text": "$P$ and $R$ only",
+          "html": "$P$ and $R$ only"
+        },
+        {
+          "label": "D",
+          "text": "$P, Q$ and $S$ only",
+          "html": "$P, Q$ and $S$ only"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204101/gate-cse-2018-question-27",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204101/gate-cse-2018-question-27"
+    },
+    {
+      "id": "go:204102",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 28",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Consider the first-order logic sentence</p>\n<p>$$\\varphi \\equiv \\exists \\: s \\: \\exists \\: t \\: \\exists \\: u \\: \\forall \\: v \\: \\forall \\: w \\forall \\: x \\: \\forall \\: y \\: \\psi(s, t, u, v, w, x, y)$$</p>\n<p>where $\\psi(s, t, u, v, w, x, y, )$ is a quantifier-free first-order logic formula using only predicate symbols, and possibly equality, but no function symbols. Suppose $\\varphi$ has a model with a universe containing $7$ elements.</p>\n<p>Which one of the following statements is necessarily true?</p>",
+      "rawQuestionHtml": "<p>Consider the first-order logic sentence</p>\n<p>$$\\varphi \\equiv \\exists \\: s \\: \\exists \\: t \\: \\exists \\: u \\: \\forall \\: v \\: \\forall \\: w \\forall \\: x \\: \\forall \\: y \\: \\psi(s, t, u, v, w, x, y)$$</p>\n<p>where $\\psi(s, t, u, v, w, x, y, )$ is a quantifier-free first-order logic formula using only predicate symbols, and possibly equality, but no function symbols. Suppose $\\varphi$ has a model with a universe containing $7$ elements.</p>\n<p>Which one of the following statements is necessarily true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>There exists at least one model of $\\varphi$ with universe of size less than or equal to $3$</li>\n<li>There exists no model of $\\varphi$ with universe of size less than or equal to $3$</li>\n<li>There exists no model of $\\varphi$ with universe size of greater than $7$</li>\n<li>Every model of $\\varphi$ has a universe of size equal to $7$</li>\n</ol>",
+      "options": [
+        "There exists at least one model of $\\varphi$ with universe of size less than or equal to $3$",
+        "There exists no model of $\\varphi$ with universe of size less than or equal to $3$",
+        "There exists no model of $\\varphi$ with universe size of greater than $7$",
+        "Every model of $\\varphi$ has a universe of size equal to $7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "There exists at least one model of $\\varphi$ with universe of size less than or equal to $3$",
+          "html": "There exists at least one model of $\\varphi$ with universe of size less than or equal to $3$"
+        },
+        {
+          "label": "B",
+          "text": "There exists no model of $\\varphi$ with universe of size less than or equal to $3$",
+          "html": "There exists no model of $\\varphi$ with universe of size less than or equal to $3$"
+        },
+        {
+          "label": "C",
+          "text": "There exists no model of $\\varphi$ with universe size of greater than $7$",
+          "html": "There exists no model of $\\varphi$ with universe size of greater than $7$"
+        },
+        {
+          "label": "D",
+          "text": "Every model of $\\varphi$ has a universe of size equal to $7$",
+          "html": "Every model of $\\varphi$ has a universe of size equal to $7$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204102/gate-cse-2018-question-28",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204102/gate-cse-2018-question-28"
+    },
+    {
+      "id": "go:204103",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 29",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<pre class=\"prettyprint lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include&lt;stdio.h&gt;\nvoid fun1(char* s1, char* s2){\n    char* temp;\n    temp = s1;\n    s1 = s2;\n    s2 = temp;\n}\nvoid fun2(char** s1, char** s2){\n    char* temp;\n    temp = *s1;\n    *s1 = *s2;\n    *s2 = temp;\n}\nint main{\n    char *str1=\"Hi\", *str2 = \"Bye\";\n    fun1(str1, str2); printf(\"%s %s\", str1, str2);\n    fun2(&amp;str1, &amp;str2); printf(\"%s %s\", str1, str2);\n    return 0;\n}</pre>\n<p>The output of the program above is:</p>",
+      "rawQuestionHtml": "<pre class=\"prettyprint lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include&lt;stdio.h&gt;\nvoid fun1(char* s1, char* s2){\n    char* temp;\n    temp = s1;\n    s1 = s2;\n    s2 = temp;\n}\nvoid fun2(char** s1, char** s2){\n    char* temp;\n    temp = *s1;\n    *s1 = *s2;\n    *s2 = temp;\n}\nint main{\n    char *str1=\"Hi\", *str2 = \"Bye\";\n    fun1(str1, str2); printf(\"%s %s\", str1, str2);\n    fun2(&amp;str1, &amp;str2); printf(\"%s %s\", str1, str2);\n    return 0;\n}</pre>\n<p>The output of the program above is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{Hi Bye Bye Hi}$</li>\n<li>$\\text{Hi Bye Hi Bye}$</li>\n<li>$\\text{Bye Hi Hi Bye}$</li>\n<li>$\\text{Bye Hi Bye Hi}$</li>\n</ol>",
+      "options": [
+        "$\\text{Hi Bye Bye Hi}$",
+        "$\\text{Hi Bye Hi Bye}$",
+        "$\\text{Bye Hi Hi Bye}$",
+        "$\\text{Bye Hi Bye Hi}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{Hi Bye Bye Hi}$",
+          "html": "$\\text{Hi Bye Bye Hi}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Hi Bye Hi Bye}$",
+          "html": "$\\text{Hi Bye Hi Bye}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Bye Hi Hi Bye}$",
+          "html": "$\\text{Bye Hi Hi Bye}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{Bye Hi Bye Hi}$",
+          "html": "$\\text{Bye Hi Bye Hi}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204103/gate-cse-2018-question-29",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204103/gate-cse-2018-question-29"
+    },
+    {
+      "id": "go:204104",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 30",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Let $G$ be a simple undirected graph. Let $T_D$ be a depth first search tree of $G$. Let $T_B$ be a breadth first search tree of $G$. Consider the following statements.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>No edge of $G$ is a cross edge with respect to $T_D$. (A cross edge in $G$ is between two nodes neither of which is an ancestor of the other in $T_D$).</li>\n<li>For every edge $(u, v)$ of $G$, if $u$ is at depth $i$ and $v$ is at depth $j$ in $T_B$, then $\\mid i-j \\mid =1$.</li>\n</ol>\n<p>Which of the statements above must necessarily be true?</p>",
+      "rawQuestionHtml": "<p>Let $G$ be a simple undirected graph. Let $T_D$ be a depth first search tree of $G$. Let $T_B$ be a breadth first search tree of $G$. Consider the following statements.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>No edge of $G$ is a cross edge with respect to $T_D$. (A cross edge in $G$ is between two nodes neither of which is an ancestor of the other in $T_D$).</li>\n<li>For every edge $(u, v)$ of $G$, if $u$ is at depth $i$ and $v$ is at depth $j$ in $T_B$, then $\\mid i-j \\mid =1$.</li>\n</ol>\n<p>Which of the statements above must necessarily be true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I only</li>\n<li>II only</li>\n<li>Both I and II</li>\n<li>Neither I nor II</li>\n</ol>",
+      "options": [
+        "I only",
+        "II only",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "I only",
+          "html": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only",
+          "html": "II only"
+        },
+        {
+          "label": "C",
+          "text": "Both I and II",
+          "html": "Both I and II"
+        },
+        {
+          "label": "D",
+          "text": "Neither I nor II",
+          "html": "Neither I nor II"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204104/gate-cse-2018-question-30",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204104/gate-cse-2018-question-30"
+    },
+    {
+      "id": "go:204105",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 31",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Assume that multiplying a matrix $G_1$ of dimension $ p \\times q$ with another matrix $G_2$ of dimension $q \\times r$ requires $pqr$ scalar multiplications. Computing the product of $n$ matrices $G_1G_2G_3 \\dots G_n$ can be done by parenthesizing in different ways. Define $G_i G_{i+1}$ as an <strong>explicitly computed pair </strong>for a given paranthesization if they are directly multiplied. For example, in the matrix multiplication chain $G_1G_2G_3G_4G_5G_6$ using parenthesization $(G_1(G_2G_3))(G_4(G_5G_6)), G_2G_3$ and $G_5G_6$ are only explicitly computed pairs.</p>\n<p>Consider a matrix multiplication chain $F_1F_2F_3F_4F_5$, where matrices $F_1, F_2, F_3, F_4$ and $F_5$ are of dimensions $ 2 \\times 25, 25 \\times 3, 3 \\times 16, 16 \\times 1 $ and $ 1 \\times 1000$, respectively. In the parenthesization of $F_1F_2F_3F_4F_5$ that minimizes the total number of scalar multiplications, the explicitly computed pairs is/are</p>",
+      "rawQuestionHtml": "<p>Assume that multiplying a matrix $G_1$ of dimension $ p \\times q$ with another matrix $G_2$ of dimension $q \\times r$ requires $pqr$ scalar multiplications. Computing the product of $n$ matrices $G_1G_2G_3 \\dots G_n$ can be done by parenthesizing in different ways. Define $G_i G_{i+1}$ as an <strong>explicitly computed pair </strong>for a given paranthesization if they are directly multiplied. For example, in the matrix multiplication chain $G_1G_2G_3G_4G_5G_6$ using parenthesization $(G_1(G_2G_3))(G_4(G_5G_6)), G_2G_3$ and $G_5G_6$ are only explicitly computed pairs.</p>\n<p>Consider a matrix multiplication chain $F_1F_2F_3F_4F_5$, where matrices $F_1, F_2, F_3, F_4$ and $F_5$ are of dimensions $ 2 \\times 25, 25 \\times 3, 3 \\times 16, 16 \\times 1 $ and $ 1 \\times 1000$, respectively. In the parenthesization of $F_1F_2F_3F_4F_5$ that minimizes the total number of scalar multiplications, the explicitly computed pairs is/are</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$F_1F_2$ and $F_3F_4$ only</li>\n<li>$F_2F_3$ only</li>\n<li>$F_3F_4$ only</li>\n<li>$F_1F_2$ and $F_4F_5$ only</li>\n</ol>",
+      "options": [
+        "$F_1F_2$ and $F_3F_4$ only",
+        "$F_2F_3$ only",
+        "$F_3F_4$ only",
+        "$F_1F_2$ and $F_4F_5$ only"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$F_1F_2$ and $F_3F_4$ only",
+          "html": "$F_1F_2$ and $F_3F_4$ only"
+        },
+        {
+          "label": "B",
+          "text": "$F_2F_3$ only",
+          "html": "$F_2F_3$ only"
+        },
+        {
+          "label": "C",
+          "text": "$F_3F_4$ only",
+          "html": "$F_3F_4$ only"
+        },
+        {
+          "label": "D",
+          "text": "$F_1F_2$ and $F_4F_5$ only",
+          "html": "$F_1F_2$ and $F_4F_5$ only"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204105/gate-cse-2018-question-31",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204105/gate-cse-2018-question-31"
+    },
+    {
+      "id": "go:204106",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 32",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following C code. Assume that unsigned long int type length is $64$ bits.</p>\n<pre class=\"prettyprint lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">unsigned long int fun(unsigned long int n) {\n        unsigned long int i, j=0, sum = 0;\n        for( i=n; i&gt;1; i=i/2) j++;\n        for( ; j&gt;1; j=j/2) sum++;\n        return sum;\n}</pre>\n<p>The value returned when we call fun with the input $2^{40}$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the following C code. Assume that unsigned long int type length is $64$ bits.</p>\n<pre class=\"prettyprint lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">unsigned long int fun(unsigned long int n) {\n        unsigned long int i, j=0, sum = 0;\n        for( i=n; i&gt;1; i=i/2) j++;\n        for( ; j&gt;1; j=j/2) sum++;\n        return sum;\n}</pre>\n<p>The value returned when we call fun with the input $2^{40}$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n<li>$40$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$40$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$40$",
+          "html": "$40$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204106/gate-cse-2018-question-32",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204106/gate-cse-2018-question-32"
+    },
+    {
+      "id": "go:204107",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 33",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the unsigned 8-bit fixed point binary number representation, below,</p>\n<p>$$b_7 \\: \\: b_6 \\: \\: b_5 \\: \\: b_4 \\: \\: b_3 \\: \\: \\cdot b_2 \\: \\: b_1 \\: \\: b_0$$</p>\n<p>where the position of the primary point is between $b_3$ and $b_2$ . Assume $b_7$ is the most significant bit. Some of the decimal numbers listed below <strong>cannot </strong>be represented <strong>exactly </strong>in the above representation:</p>\n<ol style=\"list-style-type:lower-roman\">\n<li>$31.500$</li>\n<li>$0.875$</li>\n<li>$12.100$</li>\n<li>$3.001$</li>\n</ol>\n<p>Which one of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Consider the unsigned 8-bit fixed point binary number representation, below,</p>\n<p>$$b_7 \\: \\: b_6 \\: \\: b_5 \\: \\: b_4 \\: \\: b_3 \\: \\: \\cdot b_2 \\: \\: b_1 \\: \\: b_0$$</p>\n<p>where the position of the primary point is between $b_3$ and $b_2$ . Assume $b_7$ is the most significant bit. Some of the decimal numbers listed below <strong>cannot </strong>be represented <strong>exactly </strong>in the above representation:</p>\n<ol style=\"list-style-type:lower-roman\">\n<li>$31.500$</li>\n<li>$0.875$</li>\n<li>$12.100$</li>\n<li>$3.001$</li>\n</ol>\n<p>Which one of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>None of $i, ii, iii, iv$ can be exactly represented</li>\n<li>Only $ii$ cannot be exactly represented</li>\n<li>Only $iii$ and $iv$ cannot be exactly represented</li>\n<li>Only $i$ and $ii$ cannot be exactly represented</li>\n</ol>",
+      "options": [
+        "None of $i, ii, iii, iv$ can be exactly represented",
+        "Only $ii$ cannot be exactly represented",
+        "Only $iii$ and $iv$ cannot be exactly represented",
+        "Only $i$ and $ii$ cannot be exactly represented"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "None of $i, ii, iii, iv$ can be exactly represented",
+          "html": "None of $i, ii, iii, iv$ can be exactly represented"
+        },
+        {
+          "label": "B",
+          "text": "Only $ii$ cannot be exactly represented",
+          "html": "Only $ii$ cannot be exactly represented"
+        },
+        {
+          "label": "C",
+          "text": "Only $iii$ and $iv$ cannot be exactly represented",
+          "html": "Only $iii$ and $iv$ cannot be exactly represented"
+        },
+        {
+          "label": "D",
+          "text": "Only $i$ and $ii$ cannot be exactly represented",
+          "html": "Only $i$ and $ii$ cannot be exactly represented"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204107/gate-cse-2018-question-33",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204107/gate-cse-2018-question-33"
+    },
+    {
+      "id": "go:204108",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 34",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>The size of the physical address space of a processor is $2^P$ bytes. The word length is $2^W$ bytes. The capacity of cache memory is $2^N$ bytes. The size of each cache block is $2^M$ words. For a $K$-way set-associative cache memory, the length (in number of bits) of the tag field is</p>",
+      "rawQuestionHtml": "<p>The size of the physical address space of a processor is $2^P$ bytes. The word length is $2^W$ bytes. The capacity of cache memory is $2^N$ bytes. The size of each cache block is $2^M$ words. For a $K$-way set-associative cache memory, the length (in number of bits) of the tag field is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P-N- \\log_2K$</li>\n<li>$P-N+ \\log_2 K$</li>\n<li>$P-N-M-W- \\log_2 K$</li>\n<li>$P-N-M-W+ \\log_2 K$</li>\n</ol>",
+      "options": [
+        "$P-N- \\log_2K$",
+        "$P-N+ \\log_2 K$",
+        "$P-N-M-W- \\log_2 K$",
+        "$P-N-M-W+ \\log_2 K$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P-N- \\log_2K$",
+          "html": "$P-N- \\log_2K$"
+        },
+        {
+          "label": "B",
+          "text": "$P-N+ \\log_2 K$",
+          "html": "$P-N+ \\log_2 K$"
+        },
+        {
+          "label": "C",
+          "text": "$P-N-M-W- \\log_2 K$",
+          "html": "$P-N-M-W- \\log_2 K$"
+        },
+        {
+          "label": "D",
+          "text": "$P-N-M-W+ \\log_2 K$",
+          "html": "$P-N-M-W+ \\log_2 K$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204108/gate-cse-2018-question-34",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204108/gate-cse-2018-question-34"
+    },
+    {
+      "id": "go:204109",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 35",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Consider the following languages:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>$\\{a^mb^nc^pd^q \\mid m+p=n+q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid m=n \\text{ and }p=q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid m=n =p \\text{ and } p \\neq q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid mn =p+q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n</ol>\n<p>Which of the above languages are context-free?</p>",
+      "rawQuestionHtml": "<p>Consider the following languages:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>$\\{a^mb^nc^pd^q \\mid m+p=n+q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid m=n \\text{ and }p=q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid m=n =p \\text{ and } p \\neq q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n<li>$\\{a^mb^nc^pd^q \\mid mn =p+q, \\text{ where } m, n, p, q \\geq 0 \\}$</li>\n</ol>\n<p>Which of the above languages are context-free?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I and IV only</li>\n<li>I and II only</li>\n<li>II and III only</li>\n<li>II and IV only</li>\n</ol>",
+      "options": [
+        "I and IV only",
+        "I and II only",
+        "II and III only",
+        "II and IV only"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "I and IV only",
+          "html": "I and IV only"
+        },
+        {
+          "label": "B",
+          "text": "I and II only",
+          "html": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only",
+          "html": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "II and IV only",
+          "html": "II and IV only"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204109/gate-cse-2018-question-35",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204109/gate-cse-2018-question-35"
+    },
+    {
+      "id": "go:204110",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 36",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>Consider the following problems. $L(G)$ denotes the language generated by a grammar $G$. L(M) denotes the language accepted by a machine $M$.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>For an unrestricted grammar $G$ and a string $w$, whether $w  \\in  L(G)$</li>\n<li>Given a Turing machine $M$, whether $L(M)$ is regular</li>\n<li>Given two grammar$G_1$ and $G_2$, whether $L(G_1) = L(G_2)$</li>\n<li>Given an NFA $N$, whether there is a deterministic PDA $P$ such that $N$ and $P$ accept the same language</li>\n</ol>\n<p>Which one of the following statement is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following problems. $L(G)$ denotes the language generated by a grammar $G$. L(M) denotes the language accepted by a machine $M$.</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>For an unrestricted grammar $G$ and a string $w$, whether $w  \\in  L(G)$</li>\n<li>Given a Turing machine $M$, whether $L(M)$ is regular</li>\n<li>Given two grammar$G_1$ and $G_2$, whether $L(G_1) = L(G_2)$</li>\n<li>Given an NFA $N$, whether there is a deterministic PDA $P$ such that $N$ and $P$ accept the same language</li>\n</ol>\n<p>Which one of the following statement is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only I and II are undecidable</li>\n<li>Only II is undecidable</li>\n<li>Only II and IV are undecidable</li>\n<li>Only I, II and III are undecidable</li>\n</ol>",
+      "options": [
+        "Only I and II are undecidable",
+        "Only II is undecidable",
+        "Only II and IV are undecidable",
+        "Only I, II and III are undecidable"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only I and II are undecidable",
+          "html": "Only I and II are undecidable"
+        },
+        {
+          "label": "B",
+          "text": "Only II is undecidable",
+          "html": "Only II is undecidable"
+        },
+        {
+          "label": "C",
+          "text": "Only II and IV are undecidable",
+          "html": "Only II and IV are undecidable"
+        },
+        {
+          "label": "D",
+          "text": "Only I, II and III are undecidable",
+          "html": "Only I, II and III are undecidable"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204110/gate-cse-2018-question-36",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204110/gate-cse-2018-question-36"
+    },
+    {
+      "id": "go:204111",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 37",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>A lexical analyzer uses the following patterns to recognize three tokens $T_1, T_2$, and $T_3$ over the alphabet $\\{a, b, c\\}$.</p>\n<ul>\n<li>$T_1: a?(b \\mid c)^\\ast a$</li>\n<li>$T_2: b?(a \\mid c)^\\ast b$</li>\n<li>$T_3: c?(b \\mid a)^\\ast c$</li>\n</ul>\n<p>Note that ‘$x?$’ means $0$ or $1$ occurrence of the symbol $x.$ Note also that the analyzer outputs the token that matches the longest possible prefix.</p>\n<p>If the string $bbaacabc$ is processed by the analyzer, which one of the following is the sequence of tokens it outputs?</p>",
+      "rawQuestionHtml": "<p>A lexical analyzer uses the following patterns to recognize three tokens $T_1, T_2$, and $T_3$ over the alphabet $\\{a, b, c\\}$.</p>\n<ul>\n<li>$T_1: a?(b \\mid c)^\\ast a$</li>\n<li>$T_2: b?(a \\mid c)^\\ast b$</li>\n<li>$T_3: c?(b \\mid a)^\\ast c$</li>\n</ul>\n<p>Note that ‘$x?$’ means $0$ or $1$ occurrence of the symbol $x.$ Note also that the analyzer outputs the token that matches the longest possible prefix.</p>\n<p>If the string $bbaacabc$ is processed by the analyzer, which one of the following is the sequence of tokens it outputs?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$T_1T_2T_3$</li>\n<li>$T_1T_1T_3$</li>\n<li>$T_2T_1T_3$</li>\n<li>$T_3T_3$</li>\n</ol>",
+      "options": [
+        "$T_1T_2T_3$",
+        "$T_1T_1T_3$",
+        "$T_2T_1T_3$",
+        "$T_3T_3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$T_1T_2T_3$",
+          "html": "$T_1T_2T_3$"
+        },
+        {
+          "label": "B",
+          "text": "$T_1T_1T_3$",
+          "html": "$T_1T_1T_3$"
+        },
+        {
+          "label": "C",
+          "text": "$T_2T_1T_3$",
+          "html": "$T_2T_1T_3$"
+        },
+        {
+          "label": "D",
+          "text": "$T_3T_3$",
+          "html": "$T_3T_3$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204111/gate-cse-2018-question-37",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204111/gate-cse-2018-question-37"
+    },
+    {
+      "id": "go:204112",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 38",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Consider the following parse tree for the expression a#b$\\$$c$\\$$d#e#f, involving two binary operators $\\$$  and #.</p>\n<p><img alt=\"\" height=\"440\" src=\"/Gate_QA/question-images/12128106336367128726.webp\" width=\"273\"/></p>\n<p>Which one of the following is correct for the given parse tree?</p>",
+      "rawQuestionHtml": "<p>Consider the following parse tree for the expression a#b$\\$$c$\\$$d#e#f, involving two binary operators $\\$$  and #.</p>\n<p><img alt=\"\" height=\"440\" src=\"/Gate_QA/question-images/12128106336367128726.webp\" width=\"273\"/></p>\n<p>Which one of the following is correct for the given parse tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$ has higher precedence and is left associative; # is right associative</li>\n<li># has higher precedence and is left associative; $ is right associative</li>\n<li>$ has higher precedence and is left associative; # is left associative</li>\n<li>$ has higher precedence and is right associative; # is left associative</li>\n</ol>",
+      "options": [
+        "$ has higher precedence and is left associative; # is right associative",
+        "# has higher precedence and is left associative; $ is right associative",
+        "$ has higher precedence and is left associative; # is left associative",
+        "$ has higher precedence and is right associative; # is left associative"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$ has higher precedence and is left associative; # is right associative",
+          "html": "$ has higher precedence and is left associative; # is right associative"
+        },
+        {
+          "label": "B",
+          "text": "# has higher precedence and is left associative; $ is right associative",
+          "html": "# has higher precedence and is left associative; $ is right associative"
+        },
+        {
+          "label": "C",
+          "text": "$ has higher precedence and is left associative; # is left associative",
+          "html": "$ has higher precedence and is left associative; # is left associative"
+        },
+        {
+          "label": "D",
+          "text": "$ has higher precedence and is right associative; # is left associative",
+          "html": "$ has higher precedence and is right associative; # is left associative"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204112/gate-cse-2018-question-38",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204112/gate-cse-2018-question-38"
+    },
+    {
+      "id": "go:204113",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 39",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Process Synchronization & Semaphores",
+      "type": "MCQ",
+      "question": "<p>In a system, there are three types of resources: $E, F$ and $G$. Four processes $P_0$, $P_1$, $P_2$ and $P_3$ execute concurrently. At the outset, the processes have declared their maximum resource requirements using a matrix named Max as given below. For example, Max[$P_2, F$] is the maximum number of instances of $F$ that $P_2$ would require. The number of instances of the resources allocated to the various processes at any given state is given by a matrix named Allocation.</p>\n<p>Consider a state of the system with the Allocation matrix as shown below, and in which $3$ instances of $E$ and $3$ instances of $F$ are only resources available.</p>\n<p>$$ \\begin{array}{|l|}\\hline \\textbf{Allocation}   \\\\\\hline &amp; \\text{E} &amp; \\text{F} &amp; \\text{G}  \\\\\\hline  \\text{$P_0$} &amp; \\text{1} &amp; \\text{0} &amp; \\text{1} \\\\\\hline  \\text{$P_1$} &amp; \\text{1} &amp; \\text{1}  &amp; \\text{2}\\\\\\hline  \\text{$P_2$} &amp; \\text{1} &amp; \\text{0}  &amp; \\text{3}\\\\\\hline  \\text{$P_3$} &amp; \\text{2} &amp; \\text{0}  &amp; \\text{0}\\\\\\hline \\end{array} \\begin{array}{|l|}\\hline \\textbf{Max}   \\\\\\hline &amp; \\text{E} &amp; \\text{F} &amp; \\text{G}  \\\\\\hline  \\text{$P_0$} &amp; \\text{4} &amp; \\text{3} &amp; \\text{1} \\\\\\hline  \\text{$P_1$} &amp; \\text{2} &amp; \\text{1}  &amp; \\text{4}\\\\\\hline  \\text{$P_2$} &amp; \\text{1} &amp; \\text{3}  &amp; \\text{3}\\\\\\hline  \\text{$P_3$} &amp; \\text{5} &amp; \\text{4}  &amp; \\text{1}\\\\\\hline \\end{array} $$</p>\n<p>From the perspective of deadlock avoidance, which one of the following is true?</p>",
+      "rawQuestionHtml": "<p>In a system, there are three types of resources: $E, F$ and $G$. Four processes $P_0$, $P_1$, $P_2$ and $P_3$ execute concurrently. At the outset, the processes have declared their maximum resource requirements using a matrix named Max as given below. For example, Max[$P_2, F$] is the maximum number of instances of $F$ that $P_2$ would require. The number of instances of the resources allocated to the various processes at any given state is given by a matrix named Allocation.</p>\n<p>Consider a state of the system with the Allocation matrix as shown below, and in which $3$ instances of $E$ and $3$ instances of $F$ are only resources available.</p>\n<p>$$ \\begin{array}{|l|}\\hline \\textbf{Allocation}   \\\\\\hline &amp; \\text{E} &amp; \\text{F} &amp; \\text{G}  \\\\\\hline  \\text{$P_0$} &amp; \\text{1} &amp; \\text{0} &amp; \\text{1} \\\\\\hline  \\text{$P_1$} &amp; \\text{1} &amp; \\text{1}  &amp; \\text{2}\\\\\\hline  \\text{$P_2$} &amp; \\text{1} &amp; \\text{0}  &amp; \\text{3}\\\\\\hline  \\text{$P_3$} &amp; \\text{2} &amp; \\text{0}  &amp; \\text{0}\\\\\\hline \\end{array} \\begin{array}{|l|}\\hline \\textbf{Max}   \\\\\\hline &amp; \\text{E} &amp; \\text{F} &amp; \\text{G}  \\\\\\hline  \\text{$P_0$} &amp; \\text{4} &amp; \\text{3} &amp; \\text{1} \\\\\\hline  \\text{$P_1$} &amp; \\text{2} &amp; \\text{1}  &amp; \\text{4}\\\\\\hline  \\text{$P_2$} &amp; \\text{1} &amp; \\text{3}  &amp; \\text{3}\\\\\\hline  \\text{$P_3$} &amp; \\text{5} &amp; \\text{4}  &amp; \\text{1}\\\\\\hline \\end{array} $$</p>\n<p>From the perspective of deadlock avoidance, which one of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The system is in $safe$ state</li>\n<li>The system is not in $safe$ state, but would be $safe$ if one more instance of $E$ were available</li>\n<li>The system is not in $safe$ state, but would be $safe$ if one more instance of $F$ were available</li>\n<li>The system is not in $safe$ state, but would be $safe$ if one more instance of $G$ were available</li>\n</ol>",
+      "options": [
+        "The system is in $safe$ state",
+        "The system is not in $safe$ state, but would be $safe$ if one more instance of $E$ were available",
+        "The system is not in $safe$ state, but would be $safe$ if one more instance of $F$ were available",
+        "The system is not in $safe$ state, but would be $safe$ if one more instance of $G$ were available"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The system is in $safe$ state",
+          "html": "The system is in $safe$ state"
+        },
+        {
+          "label": "B",
+          "text": "The system is not in $safe$ state, but would be $safe$ if one more instance of $E$ were available",
+          "html": "The system is not in $safe$ state, but would be $safe$ if one more instance of $E$ were available"
+        },
+        {
+          "label": "C",
+          "text": "The system is not in $safe$ state, but would be $safe$ if one more instance of $F$ were available",
+          "html": "The system is not in $safe$ state, but would be $safe$ if one more instance of $F$ were available"
+        },
+        {
+          "label": "D",
+          "text": "The system is not in $safe$ state, but would be $safe$ if one more instance of $G$ were available",
+          "html": "The system is not in $safe$ state, but would be $safe$ if one more instance of $G$ were available"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204113/gate-cse-2018-question-39",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204113/gate-cse-2018-question-39"
+    },
+    {
+      "id": "go:204114",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 40",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Consider the following solution to the producer-consumer synchronization problem. The shared buffer size is $N$. Three semaphores $empty$, $full$ and $mutex$ are defined with respective initial values of $0, N$ and $1$. Semaphore $empty$ denotes the number of available slots in the buffer, for the consumer to read from. Semaphore $full$ denotes the number of available slots in the buffer, for the producer to write to. The placeholder variables, denoted by $P$, $Q$, $R$ and $S$, in the code below can be assigned either $empty$ or $full$. The valid semaphore operations are: $wait$ and $sigmal$.<br/>\n$$\\begin{array}{l|l}\\hline \\text{Producer:}  &amp;  \\text{Consumer:}  \\\\\\hline  \\text{do \\{} &amp; \\text{do \\{} \\\\  \\quad\\text{ wait (P);} &amp; \\quad\\text{ wait (R);} \\\\  \\quad\\text{ wait (mutex);} &amp; \\quad\\text{ wait (mutex);} \\\\  \\quad \\text{ //Add item to buffer} &amp; \\quad \\text{ //consume item from buffer} \\\\  \\quad\\text{ signal (mutex);} &amp; \\quad\\text{ signal (mutex);} \\\\  \\quad \\text{ signal (Q);} &amp; \\quad\\text{ signal (S);} \\\\  \\text{\\}while (1); }&amp;  \\text{\\}while (1);} \\\\   \\hline \\end{array}$$<br/>\nWhich one of the following assignments tp $P$, $Q$, $R$ and $S$ will yield the correct solution?</p>",
+      "rawQuestionHtml": "<p>Consider the following solution to the producer-consumer synchronization problem. The shared buffer size is $N$. Three semaphores $empty$, $full$ and $mutex$ are defined with respective initial values of $0, N$ and $1$. Semaphore $empty$ denotes the number of available slots in the buffer, for the consumer to read from. Semaphore $full$ denotes the number of available slots in the buffer, for the producer to write to. The placeholder variables, denoted by $P$, $Q$, $R$ and $S$, in the code below can be assigned either $empty$ or $full$. The valid semaphore operations are: $wait$ and $sigmal$.<br/>\n$$\\begin{array}{l|l}\\hline \\text{Producer:}  &amp;  \\text{Consumer:}  \\\\\\hline  \\text{do \\{} &amp; \\text{do \\{} \\\\  \\quad\\text{ wait (P);} &amp; \\quad\\text{ wait (R);} \\\\  \\quad\\text{ wait (mutex);} &amp; \\quad\\text{ wait (mutex);} \\\\  \\quad \\text{ //Add item to buffer} &amp; \\quad \\text{ //consume item from buffer} \\\\  \\quad\\text{ signal (mutex);} &amp; \\quad\\text{ signal (mutex);} \\\\  \\quad \\text{ signal (Q);} &amp; \\quad\\text{ signal (S);} \\\\  \\text{\\}while (1); }&amp;  \\text{\\}while (1);} \\\\   \\hline \\end{array}$$<br/>\nWhich one of the following assignments tp $P$, $Q$, $R$ and $S$ will yield the correct solution?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P: full,  \\ \\ \\ Q:full, \\ \\ \\ R:empty, \\ \\ \\ S:empty$</li>\n<li>$P: empty, \\ \\ \\ Q: empty, \\ \\ \\ R:full, \\ \\ \\ S:full$</li>\n<li>$P: full, \\ \\ \\ Q:empty, \\ \\ \\ R:empty, \\ \\ \\ S:full$</li>\n<li>$P: empty, \\ \\ \\ Q:full, \\ \\ \\ R:full, \\ \\ \\ S:empty$</li>\n</ol>",
+      "options": [
+        "$P: full, \\ \\ \\ Q:full, \\ \\ \\ R:empty, \\ \\ \\ S:empty$",
+        "$P: empty, \\ \\ \\ Q: empty, \\ \\ \\ R:full, \\ \\ \\ S:full$",
+        "$P: full, \\ \\ \\ Q:empty, \\ \\ \\ R:empty, \\ \\ \\ S:full$",
+        "$P: empty, \\ \\ \\ Q:full, \\ \\ \\ R:full, \\ \\ \\ S:empty$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P: full, \\ \\ \\ Q:full, \\ \\ \\ R:empty, \\ \\ \\ S:empty$",
+          "html": "$P: full,  \\ \\ \\ Q:full, \\ \\ \\ R:empty, \\ \\ \\ S:empty$"
+        },
+        {
+          "label": "B",
+          "text": "$P: empty, \\ \\ \\ Q: empty, \\ \\ \\ R:full, \\ \\ \\ S:full$",
+          "html": "$P: empty, \\ \\ \\ Q: empty, \\ \\ \\ R:full, \\ \\ \\ S:full$"
+        },
+        {
+          "label": "C",
+          "text": "$P: full, \\ \\ \\ Q:empty, \\ \\ \\ R:empty, \\ \\ \\ S:full$",
+          "html": "$P: full, \\ \\ \\ Q:empty, \\ \\ \\ R:empty, \\ \\ \\ S:full$"
+        },
+        {
+          "label": "D",
+          "text": "$P: empty, \\ \\ \\ Q:full, \\ \\ \\ R:full, \\ \\ \\ S:empty$",
+          "html": "$P: empty, \\ \\ \\ Q:full, \\ \\ \\ R:full, \\ \\ \\ S:empty$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204114/gate-cse-2018-question-40",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204114/gate-cse-2018-question-40"
+    },
+    {
+      "id": "go:204115",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 41",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Consider the relations $r(A, B)$ and $s(B, C)$, where $s.B$ is a primary key and $r.B$ is a foreign key referencing $s.B$. Consider the query</p>\n<p>$Q: r \\bowtie (\\sigma_{B&lt;5} (s))$</p>\n<p>Let LOJ denote the natural left outer-join operation. Assume that $r$ and $s$ contain no null values.</p>\n<p>Which of the following is NOT equivalent to $Q$?</p>",
+      "rawQuestionHtml": "<p>Consider the relations $r(A, B)$ and $s(B, C)$, where $s.B$ is a primary key and $r.B$ is a foreign key referencing $s.B$. Consider the query</p>\n<p>$Q: r \\bowtie (\\sigma_{B&lt;5} (s))$</p>\n<p>Let LOJ denote the natural left outer-join operation. Assume that $r$ and $s$ contain no null values.</p>\n<p>Which of the following is NOT equivalent to $Q$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\sigma_{B&lt;5} (r \\bowtie s)$</li>\n<li>$\\sigma_{B&lt;5} (r \\: LOJ \\: s)$</li>\n<li>$r \\: LOJ \\: (\\sigma_{B&lt;5}  (s))$</li>\n<li>$\\sigma_{B&lt;5} (r) \\: LOJ \\: s$</li>\n</ol>",
+      "options": [
+        "$\\sigma_{B&lt;5} (r \\bowtie s)$",
+        "$\\sigma_{B&lt;5} (r \\: LOJ \\: s)$",
+        "$r \\: LOJ \\: (\\sigma_{B&lt;5} (s))$",
+        "$\\sigma_{B&lt;5} (r) \\: LOJ \\: s$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\sigma_{B&lt;5} (r \\bowtie s)$",
+          "html": "$\\sigma_{B&lt;5} (r \\bowtie s)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\sigma_{B&lt;5} (r \\: LOJ \\: s)$",
+          "html": "$\\sigma_{B&lt;5} (r \\: LOJ \\: s)$"
+        },
+        {
+          "label": "C",
+          "text": "$r \\: LOJ \\: (\\sigma_{B&lt;5} (s))$",
+          "html": "$r \\: LOJ \\: (\\sigma_{B&lt;5}  (s))$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sigma_{B&lt;5} (r) \\: LOJ \\: s$",
+          "html": "$\\sigma_{B&lt;5} (r) \\: LOJ \\: s$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204115/gate-cse-2018-question-41",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204115/gate-cse-2018-question-41"
+    },
+    {
+      "id": "go:204116",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 42",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Consider the following four relational schemas. For each schema , all non-trivial functional dependencies are listed, The <strong>bolded</strong> attributes are the respective primary keys.</p>\n<p>$\\text{Schema I:}$ Registration(<u>rollno</u>, courses)</p>\n<p>Field ‘courses’ is a set-valued attribute containing the set of courses a student has registered for.</p>\n<p>Non-trivial functional dependency</p>\n<p>rollno $\\rightarrow$ courses</p>\n<p>$\\text{Schema II:}$ Registration (<u>rollno, coursid</u>, email)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid $\\rightarrow$ email</p>\n<p>email $\\rightarrow$ rollno</p>\n<p>$\\text{Schema III:}$ Registration (<u>rollno, courseid</u>, marks, grade)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid, $\\rightarrow$ marks, grade</p>\n<p>marks $\\rightarrow$ grade</p>\n<p>$\\text{Schema IV:}$ Registration (<u>rollno, courseid</u>, credit)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid $\\rightarrow$ credit</p>\n<p>courseid $\\rightarrow$ credit</p>\n<p>Which one of the relational schemas above is in $\\text{3NF}$ but not in $\\text{BCNF}$?</p>",
+      "rawQuestionHtml": "<p>Consider the following four relational schemas. For each schema , all non-trivial functional dependencies are listed, The <strong>bolded</strong> attributes are the respective primary keys.</p>\n<p>$\\text{Schema I:}$ Registration(<u>rollno</u>, courses)</p>\n<p>Field ‘courses’ is a set-valued attribute containing the set of courses a student has registered for.</p>\n<p>Non-trivial functional dependency</p>\n<p>rollno $\\rightarrow$ courses</p>\n<p>$\\text{Schema II:}$ Registration (<u>rollno, coursid</u>, email)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid $\\rightarrow$ email</p>\n<p>email $\\rightarrow$ rollno</p>\n<p>$\\text{Schema III:}$ Registration (<u>rollno, courseid</u>, marks, grade)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid, $\\rightarrow$ marks, grade</p>\n<p>marks $\\rightarrow$ grade</p>\n<p>$\\text{Schema IV:}$ Registration (<u>rollno, courseid</u>, credit)</p>\n<p>Non-trivial functional dependencies:</p>\n<p>rollno, courseid $\\rightarrow$ credit</p>\n<p>courseid $\\rightarrow$ credit</p>\n<p>Which one of the relational schemas above is in $\\text{3NF}$ but not in $\\text{BCNF}$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{Schema I}$</li>\n<li>$\\text{Schema II}$</li>\n<li>$\\text{Schema III}$</li>\n<li>$\\text{Schema IV}$</li>\n</ol>",
+      "options": [
+        "$\\text{Schema I}$",
+        "$\\text{Schema II}$",
+        "$\\text{Schema III}$",
+        "$\\text{Schema IV}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{Schema I}$",
+          "html": "$\\text{Schema I}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Schema II}$",
+          "html": "$\\text{Schema II}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Schema III}$",
+          "html": "$\\text{Schema III}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{Schema IV}$",
+          "html": "$\\text{Schema IV}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204116/gate-cse-2018-question-42",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204116/gate-cse-2018-question-42"
+    },
+    {
+      "id": "go:204117",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 43",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "Let $G$ be a graph with $100!$ vertices, with each vertex labelled by a distinct permutation of the numbers $1, 2,\\ldots, 100.$ There is an edge between vertices $u$ and $v$ if and only if the label of $u$ can be obtained by swapping two adjacent numbers in the label of $v$. Let $y$ denote the degree of a vertex in $G$, and $z$ denote the number of connected components in $G$. Then, $y+10z=$ ______.",
+      "rawQuestionHtml": "Let $G$ be a graph with $100!$ vertices, with each vertex labelled by a distinct permutation of the numbers $1, 2,\\ldots, 100.$ There is an edge between vertices $u$ and $v$ if and only if the label of $u$ can be obtained by swapping two adjacent numbers in the label of $v$. Let $y$ denote the degree of a vertex in $G$, and $z$ denote the number of connected components in $G$. Then, $y+10z=$ ______.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "109"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204117/gate-cse-2018-question-43",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204117/gate-cse-2018-question-43"
+    },
+    {
+      "id": "go:204119",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 44",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "NAT",
+      "question": "Consider Guwahati, $(G)$ and Delhi $(D)$ whose temperatures can be classified as high $(H)$, medium $(M)$ and low $(L)$. Let $P(H_G)$ denote the probability that Guwahati has high temperature. Similarly, $P(M_G)$ and $P(L_G)$ denotes the probability of Guwahati having medium and low temperatures respectively. Similarly, we use $P(H_D),\\:  P(M_D)$ and $P(L_D)$ for Delhi.<br/>\n<br/>\nThe following table gives the conditional probabilities for Delhi’s temperature given Guwahati’s temperature.<br/>\n$$\\begin{array}{|c|c|c|c|} \\hline \\text{} &amp; H_D &amp; M_D &amp; L_D \\\\\\hline H_G &amp; \\text{0.40}&amp; \\text{0.48} &amp; \\text{0.12} \\\\\\hline M_G &amp; \\text{0.10}&amp; \\text{0.65} &amp; \\text{0.25} \\\\\\hline  L_G  &amp; \\text{0.01}&amp; \\text{0.50} &amp; \\text{0.49} \\\\\\hline \\end{array}$$<br/>\nConsider the first row in the table above. The first entry denotes that if Guwahati has high temperature $(H_G)$ then the probability of Delhi also having a high temperature $(H_D)$ is $0.40;$ i.e., $P(H_D \\mid H_G) = 0.40$. Similarly, the next two entries are $P(M_D \\mid H_G) = 0.48$ and $P(L_D \\mid H_G) = 0.12$. Similarly for the other rows.<br/>\n<br/>\nIf it is known that $P(H_G) = 0.2, \\: P(M_G) = 0.5$, and $P(L_G)=0.3$, then the probability (correct to two decimal places) that Guwahati has high temperature given that Delhi has high temperature is ________.",
+      "rawQuestionHtml": "Consider Guwahati, $(G)$ and Delhi $(D)$ whose temperatures can be classified as high $(H)$, medium $(M)$ and low $(L)$. Let $P(H_G)$ denote the probability that Guwahati has high temperature. Similarly, $P(M_G)$ and $P(L_G)$ denotes the probability of Guwahati having medium and low temperatures respectively. Similarly, we use $P(H_D),\\:  P(M_D)$ and $P(L_D)$ for Delhi.<br/>\n<br/>\nThe following table gives the conditional probabilities for Delhi’s temperature given Guwahati’s temperature.<br/>\n$$\\begin{array}{|c|c|c|c|} \\hline \\text{} &amp; H_D &amp; M_D &amp; L_D \\\\\\hline H_G &amp; \\text{0.40}&amp; \\text{0.48} &amp; \\text{0.12} \\\\\\hline M_G &amp; \\text{0.10}&amp; \\text{0.65} &amp; \\text{0.25} \\\\\\hline  L_G  &amp; \\text{0.01}&amp; \\text{0.50} &amp; \\text{0.49} \\\\\\hline \\end{array}$$<br/>\nConsider the first row in the table above. The first entry denotes that if Guwahati has high temperature $(H_G)$ then the probability of Delhi also having a high temperature $(H_D)$ is $0.40;$ i.e., $P(H_D \\mid H_G) = 0.40$. Similarly, the next two entries are $P(M_D \\mid H_G) = 0.48$ and $P(L_D \\mid H_G) = 0.12$. Similarly for the other rows.<br/>\n<br/>\nIf it is known that $P(H_G) = 0.2, \\: P(M_G) = 0.5$, and $P(L_G)=0.3$, then the probability (correct to two decimal places) that Guwahati has high temperature given that Delhi has high temperature is ________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.61"
+      ],
+      "tolerance": {
+        "lower": 0.6,
+        "upper": 0.62,
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204119/gate-cse-2018-question-44",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204119/gate-cse-2018-question-44"
+    },
+    {
+      "id": "go:204120",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 45",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "NAT",
+      "question": "<p>Consider the following program written in pseudo-code. Assume that $x$ and $y$ are integers.</p>\n<pre class=\"prettyprint lang-c_cpp\">Count (x, y) {\n    if (y !=1 ) {\n        if (x !=1) {\n            print(\"*\");\n            Count (x/2, y);\n        }\n        else {\n            y=y-1;\n            Count (1024, y);\n        }\n    }\n}</pre>\n<p>The number of times that the $print$ statement is executed by the call $Count(1024, 1024)$ is _____</p>",
+      "rawQuestionHtml": "<p>Consider the following program written in pseudo-code. Assume that $x$ and $y$ are integers.</p>\n<pre class=\"prettyprint lang-c_cpp\">Count (x, y) {\n    if (y !=1 ) {\n        if (x !=1) {\n            print(\"*\");\n            Count (x/2, y);\n        }\n        else {\n            y=y-1;\n            Count (1024, y);\n        }\n    }\n}</pre>\n<p>The number of times that the $print$ statement is executed by the call $Count(1024, 1024)$ is _____</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "10230"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204120/gate-cse-2018-question-45",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204120/gate-cse-2018-question-45"
+    },
+    {
+      "id": "go:204121",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 46",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "The number of possible min-heaps containing each value from $\\{1,2,3,4,5,6,7\\}$ exactly once is _______",
+      "rawQuestionHtml": "The number of possible min-heaps containing each value from $\\{1,2,3,4,5,6,7\\}$ exactly once is _______",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "80"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204121/gate-cse-2018-question-46",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204121/gate-cse-2018-question-46"
+    },
+    {
+      "id": "go:204122",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 47",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
+      "rawQuestionHtml": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204122/gate-cse-2018-question-47",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204122/gate-cse-2018-question-47"
+    },
+    {
+      "id": "go:204123",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 48",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "Consider the weights and values of items listed below. Note that there is only one unit of each item.<br/>\n$$\\begin{array}{|c|c|c|}\\hline \\textbf{Item number}  &amp;  \\textbf{Weight (in Kgs) }&amp; \\textbf{Value (in rupees)} \\\\\\hline  \\text{$1$} &amp; \\text{$10$} &amp; \\text{$60$} \\\\\\hline  \\text{$2$} &amp; \\text{$7$} &amp; \\text{$28$} \\\\\\hline \\textbf{$3$} &amp; \\text{$4$} &amp; \\text{$20$} \\\\\\hline  \\text{$4$} &amp; \\text{$2$} &amp; \\text{$24$}  \\\\\\hline \\end{array}$$<br/>\nThe task is to pick a subset of these items such that their total weight is no more than $11$ Kgs and their total value is maximized. Moreover, no item may be split. The total value of items picked by an optimal algorithm is denoted by $V_{opt}$. A greedy algorithm sorts the items by their value-to-weight ratios in descending order and packs them greedily, starting from the first item in the ordered list. The total value of items picked by the greedy algorithm is denoted by $V_{greedy}$.<br/>\n<br/>\nThe value of $V_{opt}-V_{greedy}$ is ____",
+      "rawQuestionHtml": "Consider the weights and values of items listed below. Note that there is only one unit of each item.<br/>\n$$\\begin{array}{|c|c|c|}\\hline \\textbf{Item number}  &amp;  \\textbf{Weight (in Kgs) }&amp; \\textbf{Value (in rupees)} \\\\\\hline  \\text{$1$} &amp; \\text{$10$} &amp; \\text{$60$} \\\\\\hline  \\text{$2$} &amp; \\text{$7$} &amp; \\text{$28$} \\\\\\hline \\textbf{$3$} &amp; \\text{$4$} &amp; \\text{$20$} \\\\\\hline  \\text{$4$} &amp; \\text{$2$} &amp; \\text{$24$}  \\\\\\hline \\end{array}$$<br/>\nThe task is to pick a subset of these items such that their total weight is no more than $11$ Kgs and their total value is maximized. Moreover, no item may be split. The total value of items picked by an optimal algorithm is denoted by $V_{opt}$. A greedy algorithm sorts the items by their value-to-weight ratios in descending order and packs them greedily, starting from the first item in the ordered list. The total value of items picked by the greedy algorithm is denoted by $V_{greedy}$.<br/>\n<br/>\nThe value of $V_{opt}-V_{greedy}$ is ____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "16"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204123/gate-cse-2018-question-48",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204123/gate-cse-2018-question-48"
+    },
+    {
+      "id": "go:204124",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 49",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "Consider the minterm list form of a Boolean function $F$ given below.<br/>\n<br/>\n$$F(P, Q, R, S) = \\Sigma m(0, 2, 5, 7, 9, 11) + d(3, 8, 10, 12, 14)$$<br/>\n<br/>\nHere, $m$ denotes a minterm and $d$ denotes a don't care term. The number of essential prime implicants of the function $F$ is ___",
+      "rawQuestionHtml": "Consider the minterm list form of a Boolean function $F$ given below.<br/>\n<br/>\n$$F(P, Q, R, S) = \\Sigma m(0, 2, 5, 7, 9, 11) + d(3, 8, 10, 12, 14)$$<br/>\n<br/>\nHere, $m$ denotes a minterm and $d$ denotes a don't care term. The number of essential prime implicants of the function $F$ is ___",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204124/gate-cse-2018-question-49",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204124/gate-cse-2018-question-49"
+    },
+    {
+      "id": "go:204125",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 50",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "NAT",
+      "question": "The instruction pipeline of a RISC processor has the following stages: Instruction Fetch $(IF)$, Instruction Decode $(ID)$, Operand Fetch $(OF)$, Perform Operation $(PO)$ and Writeback $(WB)$, The $IF$, $ID$, $OF$ and $WB$ stages take $1$ clock cycle each for every instruction. Consider a sequence of $100$ instructions. In the $PO$ stage, $40$ instructions take $3$ clock cycles each, $35$ instructions take $2$ clock cycles each, and the remaining $25$ instructions take $1$ clock cycle each. Assume that there are no data hazards and no control hazards.<br/>\n<br/>\nThe number of clock cycles required for completion of execution of the sequence of instruction is _____.",
+      "rawQuestionHtml": "The instruction pipeline of a RISC processor has the following stages: Instruction Fetch $(IF)$, Instruction Decode $(ID)$, Operand Fetch $(OF)$, Perform Operation $(PO)$ and Writeback $(WB)$, The $IF$, $ID$, $OF$ and $WB$ stages take $1$ clock cycle each for every instruction. Consider a sequence of $100$ instructions. In the $PO$ stage, $40$ instructions take $3$ clock cycles each, $35$ instructions take $2$ clock cycles each, and the remaining $25$ instructions take $1$ clock cycle each. Assume that there are no data hazards and no control hazards.<br/>\n<br/>\nThe number of clock cycles required for completion of execution of the sequence of instruction is _____.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "219"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204125/gate-cse-2018-question-50",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204125/gate-cse-2018-question-50"
+    },
+    {
+      "id": "go:204126",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 51",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "NAT",
+      "question": "A processor has $16$ integer registers $\\text{(R0, R1}, \\ldots ,\\text{ R15)}$ and $64$ floating point registers $\\text{(F0, F1}, \\ldots , \\text{F63)}.$ It uses a $2\\text{- byte}$ instruction format. There are four categories of instructions: $\\text{Type-1, Type-2, Type-3},$ and $\\text{Type-4. Type-1}$ category consists of four instructions, each with $3$ integer register operands $\\text{(3Rs). Type-2}$ category consists of eight instructions, each with $2$ floating point register operands $\\text{(2Fs). Type-3}$ category consists of fourteen instructions, each with one integer register operand and one floating point register operand $\\text{(1R+1F). Type-4}$ category consists of $\\text{N}$ instructions, each with a floating point register operand $\\text{(1F)}.$<br/>\n<br/>\nThe maximum value of $\\text{N}$ is _________.",
+      "rawQuestionHtml": "A processor has $16$ integer registers $\\text{(R0, R1}, \\ldots ,\\text{ R15)}$ and $64$ floating point registers $\\text{(F0, F1}, \\ldots , \\text{F63)}.$ It uses a $2\\text{- byte}$ instruction format. There are four categories of instructions: $\\text{Type-1, Type-2, Type-3},$ and $\\text{Type-4. Type-1}$ category consists of four instructions, each with $3$ integer register operands $\\text{(3Rs). Type-2}$ category consists of eight instructions, each with $2$ floating point register operands $\\text{(2Fs). Type-3}$ category consists of fourteen instructions, each with one integer register operand and one floating point register operand $\\text{(1R+1F). Type-4}$ category consists of $\\text{N}$ instructions, each with a floating point register operand $\\text{(1F)}.$<br/>\n<br/>\nThe maximum value of $\\text{N}$ is _________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "32"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204126/gate-cse-2018-question-51",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204126/gate-cse-2018-question-51"
+    },
+    {
+      "id": "go:204127",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 52",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/Gate_QA/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
+      "rawQuestionHtml": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/Gate_QA/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204127/gate-cse-2018-question-52",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204127/gate-cse-2018-question-52"
+    },
+    {
+      "id": "go:204128",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 53",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "NAT",
+      "question": "Consider a storage disk with $4$ platters (numbered as $0, 1, 2$ and $3$), $200$ cylinders (numbered as $0, 1, … , 199$), and $256$ sectors per track (numbered as $0, 1, … 255$). The following $6$ disk requests of the form [sector number, cylinder number, platter number] are received by the disk controller at the same time:<br/>\n<br/>\n$[120, 72, 2], [180, 134, 1], [60, 20, 0], [212, 86, 3], [56, 116, 2], [118, 16, 1]$<br/>\n<br/>\nCurrently head is positioned at sector number $100$ of cylinder $80$, and is moving towards higher cylinder numbers. The average power dissipation in moving the head over $100$ cylinders is $20$ milliwatts and for reversing the direction of the head movement once is $15$ milliwatts. Power dissipation associated with rotational latency and switching of head between different platters is negligible.<br/>\n<br/>\nThe total power consumption in milliwatts to satisfy all of the above disk requests using the Shortest Seek Time First disk scheduling algorithm is _____",
+      "rawQuestionHtml": "Consider a storage disk with $4$ platters (numbered as $0, 1, 2$ and $3$), $200$ cylinders (numbered as $0, 1, … , 199$), and $256$ sectors per track (numbered as $0, 1, … 255$). The following $6$ disk requests of the form [sector number, cylinder number, platter number] are received by the disk controller at the same time:<br/>\n<br/>\n$[120, 72, 2], [180, 134, 1], [60, 20, 0], [212, 86, 3], [56, 116, 2], [118, 16, 1]$<br/>\n<br/>\nCurrently head is positioned at sector number $100$ of cylinder $80$, and is moving towards higher cylinder numbers. The average power dissipation in moving the head over $100$ cylinders is $20$ milliwatts and for reversing the direction of the head movement once is $15$ milliwatts. Power dissipation associated with rotational latency and switching of head between different platters is negligible.<br/>\n<br/>\nThe total power consumption in milliwatts to satisfy all of the above disk requests using the Shortest Seek Time First disk scheduling algorithm is _____",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "85"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204128/gate-cse-2018-question-53",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204128/gate-cse-2018-question-53"
+    },
+    {
+      "id": "go:204129",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 54,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 54",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Network Layer & IP Addressing",
+      "type": "NAT",
+      "question": "Consider an IP packet with a length of $4,500\\;\\text{bytes}$ that includes a $20\\text{-byte}\\;\\textsf{IPv4}$ header ans $40\\text{-byte}$ TCP header. The packet is forwarded to an $\\textsf{IPv4}$ router that supports a Maximum Transmission Unit (MTU) of $600\\;\\text{bytes}$. Assume that the length of the IP header in all the outgoing fragments of this packet is $20\\;\\text{bytes}$. Assume that the fragmentation offset value stored in the first fragment is $0$.<br/>\n<br/>\nThe fragmentation offset value stored in the third fragment is ________.",
+      "rawQuestionHtml": "Consider an IP packet with a length of $4,500\\;\\text{bytes}$ that includes a $20\\text{-byte}\\;\\textsf{IPv4}$ header ans $40\\text{-byte}$ TCP header. The packet is forwarded to an $\\textsf{IPv4}$ router that supports a Maximum Transmission Unit (MTU) of $600\\;\\text{bytes}$. Assume that the length of the IP header in all the outgoing fragments of this packet is $20\\;\\text{bytes}$. Assume that the fragmentation offset value stored in the first fragment is $0$.<br/>\n<br/>\nThe fragmentation offset value stored in the third fragment is ________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "144"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204129/gate-cse-2018-question-54",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204129/gate-cse-2018-question-54"
+    },
+    {
+      "id": "go:204130",
+      "testId": "gate-2018-s0",
+      "year": 2018,
+      "set": 1,
+      "yearSetKey": "2018-s0",
+      "orderIndex": 55,
+      "section": "CS",
+      "title": "GATE CSE 2018 | Question: 55",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Transport Layer (TCP/UDP)",
+      "type": "NAT",
+      "question": "Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for $5$ units of time. If the node does not detect any other transmission, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for $ 5$ time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for $20$ units of time. Assume that the transmission signal travels at the speed of $10$ meters per unit time in the medium.<br/>\n<br/>\nAssume that the system has two nodes $P$ and $Q$, located at a distance $d$ meters from each other. $P$ start transmitting a packet at time $t=0$ after successfully completing its carrier-sense phase. Node $Q$ has a packet to transmit at time $t=0$ and begins to carrier-sense the medium.<br/>\n<br/>\nThe maximum distance $d$ (in meters, rounded to the closest integer) that allows $Q$ to successfully avoid a collision between its proposed transmission and $P$’s ongoing transmission is _______.",
+      "rawQuestionHtml": "Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for $5$ units of time. If the node does not detect any other transmission, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for $ 5$ time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for $20$ units of time. Assume that the transmission signal travels at the speed of $10$ meters per unit time in the medium.<br/>\n<br/>\nAssume that the system has two nodes $P$ and $Q$, located at a distance $d$ meters from each other. $P$ start transmitting a packet at time $t=0$ after successfully completing its carrier-sense phase. Node $Q$ has a packet to transmit at time $t=0$ and begins to carrier-sense the medium.<br/>\n<br/>\nThe maximum distance $d$ (in meters, rounded to the closest integer) that allows $Q$ to successfully avoid a collision between its proposed transmission and $P$’s ongoing transmission is _______.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "50"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/204130/gate-cse-2018-question-55",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/204130/gate-cse-2018-question-55"
+    }
+  ]
+}

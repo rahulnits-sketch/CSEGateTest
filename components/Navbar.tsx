@@ -13,11 +13,12 @@ export default function Navbar() {
           </span>
         </Link>
 
-        {/* Clean Categorized Navigation without Contact button */}
-        <div className="hidden items-center gap-6 text-xs font-semibold text-gray-400 md:flex uppercase tracking-wider">
-          <Link href="/tests" className="transition hover:text-white">
-            GATE Prep
+        {/* Clean Categorized Navigation */}
+        <div className="hidden items-center gap-5 text-xs font-semibold text-gray-400 md:flex uppercase tracking-wider">
+          <Link href="/gate" className="transition hover:text-white text-blue-400">
+            GATE Hub
           </Link>
+          <span className="text-white/20">|</span>
           <Link href="/dsa" className="transition hover:text-white">
             DSA
           </Link>
@@ -26,7 +27,7 @@ export default function Navbar() {
           </Link>
           <Link href="/general" className="flex items-center gap-1.5 transition hover:text-white">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            General Quiz
+            Quiz
           </Link>
           <Link href="/syllabus" className="transition hover:text-white">
             Syllabus

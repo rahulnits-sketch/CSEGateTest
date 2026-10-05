@@ -1,0 +1,3111 @@
+{
+  "id": "gate-2021-s2",
+  "yearSetKey": "2021-s2",
+  "year": 2021,
+  "set": 2,
+  "title": "GATE CSE 2021 — Set 2",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "gaQuestions": 10,
+  "csQuestions": 55,
+  "questions": [
+    {
+      "id": "go:357549",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 1,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Gauri said that she can play the keyboard __________ her sister.</p>",
+      "rawQuestionHtml": "<p>Gauri said that she can play the keyboard __________ her sister.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>as well as</li>\n<li>as better as</li>\n<li>as nicest as</li>\n<li>as worse as</li>\n</ol>",
+      "options": [
+        "as well as",
+        "as better as",
+        "as nicest as",
+        "as worse as"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "as well as",
+          "html": "as well as"
+        },
+        {
+          "label": "B",
+          "text": "as better as",
+          "html": "as better as"
+        },
+        {
+          "label": "C",
+          "text": "as nicest as",
+          "html": "as nicest as"
+        },
+        {
+          "label": "D",
+          "text": "as worse as",
+          "html": "as worse as"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357549/gate-cse-2021-set-2-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357549/gate-cse-2021-set-2-ga-question-1"
+    },
+    {
+      "id": "go:357539",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 1",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Let $G$ be a connected undirected weighted graph. Consider the following two statements.</p>\n<ul>\n<li>$S_1$: There exists a minimum weight edge in $G$ which is present in every minimum spanning tree of $G$.</li>\n<li>$S_2$: If every edge in $G$ has distinct weight, then $G$ has a unique minimum spanning tree.</li>\n</ul>\n<p>Which one of the following options is correct?</p>",
+      "rawQuestionHtml": "<p>Let $G$ be a connected undirected weighted graph. Consider the following two statements.</p>\n<ul>\n<li>$S_1$: There exists a minimum weight edge in $G$ which is present in every minimum spanning tree of $G$.</li>\n<li>$S_2$: If every edge in $G$ has distinct weight, then $G$ has a unique minimum spanning tree.</li>\n</ul>\n<p>Which one of the following options is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Both $S_1$ and $S_2$ are true</li>\n<li>$S_1$ is true and $S_2$ is false</li>\n<li>$S_1$ is false and $S_2$ is true</li>\n<li>Both $S_1$ and $S_2$ are false</li>\n</ol>",
+      "options": [
+        "Both $S_1$ and $S_2$ are true",
+        "$S_1$ is true and $S_2$ is false",
+        "$S_1$ is false and $S_2$ is true",
+        "Both $S_1$ and $S_2$ are false"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both $S_1$ and $S_2$ are true",
+          "html": "Both $S_1$ and $S_2$ are true"
+        },
+        {
+          "label": "B",
+          "text": "$S_1$ is true and $S_2$ is false",
+          "html": "$S_1$ is true and $S_2$ is false"
+        },
+        {
+          "label": "C",
+          "text": "$S_1$ is false and $S_2$ is true",
+          "html": "$S_1$ is false and $S_2$ is true"
+        },
+        {
+          "label": "D",
+          "text": "Both $S_1$ and $S_2$ are false",
+          "html": "Both $S_1$ and $S_2$ are false"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357539/gate-cse-2021-set-2-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357539/gate-cse-2021-set-2-question-1"
+    },
+    {
+      "id": "go:357548",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 2,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/7974004479063421847.webp\" width=\"202\"/></p>\n<p>A transparent square sheet shown above is folded along the dotted line. The folded sheet will look like ___________.</p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/7974004479063421847.webp\" width=\"202\"/></p>\n<p>A transparent square sheet shown above is folded along the dotted line. The folded sheet will look like ___________.</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"181\" src=\"/Gate_QA/question-images/226814919708788703.webp\" width=\"185\"/></li>\n<li><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/18320281660391724457.webp\" width=\"188\"/></li>\n<li><img alt=\"\" height=\"175\" src=\"/Gate_QA/question-images/7090644353777820372.webp\" width=\"179\"/></li>\n<li><img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/17942549817910793487.webp\" width=\"176\"/></li>\n</ol>",
+      "options": [
+        "<img alt=\"\" height=\"181\" src=\"/Gate_QA/question-images/226814919708788703.webp\" width=\"185\"/>",
+        "<img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/18320281660391724457.webp\" width=\"188\"/>",
+        "<img alt=\"\" height=\"175\" src=\"/Gate_QA/question-images/7090644353777820372.webp\" width=\"179\"/>",
+        "<img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/17942549817910793487.webp\" width=\"176\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" height=\"181\" src=\"/Gate_QA/question-images/226814919708788703.webp\" width=\"185\"/>",
+          "html": "<img alt=\"\" height=\"181\" src=\"/Gate_QA/question-images/226814919708788703.webp\" width=\"185\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/18320281660391724457.webp\" width=\"188\"/>",
+          "html": "<img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/18320281660391724457.webp\" width=\"188\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" height=\"175\" src=\"/Gate_QA/question-images/7090644353777820372.webp\" width=\"179\"/>",
+          "html": "<img alt=\"\" height=\"175\" src=\"/Gate_QA/question-images/7090644353777820372.webp\" width=\"179\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/17942549817910793487.webp\" width=\"176\"/>",
+          "html": "<img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/17942549817910793487.webp\" width=\"176\"/>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357548/gate-cse-2021-set-2-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357548/gate-cse-2021-set-2-ga-question-2"
+    },
+    {
+      "id": "go:357538",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 2",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>​​​​​Let $H$ be a binary min-heap consisting of $n$ elements implemented as an array. What is the worst case time complexity of an optimal algorithm to find the maximum element in $H$?</p>",
+      "rawQuestionHtml": "<p>​​​​​Let $H$ be a binary min-heap consisting of $n$ elements implemented as an array. What is the worst case time complexity of an optimal algorithm to find the maximum element in $H$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta (1)$</li>\n<li>$\\Theta (\\log n)$</li>\n<li>$\\Theta (n)$</li>\n<li>$\\Theta (n \\log n)$</li>\n</ol>",
+      "options": [
+        "$\\Theta (1)$",
+        "$\\Theta (\\log n)$",
+        "$\\Theta (n)$",
+        "$\\Theta (n \\log n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\Theta (1)$",
+          "html": "$\\Theta (1)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\Theta (\\log n)$",
+          "html": "$\\Theta (\\log n)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Theta (n)$",
+          "html": "$\\Theta (n)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\Theta (n \\log n)$",
+          "html": "$\\Theta (n \\log n)$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357538/gate-cse-2021-set-2-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357538/gate-cse-2021-set-2-question-2"
+    },
+    {
+      "id": "go:357547",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 3,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>If $\\theta$ is the angle, in degrees, between the longest diagonal of the cube and any one of the edges of the cube, then, $\\cos \\theta =$</p>",
+      "rawQuestionHtml": "<p>If $\\theta$ is the angle, in degrees, between the longest diagonal of the cube and any one of the edges of the cube, then, $\\cos \\theta =$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{2} \\\\$</li>\n<li>$\\frac{1}{\\sqrt{3}} \\\\$</li>\n<li>$\\frac{1}{\\sqrt{2}} \\\\$</li>\n<li>$\\frac{\\sqrt{3}}{2}$</li>\n</ol>",
+      "options": [
+        "$\\frac{1}{2} \\\\$",
+        "$\\frac{1}{\\sqrt{3}} \\\\$",
+        "$\\frac{1}{\\sqrt{2}} \\\\$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{2} \\\\$",
+          "html": "$\\frac{1}{2} \\\\$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{\\sqrt{3}} \\\\$",
+          "html": "$\\frac{1}{\\sqrt{3}} \\\\$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{\\sqrt{2}} \\\\$",
+          "html": "$\\frac{1}{\\sqrt{2}} \\\\$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{\\sqrt{3}}{2}$",
+          "html": "$\\frac{\\sqrt{3}}{2}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357547/gate-cse-2021-set-2-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357547/gate-cse-2021-set-2-ga-question-3"
+    },
+    {
+      "id": "go:357537",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 3",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>Consider the following $\\text{ANSI C}$ program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main  {\n    Integer x;\n    return 0;\n}</pre>\n<p>Which one of the following phases in a seven-phase $C$ compiler will throw an error?</p>",
+      "rawQuestionHtml": "<p>Consider the following $\\text{ANSI C}$ program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main  {\n    Integer x;\n    return 0;\n}</pre>\n<p>Which one of the following phases in a seven-phase $C$ compiler will throw an error?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Lexical analyzer</li>\n<li>Syntax analyzer</li>\n<li>Semantic analyzer</li>\n<li>Machine dependent optimizer</li>\n</ol>",
+      "options": [
+        "Lexical analyzer",
+        "Syntax analyzer",
+        "Semantic analyzer",
+        "Machine dependent optimizer"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Lexical analyzer",
+          "html": "Lexical analyzer"
+        },
+        {
+          "label": "B",
+          "text": "Syntax analyzer",
+          "html": "Syntax analyzer"
+        },
+        {
+          "label": "C",
+          "text": "Semantic analyzer",
+          "html": "Semantic analyzer"
+        },
+        {
+          "label": "D",
+          "text": "Machine dependent optimizer",
+          "html": "Machine dependent optimizer"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357537/gate-cse-2021-set-2-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357537/gate-cse-2021-set-2-question-3"
+    },
+    {
+      "id": "go:357546",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 4,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>​​​​​​If $\\left( x  – \\dfrac{1}{2} \\right)^2 – \\left( x- \\dfrac{3}{2} \\right) ^2 = x+2$, then the value of $x$ is:</p>",
+      "rawQuestionHtml": "<p>​​​​​​If $\\left( x  – \\dfrac{1}{2} \\right)^2 – \\left( x- \\dfrac{3}{2} \\right) ^2 = x+2$, then the value of $x$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$4$</li>\n<li>$6$</li>\n<li>$8$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$4$",
+        "$6$",
+        "$8$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$8$",
+          "html": "$8$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357546/gate-cse-2021-set-2-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357546/gate-cse-2021-set-2-ga-question-4"
+    },
+    {
+      "id": "go:357536",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 4",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The format of the single-precision floating point representation of a real number as per the $\\text{IEEE 754}$ standard is as follows:</p>\n<p>$$\\begin{array}{|c|c|c|} \\hline \\text{sign} &amp; \\text{exponent} &amp; \\text{mantissa} \\\\ \\hline \\end{array}$$</p>\n<p>Which one of the following choices is correct with respect to the <em>smallest </em>normalized positive number represented using the standard?</p>",
+      "rawQuestionHtml": "<p>The format of the single-precision floating point representation of a real number as per the $\\text{IEEE 754}$ standard is as follows:</p>\n<p>$$\\begin{array}{|c|c|c|} \\hline \\text{sign} &amp; \\text{exponent} &amp; \\text{mantissa} \\\\ \\hline \\end{array}$$</p>\n<p>Which one of the following choices is correct with respect to the <em>smallest </em>normalized positive number represented using the standard?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>exponent $=00000000$ and mantissa $=0000000000000000000000000$</li>\n<li>exponent $=00000000$ and mantissa $=0000000000000000000000001$</li>\n<li>exponent $=00000001$ and mantissa $=0000000000000000000000000$</li>\n<li>exponent $=00000001$ and mantissa $=0000000000000000000000001$</li>\n</ol>",
+      "options": [
+        "exponent $=00000000$ and mantissa $=0000000000000000000000000$",
+        "exponent $=00000000$ and mantissa $=0000000000000000000000001$",
+        "exponent $=00000001$ and mantissa $=0000000000000000000000000$",
+        "exponent $=00000001$ and mantissa $=0000000000000000000000001$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "exponent $=00000000$ and mantissa $=0000000000000000000000000$",
+          "html": "exponent $=00000000$ and mantissa $=0000000000000000000000000$"
+        },
+        {
+          "label": "B",
+          "text": "exponent $=00000000$ and mantissa $=0000000000000000000000001$",
+          "html": "exponent $=00000000$ and mantissa $=0000000000000000000000001$"
+        },
+        {
+          "label": "C",
+          "text": "exponent $=00000001$ and mantissa $=0000000000000000000000000$",
+          "html": "exponent $=00000001$ and mantissa $=0000000000000000000000000$"
+        },
+        {
+          "label": "D",
+          "text": "exponent $=00000001$ and mantissa $=0000000000000000000000001$",
+          "html": "exponent $=00000001$ and mantissa $=0000000000000000000000001$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357536/gate-cse-2021-set-2-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357536/gate-cse-2021-set-2-question-4"
+    },
+    {
+      "id": "go:357545",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 5,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>$\\text{Pen : Write :: Knife :}$ _______</p>\n<p>Which one of the following options maintains a similar logical relation in the above?</p>",
+      "rawQuestionHtml": "<p>$\\text{Pen : Write :: Knife :}$ _______</p>\n<p>Which one of the following options maintains a similar logical relation in the above?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Vegetables</li>\n<li>Sharp</li>\n<li>Cut</li>\n<li>Blunt</li>\n</ol>",
+      "options": [
+        "Vegetables",
+        "Sharp",
+        "Cut",
+        "Blunt"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Vegetables",
+          "html": "Vegetables"
+        },
+        {
+          "label": "B",
+          "text": "Sharp",
+          "html": "Sharp"
+        },
+        {
+          "label": "C",
+          "text": "Cut",
+          "html": "Cut"
+        },
+        {
+          "label": "D",
+          "text": "Blunt",
+          "html": "Blunt"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357545/gate-cse-2021-set-2-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357545/gate-cse-2021-set-2-ga-question-5"
+    },
+    {
+      "id": "go:357535",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 5",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MCQ",
+      "question": "<p>Which one of the following circuits implements the Boolean function given below?</p>\n<p>$f(x,y,z) = m_0+m_1+m_3+m_4+m_5+m_6$, where $m_i$ is the $i^{\\text{th}}$ minterm.</p>\n\n<p> </p>",
+      "rawQuestionHtml": "<p>Which one of the following circuits implements the Boolean function given below?</p>\n<p>$f(x,y,z) = m_0+m_1+m_3+m_4+m_5+m_6$, where $m_i$ is the $i^{\\text{th}}$ minterm.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/></li>\n</ol>\n<p> </p>",
+      "options": [
+        "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357535/gate-cse-2021-set-2-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357535/gate-cse-2021-set-2-question-5"
+    },
+    {
+      "id": "go:357544",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 6,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Listening to music during exercise improves performance and reduces discomfort. Scientists researched whether listening to music while studying can help students learn better and the results were inconclusive. Students who needed external stimulation for studying fared worse while students who did not need any external stimulation benefited from music.</p>\n<p>Which one of the following statements is the $\\text{CORRECT}$ inference of the above passage?</p>",
+      "rawQuestionHtml": "<p>Listening to music during exercise improves performance and reduces discomfort. Scientists researched whether listening to music while studying can help students learn better and the results were inconclusive. Students who needed external stimulation for studying fared worse while students who did not need any external stimulation benefited from music.</p>\n<p>Which one of the following statements is the $\\text{CORRECT}$ inference of the above passage?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Listening to music has no effect on learning and a positive effect on physical exercise</li>\n<li>Listening to music has a clear positive effect both in physical exercise and on learning</li>\n<li>Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students</li>\n<li>Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise</li>\n</ol>",
+      "options": [
+        "Listening to music has no effect on learning and a positive effect on physical exercise",
+        "Listening to music has a clear positive effect both in physical exercise and on learning",
+        "Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students",
+        "Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Listening to music has no effect on learning and a positive effect on physical exercise",
+          "html": "Listening to music has no effect on learning and a positive effect on physical exercise"
+        },
+        {
+          "label": "B",
+          "text": "Listening to music has a clear positive effect both in physical exercise and on learning",
+          "html": "Listening to music has a clear positive effect both in physical exercise and on learning"
+        },
+        {
+          "label": "C",
+          "text": "Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students",
+          "html": "Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students"
+        },
+        {
+          "label": "D",
+          "text": "Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise",
+          "html": "Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357544/gate-cse-2021-set-2-ga-question-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357544/gate-cse-2021-set-2-ga-question-6"
+    },
+    {
+      "id": "go:357534",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 6",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the following statements $S1$ and $S2$ about the relational data model:</p>\n<ul>\n<li>$S1$: A relation scheme can have at most one foreign key.</li>\n<li>$S2$: A foreign key in a relation scheme $R$ cannot be used to refer to tuples of $R.$</li>\n</ul>\n<p>Which one of the following choices is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following statements $S1$ and $S2$ about the relational data model:</p>\n<ul>\n<li>$S1$: A relation scheme can have at most one foreign key.</li>\n<li>$S2$: A foreign key in a relation scheme $R$ cannot be used to refer to tuples of $R.$</li>\n</ul>\n<p>Which one of the following choices is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Both $S1$ and $S2$ are true</li>\n<li>$S1$ is true and $S2$ is false</li>\n<li>$S1$ is false and $S2$ is true</li>\n<li>Both $S1$ and $S2$ are false</li>\n</ol>",
+      "options": [
+        "Both $S1$ and $S2$ are true",
+        "$S1$ is true and $S2$ is false",
+        "$S1$ is false and $S2$ is true",
+        "Both $S1$ and $S2$ are false"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both $S1$ and $S2$ are true",
+          "html": "Both $S1$ and $S2$ are true"
+        },
+        {
+          "label": "B",
+          "text": "$S1$ is true and $S2$ is false",
+          "html": "$S1$ is true and $S2$ is false"
+        },
+        {
+          "label": "C",
+          "text": "$S1$ is false and $S2$ is true",
+          "html": "$S1$ is false and $S2$ is true"
+        },
+        {
+          "label": "D",
+          "text": "Both $S1$ and $S2$ are false",
+          "html": "Both $S1$ and $S2$ are false"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357534/gate-cse-2021-set-2-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357534/gate-cse-2021-set-2-question-6"
+    },
+    {
+      "id": "go:357543",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 7,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"293\" src=\"/Gate_QA/question-images/8895834722956860153.webp\" width=\"184\"/></p>\n<p>A jigsaw puzzle has $2$ pieces. One of the pieces is shown above. Which one of the given options for the missing piece when assembled will form a rectangle? The piece can be moved, rotated or flipped to assemble with the above piece.</p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"293\" src=\"/Gate_QA/question-images/8895834722956860153.webp\" width=\"184\"/></p>\n<p>A jigsaw puzzle has $2$ pieces. One of the pieces is shown above. Which one of the given options for the missing piece when assembled will form a rectangle? The piece can be moved, rotated or flipped to assemble with the above piece.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/3275142622259952563.webp\" width=\"268\"/></li>\n<li><img alt=\"\" height=\"210\" src=\"/Gate_QA/question-images/7944335641232906387.webp\" width=\"279\"/></li>\n<li><img alt=\"\" height=\"203\" src=\"/Gate_QA/question-images/18296182677279003876.webp\" width=\"270\"/></li>\n<li><img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/14485107164689728285.webp\" width=\"267\"/></li>\n</ol>",
+      "options": [
+        "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/3275142622259952563.webp\" width=\"268\"/>",
+        "<img alt=\"\" height=\"210\" src=\"/Gate_QA/question-images/7944335641232906387.webp\" width=\"279\"/>",
+        "<img alt=\"\" height=\"203\" src=\"/Gate_QA/question-images/18296182677279003876.webp\" width=\"270\"/>",
+        "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/14485107164689728285.webp\" width=\"267\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/3275142622259952563.webp\" width=\"268\"/>",
+          "html": "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/3275142622259952563.webp\" width=\"268\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" height=\"210\" src=\"/Gate_QA/question-images/7944335641232906387.webp\" width=\"279\"/>",
+          "html": "<img alt=\"\" height=\"210\" src=\"/Gate_QA/question-images/7944335641232906387.webp\" width=\"279\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" height=\"203\" src=\"/Gate_QA/question-images/18296182677279003876.webp\" width=\"270\"/>",
+          "html": "<img alt=\"\" height=\"203\" src=\"/Gate_QA/question-images/18296182677279003876.webp\" width=\"270\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/14485107164689728285.webp\" width=\"267\"/>",
+          "html": "<img alt=\"\" height=\"202\" src=\"/Gate_QA/question-images/14485107164689728285.webp\" width=\"267\"/>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357543/gate-cse-2021-set-2-ga-question-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357543/gate-cse-2021-set-2-ga-question-7"
+    },
+    {
+      "id": "go:357533",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 7",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Transport Layer (TCP/UDP)",
+      "type": "MCQ",
+      "question": "<p>Consider the three-way handshake mechanism followed during $\\text{TCP}$ connection establishment between hosts $P$ and $Q$. Let $X$ and $Y$ be two random $32$-bit starting sequence numbers chosen by $P$ and $Q$ respectively. Suppose $P$ sends a $\\text{TCP}$ connection request message to $Q$ with a $\\text{TCP}$ segment having $\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X$, and $\\text{ACK}$ bit $=0$. Suppose $Q$ accepts the connection request. Which one of the following choices represents the information present in the $\\text{TCP}$ segment header that is sent by $Q$ to $P$?</p>",
+      "rawQuestionHtml": "<p>Consider the three-way handshake mechanism followed during $\\text{TCP}$ connection establishment between hosts $P$ and $Q$. Let $X$ and $Y$ be two random $32$-bit starting sequence numbers chosen by $P$ and $Q$ respectively. Suppose $P$ sends a $\\text{TCP}$ connection request message to $Q$ with a $\\text{TCP}$ segment having $\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X$, and $\\text{ACK}$ bit $=0$. Suppose $Q$ accepts the connection request. Which one of the following choices represents the information present in the $\\text{TCP}$ segment header that is sent by $Q$ to $P$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=0$</li>\n<li>$\\text{SYN}$ bit $=0$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=1$</li>\n<li>$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X+1$, $\\text{FIN}$ bit $=0$</li>\n<li>$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X$, $\\text{FIN}$ bit $=0$</li>\n</ol>",
+      "options": [
+        "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=0$",
+        "$\\text{SYN}$ bit $=0$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=1$",
+        "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X+1$, $\\text{FIN}$ bit $=0$",
+        "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X$, $\\text{FIN}$ bit $=0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=0$",
+          "html": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{SYN}$ bit $=0$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=1$",
+          "html": "$\\text{SYN}$ bit $=0$, $\\text{SEQ}$ number $=X+1$, $\\text{ACK}$ bit $=0$, $\\text{ACK}$ number $=Y$, $\\text{FIN}$ bit $=1$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X+1$, $\\text{FIN}$ bit $=0$",
+          "html": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X+1$, $\\text{FIN}$ bit $=0$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X$, $\\text{FIN}$ bit $=0$",
+          "html": "$\\text{SYN}$ bit $=1$, $\\text{SEQ}$ number $=Y$, $\\text{ACK}$ bit $=1$, $\\text{ACK}$ number $=X$, $\\text{FIN}$ bit $=0$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357533/gate-cse-2021-set-2-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357533/gate-cse-2021-set-2-question-7"
+    },
+    {
+      "id": "go:357542",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 8,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The number of students in three classes is in the ratio $3:13:6$. If $18$ students are added to each class, the ratio changes to $15:35:21$.</p>\n<p>The total number of students in all the three classes in the beginning was:</p>",
+      "rawQuestionHtml": "<p>The number of students in three classes is in the ratio $3:13:6$. If $18$ students are added to each class, the ratio changes to $15:35:21$.</p>\n<p>The total number of students in all the three classes in the beginning was:</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$22$</li>\n<li>$66$</li>\n<li>$88$</li>\n<li>$110$</li>\n</ol>",
+      "options": [
+        "$22$",
+        "$66$",
+        "$88$",
+        "$110$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$22$",
+          "html": "$22$"
+        },
+        {
+          "label": "B",
+          "text": "$66$",
+          "html": "$66$"
+        },
+        {
+          "label": "C",
+          "text": "$88$",
+          "html": "$88$"
+        },
+        {
+          "label": "D",
+          "text": "$110$",
+          "html": "$110$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357542/gate-cse-2021-set-2-ga-question-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357542/gate-cse-2021-set-2-ga-question-8"
+    },
+    {
+      "id": "go:357532",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 8",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>What is the worst-case number of arithmetic operations performed by recursive binary search on a sorted array of size $n$?</p>",
+      "rawQuestionHtml": "<p>What is the worst-case number of arithmetic operations performed by recursive binary search on a sorted array of size $n$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta ( \\sqrt{n})$</li>\n<li>$\\Theta (\\log _2(n))$</li>\n<li>$\\Theta(n^2)$</li>\n<li>$\\Theta(n)$</li>\n</ol>",
+      "options": [
+        "$\\Theta ( \\sqrt{n})$",
+        "$\\Theta (\\log _2(n))$",
+        "$\\Theta(n^2)$",
+        "$\\Theta(n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\Theta ( \\sqrt{n})$",
+          "html": "$\\Theta ( \\sqrt{n})$"
+        },
+        {
+          "label": "B",
+          "text": "$\\Theta (\\log _2(n))$",
+          "html": "$\\Theta (\\log _2(n))$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Theta(n^2)$",
+          "html": "$\\Theta(n^2)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\Theta(n)$",
+          "html": "$\\Theta(n)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357532/gate-cse-2021-set-2-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357532/gate-cse-2021-set-2-question-8"
+    },
+    {
+      "id": "go:357541",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 9,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"224\" src=\"/Gate_QA/question-images/5964666680050838177.webp\" width=\"315\"/></p>\n<p>The number of units of a product sold in three different years and the respective net profits are presented in the figure above. The cost/unit in Year $3$ was ₹$\\;1$, which was half the cost/unit in Year $2$. The cost/unit in Year $3$ was one-third of the cost/unit in Year $1$. Taxes were paid on the selling price at $10 \\%$, $13 \\%$, and $15 \\%$ respectively for the three years. Net profit is calculated as the difference between the selling price and the sum of cost and taxes paid in that year.</p>\n<p>The ratio of the selling price in Year $2$ to the selling price in Year $3$ is _________.</p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"224\" src=\"/Gate_QA/question-images/5964666680050838177.webp\" width=\"315\"/></p>\n<p>The number of units of a product sold in three different years and the respective net profits are presented in the figure above. The cost/unit in Year $3$ was ₹$\\;1$, which was half the cost/unit in Year $2$. The cost/unit in Year $3$ was one-third of the cost/unit in Year $1$. Taxes were paid on the selling price at $10 \\%$, $13 \\%$, and $15 \\%$ respectively for the three years. Net profit is calculated as the difference between the selling price and the sum of cost and taxes paid in that year.</p>\n<p>The ratio of the selling price in Year $2$ to the selling price in Year $3$ is _________.</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$4:3$</li>\n<li>$1:1$</li>\n<li>$3:4$</li>\n<li>$1:2$</li>\n</ol>",
+      "options": [
+        "$4:3$",
+        "$1:1$",
+        "$3:4$",
+        "$1:2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4:3$",
+          "html": "$4:3$"
+        },
+        {
+          "label": "B",
+          "text": "$1:1$",
+          "html": "$1:1$"
+        },
+        {
+          "label": "C",
+          "text": "$3:4$",
+          "html": "$3:4$"
+        },
+        {
+          "label": "D",
+          "text": "$1:2$",
+          "html": "$1:2$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357541/gate-cse-2021-set-2-ga-question-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357541/gate-cse-2021-set-2-ga-question-9"
+    },
+    {
+      "id": "go:357531",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 9",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $L \\subseteq \\{0,1\\}^*$ be an arbitrary regular language accepted by a minimal $\\text{DFA}$ with $k$ states. Which one of the following languages must necessarily be accepted by a minimal $\\text{DFA}$ with $k$ states?</p>",
+      "rawQuestionHtml": "<p>Let $L \\subseteq \\{0,1\\}^*$ be an arbitrary regular language accepted by a minimal $\\text{DFA}$ with $k$ states. Which one of the following languages must necessarily be accepted by a minimal $\\text{DFA}$ with $k$ states?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L-\\{01\\}$</li>\n<li>$L \\cup \\{01\\}$</li>\n<li>$\\{0,1\\}^* – L$</li>\n<li>$L \\cdot L$</li>\n</ol>",
+      "options": [
+        "$L-\\{01\\}$",
+        "$L \\cup \\{01\\}$",
+        "$\\{0,1\\}^* – L$",
+        "$L \\cdot L$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$L-\\{01\\}$",
+          "html": "$L-\\{01\\}$"
+        },
+        {
+          "label": "B",
+          "text": "$L \\cup \\{01\\}$",
+          "html": "$L \\cup \\{01\\}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\{0,1\\}^* – L$",
+          "html": "$\\{0,1\\}^* – L$"
+        },
+        {
+          "label": "D",
+          "text": "$L \\cdot L$",
+          "html": "$L \\cdot L$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357531/gate-cse-2021-set-2-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357531/gate-cse-2021-set-2-question-9"
+    },
+    {
+      "id": "go:357540",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 10,
+      "section": "GA",
+      "title": "GATE CSE 2021 Set 2 | GA Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Analytical & Logical Reasoning",
+      "type": "MCQ",
+      "question": "<p>Six students $\\text{P, Q, R, S, T and U}$, with distinct heights, compare their heights and make the following observations.</p>\n<ul>\n<li>$\\text{Observation I}$: $\\text{S}$ is taller than $\\text{R}$.</li>\n<li>$\\text{Observation II}$: $\\text{Q}$ is the shortest of all.</li>\n<li>$\\text{Observation III}$: $\\text{U}$ is taller than only one student.</li>\n<li>$\\text{Observation IV}$: $\\text{T}$ is taller than $\\text{S}$ but is not the tallest</li>\n</ul>\n<p>The number of students that are taller than $\\text{R}$ is the same as the number of students shorter than ____________.</p>",
+      "rawQuestionHtml": "<p>Six students $\\text{P, Q, R, S, T and U}$, with distinct heights, compare their heights and make the following observations.</p>\n<ul>\n<li>$\\text{Observation I}$: $\\text{S}$ is taller than $\\text{R}$.</li>\n<li>$\\text{Observation II}$: $\\text{Q}$ is the shortest of all.</li>\n<li>$\\text{Observation III}$: $\\text{U}$ is taller than only one student.</li>\n<li>$\\text{Observation IV}$: $\\text{T}$ is taller than $\\text{S}$ but is not the tallest</li>\n</ul>\n<p>The number of students that are taller than $\\text{R}$ is the same as the number of students shorter than ____________.</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\text{T}$</li>\n<li>$\\text{R}$</li>\n<li>$\\text{S}$</li>\n<li>$\\text{P}$</li>\n</ol>",
+      "options": [
+        "$\\text{T}$",
+        "$\\text{R}$",
+        "$\\text{S}$",
+        "$\\text{P}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{T}$",
+          "html": "$\\text{T}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{R}$",
+          "html": "$\\text{R}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{S}$",
+          "html": "$\\text{S}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{P}$",
+          "html": "$\\text{P}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357540/gate-cse-2021-set-2-ga-question-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357540/gate-cse-2021-set-2-ga-question-10"
+    },
+    {
+      "id": "go:357530",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 10",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Consider the following $\\text{ANSI C}$ program.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\nint main \n{\n    int arr[4][5];\n    int  i, j;\n    for (i=0; i&lt;4; i++) \n    ​​​​​​{\n        for (j=0; j&lt;5; j++) \n        {\n            arr[i][j] = 10 * i + j;\n        }\n    }\n    printf(“%d”, *(arr[1]+9));\n    return 0;\n}</pre>\n<p>What is the output of the above program?</p>",
+      "rawQuestionHtml": "<p>Consider the following $\\text{ANSI C}$ program.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\nint main \n{\n    int arr[4][5];\n    int  i, j;\n    for (i=0; i&lt;4; i++) \n    ​​​​​​{\n        for (j=0; j&lt;5; j++) \n        {\n            arr[i][j] = 10 * i + j;\n        }\n    }\n    printf(“%d”, *(arr[1]+9));\n    return 0;\n}</pre>\n<p>What is the output of the above program?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$14$</li>\n<li>$20$</li>\n<li>$24$</li>\n<li>$30$</li>\n</ol>",
+      "options": [
+        "$14$",
+        "$20$",
+        "$24$",
+        "$30$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$14$",
+          "html": "$14$"
+        },
+        {
+          "label": "B",
+          "text": "$20$",
+          "html": "$20$"
+        },
+        {
+          "label": "C",
+          "text": "$24$",
+          "html": "$24$"
+        },
+        {
+          "label": "D",
+          "text": "$30$",
+          "html": "$30$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357530/gate-cse-2021-set-2-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357530/gate-cse-2021-set-2-question-10"
+    },
+    {
+      "id": "go:357529",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 11",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MSQ",
+      "question": "<p>Consider the following sets, where $n \\geq 2$:</p>\n<ul>\n<li>$S_1$: Set of all $n \\times n$ matrices with entries from the set $\\{ a, b, c\\}$</li>\n<li>$S_2$: Set of all functions from the set $\\{0,1,2, \\dots, n^2-1\\}$ to the set $\\{0, 1, 2\\}$</li>\n</ul>\n<p>Which of the following choice(s) is/are correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following sets, where $n \\geq 2$:</p>\n<ul>\n<li>$S_1$: Set of all $n \\times n$ matrices with entries from the set $\\{ a, b, c\\}$</li>\n<li>$S_2$: Set of all functions from the set $\\{0,1,2, \\dots, n^2-1\\}$ to the set $\\{0, 1, 2\\}$</li>\n</ul>\n<p>Which of the following choice(s) is/are correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>There does not exist a bijection from $S_1$ to $S_2$</li>\n<li>There exists a surjection from $S_1$ to $S_2$</li>\n<li>There exists a bijection from $S_1$ to $S_2$</li>\n<li>There does not exist an injection from $S_1$ to $S_2$</li>\n</ol>",
+      "options": [
+        "There does not exist a bijection from $S_1$ to $S_2$",
+        "There exists a surjection from $S_1$ to $S_2$",
+        "There exists a bijection from $S_1$ to $S_2$",
+        "There does not exist an injection from $S_1$ to $S_2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "There does not exist a bijection from $S_1$ to $S_2$",
+          "html": "There does not exist a bijection from $S_1$ to $S_2$"
+        },
+        {
+          "label": "B",
+          "text": "There exists a surjection from $S_1$ to $S_2$",
+          "html": "There exists a surjection from $S_1$ to $S_2$"
+        },
+        {
+          "label": "C",
+          "text": "There exists a bijection from $S_1$ to $S_2$",
+          "html": "There exists a bijection from $S_1$ to $S_2$"
+        },
+        {
+          "label": "D",
+          "text": "There does not exist an injection from $S_1$ to $S_2$",
+          "html": "There does not exist an injection from $S_1$ to $S_2$"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357529/gate-cse-2021-set-2-question-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357529/gate-cse-2021-set-2-question-11"
+    },
+    {
+      "id": "go:357528",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 12",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Let $L_1$ be a regular language and $L_2$ be a context-free language. Which of the following languages is/are context-free?</p>",
+      "rawQuestionHtml": "<p>Let $L_1$ be a regular language and $L_2$ be a context-free language. Which of the following languages is/are context-free?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_1 \\cap \\overline{L_2} \\\\$</li>\n<li>$\\overline{\\overline{L_1} \\cup \\overline{L_2}} \\\\$</li>\n<li>$L_1 \\cup (L_2 \\cup \\overline{L_2}) \\\\$</li>\n<li>$(L_1 \\cap L_2) \\cup (\\overline{L_1} \\cap L_2)$</li>\n</ol>",
+      "options": [
+        "$L_1 \\cap \\overline{L_2} \\\\$",
+        "$\\overline{\\overline{L_1} \\cup \\overline{L_2}} \\\\$",
+        "$L_1 \\cup (L_2 \\cup \\overline{L_2}) \\\\$",
+        "$(L_1 \\cap L_2) \\cup (\\overline{L_1} \\cap L_2)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$L_1 \\cap \\overline{L_2} \\\\$",
+          "html": "$L_1 \\cap \\overline{L_2} \\\\$"
+        },
+        {
+          "label": "B",
+          "text": "$\\overline{\\overline{L_1} \\cup \\overline{L_2}} \\\\$",
+          "html": "$\\overline{\\overline{L_1} \\cup \\overline{L_2}} \\\\$"
+        },
+        {
+          "label": "C",
+          "text": "$L_1 \\cup (L_2 \\cup \\overline{L_2}) \\\\$",
+          "html": "$L_1 \\cup (L_2 \\cup \\overline{L_2}) \\\\$"
+        },
+        {
+          "label": "D",
+          "text": "$(L_1 \\cap L_2) \\cup (\\overline{L_1} \\cap L_2)$",
+          "html": "$(L_1 \\cap L_2) \\cup (\\overline{L_1} \\cap L_2)$"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357528/gate-cse-2021-set-2-question-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357528/gate-cse-2021-set-2-question-12"
+    },
+    {
+      "id": "go:357527",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 13",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Syntax-Directed Translation & Intermediate Code",
+      "type": "MSQ",
+      "question": "<p>In the context of compilers, which of the following is/are $\\text{NOT}$ an intermediate representation of the source program?</p>",
+      "rawQuestionHtml": "<p>In the context of compilers, which of the following is/are $\\text{NOT}$ an intermediate representation of the source program?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Three address code</li>\n<li>Abstract Syntax Tree $\\text{(AST)}$</li>\n<li>Control Flow Graph $\\text{(CFG)}$</li>\n<li>Symbol table</li>\n</ol>",
+      "options": [
+        "Three address code",
+        "Abstract Syntax Tree $\\text{(AST)}$",
+        "Control Flow Graph $\\text{(CFG)}$",
+        "Symbol table"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Three address code",
+          "html": "Three address code"
+        },
+        {
+          "label": "B",
+          "text": "Abstract Syntax Tree $\\text{(AST)}$",
+          "html": "Abstract Syntax Tree $\\text{(AST)}$"
+        },
+        {
+          "label": "C",
+          "text": "Control Flow Graph $\\text{(CFG)}$",
+          "html": "Control Flow Graph $\\text{(CFG)}$"
+        },
+        {
+          "label": "D",
+          "text": "Symbol table",
+          "html": "Symbol table"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357527/gate-cse-2021-set-2-question-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357527/gate-cse-2021-set-2-question-13"
+    },
+    {
+      "id": "go:357526",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 14",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MSQ",
+      "question": "<p>Which of the following statement(s) is/are correct in the context of $\\text{CPU}$ scheduling?</p>",
+      "rawQuestionHtml": "<p>Which of the following statement(s) is/are correct in the context of $\\text{CPU}$ scheduling?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Turnaround time includes waiting time</li>\n<li>The goal is to only maximize $\\text{CPU}$ utilization and minimize throughput</li>\n<li>Round-robin policy can be used even when the $\\text{CPU}$ time required by each of the processes is not known apriori</li>\n<li>Implementing preemptive scheduling needs hardware support</li>\n</ol>",
+      "options": [
+        "Turnaround time includes waiting time",
+        "The goal is to only maximize $\\text{CPU}$ utilization and minimize throughput",
+        "Round-robin policy can be used even when the $\\text{CPU}$ time required by each of the processes is not known apriori",
+        "Implementing preemptive scheduling needs hardware support"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Turnaround time includes waiting time",
+          "html": "Turnaround time includes waiting time"
+        },
+        {
+          "label": "B",
+          "text": "The goal is to only maximize $\\text{CPU}$ utilization and minimize throughput",
+          "html": "The goal is to only maximize $\\text{CPU}$ utilization and minimize throughput"
+        },
+        {
+          "label": "C",
+          "text": "Round-robin policy can be used even when the $\\text{CPU}$ time required by each of the processes is not known apriori",
+          "html": "Round-robin policy can be used even when the $\\text{CPU}$ time required by each of the processes is not known apriori"
+        },
+        {
+          "label": "D",
+          "text": "Implementing preemptive scheduling needs hardware support",
+          "html": "Implementing preemptive scheduling needs hardware support"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357526/gate-cse-2021-set-2-question-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357526/gate-cse-2021-set-2-question-14"
+    },
+    {
+      "id": "go:357525",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 15",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MSQ",
+      "question": "<p>Choose the correct choice(s) regarding the following proportional logic assertion $S$:</p>\n<p>$$S: (( P \\wedge Q) \\rightarrow R) \\rightarrow (( P \\wedge Q) \\rightarrow (Q \\rightarrow R))$$</p>",
+      "rawQuestionHtml": "<p>Choose the correct choice(s) regarding the following proportional logic assertion $S$:</p>\n<p>$$S: (( P \\wedge Q) \\rightarrow R) \\rightarrow (( P \\wedge Q) \\rightarrow (Q \\rightarrow R))$$</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$S$ is neither a tautology nor a contradiction</li>\n<li>$S$ is a tautology</li>\n<li>$S$ is a contradiction</li>\n<li>The antecedent of $S$ is logically equivalent to the consequent of $S$</li>\n</ol>",
+      "options": [
+        "$S$ is neither a tautology nor a contradiction",
+        "$S$ is a tautology",
+        "$S$ is a contradiction",
+        "The antecedent of $S$ is logically equivalent to the consequent of $S$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$S$ is neither a tautology nor a contradiction",
+          "html": "$S$ is neither a tautology nor a contradiction"
+        },
+        {
+          "label": "B",
+          "text": "$S$ is a tautology",
+          "html": "$S$ is a tautology"
+        },
+        {
+          "label": "C",
+          "text": "$S$ is a contradiction",
+          "html": "$S$ is a contradiction"
+        },
+        {
+          "label": "D",
+          "text": "The antecedent of $S$ is logically equivalent to the consequent of $S$",
+          "html": "The antecedent of $S$ is logically equivalent to the consequent of $S$"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357525/gate-cse-2021-set-2-question-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357525/gate-cse-2021-set-2-question-15"
+    },
+    {
+      "id": "go:357524",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "Consider a complete binary tree with $7$ nodes. Let $A$ denote the set of first $3$ elements obtained by performing Breadth-First Search $\\text{(BFS)}$ starting from the root. Let $B$ denote the set of first $3$ elements obtained by performing Depth-First Search $\\text{(DFS)}$ starting from the root.<br/>\n<br/>\nThe value of $\\mid A-B \\mid $ is _____________",
+      "rawQuestionHtml": "Consider a complete binary tree with $7$ nodes. Let $A$ denote the set of first $3$ elements obtained by performing Breadth-First Search $\\text{(BFS)}$ starting from the root. Let $B$ denote the set of first $3$ elements obtained by performing Depth-First Search $\\text{(DFS)}$ starting from the root.<br/>\n<br/>\nThe value of $\\mid A-B \\mid $ is _____________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357524/gate-cse-2021-set-2-question-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357524/gate-cse-2021-set-2-question-16"
+    },
+    {
+      "id": "go:357523",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 17",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
+      "rawQuestionHtml": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "256"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357523/gate-cse-2021-set-2-question-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357523/gate-cse-2021-set-2-question-17"
+    },
+    {
+      "id": "go:357522",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 18",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "NAT",
+      "question": "If $x$ and $y$ are two decimal digits and $(0.1101)_2 = (0.8xy5)_{10}$, the decimal value of $x+y$ is ___________",
+      "rawQuestionHtml": "If $x$ and $y$ are two decimal digits and $(0.1101)_2 = (0.8xy5)_{10}$, the decimal value of $x+y$ is ___________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357522/gate-cse-2021-set-2-question-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357522/gate-cse-2021-set-2-question-18"
+    },
+    {
+      "id": "go:357521",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 19",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "NAT",
+      "question": "Consider a set-associative cache of size $\\text{2KB (1KB} =2^{10}$ bytes$\\text{)}$ with cache block size of $64$ bytes. Assume that the cache is byte-addressable and a $32$ -bit address is used for accessing the cache. If the width of the tag field is $22$ bits, the associativity of the cache is _________",
+      "rawQuestionHtml": "Consider a set-associative cache of size $\\text{2KB (1KB} =2^{10}$ bytes$\\text{)}$ with cache block size of $64$ bytes. Assume that the cache is byte-addressable and a $32$ -bit address is used for accessing the cache. If the width of the tag field is $22$ bits, the associativity of the cache is _________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357521/gate-cse-2021-set-2-question-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357521/gate-cse-2021-set-2-question-19"
+    },
+    {
+      "id": "go:357520",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 20",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "NAT",
+      "question": "<p>Consider a computer system with $\\text{DMA}$ support. The $\\text{DMA}$ module is transferring one $8$-bit character in one $\\text{CPU}$ cycle from a device to memory through <em>cycle stealing</em> at regular intervals. Consider a $\\text{2 MHz}$ processor. If $0.5 \\%$ processor cycles are used for $\\text{DMA}$, the data transfer rate of the device is __________ bits per second.</p>",
+      "rawQuestionHtml": "<p>Consider a computer system with $\\text{DMA}$ support. The $\\text{DMA}$ module is transferring one $8$-bit character in one $\\text{CPU}$ cycle from a device to memory through <em>cycle stealing</em> at regular intervals. Consider a $\\text{2 MHz}$ processor. If $0.5 \\%$ processor cycles are used for $\\text{DMA}$, the data transfer rate of the device is __________ bits per second.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "80000"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357520/gate-cse-2021-set-2-question-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357520/gate-cse-2021-set-2-question-20"
+    },
+    {
+      "id": "go:357519",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 21",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Indexing & B/B+ Trees",
+      "type": "NAT",
+      "question": "A data file consisting of $1,50,000$ student-records is stored on a hard disk with block size of $4096$ bytes. The data file is sorted on the primary key $\\textrm{RollNo}$. The size of a record pointer for this disk is $7$ bytes. Each student-record has a candidate key attribute called $\\textrm{ANum}$ of size $12$ bytes. Suppose an index file with records consisting of two fields, $\\textrm{ANum}$ value and the record pointer the corresponding student record, is built and stored on the same disk. Assume that the records of data file and index file are not split across disk blocks. The number of blocks in the index file is ________",
+      "rawQuestionHtml": "A data file consisting of $1,50,000$ student-records is stored on a hard disk with block size of $4096$ bytes. The data file is sorted on the primary key $\\textrm{RollNo}$. The size of a record pointer for this disk is $7$ bytes. Each student-record has a candidate key attribute called $\\textrm{ANum}$ of size $12$ bytes. Suppose an index file with records consisting of two fields, $\\textrm{ANum}$ value and the record pointer the corresponding student record, is built and stored on the same disk. Assume that the records of data file and index file are not split across disk blocks. The number of blocks in the index file is ________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "698"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357519/gate-cse-2021-set-2-question-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357519/gate-cse-2021-set-2-question-21"
+    },
+    {
+      "id": "go:357518",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 22",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "NAT",
+      "question": "For a given biased coin, the probability that the outcome of a toss is a head is $0.4$. This coin is tossed $1,000$ times. Let $X$ denote the random variable whose value is the number of times that head appeared in these $1,000$ tosses. The standard deviation of $X$ (rounded to $2$ decimal place) is _________",
+      "rawQuestionHtml": "For a given biased coin, the probability that the outcome of a toss is a head is $0.4$. This coin is tossed $1,000$ times. Let $X$ denote the random variable whose value is the number of times that head appeared in these $1,000$ tosses. The standard deviation of $X$ (rounded to $2$ decimal place) is _________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "15.5"
+      ],
+      "tolerance": {
+        "abs": 0.5
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357518/gate-cse-2021-set-2-question-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357518/gate-cse-2021-set-2-question-22"
+    },
+    {
+      "id": "go:357517",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 23",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "<p>Consider the following $\\text{ANSI C}$ function:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int SomeFunction (int x, int y)\n{\n    if ((x==1) || (y==1)) return 1;\n    if (x==y) return x;\n    if (x &gt; y) return SomeFunction(x-y, y);\n    if (y &gt; x) return SomeFunction (x, y-x);\n\n}</pre>\n<p>The value returned by $\\textrm{SomeFunction(15, 255)}$ is __________</p>",
+      "rawQuestionHtml": "<p>Consider the following $\\text{ANSI C}$ function:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int SomeFunction (int x, int y)\n{\n    if ((x==1) || (y==1)) return 1;\n    if (x==y) return x;\n    if (x &gt; y) return SomeFunction(x-y, y);\n    if (y &gt; x) return SomeFunction (x, y-x);\n\n}</pre>\n<p>The value returned by $\\textrm{SomeFunction(15, 255)}$ is __________</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "15"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357517/gate-cse-2021-set-2-question-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357517/gate-cse-2021-set-2-question-23"
+    },
+    {
+      "id": "go:357516",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 24",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Suppose that $P$ is a $4 \\times 5$ matrix such that every solution of the equation $\\text{Px=0}$ is a scalar multiple of $\\begin{bmatrix} 2 &amp; 5 &amp; 4 &amp;3 &amp; 1 \\end{bmatrix}^T$. The rank of $P$ is __________",
+      "rawQuestionHtml": "Suppose that $P$ is a $4 \\times 5$ matrix such that every solution of the equation $\\text{Px=0}$ is a scalar multiple of $\\begin{bmatrix} 2 &amp; 5 &amp; 4 &amp;3 &amp; 1 \\end{bmatrix}^T$. The rank of $P$ is __________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357516/gate-cse-2021-set-2-question-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357516/gate-cse-2021-set-2-question-24"
+    },
+    {
+      "id": "go:357515",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 25",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "NAT",
+      "question": "Suppose that $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is a continuous function on the interval $[-3, 3]$ and a differentiable function in the interval $(-3,3)$ such that for every $x$ in the interval, $f’(x) \\leq 2$. If $f(-3)=7$, then $f(3)$ is at most __________",
+      "rawQuestionHtml": "Suppose that $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is a continuous function on the interval $[-3, 3]$ and a differentiable function in the interval $(-3,3)$ such that for every $x$ in the interval, $f’(x) \\leq 2$. If $f(-3)=7$, then $f(3)$ is at most __________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "19"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357515/gate-cse-2021-set-2-question-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357515/gate-cse-2021-set-2-question-25"
+    },
+    {
+      "id": "go:357514",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 26",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Consider the string $\\textrm{abbccddeee}$. Each letter in the string must be assigned a binary code satisfying the following properties:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>For any two letters, the code assigned to one letter must not be a prefix of the code assigned to the other letter.</li>\n<li>For any two letters of the same frequency, the letter which occurs earlier in the dictionary order is assigned a code whose length is at most the length of the code assigned to the other letter.</li>\n</ol>\n<p>Among the set of all binary code assignments which satisfy the above two properties, what is the minimum length of the encoded string?</p>",
+      "rawQuestionHtml": "<p>Consider the string $\\textrm{abbccddeee}$. Each letter in the string must be assigned a binary code satisfying the following properties:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>For any two letters, the code assigned to one letter must not be a prefix of the code assigned to the other letter.</li>\n<li>For any two letters of the same frequency, the letter which occurs earlier in the dictionary order is assigned a code whose length is at most the length of the code assigned to the other letter.</li>\n</ol>\n<p>Among the set of all binary code assignments which satisfy the above two properties, what is the minimum length of the encoded string?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$21$</li>\n<li>$23$</li>\n<li>$25$</li>\n<li>$30$</li>\n</ol>",
+      "options": [
+        "$21$",
+        "$23$",
+        "$25$",
+        "$30$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$21$",
+          "html": "$21$"
+        },
+        {
+          "label": "B",
+          "text": "$23$",
+          "html": "$23$"
+        },
+        {
+          "label": "C",
+          "text": "$25$",
+          "html": "$25$"
+        },
+        {
+          "label": "D",
+          "text": "$30$",
+          "html": "$30$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357514/gate-cse-2021-set-2-question-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357514/gate-cse-2021-set-2-question-26"
+    },
+    {
+      "id": "go:357513",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 27",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>​​​​​​Assume a two-level inclusive cache hierarchy, $L1$ and $L2$, where $L2$ is the larger of the two. Consider the following statements.</p>\n<ul>\n<li>$S_1$: Read misses in a write through $L1$ cache do not result in writebacks of dirty lines to the $L2$</li>\n<li>$S_2$: Write allocate policy <em>must</em><strong> </strong>be used in conjunction with write through caches and no-write allocate policy is used with writeback caches.</li>\n</ul>\n<p>Which of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>​​​​​​Assume a two-level inclusive cache hierarchy, $L1$ and $L2$, where $L2$ is the larger of the two. Consider the following statements.</p>\n<ul>\n<li>$S_1$: Read misses in a write through $L1$ cache do not result in writebacks of dirty lines to the $L2$</li>\n<li>$S_2$: Write allocate policy <em>must</em><strong> </strong>be used in conjunction with write through caches and no-write allocate policy is used with writeback caches.</li>\n</ul>\n<p>Which of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$S_1$ is true and $S_2$ is false</li>\n<li>$S_1$ is false and $S_2$ is true</li>\n<li>$S_1$ is true and $S_2$ is true</li>\n<li>$S_1$ is false and $S_2$ is false</li>\n</ol>",
+      "options": [
+        "$S_1$ is true and $S_2$ is false",
+        "$S_1$ is false and $S_2$ is true",
+        "$S_1$ is true and $S_2$ is true",
+        "$S_1$ is false and $S_2$ is false"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$S_1$ is true and $S_2$ is false",
+          "html": "$S_1$ is true and $S_2$ is false"
+        },
+        {
+          "label": "B",
+          "text": "$S_1$ is false and $S_2$ is true",
+          "html": "$S_1$ is false and $S_2$ is true"
+        },
+        {
+          "label": "C",
+          "text": "$S_1$ is true and $S_2$ is true",
+          "html": "$S_1$ is true and $S_2$ is true"
+        },
+        {
+          "label": "D",
+          "text": "$S_1$ is false and $S_2$ is false",
+          "html": "$S_1$ is false and $S_2$ is false"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357513/gate-cse-2021-set-2-question-27",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357513/gate-cse-2021-set-2-question-27"
+    },
+    {
+      "id": "go:357512",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 28",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Suppose we want to design a synchronous circuit that processes a string of $0$’s and $1$’s. Given a string, it produces another string by replacing the first $1$ in any subsequence of consecutive $1$’s by a $0$. Consider the following example.</p>\n<p>$$\\begin{array}{ll} \\text{Input sequence:} &amp;  00100011000011100 \\\\ \\text{Output sequence:} &amp; 00000001000001100 \\end{array}$$</p>\n<p>A <em>Mealy Machine</em> is a state machine where both the next state and the output are functions of the present state and the current input.</p>\n<p>The above mentioned circuit can be designed as a two-state Mealy machine. The states in the Mealy machine can be represented using Boolean values $0$ and $1$. We denote the current state, the next state, the next incoming bit, and the output bit of the Mealy machine by the variables $s, t, b$ and $y$ respectively.</p>\n<p>Assume the initial state of the Mealy machine is $0$.</p>\n<p>What are the Boolean expressions corresponding to $t$ and $y$ in terms of $s$ and $b$?</p>",
+      "rawQuestionHtml": "<p>Suppose we want to design a synchronous circuit that processes a string of $0$’s and $1$’s. Given a string, it produces another string by replacing the first $1$ in any subsequence of consecutive $1$’s by a $0$. Consider the following example.</p>\n<p>$$\\begin{array}{ll} \\text{Input sequence:} &amp;  00100011000011100 \\\\ \\text{Output sequence:} &amp; 00000001000001100 \\end{array}$$</p>\n<p>A <em>Mealy Machine</em> is a state machine where both the next state and the output are functions of the present state and the current input.</p>\n<p>The above mentioned circuit can be designed as a two-state Mealy machine. The states in the Mealy machine can be represented using Boolean values $0$ and $1$. We denote the current state, the next state, the next incoming bit, and the output bit of the Mealy machine by the variables $s, t, b$ and $y$ respectively.</p>\n<p>Assume the initial state of the Mealy machine is $0$.</p>\n<p>What are the Boolean expressions corresponding to $t$ and $y$ in terms of $s$ and $b$?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\begin{array}{l} t=s+b \\\\ y=sb \\end{array} \\\\$</li>\n<li>$\\begin{array}{l} t=b \\\\ y=sb \\end{array} \\\\$</li>\n<li>$\\begin{array}{l} t=b \\\\ y=s \\overline{b} \\end{array} \\\\ $</li>\n<li>$\\begin{array}{l} t=s+b \\\\ y=s \\overline{b} \\end{array}$</li>\n</ol>",
+      "options": [
+        "$\\begin{array}{l} t=s+b \\\\ y=sb \\end{array} \\\\$",
+        "$\\begin{array}{l} t=b \\\\ y=sb \\end{array} \\\\$",
+        "$\\begin{array}{l} t=b \\\\ y=s \\overline{b} \\end{array} \\\\ $",
+        "$\\begin{array}{l} t=s+b \\\\ y=s \\overline{b} \\end{array}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\begin{array}{l} t=s+b \\\\ y=sb \\end{array} \\\\$",
+          "html": "$\\begin{array}{l} t=s+b \\\\ y=sb \\end{array} \\\\$"
+        },
+        {
+          "label": "B",
+          "text": "$\\begin{array}{l} t=b \\\\ y=sb \\end{array} \\\\$",
+          "html": "$\\begin{array}{l} t=b \\\\ y=sb \\end{array} \\\\$"
+        },
+        {
+          "label": "C",
+          "text": "$\\begin{array}{l} t=b \\\\ y=s \\overline{b} \\end{array} \\\\ $",
+          "html": "$\\begin{array}{l} t=b \\\\ y=s \\overline{b} \\end{array} \\\\ $"
+        },
+        {
+          "label": "D",
+          "text": "$\\begin{array}{l} t=s+b \\\\ y=s \\overline{b} \\end{array}$",
+          "html": "$\\begin{array}{l} t=s+b \\\\ y=s \\overline{b} \\end{array}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357512/gate-cse-2021-set-2-question-28"
+    },
+    {
+      "id": "go:357511",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 29",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "MCQ",
+      "question": "<p>In an examination, a student can choose the order in which two questions ($\\textsf{QuesA}$ and $\\textsf{QuesB}$) must be attempted.</p>\n<ul>\n<li>If the first question is answered wrong, the student gets zero marks.</li>\n<li>If the first question is answered correctly and the second question is not answered correctly, the student gets the marks only for the first question.</li>\n<li>If both the questions are answered correctly, the student gets the sum of the marks of the two questions.</li>\n</ul>\n<p>The following table shows the probability of correctly answering a question and the marks of the question respectively.</p>\n<p>$$\\begin{array}{c|c|c} \\text{question} &amp; \\text{probabilty of answering correctly} &amp; \\text{marks} \\\\ \\hline \\textsf{QuesA} &amp; 0.8 &amp; 10 \\\\ \\textsf{QuesB} &amp; 0.5 &amp; 20 \\end{array}$$</p>\n<p>Assuming that the student always wants to maximize her expected marks in the examination, in which order should she attempt  the questions and what is the expected marks for that order (assume that the questions are independent)?</p>",
+      "rawQuestionHtml": "<p>In an examination, a student can choose the order in which two questions ($\\textsf{QuesA}$ and $\\textsf{QuesB}$) must be attempted.</p>\n<ul>\n<li>If the first question is answered wrong, the student gets zero marks.</li>\n<li>If the first question is answered correctly and the second question is not answered correctly, the student gets the marks only for the first question.</li>\n<li>If both the questions are answered correctly, the student gets the sum of the marks of the two questions.</li>\n</ul>\n<p>The following table shows the probability of correctly answering a question and the marks of the question respectively.</p>\n<p>$$\\begin{array}{c|c|c} \\text{question} &amp; \\text{probabilty of answering correctly} &amp; \\text{marks} \\\\ \\hline \\textsf{QuesA} &amp; 0.8 &amp; 10 \\\\ \\textsf{QuesB} &amp; 0.5 &amp; 20 \\end{array}$$</p>\n<p>Assuming that the student always wants to maximize her expected marks in the examination, in which order should she attempt  the questions and what is the expected marks for that order (assume that the questions are independent)?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $14$.</li>\n<li>First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $14$.</li>\n<li>First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $22$.</li>\n<li>First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $16$.</li>\n</ol>",
+      "options": [
+        "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $14$.",
+        "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $14$.",
+        "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $22$.",
+        "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $16$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $14$.",
+          "html": "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $14$."
+        },
+        {
+          "label": "B",
+          "text": "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $14$.",
+          "html": "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $14$."
+        },
+        {
+          "label": "C",
+          "text": "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $22$.",
+          "html": "First $\\textsf{QuesB}$ and then $\\textsf{QuesA}$. Expected marks $22$."
+        },
+        {
+          "label": "D",
+          "text": "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $16$.",
+          "html": "First $\\textsf{QuesA}$ and then $\\textsf{QuesB}$. Expected marks $16$."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357511/gate-cse-2021-set-2-question-29",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357511/gate-cse-2021-set-2-question-29"
+    },
+    {
+      "id": "go:357510",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 30",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>​​​​​​Consider the following $\\text{ANSI C}$ code segment:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">z=x + 3 + y-&gt;f1 + y-&gt;f2;\nfor (i = 0; i &lt; 200; i = i + 2) \n{\n    if (z &gt; i) \n    {\n        p = p + x + 3;\n        q = q + y-&gt;f1;\n    } else \n    {\n        p = p + y-&gt;f2;\n        q = q + x + 3;\n    }\n}</pre>\n<p>Assume that the variable $y$ points to a $\\textsf{struct}$ (allocated on the heap) containing two fields $\\textsf{f1}$ and $\\textsf{f2}$, and the local variables $\\textsf{x, y, z, p, q,}$ and $\\textsf{i}$ are allotted registers. Common sub-expression elimination $\\text{(CSE)}$ optimization is applied on the code. The number of addition and the dereference operations (of the form $\\textsf{ y -&gt;f1}$ or $\\textsf{y -&gt;f2}$) in the optimized code, respectively, are:</p>",
+      "rawQuestionHtml": "<p>​​​​​​Consider the following $\\text{ANSI C}$ code segment:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">z=x + 3 + y-&gt;f1 + y-&gt;f2;\nfor (i = 0; i &lt; 200; i = i + 2) \n{\n    if (z &gt; i) \n    {\n        p = p + x + 3;\n        q = q + y-&gt;f1;\n    } else \n    {\n        p = p + y-&gt;f2;\n        q = q + x + 3;\n    }\n}</pre>\n<p>Assume that the variable $y$ points to a $\\textsf{struct}$ (allocated on the heap) containing two fields $\\textsf{f1}$ and $\\textsf{f2}$, and the local variables $\\textsf{x, y, z, p, q,}$ and $\\textsf{i}$ are allotted registers. Common sub-expression elimination $\\text{(CSE)}$ optimization is applied on the code. The number of addition and the dereference operations (of the form $\\textsf{ y -&gt;f1}$ or $\\textsf{y -&gt;f2}$) in the optimized code, respectively, are:</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$403$ and $102$</li>\n<li>$203$ and $2$</li>\n<li>$303$ and $102$</li>\n<li>$303$ and $2$</li>\n</ol>",
+      "options": [
+        "$403$ and $102$",
+        "$203$ and $2$",
+        "$303$ and $102$",
+        "$303$ and $2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$403$ and $102$",
+          "html": "$403$ and $102$"
+        },
+        {
+          "label": "B",
+          "text": "$203$ and $2$",
+          "html": "$203$ and $2$"
+        },
+        {
+          "label": "C",
+          "text": "$303$ and $102$",
+          "html": "$303$ and $102$"
+        },
+        {
+          "label": "D",
+          "text": "$303$ and $2$",
+          "html": "$303$ and $2$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357510/gate-cse-2021-set-2-question-30",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357510/gate-cse-2021-set-2-question-30"
+    },
+    {
+      "id": "go:357509",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 31",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>The relation scheme given below is used to store information about the employees of a company, where $\\textsf{empId}$ is the key and $\\textsf{deptId}$ indicates the department to which the employee is assigned. Each employee is assigned to exactly one department.</p>\n<p>$$\\textsf{emp($\\underline{\\textsf{empId}}$, name, gender, salary, deptId)}$$</p>\n<p>Consider the following $\\text{SQL}$ query:</p>\n<pre class=\"prettyprint linenums lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">select deptId, count(*)\nfrom emp\nwhere gender = “female” and salary &gt; (select avg(salary)from emp)\ngroup by deptId;</pre>\n<p>The above query gives, for each department in the company, the number of female employees whose salary is greater than the average salary of</p>",
+      "rawQuestionHtml": "<p>The relation scheme given below is used to store information about the employees of a company, where $\\textsf{empId}$ is the key and $\\textsf{deptId}$ indicates the department to which the employee is assigned. Each employee is assigned to exactly one department.</p>\n<p>$$\\textsf{emp($\\underline{\\textsf{empId}}$, name, gender, salary, deptId)}$$</p>\n<p>Consider the following $\\text{SQL}$ query:</p>\n<pre class=\"prettyprint linenums lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">select deptId, count(*)\nfrom emp\nwhere gender = “female” and salary &gt; (select avg(salary)from emp)\ngroup by deptId;</pre>\n<p>The above query gives, for each department in the company, the number of female employees whose salary is greater than the average salary of</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>employees in the department</li>\n<li>employees in the company</li>\n<li>female employees in the department</li>\n<li>female employees in the company</li>\n</ol>",
+      "options": [
+        "employees in the department",
+        "employees in the company",
+        "female employees in the department",
+        "female employees in the company"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "employees in the department",
+          "html": "employees in the department"
+        },
+        {
+          "label": "B",
+          "text": "employees in the company",
+          "html": "employees in the company"
+        },
+        {
+          "label": "C",
+          "text": "female employees in the department",
+          "html": "female employees in the department"
+        },
+        {
+          "label": "D",
+          "text": "female employees in the company",
+          "html": "female employees in the company"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357509/gate-cse-2021-set-2-question-31",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357509/gate-cse-2021-set-2-question-31"
+    },
+    {
+      "id": "go:357508",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 32",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Transactions & Concurrency Control",
+      "type": "MCQ",
+      "question": "<p>​​​​​Let $S$ be the following schedule of operations of three transactions $T_1$, $T_2$ and $T_3$ in a relational database system:</p>\n<p>$$R_2(Y), R_1(X), R_3(Z), R_1(Y)W_1(X), R_2(Z), W_2(Y), R_3(X), W_3(Z)$$</p>\n<p>Consider the statements $P$ and $Q$ below:</p>\n<ul>\n<li>$P$: $S$ is conflict-serializable.</li>\n<li>$Q$: If $T_3$ commits before $T_1$ finishes, then $S$ is recoverable.</li>\n</ul>\n<p>Which one of the following choices is correct?</p>",
+      "rawQuestionHtml": "<p>​​​​​Let $S$ be the following schedule of operations of three transactions $T_1$, $T_2$ and $T_3$ in a relational database system:</p>\n<p>$$R_2(Y), R_1(X), R_3(Z), R_1(Y)W_1(X), R_2(Z), W_2(Y), R_3(X), W_3(Z)$$</p>\n<p>Consider the statements $P$ and $Q$ below:</p>\n<ul>\n<li>$P$: $S$ is conflict-serializable.</li>\n<li>$Q$: If $T_3$ commits before $T_1$ finishes, then $S$ is recoverable.</li>\n</ul>\n<p>Which one of the following choices is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Both $P$ and $Q$ are true</li>\n<li>$P$ is true and $Q$ is false</li>\n<li>$P$ is false and $Q$ is true</li>\n<li>Both $P$ and $Q$ are false</li>\n</ol>",
+      "options": [
+        "Both $P$ and $Q$ are true",
+        "$P$ is true and $Q$ is false",
+        "$P$ is false and $Q$ is true",
+        "Both $P$ and $Q$ are false"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both $P$ and $Q$ are true",
+          "html": "Both $P$ and $Q$ are true"
+        },
+        {
+          "label": "B",
+          "text": "$P$ is true and $Q$ is false",
+          "html": "$P$ is true and $Q$ is false"
+        },
+        {
+          "label": "C",
+          "text": "$P$ is false and $Q$ is true",
+          "html": "$P$ is false and $Q$ is true"
+        },
+        {
+          "label": "D",
+          "text": "Both $P$ and $Q$ are false",
+          "html": "Both $P$ and $Q$ are false"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357508/gate-cse-2021-set-2-question-32",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357508/gate-cse-2021-set-2-question-32"
+    },
+    {
+      "id": "go:357507",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 33",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A bag has $r$ red balls and $b$ black balls. All balls are identical except for their colours. In a trial, a ball is randomly drawn from the bag, its colour is noted and the ball is placed back into the bag along with another ball of the same colour. Note that the number of balls in the bag will increase by one, after the trial. A sequence of four such trials is conducted. Which one of the following choices gives the probability of drawing a red ball in the fourth trial?</p>",
+      "rawQuestionHtml": "<p>A bag has $r$ red balls and $b$ black balls. All balls are identical except for their colours. In a trial, a ball is randomly drawn from the bag, its colour is noted and the ball is placed back into the bag along with another ball of the same colour. Note that the number of balls in the bag will increase by one, after the trial. A sequence of four such trials is conducted. Which one of the following choices gives the probability of drawing a red ball in the fourth trial?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\dfrac{r}{r+b} \\\\$</li>\n<li>$\\dfrac{r}{r+b+3}\\\\$</li>\n<li>$\\dfrac{r+3}{r+b+3} \\\\$</li>\n<li>$\\left( \\dfrac{r}{r+b} \\right) \\left ( \\dfrac{r+1}{r+b+1} \\right) \\left( \\dfrac{r+2}{r+b+2} \\right) \\left( \\dfrac{r+3}{r+b+3} \\right)$</li>\n</ol>",
+      "options": [
+        "$\\dfrac{r}{r+b} \\\\$",
+        "$\\dfrac{r}{r+b+3}\\\\$",
+        "$\\dfrac{r+3}{r+b+3} \\\\$",
+        "$\\left( \\dfrac{r}{r+b} \\right) \\left ( \\dfrac{r+1}{r+b+1} \\right) \\left( \\dfrac{r+2}{r+b+2} \\right) \\left( \\dfrac{r+3}{r+b+3} \\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\dfrac{r}{r+b} \\\\$",
+          "html": "$\\dfrac{r}{r+b} \\\\$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{r}{r+b+3}\\\\$",
+          "html": "$\\dfrac{r}{r+b+3}\\\\$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{r+3}{r+b+3} \\\\$",
+          "html": "$\\dfrac{r+3}{r+b+3} \\\\$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left( \\dfrac{r}{r+b} \\right) \\left ( \\dfrac{r+1}{r+b+1} \\right) \\left( \\dfrac{r+2}{r+b+2} \\right) \\left( \\dfrac{r+3}{r+b+3} \\right)$",
+          "html": "$\\left( \\dfrac{r}{r+b} \\right) \\left ( \\dfrac{r+1}{r+b+1} \\right) \\left( \\dfrac{r+2}{r+b+2} \\right) \\left( \\dfrac{r+3}{r+b+3} \\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357507/gate-cse-2021-set-2-question-33",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357507/gate-cse-2021-set-2-question-33"
+    },
+    {
+      "id": "go:357506",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 34",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Data Link Layer & Flow Control",
+      "type": "MCQ",
+      "question": "<p>Consider the cyclic redundancy check $\\text{(CRC)}$ based error detecting scheme having the generator polynomial $X^3+X+1$. Suppose the message $m_4m_3m_2m_1m_0=11000$ is to be transmitted. Check bits $c_2c_1c_0$ are appended at the end of the message by the transmitter using the above $\\text{CRC}$ scheme. The transmitted bit string is denoted by $m_4m_3m_2m_1m_0c_2c_1c_0$. The value of the checkbit sequence $c_2c_1c_0$ is</p>",
+      "rawQuestionHtml": "<p>Consider the cyclic redundancy check $\\text{(CRC)}$ based error detecting scheme having the generator polynomial $X^3+X+1$. Suppose the message $m_4m_3m_2m_1m_0=11000$ is to be transmitted. Check bits $c_2c_1c_0$ are appended at the end of the message by the transmitter using the above $\\text{CRC}$ scheme. The transmitted bit string is denoted by $m_4m_3m_2m_1m_0c_2c_1c_0$. The value of the checkbit sequence $c_2c_1c_0$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$101$</li>\n<li>$110$</li>\n<li>$100$</li>\n<li>$111$</li>\n</ol>",
+      "options": [
+        "$101$",
+        "$110$",
+        "$100$",
+        "$111$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$101$",
+          "html": "$101$"
+        },
+        {
+          "label": "B",
+          "text": "$110$",
+          "html": "$110$"
+        },
+        {
+          "label": "C",
+          "text": "$100$",
+          "html": "$100$"
+        },
+        {
+          "label": "D",
+          "text": "$111$",
+          "html": "$111$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357506/gate-cse-2021-set-2-question-34",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357506/gate-cse-2021-set-2-question-34"
+    },
+    {
+      "id": "go:357505",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 35",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "C Programming Constructs & Pointers",
+      "type": "MCQ",
+      "question": "<div>Consider the following $\\text{ANSI C}$ program:</div>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\n#include &lt;stdlib.h&gt;\nstruct Node{\n        int value;\n        struct Node *next;};\nint main( ) {\n    struct Node *boxE, *head, *boxN; int index=0;\n    boxE=head= (struct Node *) malloc(sizeof(struct Node));\n    head → value = index;\n    for (index =1; index&lt;=3; index++){\n        boxN = (struct Node *) malloc (sizeof(struct Node));\n        boxE → next = boxN;\n        boxN → value = index;\n        boxE = boxN; }\nfor (index=0; index&lt;=3; index++) {\n    printf(“Value at index %d is %d\\n”, index, head → value);\n    head = head → next;\n    printf(“Value at index %d is %d\\n”, index+1, head → value); } }</pre>\n<p>Which one of the following statements below is correct about the program?</p>",
+      "rawQuestionHtml": "<div>Consider the following $\\text{ANSI C}$ program:</div>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\n#include &lt;stdlib.h&gt;\nstruct Node{\n        int value;\n        struct Node *next;};\nint main( ) {\n    struct Node *boxE, *head, *boxN; int index=0;\n    boxE=head= (struct Node *) malloc(sizeof(struct Node));\n    head → value = index;\n    for (index =1; index&lt;=3; index++){\n        boxN = (struct Node *) malloc (sizeof(struct Node));\n        boxE → next = boxN;\n        boxN → value = index;\n        boxE = boxN; }\nfor (index=0; index&lt;=3; index++) {\n    printf(“Value at index %d is %d\\n”, index, head → value);\n    head = head → next;\n    printf(“Value at index %d is %d\\n”, index+1, head → value); } }</pre>\n<p>Which one of the following statements below is correct about the program?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Upon execution, the program creates a linked-list of five nodes</li>\n<li>Upon execution, the program goes into an infinite loop</li>\n<li>It has a missing $\\textsf{return}$ which will be reported as an error by the compiler</li>\n<li>It dereferences an uninitialized pointer that may result in a run-time error</li>\n</ol>",
+      "options": [
+        "Upon execution, the program creates a linked-list of five nodes",
+        "Upon execution, the program goes into an infinite loop",
+        "It has a missing $\\textsf{return}$ which will be reported as an error by the compiler",
+        "It dereferences an uninitialized pointer that may result in a run-time error"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Upon execution, the program creates a linked-list of five nodes",
+          "html": "Upon execution, the program creates a linked-list of five nodes"
+        },
+        {
+          "label": "B",
+          "text": "Upon execution, the program goes into an infinite loop",
+          "html": "Upon execution, the program goes into an infinite loop"
+        },
+        {
+          "label": "C",
+          "text": "It has a missing $\\textsf{return}$ which will be reported as an error by the compiler",
+          "html": "It has a missing $\\textsf{return}$ which will be reported as an error by the compiler"
+        },
+        {
+          "label": "D",
+          "text": "It dereferences an uninitialized pointer that may result in a run-time error",
+          "html": "It dereferences an uninitialized pointer that may result in a run-time error"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357505/gate-cse-2021-set-2-question-35",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357505/gate-cse-2021-set-2-question-35"
+    },
+    {
+      "id": "go:357504",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 36",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>​​​​​​Consider the following two statements about regular languages:</p>\n<ul>\n<li>$S_1$: Every infinite regular language contains an undecidable language as a subset.</li>\n<li>$S_2$: Every finite language is regular.</li>\n</ul>\n<p>Which one of the following choices is correct?</p>",
+      "rawQuestionHtml": "<p>​​​​​​Consider the following two statements about regular languages:</p>\n<ul>\n<li>$S_1$: Every infinite regular language contains an undecidable language as a subset.</li>\n<li>$S_2$: Every finite language is regular.</li>\n</ul>\n<p>Which one of the following choices is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Only $S_1$ is true</li>\n<li>Only $S_2$ is true</li>\n<li>Both $S_1$ and $S_2$ are true</li>\n<li>Neither $S_1$ nor $S_2$ is true</li>\n</ol>",
+      "options": [
+        "Only $S_1$ is true",
+        "Only $S_2$ is true",
+        "Both $S_1$ and $S_2$ are true",
+        "Neither $S_1$ nor $S_2$ is true"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $S_1$ is true",
+          "html": "Only $S_1$ is true"
+        },
+        {
+          "label": "B",
+          "text": "Only $S_2$ is true",
+          "html": "Only $S_2$ is true"
+        },
+        {
+          "label": "C",
+          "text": "Both $S_1$ and $S_2$ are true",
+          "html": "Both $S_1$ and $S_2$ are true"
+        },
+        {
+          "label": "D",
+          "text": "Neither $S_1$ nor $S_2$ is true",
+          "html": "Neither $S_1$ nor $S_2$ is true"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357504/gate-cse-2021-set-2-question-36",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357504/gate-cse-2021-set-2-question-36"
+    },
+    {
+      "id": "go:357503",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 37",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>For two $n$-dimensional real vectors $P$ and $Q$, the operation $s(P,Q)$ is defined as follows:</p>\n<p>$$s(P,Q) = \\displaystyle \\sum_{i=1}^n (P[i] \\cdot Q[i])$$</p>\n<p>Let $\\mathcal{L}$ be a set of $10$-dimensional non-zero real vectors such that for every pair of distinct vectors $P,Q \\in  \\mathcal{L}$, $s(P,Q)=0$. What is the maximum cardinality possible for the set $\\mathcal{L}$?</p>",
+      "rawQuestionHtml": "<p>For two $n$-dimensional real vectors $P$ and $Q$, the operation $s(P,Q)$ is defined as follows:</p>\n<p>$$s(P,Q) = \\displaystyle \\sum_{i=1}^n (P[i] \\cdot Q[i])$$</p>\n<p>Let $\\mathcal{L}$ be a set of $10$-dimensional non-zero real vectors such that for every pair of distinct vectors $P,Q \\in  \\mathcal{L}$, $s(P,Q)=0$. What is the maximum cardinality possible for the set $\\mathcal{L}$?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$9$</li>\n<li>$10$</li>\n<li>$11$</li>\n<li>$100$</li>\n</ol>",
+      "options": [
+        "$9$",
+        "$10$",
+        "$11$",
+        "$100$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "B",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "C",
+          "text": "$11$",
+          "html": "$11$"
+        },
+        {
+          "label": "D",
+          "text": "$100$",
+          "html": "$100$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357503/gate-cse-2021-set-2-question-37",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357503/gate-cse-2021-set-2-question-37"
+    },
+    {
+      "id": "go:357502",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 38",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>For a statement $S$ in a program, in the context of liveness analysis, the following sets are defined:</p>\n<p>$\\text{USE}(S)$ : the set of variables used in $S$</p>\n<p>$\\text{IN}(S)$ : the set of variables that are live at the entry of $S$</p>\n<p>$\\text{OUT}(S)$ : the set of variables that are live at the exit of $S$</p>\n<p>Consider a basic block that consists of two statements, $S_1$ followed by $S_2$. Which one of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>For a statement $S$ in a program, in the context of liveness analysis, the following sets are defined:</p>\n<p>$\\text{USE}(S)$ : the set of variables used in $S$</p>\n<p>$\\text{IN}(S)$ : the set of variables that are live at the entry of $S$</p>\n<p>$\\text{OUT}(S)$ : the set of variables that are live at the exit of $S$</p>\n<p>Consider a basic block that consists of two statements, $S_1$ followed by $S_2$. Which one of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\text{OUT($S_1$)} = \\text{IN ($S_2$)}$</li>\n<li>$\\text{OUT ($S_1$)} = \\text{IN ($S_1$)} \\cup \\text{ USE ($S_1$)}$</li>\n<li>$\\text{OUT ($S_1$)} = \\text{IN ($S_2$) }\\cup \\text{ OUT ($S_2$)}$</li>\n<li>$\\text{OUT ($S_1$)} = \\text{USE ($S_1$)} \\cup \\text{IN ($S_2$)}$</li>\n</ol>",
+      "options": [
+        "$\\text{OUT($S_1$)} = \\text{IN ($S_2$)}$",
+        "$\\text{OUT ($S_1$)} = \\text{IN ($S_1$)} \\cup \\text{ USE ($S_1$)}$",
+        "$\\text{OUT ($S_1$)} = \\text{IN ($S_2$) }\\cup \\text{ OUT ($S_2$)}$",
+        "$\\text{OUT ($S_1$)} = \\text{USE ($S_1$)} \\cup \\text{IN ($S_2$)}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{OUT($S_1$)} = \\text{IN ($S_2$)}$",
+          "html": "$\\text{OUT($S_1$)} = \\text{IN ($S_2$)}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{OUT ($S_1$)} = \\text{IN ($S_1$)} \\cup \\text{ USE ($S_1$)}$",
+          "html": "$\\text{OUT ($S_1$)} = \\text{IN ($S_1$)} \\cup \\text{ USE ($S_1$)}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{OUT ($S_1$)} = \\text{IN ($S_2$) }\\cup \\text{ OUT ($S_2$)}$",
+          "html": "$\\text{OUT ($S_1$)} = \\text{IN ($S_2$) }\\cup \\text{ OUT ($S_2$)}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{OUT ($S_1$)} = \\text{USE ($S_1$)} \\cup \\text{IN ($S_2$)}$",
+          "html": "$\\text{OUT ($S_1$)} = \\text{USE ($S_1$)} \\cup \\text{IN ($S_2$)}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357502/gate-cse-2021-set-2-question-38",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357502/gate-cse-2021-set-2-question-38"
+    },
+    {
+      "id": "go:357501",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 39",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>For constants $a \\geq 1$ and $b&gt;1$, consider the following recurrence defined on the non-negative integers:</p>\n<p>$$T(n) = a \\cdot T \\left(\\dfrac{n}{b} \\right) + f(n)$$ Which one of the following options is correct about the recurrence $T(n)$?</p>",
+      "rawQuestionHtml": "<p>For constants $a \\geq 1$ and $b&gt;1$, consider the following recurrence defined on the non-negative integers:</p>\n<p>$$T(n) = a \\cdot T \\left(\\dfrac{n}{b} \\right) + f(n)$$ Which one of the following options is correct about the recurrence $T(n)$?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>If $f(n)$ is $n \\log_2(n)$, then $T(n)$ is $\\Theta(n \\log_2(n))$</li>\n<li>If $f(n)$ is $\\dfrac{n}{\\log_2(n)}$, then $T(n)$ is $\\Theta(\\log_2(n))$</li>\n<li>If $f(n)$ is $O(n^{\\log_b(a)-\\epsilon})$ for some $\\epsilon &gt;0$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$</li>\n<li>If $f(n)$ is $\\Theta(n^{\\log_b(a)})$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$</li>\n</ol>",
+      "options": [
+        "If $f(n)$ is $n \\log_2(n)$, then $T(n)$ is $\\Theta(n \\log_2(n))$",
+        "If $f(n)$ is $\\dfrac{n}{\\log_2(n)}$, then $T(n)$ is $\\Theta(\\log_2(n))$",
+        "If $f(n)$ is $O(n^{\\log_b(a)-\\epsilon})$ for some $\\epsilon &gt;0$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$",
+        "If $f(n)$ is $\\Theta(n^{\\log_b(a)})$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "If $f(n)$ is $n \\log_2(n)$, then $T(n)$ is $\\Theta(n \\log_2(n))$",
+          "html": "If $f(n)$ is $n \\log_2(n)$, then $T(n)$ is $\\Theta(n \\log_2(n))$"
+        },
+        {
+          "label": "B",
+          "text": "If $f(n)$ is $\\dfrac{n}{\\log_2(n)}$, then $T(n)$ is $\\Theta(\\log_2(n))$",
+          "html": "If $f(n)$ is $\\dfrac{n}{\\log_2(n)}$, then $T(n)$ is $\\Theta(\\log_2(n))$"
+        },
+        {
+          "label": "C",
+          "text": "If $f(n)$ is $O(n^{\\log_b(a)-\\epsilon})$ for some $\\epsilon &gt;0$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$",
+          "html": "If $f(n)$ is $O(n^{\\log_b(a)-\\epsilon})$ for some $\\epsilon &gt;0$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$"
+        },
+        {
+          "label": "D",
+          "text": "If $f(n)$ is $\\Theta(n^{\\log_b(a)})$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$",
+          "html": "If $f(n)$ is $\\Theta(n^{\\log_b(a)})$, then $T(n)$ is $\\Theta(n^{\\log_b(a)})$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357501/gate-cse-2021-set-2-question-39",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357501/gate-cse-2021-set-2-question-39"
+    },
+    {
+      "id": "go:357500",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 40",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MSQ",
+      "question": "<p>Suppose the following functional dependencies hold on a relation $U$ with attributes $P,Q,R,S$, and $T$:</p>\n<ul>\n<li>$P \\rightarrow QR$</li>\n<li>$RS \\rightarrow T$</li>\n</ul>\n<p>Which of the following functional dependencies can be inferred from the above functional dependencies?</p>",
+      "rawQuestionHtml": "<p>Suppose the following functional dependencies hold on a relation $U$ with attributes $P,Q,R,S$, and $T$:</p>\n<ul>\n<li>$P \\rightarrow QR$</li>\n<li>$RS \\rightarrow T$</li>\n</ul>\n<p>Which of the following functional dependencies can be inferred from the above functional dependencies?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$PS \\rightarrow T$</li>\n<li>$R \\rightarrow T$</li>\n<li>$P \\rightarrow R$</li>\n<li>$PS \\rightarrow Q$</li>\n</ol>",
+      "options": [
+        "$PS \\rightarrow T$",
+        "$R \\rightarrow T$",
+        "$P \\rightarrow R$",
+        "$PS \\rightarrow Q$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$PS \\rightarrow T$",
+          "html": "$PS \\rightarrow T$"
+        },
+        {
+          "label": "B",
+          "text": "$R \\rightarrow T$",
+          "html": "$R \\rightarrow T$"
+        },
+        {
+          "label": "C",
+          "text": "$P \\rightarrow R$",
+          "html": "$P \\rightarrow R$"
+        },
+        {
+          "label": "D",
+          "text": "$PS \\rightarrow Q$",
+          "html": "$PS \\rightarrow Q$"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357500/gate-cse-2021-set-2-question-40",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357500/gate-cse-2021-set-2-question-40"
+    },
+    {
+      "id": "go:357499",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 41",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MSQ",
+      "question": "<p>For a string $w$, we define $w^R$ to be the reverse of $w$. For example, if $w=01101$ then $w^R=10110$.</p>\n<p>Which of the following languages is/are context-free?</p>",
+      "rawQuestionHtml": "<p>For a string $w$, we define $w^R$ to be the reverse of $w$. For example, if $w=01101$ then $w^R=10110$.</p>\n<p>Which of the following languages is/are context-free?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\{ wxw^Rx^R \\mid w,x \\in \\{0,1\\} ^* \\}$</li>\n<li>$\\{ ww^Rxx^R \\mid w,x \\in \\{0,1\\} ^* \\}$</li>\n<li>$\\{ wxw^R \\mid w,x \\in \\{0,1\\} ^* \\}$</li>\n<li>$\\{ wxx^Rw^R \\mid w,x \\in \\{0,1\\} ^* \\}$</li>\n</ol>",
+      "options": [
+        "$\\{ wxw^Rx^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+        "$\\{ ww^Rxx^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+        "$\\{ wxw^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+        "$\\{ wxx^Rw^R \\mid w,x \\in \\{0,1\\} ^* \\}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\{ wxw^Rx^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+          "html": "$\\{ wxw^Rx^R \\mid w,x \\in \\{0,1\\} ^* \\}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\{ ww^Rxx^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+          "html": "$\\{ ww^Rxx^R \\mid w,x \\in \\{0,1\\} ^* \\}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\{ wxw^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+          "html": "$\\{ wxw^R \\mid w,x \\in \\{0,1\\} ^* \\}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\{ wxx^Rw^R \\mid w,x \\in \\{0,1\\} ^* \\}$",
+          "html": "$\\{ wxx^Rw^R \\mid w,x \\in \\{0,1\\} ^* \\}$"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357499/gate-cse-2021-set-2-question-41",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357499/gate-cse-2021-set-2-question-41"
+    },
+    {
+      "id": "go:357498",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 42",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MSQ",
+      "question": "<p>​​​​​​Consider the following multi-threaded code segment (in a mix of C and pseudo-code), invoked by two processes $P_1$ and $P_2$, and each of the processes spawns two threads $T_1$ and $T_2$:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int x = 0;  // global\nLock L1;    // global\nmain  { \n    create a thread to execute foo; // Thread T1\n    create a thread to execute foo; // Thread T2\n    wait for the two threads to finish execution;\n    print(x);}\n    \n    \nfoo {\n    int y = 0;\n    Acquire L1;\n    x = x + 1;\n    y = y + 1;\n    Release L1;\n    print (y);}</pre>\n<p>Which of the following statement(s) is/are correct?</p>",
+      "rawQuestionHtml": "<p>​​​​​​Consider the following multi-threaded code segment (in a mix of C and pseudo-code), invoked by two processes $P_1$ and $P_2$, and each of the processes spawns two threads $T_1$ and $T_2$:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int x = 0;  // global\nLock L1;    // global\nmain  { \n    create a thread to execute foo; // Thread T1\n    create a thread to execute foo; // Thread T2\n    wait for the two threads to finish execution;\n    print(x);}\n    \n    \nfoo {\n    int y = 0;\n    Acquire L1;\n    x = x + 1;\n    y = y + 1;\n    Release L1;\n    print (y);}</pre>\n<p>Which of the following statement(s) is/are correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>Both $P_1$ and $P_2$ will print the value of $x$ as $2.$</li>\n<li>At least of $P_1$ and $P_2$ will print the value of $x$ as $4.$</li>\n<li>At least one of the threads will print the value of $y$ as $2.$</li>\n<li>Both $T_1$ and $T_2$, in both the processes, will print the value of $y$ as $1.$</li>\n</ol>",
+      "options": [
+        "Both $P_1$ and $P_2$ will print the value of $x$ as $2.$",
+        "At least of $P_1$ and $P_2$ will print the value of $x$ as $4.$",
+        "At least one of the threads will print the value of $y$ as $2.$",
+        "Both $T_1$ and $T_2$, in both the processes, will print the value of $y$ as $1.$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both $P_1$ and $P_2$ will print the value of $x$ as $2.$",
+          "html": "Both $P_1$ and $P_2$ will print the value of $x$ as $2.$"
+        },
+        {
+          "label": "B",
+          "text": "At least of $P_1$ and $P_2$ will print the value of $x$ as $4.$",
+          "html": "At least of $P_1$ and $P_2$ will print the value of $x$ as $4.$"
+        },
+        {
+          "label": "C",
+          "text": "At least one of the threads will print the value of $y$ as $2.$",
+          "html": "At least one of the threads will print the value of $y$ as $2.$"
+        },
+        {
+          "label": "D",
+          "text": "Both $T_1$ and $T_2$, in both the processes, will print the value of $y$ as $1.$",
+          "html": "Both $T_1$ and $T_2$, in both the processes, will print the value of $y$ as $1.$"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357498/gate-cse-2021-set-2-question-42",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357498/gate-cse-2021-set-2-question-42"
+    },
+    {
+      "id": "go:357497",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 43",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Process Synchronization & Semaphores",
+      "type": "MSQ",
+      "question": "<p>Consider a computer system with multiple shared resource types, with one instance per resource type. Each instance can be owned by only one process at a time. Owning and freeing of resources are done by holding a global lock $(L)$. The following scheme is used to own a resource instance:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">function OWNRESOURCE(Resource R)\n    Acquire lock L // a global lock\n    if R is available then\n        Acquire R    \n        Release lock L\n    else\n        if R is owned by another process P then     \n        Terminate P, after releasing all resources owned by P    \n        Acquire R    \n        Restart P   \n        Release lock L   \n        end if   \n    end if    \nend function\n\n</pre>\n<p>Which of the following choice(s) about the above scheme is/are correct?</p>",
+      "rawQuestionHtml": "<p>Consider a computer system with multiple shared resource types, with one instance per resource type. Each instance can be owned by only one process at a time. Owning and freeing of resources are done by holding a global lock $(L)$. The following scheme is used to own a resource instance:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">function OWNRESOURCE(Resource R)\n    Acquire lock L // a global lock\n    if R is available then\n        Acquire R    \n        Release lock L\n    else\n        if R is owned by another process P then     \n        Terminate P, after releasing all resources owned by P    \n        Acquire R    \n        Restart P   \n        Release lock L   \n        end if   \n    end if    \nend function\n\n</pre>\n<p>Which of the following choice(s) about the above scheme is/are correct?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>The scheme ensures that deadlocks will not occur</li>\n<li>The scheme may lead to live-lock</li>\n<li>The scheme may lead to starvation</li>\n<li>The scheme violates the mutual exclusion property</li>\n</ol>",
+      "options": [
+        "The scheme ensures that deadlocks will not occur",
+        "The scheme may lead to live-lock",
+        "The scheme may lead to starvation",
+        "The scheme violates the mutual exclusion property"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The scheme ensures that deadlocks will not occur",
+          "html": "The scheme ensures that deadlocks will not occur"
+        },
+        {
+          "label": "B",
+          "text": "The scheme may lead to live-lock",
+          "html": "The scheme may lead to live-lock"
+        },
+        {
+          "label": "C",
+          "text": "The scheme may lead to starvation",
+          "html": "The scheme may lead to starvation"
+        },
+        {
+          "label": "D",
+          "text": "The scheme violates the mutual exclusion property",
+          "html": "The scheme violates the mutual exclusion property"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357497/gate-cse-2021-set-2-question-43",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357497/gate-cse-2021-set-2-question-43"
+    },
+    {
+      "id": "go:357496",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 44",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MSQ",
+      "question": "<p>If the numerical value of a $2$-byte unsigned integer on a little endian computer is $255$ more than that on a big endian computer, which of the following choices represent(s) the unsigned integer on a little endian computer?</p>",
+      "rawQuestionHtml": "<p>If the numerical value of a $2$-byte unsigned integer on a little endian computer is $255$ more than that on a big endian computer, which of the following choices represent(s) the unsigned integer on a little endian computer?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$0\\text{x}6665$</li>\n<li>$0\\text{x} 0001$</li>\n<li>$0\\text{x} 4243$</li>\n<li>$0\\text{x} 0100$</li>\n</ol>",
+      "options": [
+        "$0\\text{x}6665$",
+        "$0\\text{x} 0001$",
+        "$0\\text{x} 4243$",
+        "$0\\text{x} 0100$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0\\text{x}6665$",
+          "html": "$0\\text{x}6665$"
+        },
+        {
+          "label": "B",
+          "text": "$0\\text{x} 0001$",
+          "html": "$0\\text{x} 0001$"
+        },
+        {
+          "label": "C",
+          "text": "$0\\text{x} 4243$",
+          "html": "$0\\text{x} 4243$"
+        },
+        {
+          "label": "D",
+          "text": "$0\\text{x} 0100$",
+          "html": "$0\\text{x} 0100$"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357496/gate-cse-2021-set-2-question-44",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357496/gate-cse-2021-set-2-question-44"
+    },
+    {
+      "id": "go:357495",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 45",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Routing Algorithms & Protocols",
+      "type": "MSQ",
+      "question": "<p>Consider a computer network using the distance vector routing algorithm in its network layer. The partial topology of the network is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18304074820680998443.webp\" width=\"225\"/></p>\n<p>The objective is to find the shortest-cost path from the router $R$ to routers $P$ and $Q$. Assume that $R$ does not initially know the shortest routes to $P$ and $Q$. Assume that $R$ has three neighbouring routers denoted as $X$, $Y$ and $Z$. During one iteration, $R$ measures its distance to its neighbours $X$, $Y$, and $Z$ as $3$, $2$ and $5$, respectively. Router $R$ gets routing vectors from its neighbours that indicate that the distance to router $P$ from routers $X$, $Y$ and $Z$ are $7$, $6$ and $5$, respectively. The routing vector also indicates that the distance to router $Q$ from routers $X$, $Y$ and $Z$ are $4$, $6$ and $8$ respectively. Which of the following statement(s) is/are correct with respect to the new routing table o $R$, after updation during this iteration?</p>",
+      "rawQuestionHtml": "<p>Consider a computer network using the distance vector routing algorithm in its network layer. The partial topology of the network is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18304074820680998443.webp\" width=\"225\"/></p>\n<p>The objective is to find the shortest-cost path from the router $R$ to routers $P$ and $Q$. Assume that $R$ does not initially know the shortest routes to $P$ and $Q$. Assume that $R$ has three neighbouring routers denoted as $X$, $Y$ and $Z$. During one iteration, $R$ measures its distance to its neighbours $X$, $Y$, and $Z$ as $3$, $2$ and $5$, respectively. Router $R$ gets routing vectors from its neighbours that indicate that the distance to router $P$ from routers $X$, $Y$ and $Z$ are $7$, $6$ and $5$, respectively. The routing vector also indicates that the distance to router $Q$ from routers $X$, $Y$ and $Z$ are $4$, $6$ and $8$ respectively. Which of the following statement(s) is/are correct with respect to the new routing table o $R$, after updation during this iteration?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>The distance from $R$ to $P$ will be stored as $10$</li>\n<li>The distance from $R$ to $Q$ will be stored as $7$</li>\n<li>The next hop router for a packet from $R$ to $P$ is $Y$</li>\n<li>The next hop router for a packet from $R$ to $Q$ is $Z$</li>\n</ol>",
+      "options": [
+        "The distance from $R$ to $P$ will be stored as $10$",
+        "The distance from $R$ to $Q$ will be stored as $7$",
+        "The next hop router for a packet from $R$ to $P$ is $Y$",
+        "The next hop router for a packet from $R$ to $Q$ is $Z$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The distance from $R$ to $P$ will be stored as $10$",
+          "html": "The distance from $R$ to $P$ will be stored as $10$"
+        },
+        {
+          "label": "B",
+          "text": "The distance from $R$ to $Q$ will be stored as $7$",
+          "html": "The distance from $R$ to $Q$ will be stored as $7$"
+        },
+        {
+          "label": "C",
+          "text": "The next hop router for a packet from $R$ to $P$ is $Y$",
+          "html": "The next hop router for a packet from $R$ to $P$ is $Y$"
+        },
+        {
+          "label": "D",
+          "text": "The next hop router for a packet from $R$ to $Q$ is $Z$",
+          "html": "The next hop router for a packet from $R$ to $Q$ is $Z$"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357495/gate-cse-2021-set-2-question-45",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357495/gate-cse-2021-set-2-question-45"
+    },
+    {
+      "id": "go:357494",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 46",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MSQ",
+      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/Gate_QA/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>",
+      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/Gate_QA/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>The graph does not have a topological order</li>\n<li>A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges</li>\n<li>The graph does not have a strongly connected component</li>\n<li>For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$</li>\n</ol>",
+      "options": [
+        "The graph does not have a topological order",
+        "A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges",
+        "The graph does not have a strongly connected component",
+        "For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The graph does not have a topological order",
+          "html": "The graph does not have a topological order"
+        },
+        {
+          "label": "B",
+          "text": "A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges",
+          "html": "A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges"
+        },
+        {
+          "label": "C",
+          "text": "The graph does not have a strongly connected component",
+          "html": "The graph does not have a strongly connected component"
+        },
+        {
+          "label": "D",
+          "text": "For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$",
+          "html": "For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357494/gate-cse-2021-set-2-question-46",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357494/gate-cse-2021-set-2-question-46"
+    },
+    {
+      "id": "go:357493",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 47",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Which of the following regular expressions represent(s) the set of all binary numbers that are divisible by three? Assume that the string $\\epsilon$ is divisible by three.</p>",
+      "rawQuestionHtml": "<p>Which of the following regular expressions represent(s) the set of all binary numbers that are divisible by three? Assume that the string $\\epsilon$ is divisible by three.</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$(0+1(01^*0)^*1)^*$</li>\n<li>$(0+11+10(1+00)^*01)^*$</li>\n<li>$(0^*(1(01^*0)^*1)^*)^*$</li>\n<li>$(0+11+11(1+00)^*00)^*$</li>\n</ol>",
+      "options": [
+        "$(0+1(01^*0)^*1)^*$",
+        "$(0+11+10(1+00)^*01)^*$",
+        "$(0^*(1(01^*0)^*1)^*)^*$",
+        "$(0+11+11(1+00)^*00)^*$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(0+1(01^*0)^*1)^*$",
+          "html": "$(0+1(01^*0)^*1)^*$"
+        },
+        {
+          "label": "B",
+          "text": "$(0+11+10(1+00)^*01)^*$",
+          "html": "$(0+11+10(1+00)^*01)^*$"
+        },
+        {
+          "label": "C",
+          "text": "$(0^*(1(01^*0)^*1)^*)^*$",
+          "html": "$(0^*(1(01^*0)^*1)^*)^*$"
+        },
+        {
+          "label": "D",
+          "text": "$(0+11+11(1+00)^*00)^*$",
+          "html": "$(0+11+11(1+00)^*00)^*$"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357493/gate-cse-2021-set-2-question-47",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357493/gate-cse-2021-set-2-question-47"
+    },
+    {
+      "id": "go:357489",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 48",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "NAT",
+      "question": "<p>Consider a three-level page table to translate a $39-$bit virtual address to a physical address as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9157742028842152522.webp\" width=\"600\"/></p>\n<p>The page size is $\\text{4 KB} \\;(1\\text{KB}=2^{10}$ bytes$)$ and page table entry size at every level is $8$ bytes. A process $P$ is currently using $2\\text{GB}\\;(1 \\text{GB}=2^{30}$ bytes$)$ virtual memory which is mapped to $2\\text{GB}$ of physical memory. The minimum amount of memory required for the page table of $P$ across all levels is _________ $\\text{KB}$.</p>",
+      "rawQuestionHtml": "<p>Consider a three-level page table to translate a $39-$bit virtual address to a physical address as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9157742028842152522.webp\" width=\"600\"/></p>\n<p>The page size is $\\text{4 KB} \\;(1\\text{KB}=2^{10}$ bytes$)$ and page table entry size at every level is $8$ bytes. A process $P$ is currently using $2\\text{GB}\\;(1 \\text{GB}=2^{30}$ bytes$)$ virtual memory which is mapped to $2\\text{GB}$ of physical memory. The minimum amount of memory required for the page table of $P$ across all levels is _________ $\\text{KB}$.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4108"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357489/gate-cse-2021-set-2-question-48",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357489/gate-cse-2021-set-2-question-48"
+    },
+    {
+      "id": "go:357488",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 49",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "NAT",
+      "question": "<p>Consider the following $\\text{ANSI C}$ program</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\nint foo(int x, int y, int q) \n    {\n        if ((x&lt;=0) &amp;&amp; (y&lt;=0))\n        return q;\n        if (x&lt;=0)\n        return foo(x, y-q, q);\n        if (y&lt;=0)\n        return foo(x-q, y, q);\n        return foo(x, y-q, q) + foo(x-q, y, q);\n    }\nint main( )\n{\n    int r = foo(15, 15, 10);\n    printf(“%d”, r);\n    return 0;\n}</pre>\n<p>The output of the program upon execution is _________</p>",
+      "rawQuestionHtml": "<p>Consider the following $\\text{ANSI C}$ program</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include &lt;stdio.h&gt;\nint foo(int x, int y, int q) \n    {\n        if ((x&lt;=0) &amp;&amp; (y&lt;=0))\n        return q;\n        if (x&lt;=0)\n        return foo(x, y-q, q);\n        if (y&lt;=0)\n        return foo(x-q, y, q);\n        return foo(x, y-q, q) + foo(x-q, y, q);\n    }\nint main( )\n{\n    int r = foo(15, 15, 10);\n    printf(“%d”, r);\n    return 0;\n}</pre>\n<p>The output of the program upon execution is _________</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "60"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357488/gate-cse-2021-set-2-question-49",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357488/gate-cse-2021-set-2-question-49"
+    },
+    {
+      "id": "go:357487",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 50",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "NAT",
+      "question": "Let $S$ be a set of consisting of $10$ elements. The number of tuples of the form $(A,B)$ such that $A$ and $B$ are subsets of $S$, and $A \\subseteq B$ is ___________",
+      "rawQuestionHtml": "Let $S$ be a set of consisting of $10$ elements. The number of tuples of the form $(A,B)$ such that $A$ and $B$ are subsets of $S$, and $A \\subseteq B$ is ___________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "59049"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357487/gate-cse-2021-set-2-question-50"
+    },
+    {
+      "id": "go:357486",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 51",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "NAT",
+      "question": "Consider the following augmented grammar with $\\{ \\#, @, &lt;, &gt;, a, b, c \\}$ as the set of terminals. $$\\begin{array}{l} S’ \\rightarrow S \\\\ S \\rightarrow S \\# cS \\\\ S \\rightarrow SS \\\\ S \\rightarrow S @ \\\\ S \\rightarrow &lt; S &gt; \\\\ S \\rightarrow a \\\\ S \\rightarrow b \\\\ S \\rightarrow c \\end{array}$$Let $I_0 = \\text{CLOSURE}(\\{S’ \\rightarrow \\bullet S\\})$. The number of items in the set $\\text{GOTO(GOTO}(I_0&lt;), &lt;)$ is ___________",
+      "rawQuestionHtml": "Consider the following augmented grammar with $\\{ \\#, @, &lt;, &gt;, a, b, c \\}$ as the set of terminals. $$\\begin{array}{l} S’ \\rightarrow S \\\\ S \\rightarrow S \\# cS \\\\ S \\rightarrow SS \\\\ S \\rightarrow S @ \\\\ S \\rightarrow &lt; S &gt; \\\\ S \\rightarrow a \\\\ S \\rightarrow b \\\\ S \\rightarrow c \\end{array}$$Let $I_0 = \\text{CLOSURE}(\\{S’ \\rightarrow \\bullet S\\})$. The number of items in the set $\\text{GOTO(GOTO}(I_0&lt;), &lt;)$ is ___________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "8"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357486/gate-cse-2021-set-2-question-51",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357486/gate-cse-2021-set-2-question-51"
+    },
+    {
+      "id": "go:357485",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 52",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "Consider a Boolean function $f(w,x,y,z)$ such that $$\\begin{array}{lll} f(w,0,0,z) &amp; = &amp; 1 \\\\ f(1,x,1,z) &amp; =&amp; x+z \\\\  f(w,1,y,z) &amp; = &amp; wz +y \\end{array}$$The number of literals in the minimal sum-of-products expression of $f$ is _________",
+      "rawQuestionHtml": "Consider a Boolean function $f(w,x,y,z)$ such that $$\\begin{array}{lll} f(w,0,0,z) &amp; = &amp; 1 \\\\ f(1,x,1,z) &amp; =&amp; x+z \\\\  f(w,1,y,z) &amp; = &amp; wz +y \\end{array}$$The number of literals in the minimal sum-of-products expression of $f$ is _________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "6"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357485/gate-cse-2021-set-2-question-52",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357485/gate-cse-2021-set-2-question-52"
+    },
+    {
+      "id": "go:357484",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 53",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "NAT",
+      "question": "Consider a pipelined processor with $5$ stages, $\\text{Instruction Fetch} (\\textsf{IF})$, $\\text{Instruction Decode} \\textsf{(ID)}$, $\\text{Execute } \\textsf{(EX)}$, $\\text{Memory Access } \\textsf{(MEM)}$, and $\\text{Write Back } \\textsf{(WB)}$. Each stage of the pipeline, except the $\\textsf{EX}$ stage, takes one cycle. Assume that the $\\textsf{ID}$ stage merely decodes the instruction and the register read is performed in the $\\textsf{EX}$ stage. The $\\textsf{EX}$ stage takes one cycle for $\\textsf{ADD}$ instruction and the register read is performed in the $\\textsf{EX}$ stage, The $\\textsf{EX}$ stage takes one cycle for $\\textsf{ADD}$ instruction and two cycles for $\\textsf{MUL}$ instruction. Ignore pipeline register latencies.<br/>\n<br/>\nConsider the following sequence of $8$ instructions:<br/>\n$$\\textsf{ADD, MUL, ADD, MUL, ADD, MUL, ADD, MUL}$$ Assume that every $\\textsf{MUL}$ instruction is data-dependent on the $\\textsf{ADD}$ instruction just before it and every $\\textsf{ADD}$ instruction (except the first $\\textsf{ADD}$) is data-dependent on the $\\textsf{MUL}$ instruction just before it. The $\\textit{speedup}$ defined as follows.<br/>\n$$\\textit{Speedup} = \\dfrac{\\text{Execution time without operand forwarding}}{\\text{Execution time with operand forearding}}$$ The $\\textit{Speedup} $ achieved in executing the given instruction sequence on the pipelined processor (rounded to $2$ decimal places) is _____________",
+      "rawQuestionHtml": "Consider a pipelined processor with $5$ stages, $\\text{Instruction Fetch} (\\textsf{IF})$, $\\text{Instruction Decode} \\textsf{(ID)}$, $\\text{Execute } \\textsf{(EX)}$, $\\text{Memory Access } \\textsf{(MEM)}$, and $\\text{Write Back } \\textsf{(WB)}$. Each stage of the pipeline, except the $\\textsf{EX}$ stage, takes one cycle. Assume that the $\\textsf{ID}$ stage merely decodes the instruction and the register read is performed in the $\\textsf{EX}$ stage. The $\\textsf{EX}$ stage takes one cycle for $\\textsf{ADD}$ instruction and the register read is performed in the $\\textsf{EX}$ stage, The $\\textsf{EX}$ stage takes one cycle for $\\textsf{ADD}$ instruction and two cycles for $\\textsf{MUL}$ instruction. Ignore pipeline register latencies.<br/>\n<br/>\nConsider the following sequence of $8$ instructions:<br/>\n$$\\textsf{ADD, MUL, ADD, MUL, ADD, MUL, ADD, MUL}$$ Assume that every $\\textsf{MUL}$ instruction is data-dependent on the $\\textsf{ADD}$ instruction just before it and every $\\textsf{ADD}$ instruction (except the first $\\textsf{ADD}$) is data-dependent on the $\\textsf{MUL}$ instruction just before it. The $\\textit{speedup}$ defined as follows.<br/>\n$$\\textit{Speedup} = \\dfrac{\\text{Execution time without operand forwarding}}{\\text{Execution time with operand forearding}}$$ The $\\textit{Speedup} $ achieved in executing the given instruction sequence on the pipelined processor (rounded to $2$ decimal places) is _____________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1.875"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357484/gate-cse-2021-set-2-question-53",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357484/gate-cse-2021-set-2-question-53"
+    },
+    {
+      "id": "go:357483",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 54,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 54",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Medium Access Control (MAC)",
+      "type": "NAT",
+      "question": "Consider a network using the pure $\\text{ALOHA}$ medium access control protocol, where each frame is of length $1,000$ bits. The channel transmission rate is $1$ Mbps ($=10^6$ bits per second). The aggregate number of transmissions across all the nodes (including new frame transmissions and retransmitted frames due to collisions) is modelled as a Poisson process with a rate of $1,000$ frames per second. Throughput is defined as the average number of frames successfully transmitted per second. The throughput of the network (rounded to the nearest integer) is ______________",
+      "rawQuestionHtml": "Consider a network using the pure $\\text{ALOHA}$ medium access control protocol, where each frame is of length $1,000$ bits. The channel transmission rate is $1$ Mbps ($=10^6$ bits per second). The aggregate number of transmissions across all the nodes (including new frame transmissions and retransmitted frames due to collisions) is modelled as a Poisson process with a rate of $1,000$ frames per second. Throughput is defined as the average number of frames successfully transmitted per second. The throughput of the network (rounded to the nearest integer) is ______________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "135"
+      ],
+      "tolerance": {
+        "abs": 5
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357483/gate-cse-2021-set-2-question-54",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357483/gate-cse-2021-set-2-question-54"
+    },
+    {
+      "id": "go:357482",
+      "testId": "gate-2021-s2",
+      "year": 2021,
+      "set": 2,
+      "yearSetKey": "2021-s2",
+      "orderIndex": 55,
+      "section": "CS",
+      "title": "GATE CSE 2021 Set 2 | Question: 55",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/Gate_QA/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
+      "rawQuestionHtml": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/Gate_QA/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "929"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/357482/gate-cse-2021-set-2-question-55",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/357482/gate-cse-2021-set-2-question-55"
+    }
+  ]
+}

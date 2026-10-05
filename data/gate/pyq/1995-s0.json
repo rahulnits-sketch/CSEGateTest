@@ -1,0 +1,2857 @@
+{
+  "id": "gate-1995-s0",
+  "yearSetKey": "1995-s0",
+  "year": 1995,
+  "set": 1,
+  "title": "GATE CSE 1995",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 85,
+  "totalQuestions": 55,
+  "gaQuestions": 0,
+  "csQuestions": 55,
+  "questions": [
+    {
+      "id": "go:2588",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.1",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>A single instruction to clear the lower four bits of the accumulator in 8085 assembly language?</p>",
+      "rawQuestionHtml": "<a name=\"2588\"></a><div itemprop=\"text\"><p>A single instruction to clear the lower four bits of the accumulator in 8085 assembly language?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>XRI 0FH</li>\n\t<li>ANI F0H</li>\n\t<li>XRI F0H</li>\n\t<li>ANI 0FH</li>\n</ol></div>",
+      "options": [
+        "XRI 0FH",
+        "ANI F0H",
+        "XRI F0H",
+        "ANI 0FH"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "XRI 0FH",
+          "html": "XRI 0FH"
+        },
+        {
+          "label": "B",
+          "text": "ANI F0H",
+          "html": "ANI F0H"
+        },
+        {
+          "label": "C",
+          "text": "XRI F0H",
+          "html": "XRI F0H"
+        },
+        {
+          "label": "D",
+          "text": "ANI 0FH",
+          "html": "ANI 0FH"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2588/gate-cse-1995-question-1-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2588/gate-cse-1995-question-1-1"
+    },
+    {
+      "id": "go:2589",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.2",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>ROM is a Read/Write memory</p>\n</li>\n<li>\n<p>PC points to the last instruction that was executed</p>\n</li>\n<li>\n<p>Stack works on the principle of LIFO</p>\n</li>\n<li>\n<p>All instructions affect the flags</p>\n</li>\n</ol>",
+      "options": [
+        "ROM is a Read/Write memory",
+        "PC points to the last instruction that was executed",
+        "Stack works on the principle of LIFO",
+        "All instructions affect the flags"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "ROM is a Read/Write memory",
+          "html": "<p>ROM is a Read/Write memory</p>"
+        },
+        {
+          "label": "B",
+          "text": "PC points to the last instruction that was executed",
+          "html": "<p>PC points to the last instruction that was executed</p>"
+        },
+        {
+          "label": "C",
+          "text": "Stack works on the principle of LIFO",
+          "html": "<p>Stack works on the principle of LIFO</p>"
+        },
+        {
+          "label": "D",
+          "text": "All instructions affect the flags",
+          "html": "<p>All instructions affect the flags</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2589/gate-cse-1995-question-1-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2589/gate-cse-1995-question-1-2"
+    },
+    {
+      "id": "go:2590",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.3",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>In a vectored interrupt:</p>",
+      "rawQuestionHtml": "<p>In a vectored interrupt:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>The branch address is assigned to a fixed location in memory</p>\n</li>\n<li>\n<p>The interrupting source supplies the branch information to the processor through an interrupt vector</p>\n</li>\n<li>\n<p>The branch address is obtained from a register in the processor</p>\n</li>\n<li>\n<p>None of the above</p>\n</li>\n</ol>",
+      "options": [
+        "The branch address is assigned to a fixed location in memory",
+        "The interrupting source supplies the branch information to the processor through an interrupt vector",
+        "The branch address is obtained from a register in the processor",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The branch address is assigned to a fixed location in memory",
+          "html": "<p>The branch address is assigned to a fixed location in memory</p>"
+        },
+        {
+          "label": "B",
+          "text": "The interrupting source supplies the branch information to the processor through an interrupt vector",
+          "html": "<p>The interrupting source supplies the branch information to the processor through an interrupt vector</p>"
+        },
+        {
+          "label": "C",
+          "text": "The branch address is obtained from a register in the processor",
+          "html": "<p>The branch address is obtained from a register in the processor</p>"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "<p>None of the above</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2590/gate-cse-1995-question-1-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2590/gate-cse-1995-question-1-3"
+    },
+    {
+      "id": "go:2591",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.4",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>In the following Pascal program segment, what is the value of X after the execution of the program segment?</p>\n<pre class=\"prettyprint lang-c_cpp\">X := -10; Y := 20;\nIf X &gt; Y then if X &lt; 0 then X := abs(X) else X := 2*X;</pre>",
+      "rawQuestionHtml": "<p>In the following Pascal program segment, what is the value of X after the execution of the program segment?</p>\n<pre class=\"prettyprint lang-c_cpp\">X := -10; Y := 20;\nIf X &gt; Y then if X &lt; 0 then X := abs(X) else X := 2*X;</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$10$</li>\n<li>$-20$</li>\n<li>$-10$</li>\n<li>None</li>\n</ol>",
+      "options": [
+        "$10$",
+        "$-20$",
+        "$-10$",
+        "None"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "B",
+          "text": "$-20$",
+          "html": "$-20$"
+        },
+        {
+          "label": "C",
+          "text": "$-10$",
+          "html": "$-10$"
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "html": "None"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2591/gate-cse-1995-question-1-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2591/gate-cse-1995-question-1-4"
+    },
+    {
+      "id": "go:2592",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.5",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>Merge sort uses:</p>",
+      "rawQuestionHtml": "<p>Merge sort uses:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Divide and conquer strategy</li>\n<li>Backtracking approach</li>\n<li>Heuristic search</li>\n<li>Greedy approach</li>\n</ol>",
+      "options": [
+        "Divide and conquer strategy",
+        "Backtracking approach",
+        "Heuristic search",
+        "Greedy approach"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Divide and conquer strategy",
+          "html": "Divide and conquer strategy"
+        },
+        {
+          "label": "B",
+          "text": "Backtracking approach",
+          "html": "Backtracking approach"
+        },
+        {
+          "label": "C",
+          "text": "Heuristic search",
+          "html": "Heuristic search"
+        },
+        {
+          "label": "D",
+          "text": "Greedy approach",
+          "html": "Greedy approach"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2592/gate-cse-1995-question-1-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2592/gate-cse-1995-question-1-5"
+    },
+    {
+      "id": "go:2593",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.6",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>The principle of locality justifies the use of:</p>",
+      "rawQuestionHtml": "<p>The principle of locality justifies the use of:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Interrupts</li>\n<li>DMA</li>\n<li>Polling</li>\n<li>Cache Memory</li>\n</ol>",
+      "options": [
+        "Interrupts",
+        "DMA",
+        "Polling",
+        "Cache Memory"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Interrupts",
+          "html": "Interrupts"
+        },
+        {
+          "label": "B",
+          "text": "DMA",
+          "html": "DMA"
+        },
+        {
+          "label": "C",
+          "text": "Polling",
+          "html": "Polling"
+        },
+        {
+          "label": "D",
+          "text": "Cache Memory",
+          "html": "Cache Memory"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2593/gate-cse-1995-question-1-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2593/gate-cse-1995-question-1-6"
+    },
+    {
+      "id": "go:2594",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.7",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>In a paged segmented scheme of memory management, the segment table itself must have a page table because</p>",
+      "rawQuestionHtml": "<p>In a paged segmented scheme of memory management, the segment table itself must have a page table because</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The segment table is often too large to fit in one page</li>\n<li>\n<p>Each segment is spread over a number of pages</p>\n</li>\n<li>\n<p>Segment tables point to page tables and not to the physical locations of the segment</p>\n</li>\n<li>\n<p>The processor’s description base register points to a page table</p>\n</li>\n</ol>",
+      "options": [
+        "The segment table is often too large to fit in one page",
+        "Each segment is spread over a number of pages",
+        "Segment tables point to page tables and not to the physical locations of the segment",
+        "The processor’s description base register points to a page table"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The segment table is often too large to fit in one page",
+          "html": "The segment table is often too large to fit in one page"
+        },
+        {
+          "label": "B",
+          "text": "Each segment is spread over a number of pages",
+          "html": "<p>Each segment is spread over a number of pages</p>"
+        },
+        {
+          "label": "C",
+          "text": "Segment tables point to page tables and not to the physical locations of the segment",
+          "html": "<p>Segment tables point to page tables and not to the physical locations of the segment</p>"
+        },
+        {
+          "label": "D",
+          "text": "The processor’s description base register points to a page table",
+          "html": "<p>The processor’s description base register points to a page table</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2594/gate-cse-1995-question-1-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2594/gate-cse-1995-question-1-7"
+    },
+    {
+      "id": "go:2595",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.8",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Which of the following page replacement algorithms suffers from Belady’s anamoly?</p>",
+      "rawQuestionHtml": "<p>Which of the following page replacement algorithms suffers from Belady’s anamoly?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Optimal replacement</p>\n</li>\n<li>\n<p>LRU</p>\n</li>\n<li>\n<p>FIFO</p>\n</li>\n<li>\n<p>Both (A) and (C)</p>\n</li>\n</ol>",
+      "options": [
+        "Optimal replacement",
+        "LRU",
+        "FIFO",
+        "Both (A) and (C)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Optimal replacement",
+          "html": "<p>Optimal replacement</p>"
+        },
+        {
+          "label": "B",
+          "text": "LRU",
+          "html": "<p>LRU</p>"
+        },
+        {
+          "label": "C",
+          "text": "FIFO",
+          "html": "<p>FIFO</p>"
+        },
+        {
+          "label": "D",
+          "text": "Both (A) and (C)",
+          "html": "<p>Both (A) and (C)</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2595/gate-cse-1995-question-1-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2595/gate-cse-1995-question-1-8"
+    },
+    {
+      "id": "go:2596",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.9 , ISRO2017-13",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>In some programming language, an identifier is permitted to be a letter followed by any number of letters or digits. If $L$ and $D$ denote the sets of letters and digits respectively, which of the following expressions defines an identifier?</p>",
+      "rawQuestionHtml": "<p>In some programming language, an identifier is permitted to be a letter followed by any number of letters or digits. If $L$ and $D$ denote the sets of letters and digits respectively, which of the following expressions defines an identifier?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(L + D)^+$</li>\n<li>$(L.D)^*$</li>\n<li>$L(L + D)^*$</li>\n<li>$L(L.D)^*$</li>\n</ol>",
+      "options": [
+        "$(L + D)^+$",
+        "$(L.D)^*$",
+        "$L(L + D)^*$",
+        "$L(L.D)^*$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(L + D)^+$",
+          "html": "$(L + D)^+$"
+        },
+        {
+          "label": "B",
+          "text": "$(L.D)^*$",
+          "html": "$(L.D)^*$"
+        },
+        {
+          "label": "C",
+          "text": "$L(L + D)^*$",
+          "html": "$L(L + D)^*$"
+        },
+        {
+          "label": "D",
+          "text": "$L(L.D)^*$",
+          "html": "$L(L.D)^*$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2596/gate-cse-1995-question-1-9-isro2017-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2596/gate-cse-1995-question-1-9-isro2017-13"
+    },
+    {
+      "id": "go:2597",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.10",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Consider a grammar with the following productions</p><p>\n[latex]S \\rightarrow a \\alpha b \\mid b \\alpha c \\mid aB[/latex]</p><p>\n[latex]S \\rightarrow \\alpha S\\mid b[/latex]</p><p>\n[latex]S \\rightarrow \\alpha b b\\mid ab[/latex]</p><p>\n[latex]S \\alpha \\rightarrow bd b\\mid b[/latex]</p><p>\nThe above grammar is:</p>",
+      "rawQuestionHtml": "<p>Consider a grammar with the following productions</p><p>\n[latex]S \\rightarrow a \\alpha b \\mid b \\alpha c \\mid aB[/latex]</p><p>\n[latex]S \\rightarrow \\alpha S\\mid b[/latex]</p><p>\n[latex]S \\rightarrow \\alpha b b\\mid ab[/latex]</p><p>\n[latex]S \\alpha \\rightarrow bd b\\mid b[/latex]</p><p>\nThe above grammar is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Context free</p>\n</li>\n<li>\n<p>Regular</p>\n</li>\n<li>\n<p>Context sensitive</p>\n</li>\n<li>\n<p>LR(k)</p>\n</li>\n</ol>",
+      "options": [
+        "Context free",
+        "Regular",
+        "Context sensitive",
+        "LR(k)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Context free",
+          "html": "<p>Context free</p>"
+        },
+        {
+          "label": "B",
+          "text": "Regular",
+          "html": "<p>Regular</p>"
+        },
+        {
+          "label": "C",
+          "text": "Context sensitive",
+          "html": "<p>Context sensitive</p>"
+        },
+        {
+          "label": "D",
+          "text": "LR(k)",
+          "html": "<p>LR(k)</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2597/gate-cse-1995-question-1-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2597/gate-cse-1995-question-1-10"
+    },
+    {
+      "id": "go:2598",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.11",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>What are $x$ and $y$ in the following macro definition?</p>\n<pre class=\"prettyprint lang-c_cpp\">macro\tAdd x, y\n        Load y\n        Mul x\n        Store y\nend macro\t</pre>",
+      "rawQuestionHtml": "<p>What are $x$ and $y$ in the following macro definition?</p>\n<pre class=\"prettyprint lang-c_cpp\">macro\tAdd x, y\n        Load y\n        Mul x\n        Store y\nend macro\t</pre>\n<ol style=\"list-style-type: upper-alpha;\"><li>Variables</li>\n<li>Identifiers</li>\n<li>Actual parameters</li>\n<li>Formal parameters</li>\n</ol>",
+      "options": [
+        "Variables",
+        "Identifiers",
+        "Actual parameters",
+        "Formal parameters"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Variables",
+          "html": "Variables"
+        },
+        {
+          "label": "B",
+          "text": "Identifiers",
+          "html": "Identifiers"
+        },
+        {
+          "label": "C",
+          "text": "Actual parameters",
+          "html": "Actual parameters"
+        },
+        {
+          "label": "D",
+          "text": "Formal parameters",
+          "html": "Formal parameters"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2598/gate-cse-1995-question-1-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2598/gate-cse-1995-question-1-11"
+    },
+    {
+      "id": "go:2599",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.12",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Data Link Layer & Flow Control",
+      "type": "MCQ",
+      "question": "<p>What is the distance of the following code $000000$, $010101$, $000111$, $011001$, $111111$?</p>",
+      "rawQuestionHtml": "<p>What is the distance of the following code $000000$, $010101$, $000111$, $011001$, $111111$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$1$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "D",
+          "text": "$1$",
+          "html": "$1$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2599/gate-cse-1995-question-1-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2599/gate-cse-1995-question-1-12"
+    },
+    {
+      "id": "go:2600",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.13",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/13225290482418578126.webp\" style=\"height:115px; width:547px\"></p>",
+      "rawQuestionHtml": "<a name=\"2600\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/13225290482418578126.webp\" style=\"height:115px; width:547px\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2600/gate-cse-1995-question-1-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2600/gate-cse-1995-question-1-13"
+    },
+    {
+      "id": "go:2601",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.14",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>A linker is given object modules for a set of programs that were compiled separately. What information need to be included in an object module?</p>",
+      "rawQuestionHtml": "<p>A linker is given object modules for a set of programs that were compiled separately. What information need to be included in an object module?</p>\n<ol style=\"list-style-type: upper-alpha;\"><li>\n<p>Object code</p>\n</li>\n<li>\n<p>Relocation bits</p>\n</li>\n<li>\n<p>Names and locations of all external symbols defined in the object module</p>\n</li>\n<li>\n<p>Absolute addresses of internal symbols</p>\n</li>\n</ol>",
+      "options": [
+        "Object code",
+        "Relocation bits",
+        "Names and locations of all external symbols defined in the object module",
+        "Absolute addresses of internal symbols"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Object code",
+          "html": "<p>Object code</p>"
+        },
+        {
+          "label": "B",
+          "text": "Relocation bits",
+          "html": "<p>Relocation bits</p>"
+        },
+        {
+          "label": "C",
+          "text": "Names and locations of all external symbols defined in the object module",
+          "html": "<p>Names and locations of all external symbols defined in the object module</p>"
+        },
+        {
+          "label": "D",
+          "text": "Absolute addresses of internal symbols",
+          "html": "<p>Absolute addresses of internal symbols</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2601/gate-cse-1995-question-1-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2601/gate-cse-1995-question-1-14"
+    },
+    {
+      "id": "go:2602",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.15",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which scheduling policy is most suitable for a time shared operating system?</p>",
+      "rawQuestionHtml": "<p>Which scheduling policy is most suitable for a time shared operating system?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Shortest Job First</li>\n<li>Round Robin</li>\n<li>First Come First Serve</li>\n<li>Elevator</li>\n</ol>",
+      "options": [
+        "Shortest Job First",
+        "Round Robin",
+        "First Come First Serve",
+        "Elevator"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Shortest Job First",
+          "html": "Shortest Job First"
+        },
+        {
+          "label": "B",
+          "text": "Round Robin",
+          "html": "Round Robin"
+        },
+        {
+          "label": "C",
+          "text": "First Come First Serve",
+          "html": "First Come First Serve"
+        },
+        {
+          "label": "D",
+          "text": "Elevator",
+          "html": "Elevator"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2602/gate-cse-1995-question-1-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2602/gate-cse-1995-question-1-15"
+    },
+    {
+      "id": "go:2603",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>For merging two sorted lists of sizes $m$ and $n$ into a sorted list of size $m+n$, we require comparisons of</p>",
+      "rawQuestionHtml": "<p>For merging two sorted lists of sizes $m$ and $n$ into a sorted list of size $m+n$, we require comparisons of</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$O(m)$</p>\n</li>\n<li>\n<p>$O(n)$</p>\n</li>\n<li>\n<p>$O(m+n)$</p>\n</li>\n<li>\n<p>$O(\\log m + \\log n)$</p>\n</li>\n</ol>",
+      "options": [
+        "$O(m)$",
+        "$O(n)$",
+        "$O(m+n)$",
+        "$O(\\log m + \\log n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$O(m)$",
+          "html": "<p>$O(m)$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$O(n)$",
+          "html": "<p>$O(n)$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$O(m+n)$",
+          "html": "<p>$O(m+n)$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$O(\\log m + \\log n)$",
+          "html": "<p>$O(\\log m + \\log n)$</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2603/gate-cse-1995-question-1-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2603/gate-cse-1995-question-1-16"
+    },
+    {
+      "id": "go:2604",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.17",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>A binary tree $T$ has $n$ leaf nodes. The number of nodes of degree $2$ in $T$ is</p>",
+      "rawQuestionHtml": "<p>A binary tree $T$ has $n$ leaf nodes. The number of nodes of degree $2$ in $T$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\log_2 n$</li>\n<li>$n-1$</li>\n<li>$n$</li>\n<li>$2^n$</li>\n</ol>",
+      "options": [
+        "$\\log_2 n$",
+        "$n-1$",
+        "$n$",
+        "$2^n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\log_2 n$",
+          "html": "$\\log_2 n$"
+        },
+        {
+          "label": "B",
+          "text": "$n-1$",
+          "html": "$n-1$"
+        },
+        {
+          "label": "C",
+          "text": "$n$",
+          "html": "$n$"
+        },
+        {
+          "label": "D",
+          "text": "$2^n$",
+          "html": "$2^n$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2604/gate-cse-1995-question-1-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2604/gate-cse-1995-question-1-17"
+    },
+    {
+      "id": "go:780",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.18",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The probability that a number selected at random between $100$ and $999$ (both inclusive) will not contain the digit $7$ is:  </p>",
+      "rawQuestionHtml": "<p>The probability that a number selected at random between $100$ and $999$ (both inclusive) will not contain the digit $7$ is:  </p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li>$\\dfrac{16}{25}$</li>\n<li>$\\left(\\dfrac{9}{10}\\right)^{3}$</li>\n<li>$\\dfrac{27}{75}$</li>\n<li>$\\dfrac{18}{25}$</li>\n</ol>",
+      "options": [
+        "$\\dfrac{16}{25}$",
+        "$\\left(\\dfrac{9}{10}\\right)^{3}$",
+        "$\\dfrac{27}{75}$",
+        "$\\dfrac{18}{25}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\dfrac{16}{25}$",
+          "html": "$\\dfrac{16}{25}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left(\\dfrac{9}{10}\\right)^{3}$",
+          "html": "$\\left(\\dfrac{9}{10}\\right)^{3}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{27}{75}$",
+          "html": "$\\dfrac{27}{75}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\dfrac{18}{25}$",
+          "html": "$\\dfrac{18}{25}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/780/gate-cse-1995-question-1-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/780/gate-cse-1995-question-1-18"
+    },
+    {
+      "id": "go:2606",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.19",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $R$ be a symmetric and transitive relation on a set $A$. Then</p>",
+      "rawQuestionHtml": "<p>Let $R$ be a symmetric and transitive relation on a set $A$. Then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$R$ is reflexive and hence an equivalence relation</li>\n<li>$R$ is reflexive and hence a partial order</li>\n<li>$R$ is reflexive and hence not an equivalence relation</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$R$ is reflexive and hence an equivalence relation",
+        "$R$ is reflexive and hence a partial order",
+        "$R$ is reflexive and hence not an equivalence relation",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$R$ is reflexive and hence an equivalence relation",
+          "html": "$R$ is reflexive and hence an equivalence relation"
+        },
+        {
+          "label": "B",
+          "text": "$R$ is reflexive and hence a partial order",
+          "html": "$R$ is reflexive and hence a partial order"
+        },
+        {
+          "label": "C",
+          "text": "$R$ is reflexive and hence not an equivalence relation",
+          "html": "$R$ is reflexive and hence not an equivalence relation"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2606/gate-cse-1995-question-1-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2606/gate-cse-1995-question-1-19"
+    },
+    {
+      "id": "go:2607",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.20",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>The number of elements in the power set $P(S)$ of the set $S=\\{\\{\\emptyset\\}, 1, \\{2, 3\\}\\}$ is:</p>",
+      "rawQuestionHtml": "<p>The number of elements in the power set $P(S)$ of the set $S=\\{\\{\\emptyset\\}, 1, \\{2, 3\\}\\}$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$4$</li>\n<li>$8$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$4$",
+        "$8$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "C",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2607/gate-cse-1995-question-1-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2607/gate-cse-1995-question-1-20"
+    },
+    {
+      "id": "go:2608",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.21",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>In the interval $[0, \\pi]$ the equation $x=\\cos x$ has </p>",
+      "rawQuestionHtml": "<p>In the interval $[0, \\pi]$ the equation $x=\\cos x$ has </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>No solution</p>\n</li>\n<li>\n<p>Exactly one solution</p>\n</li>\n<li>\n<p>Exactly two solutions</p>\n</li>\n<li>\n<p>An infinite number of solutions</p>\n</li>\n</ol>",
+      "options": [
+        "No solution",
+        "Exactly one solution",
+        "Exactly two solutions",
+        "An infinite number of solutions"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "No solution",
+          "html": "<p>No solution</p>"
+        },
+        {
+          "label": "B",
+          "text": "Exactly one solution",
+          "html": "<p>Exactly one solution</p>"
+        },
+        {
+          "label": "C",
+          "text": "Exactly two solutions",
+          "html": "<p>Exactly two solutions</p>"
+        },
+        {
+          "label": "D",
+          "text": "An infinite number of solutions",
+          "html": "<p>An infinite number of solutions</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2608/gate-cse-1995-question-1-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2608/gate-cse-1995-question-1-21"
+    },
+    {
+      "id": "go:2609",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.22",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>If at every point of a certain curve, the slope of the tangent equals [latex]\\frac{-2x}{y}[/latex] the curve is</p>",
+      "rawQuestionHtml": "<p>If at every point of a certain curve, the slope of the tangent equals [latex]\\frac{-2x}{y}[/latex] the curve is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>a straight line</p>\n</li>\n<li>\n<p>a parabola</p>\n</li>\n<li>\n<p>a circle</p>\n</li>\n<li>\n<p>an ellipse</p>\n</li>\n</ol>",
+      "options": [
+        "a straight line",
+        "a parabola",
+        "a circle",
+        "an ellipse"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "a straight line",
+          "html": "<p>a straight line</p>"
+        },
+        {
+          "label": "B",
+          "text": "a parabola",
+          "html": "<p>a parabola</p>"
+        },
+        {
+          "label": "C",
+          "text": "a circle",
+          "html": "<p>a circle</p>"
+        },
+        {
+          "label": "D",
+          "text": "an ellipse",
+          "html": "<p>an ellipse</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2609/gate-cse-1995-question-1-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2609/gate-cse-1995-question-1-22"
+    },
+    {
+      "id": "go:2610",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.23",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The value of k for which [latex]4x^2 - 8xy + ky^2 = 0[/latex] does not represent a pair of straight lines (both passing through the origin) is:</p>",
+      "rawQuestionHtml": "<p>The value of k for which [latex]4x^2 - 8xy + ky^2 = 0[/latex] does not represent a pair of straight lines (both passing through the origin) is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>0</p>\n</li>\n<li>\n<p>2</p>\n</li>\n<li>\n<p>9</p>\n</li>\n<li>\n<p>3</p>\n</li>\n</ol>",
+      "options": [
+        "0",
+        "2",
+        "9",
+        "3"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "label": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2610/gate-cse-1995-question-1-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2610/gate-cse-1995-question-1-23"
+    },
+    {
+      "id": "go:2611",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.24",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The rank of the following $(n+1) \\times (n+1)$ matrix, where $a$ is a real number is $$ \\begin{bmatrix} 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n  \\\\ 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\: &amp; \\vdots \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\: &amp; \\vdots \\\\ 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n \\end{bmatrix}$$</p>",
+      "rawQuestionHtml": "<p>The rank of the following $(n+1) \\times (n+1)$ matrix, where $a$ is a real number is $$ \\begin{bmatrix} 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n  \\\\ 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\: &amp; \\vdots \\\\ \\vdots &amp; \\vdots &amp; \\vdots &amp; \\: &amp; \\vdots \\\\ 1 &amp; a &amp; a^2 &amp; \\dots &amp; a^n \\end{bmatrix}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$n$</li>\n<li>Depends on the value of $a$</li>\n</ol>",
+      "options": [
+        "$1$",
+        "$2$",
+        "$n$",
+        "Depends on the value of $a$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$n$",
+          "html": "$n$"
+        },
+        {
+          "label": "D",
+          "text": "Depends on the value of $a$",
+          "html": "Depends on the value of $a$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2611/gate-cse-1995-question-1-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2611/gate-cse-1995-question-1-24"
+    },
+    {
+      "id": "go:2612",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 1.25",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>The minimum number of edges in a connected cyclic graph on $n$ vertices is:</p>",
+      "rawQuestionHtml": "<p>The minimum number of edges in a connected cyclic graph on $n$ vertices is:</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$n-1$</li>\n<li>$n$</li>\n<li>$n+1$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$n-1$",
+        "$n$",
+        "$n+1$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$n-1$",
+          "html": "$n-1$"
+        },
+        {
+          "label": "B",
+          "text": "$n$",
+          "html": "$n$"
+        },
+        {
+          "label": "C",
+          "text": "$n+1$",
+          "html": "$n+1$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2612/gate-cse-1995-question-1-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2612/gate-cse-1995-question-1-25"
+    },
+    {
+      "id": "go:2613",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.1",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>A sequence of two instructions that multiplies the contents of the DE register pair by 2 and stores the result in the HL register pair (in 8085 assembly language) is:</p>",
+      "rawQuestionHtml": "<a name=\"2613\"></a><div itemprop=\"text\"><p>A sequence of two instructions that multiplies the contents of the DE register pair by 2 and stores the result in the HL register pair (in 8085 assembly language) is:</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>\n\t<p>XCHG and DAD B</p>\n\t</li>\n\t<li>\n\t<p>XTHL and DAD H</p>\n\t</li>\n\t<li>\n\t<p>PCHL and DAD D</p>\n\t</li>\n\t<li>\n\t<p>XCHG and DAD H</p>\n\t</li>\n</ol></div>",
+      "options": [
+        "XCHG and DAD B",
+        "XTHL and DAD H",
+        "PCHL and DAD D",
+        "XCHG and DAD H"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "XCHG and DAD B",
+          "html": "<p>XCHG and DAD B</p>"
+        },
+        {
+          "label": "B",
+          "text": "XTHL and DAD H",
+          "html": "<p>XTHL and DAD H</p>"
+        },
+        {
+          "label": "C",
+          "text": "PCHL and DAD D",
+          "html": "<p>PCHL and DAD D</p>"
+        },
+        {
+          "label": "D",
+          "text": "XCHG and DAD H",
+          "html": "<p>XCHG and DAD H</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2613/gate-cse-1995-question-2-1",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2613/gate-cse-1995-question-2-1"
+    },
+    {
+      "id": "go:2614",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.2",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The capacity of a memory unit is defined by the number of words multiplied by the number of bits/word. How many separate address and data lines are needed for a memory of $4K \\times 16$?</p>",
+      "rawQuestionHtml": "<p>The capacity of a memory unit is defined by the number of words multiplied by the number of bits/word. How many separate address and data lines are needed for a memory of $4K \\times 16$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$10$ address, $16$ data lines</li>\n<li>$11$ address, $8$ data lines</li>\n<li>$12$ address, $16$ data lines</li>\n<li>$12$ address, $12$ data lines</li>\n</ol>",
+      "options": [
+        "$10$ address, $16$ data lines",
+        "$11$ address, $8$ data lines",
+        "$12$ address, $16$ data lines",
+        "$12$ address, $12$ data lines"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$10$ address, $16$ data lines",
+          "html": "$10$ address, $16$ data lines"
+        },
+        {
+          "label": "B",
+          "text": "$11$ address, $8$ data lines",
+          "html": "$11$ address, $8$ data lines"
+        },
+        {
+          "label": "C",
+          "text": "$12$ address, $16$ data lines",
+          "html": "$12$ address, $16$ data lines"
+        },
+        {
+          "label": "D",
+          "text": "$12$ address, $12$ data lines",
+          "html": "$12$ address, $12$ data lines"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2614/gate-cse-1995-question-2-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2614/gate-cse-1995-question-2-2"
+    },
+    {
+      "id": "go:2615",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.3",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Assume that $X$ and $Y$ are non-zero positive integers. What does the following Pascal program segment do?</p>\n<pre class=\"prettyprint lang-c_cpp\">while X &lt;&gt; Y do\nif  X &gt; Y then\n    X := X - Y\nelse\n    Y := Y - X;\nwrite(X);\n</pre>",
+      "rawQuestionHtml": "<p>Assume that $X$ and $Y$ are non-zero positive integers. What does the following Pascal program segment do?</p>\n<pre class=\"prettyprint lang-c_cpp\">while X &lt;&gt; Y do\nif  X &gt; Y then\n    X := X - Y\nelse\n    Y := Y - X;\nwrite(X);\n</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Computes the LCM of two numbers</p>\n</li>\n<li>\n<p>Divides the larger number by the smaller number</p>\n</li>\n<li>\n<p>Computes the GCD of two numbers</p>\n</li>\n<li>\n<p>None of the above</p>\n</li>\n</ol>",
+      "options": [
+        "Computes the LCM of two numbers",
+        "Divides the larger number by the smaller number",
+        "Computes the GCD of two numbers",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Computes the LCM of two numbers",
+          "html": "<p>Computes the LCM of two numbers</p>"
+        },
+        {
+          "label": "B",
+          "text": "Divides the larger number by the smaller number",
+          "html": "<p>Divides the larger number by the smaller number</p>"
+        },
+        {
+          "label": "C",
+          "text": "Computes the GCD of two numbers",
+          "html": "<p>Computes the GCD of two numbers</p>"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "<p>None of the above</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2615/gate-cse-1995-question-2-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2615/gate-cse-1995-question-2-3"
+    },
+    {
+      "id": "go:2616",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.4",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>What is the value of $X$ printed by the following program?</p>\n<pre class=\"prettyprint lang-c_cpp\">program COMPUTE (input, output);\nvar X:integer;\nprocedure FIND (X:real);\n    begin\n        X:=sqrt(X);\n    end;\nbegin\n    X:=2\n    FIND(X);\n    writeln(X);\nend.\n</pre>",
+      "rawQuestionHtml": "<p>What is the value of $X$ printed by the following program?</p>\n<pre class=\"prettyprint lang-c_cpp\">program COMPUTE (input, output);\nvar X:integer;\nprocedure FIND (X:real);\n    begin\n        X:=sqrt(X);\n    end;\nbegin\n    X:=2\n    FIND(X);\n    writeln(X);\nend.\n</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$\\sqrt{2}$</li>\n<li>Run time error</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$\\sqrt{2}$",
+        "Run time error",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$\\sqrt{2}$",
+          "html": "$\\sqrt{2}$"
+        },
+        {
+          "label": "C",
+          "text": "Run time error",
+          "html": "Run time error"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2616/gate-cse-1995-question-2-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2616/gate-cse-1995-question-2-4"
+    },
+    {
+      "id": "go:2617",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.5",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>What values of $A, B, C$ and $D$ satisfy the following simultaneous Boolean equations?</p>\n<p>$\\overline{A} + AB =0, AB=AC, AB+A\\overline{C}+CD=\\overline{C}D$</p>",
+      "rawQuestionHtml": "<p>What values of $A, B, C$ and $D$ satisfy the following simultaneous Boolean equations?</p>\n<p>$\\overline{A} + AB =0, AB=AC, AB+A\\overline{C}+CD=\\overline{C}D$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$A=1, B=0, C=0, D=1$</p>\n</li>\n<li>\n<p>$A=1, B=1, C=0, D=0$</p>\n</li>\n<li>\n<p>$A=1, B=0, C=1, D=1$</p>\n</li>\n<li>\n<p>$A=1, B=0, C=0, D=0$</p>\n</li>\n</ol>",
+      "options": [
+        "$A=1, B=0, C=0, D=1$",
+        "$A=1, B=1, C=0, D=0$",
+        "$A=1, B=0, C=1, D=1$",
+        "$A=1, B=0, C=0, D=0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$A=1, B=0, C=0, D=1$",
+          "html": "<p>$A=1, B=0, C=0, D=1$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$A=1, B=1, C=0, D=0$",
+          "html": "<p>$A=1, B=1, C=0, D=0$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$A=1, B=0, C=1, D=1$",
+          "html": "<p>$A=1, B=0, C=1, D=1$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$A=1, B=0, C=0, D=0$",
+          "html": "<p>$A=1, B=0, C=0, D=0$</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2617/gate-cse-1995-question-2-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2617/gate-cse-1995-question-2-5"
+    },
+    {
+      "id": "go:2618",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.6",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>The sequence __________ is an optimal non-preemptive scheduling sequence for the following jobs which leaves the CPU idle for ________ unit(s) of time.$$\\small \\begin{array}{|c|c|c|} \\hline  \\textbf{Job} &amp; \\textbf{Arrival Time} &amp; \\textbf{Burst Time} \\\\\\hline 1 &amp; 0.0 &amp; 9 \\\\\\hline  2 &amp; 0.6 &amp; 5 \\\\\\hline 3 &amp; 1.0 &amp; 1 \\\\\\hline \\end{array}$$</p>",
+      "rawQuestionHtml": "<p>The sequence __________ is an optimal non-preemptive scheduling sequence for the following jobs which leaves the CPU idle for ________ unit(s) of time.$$\\small \\begin{array}{|c|c|c|} \\hline  \\textbf{Job} &amp; \\textbf{Arrival Time} &amp; \\textbf{Burst Time} \\\\\\hline 1 &amp; 0.0 &amp; 9 \\\\\\hline  2 &amp; 0.6 &amp; 5 \\\\\\hline 3 &amp; 1.0 &amp; 1 \\\\\\hline \\end{array}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{3, 2, 1\\}, 1$</li>\n<li>$\\{2, 1, 3\\}, 0$</li>\n<li>$\\{3, 2, 1\\}, 0$</li>\n<li>$\\{1, 2, 3\\}, 5$</li>\n</ol>",
+      "options": [
+        "$\\{3, 2, 1\\}, 1$",
+        "$\\{2, 1, 3\\}, 0$",
+        "$\\{3, 2, 1\\}, 0$",
+        "$\\{1, 2, 3\\}, 5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\{3, 2, 1\\}, 1$",
+          "html": "$\\{3, 2, 1\\}, 1$"
+        },
+        {
+          "label": "B",
+          "text": "$\\{2, 1, 3\\}, 0$",
+          "html": "$\\{2, 1, 3\\}, 0$"
+        },
+        {
+          "label": "C",
+          "text": "$\\{3, 2, 1\\}, 0$",
+          "html": "$\\{3, 2, 1\\}, 0$"
+        },
+        {
+          "label": "D",
+          "text": "$\\{1, 2, 3\\}, 5$",
+          "html": "$\\{1, 2, 3\\}, 5$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2618/gate-cse-1995-question-2-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2618/gate-cse-1995-question-2-6"
+    },
+    {
+      "id": "go:2619",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.7",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>The address sequence generated by tracing a particular program executing in a pure demand based paging system with $100$ records per page with $1$ free main memory frame is recorded as follows. What is the number of page faults?</p>\n<p>$0100, 0200, 0430, 0499, 0510, 0530, 0560, 0120, 0220, 0240, 0260, 0320, 0370$</p>",
+      "rawQuestionHtml": "<p>The address sequence generated by tracing a particular program executing in a pure demand based paging system with $100$ records per page with $1$ free main memory frame is recorded as follows. What is the number of page faults?</p>\n<p>$0100, 0200, 0430, 0499, 0510, 0530, 0560, 0120, 0220, 0240, 0260, 0320, 0370$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$13$</li>\n<li>$8$</li>\n<li>$7$</li>\n<li>$10$</li>\n</ol>",
+      "options": [
+        "$13$",
+        "$8$",
+        "$7$",
+        "$10$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$13$",
+          "html": "$13$"
+        },
+        {
+          "label": "B",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "C",
+          "text": "$7$",
+          "html": "$7$"
+        },
+        {
+          "label": "D",
+          "text": "$10$",
+          "html": "$10$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2619/gate-cse-1995-question-2-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2619/gate-cse-1995-question-2-7"
+    },
+    {
+      "id": "go:2620",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.8",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>If the cube roots of unity are $1, \\omega$ and $\\omega^2$, then the roots of the following equation are $$(x-1)^3 +8 =0$$</p>",
+      "rawQuestionHtml": "<p>If the cube roots of unity are $1, \\omega$ and $\\omega^2$, then the roots of the following equation are $$(x-1)^3 +8 =0$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$-1, 1 + 2\\omega, 1 + 2\\omega^2$   </li>\n<li>$1, 1 - 2\\omega, 1 - 2\\omega^2$</li>\n<li>$-1, 1 - 2\\omega, 1 - 2\\omega^2$</li>\n<li>$-1, 1 + 2\\omega, -1 + 2\\omega^2$    </li>\n</ol>",
+      "options": [
+        "$-1, 1 + 2\\omega, 1 + 2\\omega^2$",
+        "$1, 1 - 2\\omega, 1 - 2\\omega^2$",
+        "$-1, 1 - 2\\omega, 1 - 2\\omega^2$",
+        "$-1, 1 + 2\\omega, -1 + 2\\omega^2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$-1, 1 + 2\\omega, 1 + 2\\omega^2$",
+          "html": "$-1, 1 + 2\\omega, 1 + 2\\omega^2$"
+        },
+        {
+          "label": "B",
+          "text": "$1, 1 - 2\\omega, 1 - 2\\omega^2$",
+          "html": "$1, 1 - 2\\omega, 1 - 2\\omega^2$"
+        },
+        {
+          "label": "C",
+          "text": "$-1, 1 - 2\\omega, 1 - 2\\omega^2$",
+          "html": "$-1, 1 - 2\\omega, 1 - 2\\omega^2$"
+        },
+        {
+          "label": "D",
+          "text": "$-1, 1 + 2\\omega, -1 + 2\\omega^2$",
+          "html": "$-1, 1 + 2\\omega, -1 + 2\\omega^2$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2620/gate-cse-1995-question-2-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2620/gate-cse-1995-question-2-8"
+    },
+    {
+      "id": "go:2621",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.9",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>A language with string manipulation facilities uses the following operations</p>\n<pre class=\"prettyprint lang-c_cpp\"><strong>head(s)</strong>: first character of a string\n<strong>tail(s)</strong>: all but exclude the first character of a string</pre>\n<pre class=\"prettyprint lang-c_cpp\">concat(s1, s2): s1s2</pre>\n<p>For the string \"$acbc$\" what will be the output of</p>\n<pre class=\"prettyprint lang-c_cpp\">concat(head(s), head(tail(tail(s))))</pre>",
+      "rawQuestionHtml": "<p>A language with string manipulation facilities uses the following operations</p>\n<pre class=\"prettyprint lang-c_cpp\"><strong>head(s)</strong>: first character of a string\n<strong>tail(s)</strong>: all but exclude the first character of a string</pre>\n<pre class=\"prettyprint lang-c_cpp\">concat(s1, s2): s1s2</pre>\n<p>For the string \"$acbc$\" what will be the output of</p>\n<pre class=\"prettyprint lang-c_cpp\">concat(head(s), head(tail(tail(s))))</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$ac$</li>\n<li>$bc$</li>\n<li>$ab$</li>\n<li>$cc$</li>\n</ol>",
+      "options": [
+        "$ac$",
+        "$bc$",
+        "$ab$",
+        "$cc$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$ac$",
+          "html": "$ac$"
+        },
+        {
+          "label": "B",
+          "text": "$bc$",
+          "html": "$bc$"
+        },
+        {
+          "label": "C",
+          "text": "$ab$",
+          "html": "$ab$"
+        },
+        {
+          "label": "D",
+          "text": "$cc$",
+          "html": "$cc$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2621/gate-cse-1995-question-2-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2621/gate-cse-1995-question-2-9"
+    },
+    {
+      "id": "go:2622",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.10",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>A shift reduce parser carries out the actions specified within braces immediately after reducing with the corresponding rule of grammar</p>\n<ul>\n<li>$S \\rightarrow xxW \\;\\text{{print“1\"}}$</li>\n<li>$S \\rightarrow y \\;\\text{{print“2\"}}$</li>\n<li>$W \\rightarrow Sz\\; \\text{{print“3\"}}$</li>\n</ul>\n<p>What is the translation of $xxxxyzz$ using the syntax directed translation scheme described by the above rules?</p>",
+      "rawQuestionHtml": "<p>A shift reduce parser carries out the actions specified within braces immediately after reducing with the corresponding rule of grammar</p>\n<ul>\n<li>$S \\rightarrow xxW \\;\\text{{print“1\"}}$</li>\n<li>$S \\rightarrow y \\;\\text{{print“2\"}}$</li>\n<li>$W \\rightarrow Sz\\; \\text{{print“3\"}}$</li>\n</ul>\n<p>What is the translation of $xxxxyzz$ using the syntax directed translation scheme described by the above rules?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$23131$</li>\n<li>$11233$</li>\n<li>$11231$</li>\n<li>$33211$</li>\n</ol>",
+      "options": [
+        "$23131$",
+        "$11233$",
+        "$11231$",
+        "$33211$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$23131$",
+          "html": "$23131$"
+        },
+        {
+          "label": "B",
+          "text": "$11233$",
+          "html": "$11233$"
+        },
+        {
+          "label": "C",
+          "text": "$11231$",
+          "html": "$11231$"
+        },
+        {
+          "label": "D",
+          "text": "$33211$",
+          "html": "$33211$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2622/gate-cse-1995-question-2-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2622/gate-cse-1995-question-2-10"
+    },
+    {
+      "id": "go:2623",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.11",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/15379021139215584265.webp\" style=\"height:219px; width:539px\"></p>",
+      "rawQuestionHtml": "<a name=\"2623\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/15379021139215584265.webp\" style=\"height:219px; width:539px\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2623/gate-cse-1995-question-2-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2623/gate-cse-1995-question-2-11"
+    },
+    {
+      "id": "go:2624",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.12, ISRO2015-9",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The number of $1$'s in the binary representation of $(3\\ast4096 + 15\\ast256 + 5\\ast16 + 3)$ are:</p>",
+      "rawQuestionHtml": "<p>The number of $1$'s in the binary representation of $(3\\ast4096 + 15\\ast256 + 5\\ast16 + 3)$ are:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$8$</li>\n<li>$9$</li>\n<li>$10$</li>\n<li>$12$</li>\n</ol>",
+      "options": [
+        "$8$",
+        "$9$",
+        "$10$",
+        "$12$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "B",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "C",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "D",
+          "text": "$12$",
+          "html": "$12$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2624/gate-cse-1995-question-2-12-isro2015-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2624/gate-cse-1995-question-2-12-isro2015-9"
+    },
+    {
+      "id": "go:2625",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.13",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A unit vector perpendicular to both the vectors $a=2i-3j+k$ and $b=i+j-2k$ is:</p>",
+      "rawQuestionHtml": "<p>A unit vector perpendicular to both the vectors $a=2i-3j+k$ and $b=i+j-2k$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{\\sqrt{3}} (i+j+k)$</li>\n<li>$\\frac{1}{3} (i+j-k)$</li>\n<li>$\\frac{1}{3} (i-j-k)$</li>\n<li>$\\frac{1}{\\sqrt{3}} (i+j-k)$</li>\n</ol>",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}} (i+j+k)$",
+        "$\\frac{1}{3} (i+j-k)$",
+        "$\\frac{1}{3} (i-j-k)$",
+        "$\\frac{1}{\\sqrt{3}} (i+j-k)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{\\sqrt{3}} (i+j+k)$",
+          "html": "$\\frac{1}{\\sqrt{3}} (i+j+k)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{3} (i+j-k)$",
+          "html": "$\\frac{1}{3} (i+j-k)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{3} (i-j-k)$",
+          "html": "$\\frac{1}{3} (i-j-k)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{1}{\\sqrt{3}} (i+j-k)$",
+          "html": "$\\frac{1}{\\sqrt{3}} (i+j-k)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2625/gate-cse-1995-question-2-13",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2625/gate-cse-1995-question-2-13"
+    },
+    {
+      "id": "go:2626",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.14",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A bag contains $10$ white balls and $15$ black balls. Two balls are drawn in succession. The probability that one of them is black and the other is white is:</p>",
+      "rawQuestionHtml": "<p>A bag contains $10$ white balls and $15$ black balls. Two balls are drawn in succession. The probability that one of them is black and the other is white is:</p>\n<ol style=\"list-style-type: upper-alpha;\"><li>\n<p>$\\frac{2}{3}$</p>\n</li>\n<li>\n<p>$\\frac{4}{5}$</p>\n</li>\n<li>\n<p>$\\frac{1}{2}$</p>\n</li>\n<li>\n<p>$\\frac{1}{3}$</p>\n</li>\n</ol>",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{2}{3}$",
+          "html": "<p>$\\frac{2}{3}$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{4}{5}$",
+          "html": "<p>$\\frac{4}{5}$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{2}$",
+          "html": "<p>$\\frac{1}{2}$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{1}{3}$",
+          "html": "<p>$\\frac{1}{3}$</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2626/gate-cse-1995-question-2-14",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2626/gate-cse-1995-question-2-14"
+    },
+    {
+      "id": "go:2627",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.15",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The iteration formula to find the square root of a positive real number $b$ using the Newton Raphson method is</p>",
+      "rawQuestionHtml": "<a name=\"2627\"></a><div itemprop=\"text\"><p>The iteration formula to find the square root of a positive real number $b$ using the Newton Raphson method is</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>\n\t<p>$x_{k+1} = 3(x_k+b)/2x_k$</p>\n\t</li>\n\t<li>\n\t<p>$x_{k+1} = (x_{k}^2+b)/2x_k$</p>\n\t</li>\n\t<li>\n\t<p>$x_{k+1} = x_k-2x_k/\\left(x^2_k+b\\right)$</p>\n\t</li>\n\t<li>\n\t<p>None of the above</p>\n\t</li>\n</ol></div>",
+      "options": [
+        "$x_{k+1} = 3(x_k+b)/2x_k$",
+        "$x_{k+1} = (x_{k}^2+b)/2x_k$",
+        "$x_{k+1} = x_k-2x_k/\\left(x^2_k+b\\right)$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$x_{k+1} = 3(x_k+b)/2x_k$",
+          "html": "<p>$x_{k+1} = 3(x_k+b)/2x_k$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$x_{k+1} = (x_{k}^2+b)/2x_k$",
+          "html": "<p>$x_{k+1} = (x_{k}^2+b)/2x_k$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$x_{k+1} = x_k-2x_k/\\left(x^2_k+b\\right)$",
+          "html": "<p>$x_{k+1} = x_k-2x_k/\\left(x^2_k+b\\right)$</p>"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "<p>None of the above</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2627/gate-cse-1995-question-2-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2627/gate-cse-1995-question-2-15"
+    },
+    {
+      "id": "go:2628",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.16",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>In a virtual memory system the address space specified by the address lines of the CPU must be _____ than the physical memory size and ____ than the secondary storage size.</p>",
+      "rawQuestionHtml": "<p>In a virtual memory system the address space specified by the address lines of the CPU must be _____ than the physical memory size and ____ than the secondary storage size.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>smaller, smaller</li>\n<li>smaller, larger</li>\n<li>larger, smaller</li>\n<li>larger, larger</li>\n</ol>",
+      "options": [
+        "smaller, smaller",
+        "smaller, larger",
+        "larger, smaller",
+        "larger, larger"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "smaller, smaller",
+          "html": "smaller, smaller"
+        },
+        {
+          "label": "B",
+          "text": "smaller, larger",
+          "html": "smaller, larger"
+        },
+        {
+          "label": "C",
+          "text": "larger, smaller",
+          "html": "larger, smaller"
+        },
+        {
+          "label": "D",
+          "text": "larger, larger",
+          "html": "larger, larger"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2628/gate-cse-1995-question-2-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2628/gate-cse-1995-question-2-16"
+    },
+    {
+      "id": "go:2629",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.17",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $A$ be the set of all non-singular matrices over real number and let $*$ be the matrix multiplication operation. Then</p>",
+      "rawQuestionHtml": "<p>Let $A$ be the set of all non-singular matrices over real number and let $*$ be the matrix multiplication operation. Then</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$A$ is closed under $*$ but $\\langle A, *\\rangle$ is not a semigroup.</li>\n<li>$\\langle A, *\\rangle$ is a semigroup but not a monoid.</li>\n<li>$\\langle A, * \\rangle$ is a monoid but not a group.</li>\n<li>$\\langle A, *\\rangle$ is a a group but not an abelian group.</li>\n</ol>",
+      "options": [
+        "$A$ is closed under $*$ but $\\langle A, *\\rangle$ is not a semigroup.",
+        "$\\langle A, *\\rangle$ is a semigroup but not a monoid.",
+        "$\\langle A, * \\rangle$ is a monoid but not a group.",
+        "$\\langle A, *\\rangle$ is a a group but not an abelian group."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$A$ is closed under $*$ but $\\langle A, *\\rangle$ is not a semigroup.",
+          "html": "$A$ is closed under $*$ but $\\langle A, *\\rangle$ is not a semigroup."
+        },
+        {
+          "label": "B",
+          "text": "$\\langle A, *\\rangle$ is a semigroup but not a monoid.",
+          "html": "$\\langle A, *\\rangle$ is a semigroup but not a monoid."
+        },
+        {
+          "label": "C",
+          "text": "$\\langle A, * \\rangle$ is a monoid but not a group.",
+          "html": "$\\langle A, * \\rangle$ is a monoid but not a group."
+        },
+        {
+          "label": "D",
+          "text": "$\\langle A, *\\rangle$ is a a group but not an abelian group.",
+          "html": "$\\langle A, *\\rangle$ is a a group but not an abelian group."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2629/gate-cse-1995-question-2-17",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2629/gate-cse-1995-question-2-17"
+    },
+    {
+      "id": "go:2630",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.18",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The solution of differential equation [latex]y''+3y'+2y=0[/latex] is of the form</p>",
+      "rawQuestionHtml": "<p>The solution of differential equation [latex]y''+3y'+2y=0[/latex] is of the form</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>[latex]C_1e^x+C_2e^{2x}[/latex]</p>\n</li>\n<li>\n<p>[latex]C_1e^{-x}+C_2e^{3x}[/latex]</p>\n</li>\n<li>\n<p>[latex]C_1e^{-x}+C_2e^{-2x}[/latex]</p>\n</li>\n<li>\n<p>[latex]C_1e^{-2x}+C_2e^{-x}[/latex]</p>\n</li>\n</ol>",
+      "options": [
+        "[latex]C_1e^x+C_2e^{2x}[/latex]",
+        "[latex]C_1e^{-x}+C_2e^{3x}[/latex]",
+        "[latex]C_1e^{-x}+C_2e^{-2x}[/latex]",
+        "[latex]C_1e^{-2x}+C_2e^{-x}[/latex]"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "[latex]C_1e^x+C_2e^{2x}[/latex]",
+          "html": "<p>[latex]C_1e^x+C_2e^{2x}[/latex]</p>"
+        },
+        {
+          "label": "B",
+          "text": "[latex]C_1e^{-x}+C_2e^{3x}[/latex]",
+          "html": "<p>[latex]C_1e^{-x}+C_2e^{3x}[/latex]</p>"
+        },
+        {
+          "label": "C",
+          "text": "[latex]C_1e^{-x}+C_2e^{-2x}[/latex]",
+          "html": "<p>[latex]C_1e^{-x}+C_2e^{-2x}[/latex]</p>"
+        },
+        {
+          "label": "D",
+          "text": "[latex]C_1e^{-2x}+C_2e^{-x}[/latex]",
+          "html": "<p>[latex]C_1e^{-2x}+C_2e^{-x}[/latex]</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2630/gate-cse-1995-question-2-18",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2630/gate-cse-1995-question-2-18"
+    },
+    {
+      "id": "go:2631",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.19",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>If the proposition $\\lnot p \\to q$ is true, then the truth value of the proposition $\\lnot p \\lor \\left ( p \\to q \\right )$, where $\\lnot$ is negation, $\\lor$ is inclusive OR and $\\to$ is implication, is</p>",
+      "rawQuestionHtml": "<p>If the proposition $\\lnot p \\to q$ is true, then the truth value of the proposition $\\lnot p \\lor \\left ( p \\to q \\right )$, where $\\lnot$ is negation, $\\lor$ is inclusive OR and $\\to$ is implication, is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>True</li>\n<li>Multiple Values</li>\n<li>False</li>\n<li>Cannot be determined</li>\n</ol>",
+      "options": [
+        "True",
+        "Multiple Values",
+        "False",
+        "Cannot be determined"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "True",
+          "html": "True"
+        },
+        {
+          "label": "B",
+          "text": "Multiple Values",
+          "html": "Multiple Values"
+        },
+        {
+          "label": "C",
+          "text": "False",
+          "html": "False"
+        },
+        {
+          "label": "D",
+          "text": "Cannot be determined",
+          "html": "Cannot be determined"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2631/gate-cse-1995-question-2-19",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2631/gate-cse-1995-question-2-19"
+    },
+    {
+      "id": "go:2632",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.20",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Which of the following definitions below generate the same language as $L$, where $L=\\{x^ny^n \\text{ such that } n\\geq 1 \\}$?</p>",
+      "rawQuestionHtml": "<p>Which of the following definitions below generate the same language as $L$, where $L=\\{x^ny^n \\text{ such that } n\\geq 1 \\}$?</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>\n<p>$E \\rightarrow xEy\\mid xy$</p>\n</li>\n<li>\n<p>$x y \\mid (x^+xyy^+$)</p>\n</li>\n<li>\n<p>$x^+y^+$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>I only</p>\n</li>\n<li>\n<p>I and II</p>\n</li>\n<li>\n<p>II and III</p>\n</li>\n<li>\n<p>II only</p>\n</li>\n</ol>\n</li>\n</ol>",
+      "options": [
+        "I only",
+        "I and II",
+        "II and III",
+        "II only"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "I only",
+          "html": "<p>I only</p>"
+        },
+        {
+          "label": "B",
+          "text": "I and II",
+          "html": "<p>I and II</p>"
+        },
+        {
+          "label": "C",
+          "text": "II and III",
+          "html": "<p>II and III</p>"
+        },
+        {
+          "label": "D",
+          "text": "II only",
+          "html": "<p>II only</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2632/gate-cse-1995-question-2-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2632/gate-cse-1995-question-2-20"
+    },
+    {
+      "id": "go:2633",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.21",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>The postfix expression for the infix expression $A+B*(C+D)/F+D*E$ is:</p>",
+      "rawQuestionHtml": "<p>The postfix expression for the infix expression $A+B*(C+D)/F+D*E$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB + CD + *F/D +E*$</li>\n<li>\n<p>$ABCD + *F/DE* ++$</p>\n</li>\n<li>\n<p>$A * B + CD/F *DE ++$</p>\n</li>\n<li>\n<p>$A + *BCD/F* DE ++$</p>\n</li>\n</ol>",
+      "options": [
+        "$AB + CD + *F/D +E*$",
+        "$ABCD + *F/DE* ++$",
+        "$A * B + CD/F *DE ++$",
+        "$A + *BCD/F* DE ++$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$AB + CD + *F/D +E*$",
+          "html": "$AB + CD + *F/D +E*$"
+        },
+        {
+          "label": "B",
+          "text": "$ABCD + *F/DE* ++$",
+          "html": "<p>$ABCD + *F/DE* ++$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$A * B + CD/F *DE ++$",
+          "html": "<p>$A * B + CD/F *DE ++$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$A + *BCD/F* DE ++$",
+          "html": "<p>$A + *BCD/F* DE ++$</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2633/gate-cse-1995-question-2-21",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2633/gate-cse-1995-question-2-21"
+    },
+    {
+      "id": "go:2634",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.22",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>\n<p>As the number of entries in a hash table increases, the number of collisions increases.</p>\n</li>\n<li>\n<p>Recursive programs are efficient</p>\n</li>\n<li>\n<p>The worst case complexity for Quicksort is $O(n^2)$</p>\n</li>\n<li>\n<p>Binary search using a linear linked list is efficient</p>\n</li>\n</ol>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I and II</li>\n<li>II and III</li>\n<li>I and IV</li>\n<li>I and III</li>\n</ol>",
+      "options": [
+        "I and II",
+        "II and III",
+        "I and IV",
+        "I and III"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "I and II",
+          "html": "I and II"
+        },
+        {
+          "label": "B",
+          "text": "II and III",
+          "html": "II and III"
+        },
+        {
+          "label": "C",
+          "text": "I and IV",
+          "html": "I and IV"
+        },
+        {
+          "label": "D",
+          "text": "I and III",
+          "html": "I and III"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2634/gate-cse-1995-question-2-22",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2634/gate-cse-1995-question-2-22"
+    },
+    {
+      "id": "go:2636",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.23",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>A finite state machine with the following state table has a single input $x$ and a single out $z$.</p>\n<p>$$\\begin{array}{|c|ll|}\\hline<br/>\n\\textbf{present state} &amp; \\qquad \\textbf{next state, z} \\\\ &amp; \\text{x=1}  &amp; \\text{x=0} \\\\\\hline  \\text{A} &amp; \\text{D,0} &amp; \\text{B,0} \\\\\\hline   \\text{B} &amp; \\text{B,1} &amp; \\text{C,1} \\\\\\hline  \\text{C} &amp; \\text{B,0} &amp; \\text{D,1}  \\\\\\hline \\text{D} &amp; \\text{B,1} &amp; \\text{C,0}  \\\\\\hline \\end{array}$$</p>\n<p>If the initial state is unknown, then the shortest input sequence to reach the final state $C$ is:</p>",
+      "rawQuestionHtml": "<p>A finite state machine with the following state table has a single input $x$ and a single out $z$.</p>\n<p>$$\\begin{array}{|c|ll|}\\hline<br/>\n\\textbf{present state} &amp; \\qquad \\textbf{next state, z} \\\\ &amp; \\text{x=1}  &amp; \\text{x=0} \\\\\\hline  \\text{A} &amp; \\text{D,0} &amp; \\text{B,0} \\\\\\hline   \\text{B} &amp; \\text{B,1} &amp; \\text{C,1} \\\\\\hline  \\text{C} &amp; \\text{B,0} &amp; \\text{D,1}  \\\\\\hline \\text{D} &amp; \\text{B,1} &amp; \\text{C,0}  \\\\\\hline \\end{array}$$</p>\n<p>If the initial state is unknown, then the shortest input sequence to reach the final state $C$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$01$</li>\n<li>$10$</li>\n<li>$101$</li>\n<li>$110$</li>\n</ol>",
+      "options": [
+        "$01$",
+        "$10$",
+        "$101$",
+        "$110$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$01$",
+          "html": "$01$"
+        },
+        {
+          "label": "B",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "C",
+          "text": "$101$",
+          "html": "$101$"
+        },
+        {
+          "label": "D",
+          "text": "$110$",
+          "html": "$110$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2636/gate-cse-1995-question-2-23",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2636/gate-cse-1995-question-2-23"
+    },
+    {
+      "id": "go:2637",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.24",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $\\Sigma=\\left\\{0,1\\right\\}, L = \\Sigma^*$ and $R=\\left\\{0^n1^n \\mid n &gt; 0\\right\\} $ then the languages $L \\cup R$ and $R$ are respectively</p>",
+      "rawQuestionHtml": "<p>Let $\\Sigma=\\left\\{0,1\\right\\}, L = \\Sigma^*$ and $R=\\left\\{0^n1^n \\mid n &gt; 0\\right\\} $ then the languages $L \\cup R$ and $R$ are respectively</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>regular, regular</li>\n<li>not regular, regular</li>\n<li>regular, not regular</li>\n<li>not regular, not regular</li>\n</ol>",
+      "options": [
+        "regular, regular",
+        "not regular, regular",
+        "regular, not regular",
+        "not regular, not regular"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "regular, regular",
+          "html": "regular, regular"
+        },
+        {
+          "label": "B",
+          "text": "not regular, regular",
+          "html": "not regular, regular"
+        },
+        {
+          "label": "C",
+          "text": "regular, not regular",
+          "html": "regular, not regular"
+        },
+        {
+          "label": "D",
+          "text": "not regular, not regular",
+          "html": "not regular, not regular"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2637/gate-cse-1995-question-2-24",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2637/gate-cse-1995-question-2-24"
+    },
+    {
+      "id": "go:2638",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 2.25",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>A computer system has a $4 \\ K$ word cache organized in block-set-associative manner with $4$ blocks per set, $64$ words per block. The number of bits in the SET and WORD fields of the main memory address format is:</p>",
+      "rawQuestionHtml": "<p>A computer system has a $4 \\ K$ word cache organized in block-set-associative manner with $4$ blocks per set, $64$ words per block. The number of bits in the SET and WORD fields of the main memory address format is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$15, 40$</li>\n<li>$6, 4$</li>\n<li>$7, 2$</li>\n<li>$4, 6$</li>\n</ol>",
+      "options": [
+        "$15, 40$",
+        "$6, 4$",
+        "$7, 2$",
+        "$4, 6$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$15, 40$",
+          "html": "$15, 40$"
+        },
+        {
+          "label": "B",
+          "text": "$6, 4$",
+          "html": "$6, 4$"
+        },
+        {
+          "label": "C",
+          "text": "$7, 2$",
+          "html": "$7, 2$"
+        },
+        {
+          "label": "D",
+          "text": "$4, 6$",
+          "html": "$4, 6$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2638/gate-cse-1995-question-2-25",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2638/gate-cse-1995-question-2-25"
+    },
+    {
+      "id": "go:359942",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 7(B)",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "NAT",
+      "question": "Compute without using power series expansion $\\displaystyle \\lim_{x \\to 0} \\frac{\\sin x}{x}.$",
+      "rawQuestionHtml": "Compute without using power series expansion $\\displaystyle \\lim_{x \\to 0} \\frac{\\sin x}{x}.$",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/359942/gate-cse-1995-question-7-b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/359942/gate-cse-1995-question-7-b"
+    },
+    {
+      "id": "go:2645",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 10",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/16305479397035313489.webp\" style=\"height:468px; width:536px\"></p>",
+      "rawQuestionHtml": "<a name=\"2645\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/16305479397035313489.webp\" style=\"height:468px; width:536px\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2645/gate-cse-1995-question-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2645/gate-cse-1995-question-10"
+    },
+    {
+      "id": "go:2652",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 16",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/3032654548882631735.webp\" style=\"height:286px; width:529px\"></p>",
+      "rawQuestionHtml": "<a name=\"2652\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3032654548882631735.webp\" style=\"height:286px; width:529px\"></p>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2652/gate-cse-1995-question-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2652/gate-cse-1995-question-16"
+    },
+    {
+      "id": "go:2664",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 54,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 25a",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "NAT",
+      "question": "Find the minimum value of $3-4x+2x^2$.",
+      "rawQuestionHtml": "Find the minimum value of $3-4x+2x^2$.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2664/gate-cse-1995-question-25a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2664/gate-cse-1995-question-25a"
+    },
+    {
+      "id": "go:314348",
+      "testId": "gate-1995-s0",
+      "year": 1995,
+      "set": 1,
+      "yearSetKey": "1995-s0",
+      "orderIndex": 55,
+      "section": "CS",
+      "title": "GATE CSE 1995 | Question: 25b",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "NAT",
+      "question": "Determine the number of positive integers $(\\leq 720)$ which are not divisible by any of $2,3$ or $5.$",
+      "rawQuestionHtml": "Determine the number of positive integers $(\\leq 720)$ which are not divisible by any of $2,3$ or $5.$",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "192"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/314348/gate-cse-1995-question-25b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/314348/gate-cse-1995-question-25b"
+    }
+  ]
+}

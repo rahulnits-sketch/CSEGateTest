@@ -7,6 +7,9 @@ import BackButton from "@/components/BackButton";
 
 export default function DSATopicView({ topicId }: { topicId: string }) {
   const topicInfo = dsaData.topics.find((t) => t.id === topicId || t.slug === topicId);
+  const topicDescription = topicInfo as
+    | ((typeof dsaData.topics)[number] & { description?: string })
+    | undefined;
 
   if (!topicInfo) {
     return (
@@ -51,9 +54,9 @@ export default function DSATopicView({ topicId }: { topicId: string }) {
             </div>
           </div>
 
-          {"description" in topicInfo && (topicInfo as any).description && (
+          {topicDescription?.description && (
             <p className="mt-4 text-xs leading-relaxed text-gray-400 max-w-2xl">
-              {(topicInfo as any).description}
+              {topicDescription.description}
             </p>
           )}
         </div>

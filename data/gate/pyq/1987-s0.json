@@ -1,0 +1,2079 @@
+{
+  "id": "gate-1987-s0",
+  "yearSetKey": "1987-s0",
+  "year": 1987,
+  "set": 1,
+  "title": "GATE CSE 1987",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 63,
+  "totalQuestions": 44,
+  "gaQuestions": 0,
+  "csQuestions": 44,
+  "questions": [
+    {
+      "id": "go:80029",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-I",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p>",
+      "rawQuestionHtml": "<a name=\"80029\"></a><div itemprop=\"text\"><p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(A)",
+          "html": "(A)"
+        },
+        {
+          "label": "B",
+          "text": "(B)",
+          "html": "(B)"
+        },
+        {
+          "label": "C",
+          "text": "(C)",
+          "html": "(C)"
+        },
+        {
+          "label": "D",
+          "text": "(D)",
+          "html": "(D)"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80029/gate-cse-1987-question-1-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80029/gate-cse-1987-question-1-i"
+    },
+    {
+      "id": "go:80032",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-II",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The total number of Boolean functions which can be realised with four variables is:</p>",
+      "rawQuestionHtml": "<p>The total number of Boolean functions which can be realised with four variables is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$17$</li>\n<li>$256$</li>\n<li>$65, 536$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$17$",
+        "$256$",
+        "$65, 536$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$17$",
+          "html": "$17$"
+        },
+        {
+          "label": "C",
+          "text": "$256$",
+          "html": "$256$"
+        },
+        {
+          "label": "D",
+          "text": "$65, 536$",
+          "html": "$65, 536$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80032/gate-cse-1987-question-1-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80032/gate-cse-1987-question-1-ii"
+    },
+    {
+      "id": "go:80034",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-III",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Sequential Circuits, Flip-Flops & Counters",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111\\quad 1111\\quad0000\\quad0000$</li>\n<li>$1111 \\quad 0000\\quad1111\\quad0000$</li>\n<li>$1111 \\quad 0001\\quad0011\\quad0101$</li>\n<li>$1010\\quad1010\\quad1010\\quad1010$</li>\n</ol>",
+      "options": [
+        "$1111\\quad 1111\\quad0000\\quad0000$",
+        "$1111 \\quad 0000\\quad1111\\quad0000$",
+        "$1111 \\quad 0001\\quad0011\\quad0101$",
+        "$1010\\quad1010\\quad1010\\quad1010$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1111\\quad 1111\\quad0000\\quad0000$",
+          "html": "$1111\\quad 1111\\quad0000\\quad0000$"
+        },
+        {
+          "label": "B",
+          "text": "$1111 \\quad 0000\\quad1111\\quad0000$",
+          "html": "$1111 \\quad 0000\\quad1111\\quad0000$"
+        },
+        {
+          "label": "C",
+          "text": "$1111 \\quad 0001\\quad0011\\quad0101$",
+          "html": "$1111 \\quad 0001\\quad0011\\quad0101$"
+        },
+        {
+          "label": "D",
+          "text": "$1010\\quad1010\\quad1010\\quad1010$",
+          "html": "$1010\\quad1010\\quad1010\\quad1010$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80034/gate-cse-1987-question-1-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80034/gate-cse-1987-question-1-iii"
+    },
+    {
+      "id": "go:80193",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-IV",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MCQ",
+      "question": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>",
+      "rawQuestionHtml": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$</li>\n<li>$A\\oplus B\\oplus C$</li>\n<li>$A \\oplus B$</li>\n<li>$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$</li>\n</ol>",
+      "options": [
+        "$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$",
+        "$A\\oplus B\\oplus C$",
+        "$A \\oplus B$",
+        "$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$",
+          "html": "$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$"
+        },
+        {
+          "label": "B",
+          "text": "$A\\oplus B\\oplus C$",
+          "html": "$A\\oplus B\\oplus C$"
+        },
+        {
+          "label": "C",
+          "text": "$A \\oplus B$",
+          "html": "$A \\oplus B$"
+        },
+        {
+          "label": "D",
+          "text": "$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$",
+          "html": "$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80193/gate-cse-1987-question-1-iv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80193/gate-cse-1987-question-1-iv"
+    },
+    {
+      "id": "go:80194",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-V",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>The most relevant addressing mode to write position-independent codes is:</p>",
+      "rawQuestionHtml": "<p>The most relevant addressing mode to write position-independent codes is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Direct mode</li>\n<li>Indirect mode</li>\n<li>Relative mode</li>\n<li>Indexed mode</li>\n</ol>",
+      "options": [
+        "Direct mode",
+        "Indirect mode",
+        "Relative mode",
+        "Indexed mode"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Direct mode",
+          "html": "Direct mode"
+        },
+        {
+          "label": "B",
+          "text": "Indirect mode",
+          "html": "Indirect mode"
+        },
+        {
+          "label": "C",
+          "text": "Relative mode",
+          "html": "Relative mode"
+        },
+        {
+          "label": "D",
+          "text": "Indexed mode",
+          "html": "Indexed mode"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80194/gate-cse-1987-question-1-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80194/gate-cse-1987-question-1-v"
+    },
+    {
+      "id": "go:80199",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-vi",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>A microprogrammed control unit</p>",
+      "rawQuestionHtml": "<p>A microprogrammed control unit</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Is faster than a hard-wired control unit.</li>\n<li>Facilitates easy implementation of new instruction.</li>\n<li>Is useful when very small programs are to be run.</li>\n<li>Usually refers to the control unit of a microprocessor.</li>\n</ol>",
+      "options": [
+        "Is faster than a hard-wired control unit.",
+        "Facilitates easy implementation of new instruction.",
+        "Is useful when very small programs are to be run.",
+        "Usually refers to the control unit of a microprocessor."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Is faster than a hard-wired control unit.",
+          "html": "Is faster than a hard-wired control unit."
+        },
+        {
+          "label": "B",
+          "text": "Facilitates easy implementation of new instruction.",
+          "html": "Facilitates easy implementation of new instruction."
+        },
+        {
+          "label": "C",
+          "text": "Is useful when very small programs are to be run.",
+          "html": "Is useful when very small programs are to be run."
+        },
+        {
+          "label": "D",
+          "text": "Usually refers to the control unit of a microprocessor.",
+          "html": "Usually refers to the control unit of a microprocessor."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80199/gate-cse-1987-question-1-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80199/gate-cse-1987-question-1-vi"
+    },
+    {
+      "id": "go:80201",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-vii",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The exponent of a floating-point number is represented in excess-$\\text{N}$ code so that:</p>",
+      "rawQuestionHtml": "<p>The exponent of a floating-point number is represented in excess-$\\text{N}$ code so that:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The dynamic range is large.</li>\n<li>The precision is high.</li>\n<li>The smallest number is represented by all zeros.</li>\n<li>Overflow is avoided.</li>\n</ol>",
+      "options": [
+        "The dynamic range is large.",
+        "The precision is high.",
+        "The smallest number is represented by all zeros.",
+        "Overflow is avoided."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The dynamic range is large.",
+          "html": "The dynamic range is large."
+        },
+        {
+          "label": "B",
+          "text": "The precision is high.",
+          "html": "The precision is high."
+        },
+        {
+          "label": "C",
+          "text": "The smallest number is represented by all zeros.",
+          "html": "The smallest number is represented by all zeros."
+        },
+        {
+          "label": "D",
+          "text": "Overflow is avoided.",
+          "html": "Overflow is avoided."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80201/gate-cse-1987-question-1-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80201/gate-cse-1987-question-1-vii"
+    },
+    {
+      "id": "go:80274",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-viii",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>On receiving an interrupt from a I/O device the CPU:</p>",
+      "rawQuestionHtml": "<p>On receiving an interrupt from a I/O device the CPU:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Halts for a predetermined time.</li>\n<li>Hands over control of address bus and data bus to the interrupting device.</li>\n<li>Branches off to the interrupt service routine immediately.</li>\n<li>Branches off to the interrupt service routine after completion of the current instruction.</li>\n</ol>",
+      "options": [
+        "Halts for a predetermined time.",
+        "Hands over control of address bus and data bus to the interrupting device.",
+        "Branches off to the interrupt service routine immediately.",
+        "Branches off to the interrupt service routine after completion of the current instruction."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Halts for a predetermined time.",
+          "html": "Halts for a predetermined time."
+        },
+        {
+          "label": "B",
+          "text": "Hands over control of address bus and data bus to the interrupting device.",
+          "html": "Hands over control of address bus and data bus to the interrupting device."
+        },
+        {
+          "label": "C",
+          "text": "Branches off to the interrupt service routine immediately.",
+          "html": "Branches off to the interrupt service routine immediately."
+        },
+        {
+          "label": "D",
+          "text": "Branches off to the interrupt service routine after completion of the current instruction.",
+          "html": "Branches off to the interrupt service routine after completion of the current instruction."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80274/gate-cse-1987-question-1-viii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80274/gate-cse-1987-question-1-viii"
+    },
+    {
+      "id": "go:80278",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-IX",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>The refreshing rate of dynamic RAMs is in the range of:</p>",
+      "rawQuestionHtml": "<p>The refreshing rate of dynamic RAMs is in the range of:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>2 microseconds</li>\n<li>2 milliseconds.</li>\n<li>50 milli seconds</li>\n<li>500 milliseconds</li>\n</ol>",
+      "options": [
+        "2 microseconds",
+        "2 milliseconds.",
+        "50 milli seconds",
+        "500 milliseconds"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "2 microseconds",
+          "html": "2 microseconds"
+        },
+        {
+          "label": "B",
+          "text": "2 milliseconds.",
+          "html": "2 milliseconds."
+        },
+        {
+          "label": "C",
+          "text": "50 milli seconds",
+          "html": "50 milli seconds"
+        },
+        {
+          "label": "D",
+          "text": "500 milliseconds",
+          "html": "500 milliseconds"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80278/gate1987-1-ix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80278/gate1987-1-ix"
+    },
+    {
+      "id": "go:80281",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-X",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>The data transfer rate of a double-density floppy disk system is about:</p>",
+      "rawQuestionHtml": "<p>The data transfer rate of a double-density floppy disk system is about:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>5K bits/sec</li>\n<li>50K bits/sec</li>\n<li>500K bits/sec</li>\n<li>5000K bits/sec</li>\n</ol>",
+      "options": [
+        "5K bits/sec",
+        "50K bits/sec",
+        "500K bits/sec",
+        "5000K bits/sec"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "5K bits/sec",
+          "html": "5K bits/sec"
+        },
+        {
+          "label": "B",
+          "text": "50K bits/sec",
+          "html": "50K bits/sec"
+        },
+        {
+          "label": "C",
+          "text": "500K bits/sec",
+          "html": "500K bits/sec"
+        },
+        {
+          "label": "D",
+          "text": "5000K bits/sec",
+          "html": "5000K bits/sec"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80281/gate1987-1-x",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80281/gate1987-1-x"
+    },
+    {
+      "id": "go:80282",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xi",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>In a compiler the module that checks every character of the source text is called:</p>",
+      "rawQuestionHtml": "<p>In a compiler the module that checks every character of the source text is called:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The code generator.</li>\n<li>The code optimiser.</li>\n<li>The lexical analyser.</li>\n<li>The syntax analyser.</li>\n</ol>",
+      "options": [
+        "The code generator.",
+        "The code optimiser.",
+        "The lexical analyser.",
+        "The syntax analyser."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The code generator.",
+          "html": "The code generator."
+        },
+        {
+          "label": "B",
+          "text": "The code optimiser.",
+          "html": "The code optimiser."
+        },
+        {
+          "label": "C",
+          "text": "The lexical analyser.",
+          "html": "The lexical analyser."
+        },
+        {
+          "label": "D",
+          "text": "The syntax analyser.",
+          "html": "The syntax analyser."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80282/gate-cse-1987-question-1-xi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80282/gate-cse-1987-question-1-xi"
+    },
+    {
+      "id": "go:80291",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>A context-free grammar is ambiguous if:</p>",
+      "rawQuestionHtml": "<p>A context-free grammar is ambiguous if:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The grammar contains useless non-terminals.</li>\n<li>It produces more than one parse tree for some sentence.</li>\n<li>Some production has two non terminals side by side on the right-hand side.</li>\n<li>None of the above.</li>\n</ol>",
+      "options": [
+        "The grammar contains useless non-terminals.",
+        "It produces more than one parse tree for some sentence.",
+        "Some production has two non terminals side by side on the right-hand side.",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The grammar contains useless non-terminals.",
+          "html": "The grammar contains useless non-terminals."
+        },
+        {
+          "label": "B",
+          "text": "It produces more than one parse tree for some sentence.",
+          "html": "It produces more than one parse tree for some sentence."
+        },
+        {
+          "label": "C",
+          "text": "Some production has two non terminals side by side on the right-hand side.",
+          "html": "Some production has two non terminals side by side on the right-hand side."
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80291/gate-cse-1987-question-1-xii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80291/gate-cse-1987-question-1-xii"
+    },
+    {
+      "id": "go:80293",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xiii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>FORTRAN is a:</p>",
+      "rawQuestionHtml": "<p>FORTRAN is a:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Regular language.</li>\n<li>Context-free language.</li>\n<li>Context-senstive language.</li>\n<li>None of the above.</li>\n</ol>",
+      "options": [
+        "Regular language.",
+        "Context-free language.",
+        "Context-senstive language.",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Regular language.",
+          "html": "Regular language."
+        },
+        {
+          "label": "B",
+          "text": "Context-free language.",
+          "html": "Context-free language."
+        },
+        {
+          "label": "C",
+          "text": "Context-senstive language.",
+          "html": "Context-senstive language."
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80293/gate-cse-1987-question-1-xiii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80293/gate-cse-1987-question-1-xiii"
+    },
+    {
+      "id": "go:80295",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xiv",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>An operator precedence parser is a</p>",
+      "rawQuestionHtml": "<p>An operator precedence parser is a</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Bottom-up parser.</li>\n<li>Top-down parser.</li>\n<li>Back tracking parser.</li>\n<li>None of the above.</li>\n</ol>",
+      "options": [
+        "Bottom-up parser.",
+        "Top-down parser.",
+        "Back tracking parser.",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Bottom-up parser.",
+          "html": "Bottom-up parser."
+        },
+        {
+          "label": "B",
+          "text": "Top-down parser.",
+          "html": "Top-down parser."
+        },
+        {
+          "label": "C",
+          "text": "Back tracking parser.",
+          "html": "Back tracking parser."
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80295/gate-cse-1987-question-1-xiv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80295/gate-cse-1987-question-1-xiv"
+    },
+    {
+      "id": "go:80298",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xv",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>In a circular linked list organization, insertion of a record involves modification of</p>",
+      "rawQuestionHtml": "<p>In a circular linked list organization, insertion of a record involves modification of</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>One pointer.</li>\n<li>Two pointers.</li>\n<li>Multiple pointers.</li>\n<li>No pointer.</li>\n</ol>",
+      "options": [
+        "One pointer.",
+        "Two pointers.",
+        "Multiple pointers.",
+        "No pointer."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "One pointer.",
+          "html": "One pointer."
+        },
+        {
+          "label": "B",
+          "text": "Two pointers.",
+          "html": "Two pointers."
+        },
+        {
+          "label": "C",
+          "text": "Multiple pointers.",
+          "html": "Multiple pointers."
+        },
+        {
+          "label": "D",
+          "text": "No pointer.",
+          "html": "No pointer."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80298/gate-cse-1987-question-1-xv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80298/gate-cse-1987-question-1-xv"
+    },
+    {
+      "id": "go:80362",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xvi",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>A critical region is</p>",
+      "rawQuestionHtml": "<p>A critical region is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>One which is enclosed by a pair of $P$ and $V$ operations on semaphores.</li>\n<li>A program segment that has not been proved bug-free.</li>\n<li>A program segment that often causes unexpected system crashes.</li>\n<li>A program segment where shared resources are accessed.</li>\n</ol>",
+      "options": [
+        "One which is enclosed by a pair of $P$ and $V$ operations on semaphores.",
+        "A program segment that has not been proved bug-free.",
+        "A program segment that often causes unexpected system crashes.",
+        "A program segment where shared resources are accessed."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "One which is enclosed by a pair of $P$ and $V$ operations on semaphores.",
+          "html": "One which is enclosed by a pair of $P$ and $V$ operations on semaphores."
+        },
+        {
+          "label": "B",
+          "text": "A program segment that has not been proved bug-free.",
+          "html": "A program segment that has not been proved bug-free."
+        },
+        {
+          "label": "C",
+          "text": "A program segment that often causes unexpected system crashes.",
+          "html": "A program segment that often causes unexpected system crashes."
+        },
+        {
+          "label": "D",
+          "text": "A program segment where shared resources are accessed.",
+          "html": "A program segment where shared resources are accessed."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80362/gate-cse-1987-question-1-xvi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80362/gate-cse-1987-question-1-xvi"
+    },
+    {
+      "id": "go:80364",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xvii",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>Using longer identifiers in a program will necessarily lead to:</p>",
+      "rawQuestionHtml": "<p>Using longer identifiers in a program will necessarily lead to:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Somewhat slower compilation</li>\n<li>A program that is easier to understand</li>\n<li>An incorrect program</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Somewhat slower compilation",
+        "A program that is easier to understand",
+        "An incorrect program",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Somewhat slower compilation",
+          "html": "Somewhat slower compilation"
+        },
+        {
+          "label": "B",
+          "text": "A program that is easier to understand",
+          "html": "A program that is easier to understand"
+        },
+        {
+          "label": "C",
+          "text": "An incorrect program",
+          "html": "An incorrect program"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80364/gate-cse-1987-question-1-xvii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80364/gate-cse-1987-question-1-xvii"
+    },
+    {
+      "id": "go:80366",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xviii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>Let $P$ be a quicksort program to sort numbers in ascending order. Let $t_{1}$ and $t_{2}$ be the time taken by the program for the inputs $\\left[1 \\ 2 \\ 3 \\ 4\\right]$ and $\\left[5 \\ 4 \\ 3 \\ 2 \\ 1\\right]$, respectively. Which of the following holds?</p>",
+      "rawQuestionHtml": "<p>Let $P$ be a quicksort program to sort numbers in ascending order. Let $t_{1}$ and $t_{2}$ be the time taken by the program for the inputs $\\left[1 \\ 2 \\ 3 \\ 4\\right]$ and $\\left[5 \\ 4 \\ 3 \\ 2 \\ 1\\right]$, respectively. Which of the following holds?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$t_{1} = t_{2}$</li>\n<li>$t_{1} &gt; t_{2}$</li>\n<li>$t_{1} &lt; t_{2}$</li>\n<li>$t_{1}=t_{2}+5 \\log 5$ </li>\n</ol>",
+      "options": [
+        "$t_{1} = t_{2}$",
+        "$t_{1} &gt; t_{2}$",
+        "$t_{1} &lt; t_{2}$",
+        "$t_{1}=t_{2}+5 \\log 5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$t_{1} = t_{2}$",
+          "html": "$t_{1} = t_{2}$"
+        },
+        {
+          "label": "B",
+          "text": "$t_{1} &gt; t_{2}$",
+          "html": "$t_{1} &gt; t_{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$t_{1} &lt; t_{2}$",
+          "html": "$t_{1} &lt; t_{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$t_{1}=t_{2}+5 \\log 5$",
+          "html": "$t_{1}=t_{2}+5 \\log 5$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80366/gate-cse-1987-question-1-xviii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80366/gate-cse-1987-question-1-xviii"
+    },
+    {
+      "id": "go:80373",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xix",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>Study the following program written in a block-structured language:</p>\n<pre class=\"prettyprint lang-c_cpp\">Var x, y:interger; \nprocedure P(n:interger);\nbegin\n     x:=(n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:interger;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x)                                __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \nWrite(x);                                   __(2) \nend.\n</pre>\n<p>What will be printed by the write statements marked $(1)$ and $(2)$ in the program if the variables are statically scoped?</p>",
+      "rawQuestionHtml": "<p>Study the following program written in a block-structured language:</p>\n<pre class=\"prettyprint lang-c_cpp\">Var x, y:interger; \nprocedure P(n:interger);\nbegin\n     x:=(n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:interger;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x)                                __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \nWrite(x);                                   __(2) \nend.\n</pre>\n<p>What will be printed by the write statements marked $(1)$ and $(2)$ in the program if the variables are statically scoped?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3, 6$</li>\n<li>$6, 7$</li>\n<li>$3, 7$</li>\n<li>None of the above.</li>\n</ol>",
+      "options": [
+        "$3, 6$",
+        "$6, 7$",
+        "$3, 7$",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3, 6$",
+          "html": "$3, 6$"
+        },
+        {
+          "label": "B",
+          "text": "$6, 7$",
+          "html": "$6, 7$"
+        },
+        {
+          "label": "C",
+          "text": "$3, 7$",
+          "html": "$3, 7$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80373/gate-cse-1987-question-1-xix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80373/gate-cse-1987-question-1-xix"
+    },
+    {
+      "id": "go:80374",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xx",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>For the program given below what will be printed by the write statements marked $(1)$ and $(2)$ in the program if the variables are dynamically scoped?</p>\n<pre class=\"prettyprint lang-c_cpp\">Var x, y:interger; \nprocedure P(n:interger);\nbegin\n     x := (n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:interger;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x);                                __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \n    Write(x);                                   __(2)\nend.</pre>",
+      "rawQuestionHtml": "<p>For the program given below what will be printed by the write statements marked $(1)$ and $(2)$ in the program if the variables are dynamically scoped?</p>\n<pre class=\"prettyprint lang-c_cpp\">Var x, y:interger; \nprocedure P(n:interger);\nbegin\n     x := (n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:interger;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x);                                __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \n    Write(x);                                   __(2)\nend.</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3, 6$</li>\n<li>$6, 7$</li>\n<li>$3, 7$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$3, 6$",
+        "$6, 7$",
+        "$3, 7$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3, 6$",
+          "html": "$3, 6$"
+        },
+        {
+          "label": "B",
+          "text": "$6, 7$",
+          "html": "$6, 7$"
+        },
+        {
+          "label": "C",
+          "text": "$3, 7$",
+          "html": "$3, 7$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80374/gate-cse-1987-question-1-xx",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80374/gate-cse-1987-question-1-xx"
+    },
+    {
+      "id": "go:80377",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxi",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>If $a, b,$ and $c$ are constants, which of the following is a linear inequality?</p>",
+      "rawQuestionHtml": "<a name=\"80377\"></a><div itemprop=\"text\"><p>If $a, b,$ and $c$ are constants, which of the following is a linear inequality?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$ax+bcy=0$</li>\n\t<li>$ax^{2}+cy^{2}=21$</li>\n\t<li>$abx+a^{2}y \\geq 15$</li>\n\t<li>$xy+ax \\geq 20$</li>\n</ol></div>",
+      "options": [
+        "$ax+bcy=0$",
+        "$ax^{2}+cy^{2}=21$",
+        "$abx+a^{2}y \\geq 15$",
+        "$xy+ax \\geq 20$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$ax+bcy=0$",
+          "html": "$ax+bcy=0$"
+        },
+        {
+          "label": "B",
+          "text": "$ax^{2}+cy^{2}=21$",
+          "html": "$ax^{2}+cy^{2}=21$"
+        },
+        {
+          "label": "C",
+          "text": "$abx+a^{2}y \\geq 15$",
+          "html": "$abx+a^{2}y \\geq 15$"
+        },
+        {
+          "label": "D",
+          "text": "$xy+ax \\geq 20$",
+          "html": "$xy+ax \\geq 20$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80377/gate-cse-1987-question-1-xxi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80377/gate-cse-1987-question-1-xxi"
+    },
+    {
+      "id": "go:80379",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxii",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "MCQ",
+      "question": "<p>The equation $7x^{7}+14x^{6}+12x^{5}+3x^{4}+12x^{3}+10x^{2}+5x+7=0$ has</p>",
+      "rawQuestionHtml": "<p>The equation $7x^{7}+14x^{6}+12x^{5}+3x^{4}+12x^{3}+10x^{2}+5x+7=0$ has</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>All complex roots</li>\n<li>At least one real root</li>\n<li>Four pairs of imaginary roots</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "All complex roots",
+        "At least one real root",
+        "Four pairs of imaginary roots",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "All complex roots",
+          "html": "All complex roots"
+        },
+        {
+          "label": "B",
+          "text": "At least one real root",
+          "html": "At least one real root"
+        },
+        {
+          "label": "C",
+          "text": "Four pairs of imaginary roots",
+          "html": "Four pairs of imaginary roots"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80379/gate-cse-1987-question-1-xxii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80379/gate-cse-1987-question-1-xxii"
+    },
+    {
+      "id": "go:80380",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxiii",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>A square matrix is singular whenever </p>",
+      "rawQuestionHtml": "<p>A square matrix is singular whenever </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The rows are linearly independent</li>\n<li>The columns are linearly independent</li>\n<li>The row are linearly dependent</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "The rows are linearly independent",
+        "The columns are linearly independent",
+        "The row are linearly dependent",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The rows are linearly independent",
+          "html": "The rows are linearly independent"
+        },
+        {
+          "label": "B",
+          "text": "The columns are linearly independent",
+          "html": "The columns are linearly independent"
+        },
+        {
+          "label": "C",
+          "text": "The row are linearly dependent",
+          "html": "The row are linearly dependent"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80380/gate-cse-1987-question-1-xxiii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80380/gate-cse-1987-question-1-xxiii"
+    },
+    {
+      "id": "go:80559",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxiv",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The simplex method is so named because&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"80559\"></a><div itemprop=\"text\"><p>The simplex method is so named because&nbsp;</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>It is simple.</li>\n\t<li>It is based on the theory of algebraic complexes.</li>\n\t<li>The simple pendulum works on this method.</li>\n\t<li>No one thought of a&nbsp;better&nbsp;name.</li>\n</ol></div>",
+      "options": [
+        "It is simple.",
+        "It is based on the theory of algebraic complexes.",
+        "The simple pendulum works on this method.",
+        "No one thought of a better name."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It is simple.",
+          "html": "It is simple."
+        },
+        {
+          "label": "B",
+          "text": "It is based on the theory of algebraic complexes.",
+          "html": "It is based on the theory of algebraic complexes."
+        },
+        {
+          "label": "C",
+          "text": "The simple pendulum works on this method.",
+          "html": "The simple pendulum works on this method."
+        },
+        {
+          "label": "D",
+          "text": "No one thought of a better name.",
+          "html": "No one thought of a&nbsp;better&nbsp;name."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80559/gate-cse-1987-question-1-xxiv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80559/gate-cse-1987-question-1-xxiv"
+    },
+    {
+      "id": "go:80562",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxv",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is true in respect of the convergence of the Newton-Rephson procedure?</p>",
+      "rawQuestionHtml": "<a name=\"80562\"></a><div itemprop=\"text\"><p>Which of the following statements is true in respect of the convergence of the Newton-Rephson procedure?</p>\n\n<ol style=\"list-style-type: upper-alpha;\">\n\t<li>It converges always under all circumstances.</li>\n\t<li>It does not converge to a tool where the second differential coefficient changes sign.</li>\n\t<li>It does not converge to a root where the second differential coefficient vanishes.</li>\n\t<li>None of the above.</li>\n</ol></div>",
+      "options": [
+        "It converges always under all circumstances.",
+        "It does not converge to a tool where the second differential coefficient changes sign.",
+        "It does not converge to a root where the second differential coefficient vanishes.",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It converges always under all circumstances.",
+          "html": "It converges always under all circumstances."
+        },
+        {
+          "label": "B",
+          "text": "It does not converge to a tool where the second differential coefficient changes sign.",
+          "html": "It does not converge to a tool where the second differential coefficient changes sign."
+        },
+        {
+          "label": "C",
+          "text": "It does not converge to a root where the second differential coefficient vanishes.",
+          "html": "It does not converge to a root where the second differential coefficient vanishes."
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80562/gate-cse-1987-question-1-xxv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80562/gate-cse-1987-question-1-xxv"
+    },
+    {
+      "id": "go:80571",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 1-xxvi",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "MCQ",
+      "question": "<p>If $f(x_{i}).f(x_{i+1})&lt; 0$ then</p>",
+      "rawQuestionHtml": "<p>If $f(x_{i}).f(x_{i+1})&lt; 0$ then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>There must be a root of $f(x)$ between $x_i$ and $x_{i+1}$</li>\n<li>There need not be a root of $f(x)$ between $x_{i}$ and $x_{i+1}$</li>\n<li>There fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i}$</li>\n<li>The fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i+1}$</li>\n</ol>",
+      "options": [
+        "There must be a root of $f(x)$ between $x_i$ and $x_{i+1}$",
+        "There need not be a root of $f(x)$ between $x_{i}$ and $x_{i+1}$",
+        "There fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i}$",
+        "The fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i+1}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "There must be a root of $f(x)$ between $x_i$ and $x_{i+1}$",
+          "html": "There must be a root of $f(x)$ between $x_i$ and $x_{i+1}$"
+        },
+        {
+          "label": "B",
+          "text": "There need not be a root of $f(x)$ between $x_{i}$ and $x_{i+1}$",
+          "html": "There need not be a root of $f(x)$ between $x_{i}$ and $x_{i+1}$"
+        },
+        {
+          "label": "C",
+          "text": "There fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i}$",
+          "html": "There fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i}$"
+        },
+        {
+          "label": "D",
+          "text": "The fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i+1}$",
+          "html": "The fourth derivative of $f(x)$ with respect to $x$ vanishes at $x_{i+1}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80571/gate-cse-1987-question-1-xxvi",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80571/gate-cse-1987-question-1-xxvi"
+    },
+    {
+      "id": "go:80590",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2i",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nAll subsets of regular sets are regular.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nAll subsets of regular sets are regular.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80590/gate-cse-1987-question-2i",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80590/gate-cse-1987-question-2i"
+    },
+    {
+      "id": "go:80603",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2l",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "NAT",
+      "question": "State whether the following statement are TRUE or FALSE.<br/>\n<br/>\n$A$ is recursive if both $A$ and its complement are accepted by Turing machines.",
+      "rawQuestionHtml": "State whether the following statement are TRUE or FALSE.<br/>\n<br/>\n$A$ is recursive if both $A$ and its complement are accepted by Turing machines.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80603/gate-cse-1987-question-2l",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80603/gate-cse-1987-question-2l"
+    },
+    {
+      "id": "go:80579",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2c",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nIt is possible to construct a binary tree uniquely whose pre-order and post-order traversals are given?",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nIt is possible to construct a binary tree uniquely whose pre-order and post-order traversals are given?",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80579/gate-cse-1987-question-2c",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80579/gate-cse-1987-question-2c"
+    },
+    {
+      "id": "go:80583",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2d",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe union of two equivalence relations is also an equivalence relation.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe union of two equivalence relations is also an equivalence relation.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80583/gate-cse-1987-question-2d",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80583/gate-cse-1987-question-2d"
+    },
+    {
+      "id": "go:80606",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2m",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe problem as to whether a Turing machine $M$ accepts input $w$ is undecidable.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe problem as to whether a Turing machine $M$ accepts input $w$ is undecidable.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80606/gate-cse-1987-question-2m",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80606/gate-cse-1987-question-2m"
+    },
+    {
+      "id": "go:80572",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2a",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE<br/>\n<br/>\nIn a microprocessor-based system, if a bus (DMA) request and an interrupt request arrive sumultaneously, the microprocessor attends first to the bus request.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE<br/>\n<br/>\nIn a microprocessor-based system, if a bus (DMA) request and an interrupt request arrive sumultaneously, the microprocessor attends first to the bus request.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80572/gate-cse-1987-question-2a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80572/gate-cse-1987-question-2a"
+    },
+    {
+      "id": "go:80576",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2b",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nData transfer between a microprocessor and an I/O device is usually faster in memory-mapped-I/O scheme than in I/O-mapped -I/O scheme.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nData transfer between a microprocessor and an I/O device is usually faster in memory-mapped-I/O scheme than in I/O-mapped -I/O scheme.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80576/gate-cse-1987-question-2b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80576/gate-cse-1987-question-2b"
+    },
+    {
+      "id": "go:80588",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2g",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nIf the number of leaves in a tree is not a power of $2,$ then the tree is not a binary tree.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nIf the number of leaves in a tree is not a power of $2,$ then the tree is not a binary tree.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80588/gate-cse-1987-question-2g",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80588/gate-cse-1987-question-2g"
+    },
+    {
+      "id": "go:80589",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2h",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nRegularity is preserved under the operation of string reversal.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nRegularity is preserved under the operation of string reversal.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80589/gate-cse-1987-question-2h",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80589/gate-cse-1987-question-2h"
+    },
+    {
+      "id": "go:80594",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2j",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nA minimal DFA that is equivalent to an NDFA with $n$ nodes has always $2^{n}$ states.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nA minimal DFA that is equivalent to an NDFA with $n$ nodes has always $2^{n}$ states.\n<ol style=\"list-style-type:upper-alpha\">\n<li>TRUE</li>\n<li>FALSE</li>\n</ol>",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "TRUE",
+          "html": "TRUE"
+        },
+        {
+          "label": "B",
+          "text": "FALSE",
+          "html": "FALSE"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80594/gate-cse-1987-question-2j",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80594/gate-cse-1987-question-2j"
+    },
+    {
+      "id": "go:80599",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2k",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe intersection of two CFL's is also a CFL.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nThe intersection of two CFL's is also a CFL.\n<ol style=\"list-style-type:upper-alpha\">\n<li>TRUE</li>\n<li>FALSE</li>\n</ol>",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "TRUE",
+          "html": "TRUE"
+        },
+        {
+          "label": "B",
+          "text": "FALSE",
+          "html": "FALSE"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80599/gate-cse-1987-question-2k",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80599/gate-cse-1987-question-2k"
+    },
+    {
+      "id": "go:80609",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 2n",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nA relation $r$ with schema $(X, Y)$ satisfies the function dependency $X \\rightarrow Y$, The tuples $\\langle 1, 2\\rangle$ and $\\langle 2, 2 \\rangle$ can both be in $r$ simultaneously.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE:<br/>\n<br/>\nA relation $r$ with schema $(X, Y)$ satisfies the function dependency $X \\rightarrow Y$, The tuples $\\langle 1, 2\\rangle$ and $\\langle 2, 2 \\rangle$ can both be in $r$ simultaneously.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/80609/gate-cse-1987-question-2n",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/80609/gate-cse-1987-question-2n"
+    },
+    {
+      "id": "go:82548",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 11a",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Given $f(300)=2,4771; f(304) = 2.4829; f(305) = 2.4843$ and $f(307) = 2.4871$ find $f(301)$ using Lagrange's interpolation formula.",
+      "rawQuestionHtml": "<a name=\"82548\"></a><div itemprop=\"text\">Given $f(300)=2,4771; f(304) = 2.4829; f(305) = 2.4843$ and $f(307) = 2.4871$ find $f(301)$ using Lagrange's interpolation formula.</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2.4785971428571423"
+      ],
+      "tolerance": {
+        "abs": 0.001
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82548/gate-cse-1987-question-11a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82548/gate-cse-1987-question-11a"
+    },
+    {
+      "id": "go:82550",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 11b",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Use Simpson's rule with $h=0.25$ to evaluate $ V= \\int_{0}^{1} \\frac{1}{1+x} dx$ correct to three decimal places.",
+      "rawQuestionHtml": "<a name=\"82550\"></a><div itemprop=\"text\">Use Simpson's rule with $h=0.25$ to evaluate $ V= \\int_{0}^{1} \\frac{1}{1+x} dx$ correct to three decimal places.</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.693"
+      ],
+      "tolerance": {
+        "abs": 0.001
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82550/gate-cse-1987-question-11b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82550/gate-cse-1987-question-11b"
+    },
+    {
+      "id": "go:82556",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 12-a",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The Boolean expression $A \\oplus B \\oplus A$ is equivalent to</p>",
+      "rawQuestionHtml": "<p>The Boolean expression $A \\oplus B \\oplus A$ is equivalent to</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB + \\overline {A}\\;\\;\\overline B$</li>\n<li>$\\overline{A}\\;B+A\\;\\overline{B}$</li>\n<li>$B$</li>\n<li>$\\overline{A}$</li>\n</ol>",
+      "options": [
+        "$AB + \\overline {A}\\;\\;\\overline B$",
+        "$\\overline{A}\\;B+A\\;\\overline{B}$",
+        "$B$",
+        "$\\overline{A}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$AB + \\overline {A}\\;\\;\\overline B$",
+          "html": "$AB + \\overline {A}\\;\\;\\overline B$"
+        },
+        {
+          "label": "B",
+          "text": "$\\overline{A}\\;B+A\\;\\overline{B}$",
+          "html": "$\\overline{A}\\;B+A\\;\\overline{B}$"
+        },
+        {
+          "label": "C",
+          "text": "$B$",
+          "html": "$B$"
+        },
+        {
+          "label": "D",
+          "text": "$\\overline{A}$",
+          "html": "$\\overline{A}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82556/gate-cse-1987-question-12-a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82556/gate-cse-1987-question-12-a"
+    },
+    {
+      "id": "go:82607",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 13-a",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MCQ",
+      "question": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>",
+      "rawQuestionHtml": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$1111$</li>\n<li>$1001$</li>\n<li>$1000$</li>\n</ol>",
+      "options": [
+        "$0000$",
+        "$1111$",
+        "$1001$",
+        "$1000$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0000$",
+          "html": "$0000$"
+        },
+        {
+          "label": "B",
+          "text": "$1111$",
+          "html": "$1111$"
+        },
+        {
+          "label": "C",
+          "text": "$1001$",
+          "html": "$1001$"
+        },
+        {
+          "label": "D",
+          "text": "$1000$",
+          "html": "$1000$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82607/gate-cse-1987-question-13-a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82607/gate-cse-1987-question-13-a"
+    },
+    {
+      "id": "go:82656",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 15",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>",
+      "rawQuestionHtml": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0.5</li>\n<li>29</li>\n<li>2</li>\n<li>Any value</li>\n</ol>",
+      "options": [
+        "0.5",
+        "29",
+        "2",
+        "Any value"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "0.5",
+          "html": "0.5"
+        },
+        {
+          "label": "B",
+          "text": "29",
+          "html": "29"
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "label": "D",
+          "text": "Any value",
+          "html": "Any value"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82656/gate1987-15a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82656/gate1987-15a"
+    },
+    {
+      "id": "go:82698",
+      "testId": "gate-1987-s0",
+      "year": 1987,
+      "set": 1,
+      "yearSetKey": "1987-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 1987 | Question: 16-a",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>",
+      "rawQuestionHtml": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>\n</li>\n</ol>",
+      "options": [
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>"
+        },
+        {
+          "label": "B",
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>"
+        },
+        {
+          "label": "C",
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>"
+        },
+        {
+          "label": "D",
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/82698/gate-cse-1987-question-16-a",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/82698/gate-cse-1987-question-16-a"
+    }
+  ]
+}

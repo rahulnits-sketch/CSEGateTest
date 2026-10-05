@@ -1,0 +1,1690 @@
+{
+  "id": "gate-1994-s0",
+  "yearSetKey": "1994-s0",
+  "year": 1994,
+  "set": 1,
+  "title": "GATE CSE 1994",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 49,
+  "totalQuestions": 37,
+  "gaQuestions": 0,
+  "csQuestions": 37,
+  "questions": [
+    {
+      "id": "go:2437",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.1",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>FORTRAN implementation do not permit recursion because</p>",
+      "rawQuestionHtml": "<p>FORTRAN implementation do not permit recursion because</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>they use static allocation for variables</p>\n</li>\n<li>\n<p>they use dynamic allocation for variables</p>\n</li>\n<li>\n<p>stacks are not available on all machines</p>\n</li>\n<li>\n<p>it is not possible to implement recursion on all machines</p>\n</li>\n</ol>",
+      "options": [
+        "they use static allocation for variables",
+        "they use dynamic allocation for variables",
+        "stacks are not available on all machines",
+        "it is not possible to implement recursion on all machines"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "they use static allocation for variables",
+          "html": "<p>they use static allocation for variables</p>"
+        },
+        {
+          "label": "B",
+          "text": "they use dynamic allocation for variables",
+          "html": "<p>they use dynamic allocation for variables</p>"
+        },
+        {
+          "label": "C",
+          "text": "stacks are not available on all machines",
+          "html": "<p>stacks are not available on all machines</p>"
+        },
+        {
+          "label": "D",
+          "text": "it is not possible to implement recursion on all machines",
+          "html": "<p>it is not possible to implement recursion on all machines</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2437/gate-cse-1994-question-1-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2437/gate-cse-1994-question-1-1"
+    },
+    {
+      "id": "go:2438",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Let $A$ and $B$ be real symmetric matrices of size $n \\times n$. Then which one of the following is true?</p>",
+      "rawQuestionHtml": "<p>Let $A$ and $B$ be real symmetric matrices of size $n \\times n$. Then which one of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AA'=I$</li>\n<li>$A=A^{-1}$</li>\n<li>$AB=BA$</li>\n<li>$(AB)'=BA$</li>\n</ol>",
+      "options": [
+        "$AA'=I$",
+        "$A=A^{-1}$",
+        "$AB=BA$",
+        "$(AB)'=BA$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$AA'=I$",
+          "html": "$AA'=I$"
+        },
+        {
+          "label": "B",
+          "text": "$A=A^{-1}$",
+          "html": "$A=A^{-1}$"
+        },
+        {
+          "label": "C",
+          "text": "$AB=BA$",
+          "html": "$AB=BA$"
+        },
+        {
+          "label": "D",
+          "text": "$(AB)'=BA$",
+          "html": "$(AB)'=BA$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2438/gate-cse-1994-question-1-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2438/gate-cse-1994-question-1-2"
+    },
+    {
+      "id": "go:2439",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Backward Euler method for solving the differential equation $\\frac{dy}{dx}=f(x, y)$ is specified by, (choose one of the following).</p>",
+      "rawQuestionHtml": "<a name=\"2439\"></a><div itemprop=\"text\"><p>Backward Euler method for solving the differential equation $\\frac{dy}{dx}=f(x, y)$ is specified by, (choose one of the following).</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>\n\t<p>$y_{n+1}=y_n+hf(x_n, y_n)$</p>\n\t</li>\n\t<li>\n\t<p>$y_{n+1}=y_n+hf(x_{n+1}, y_{n+1})$</p>\n\t</li>\n\t<li>\n\t<p>$y_{n+1}=y_{n-1}+2hf(x_n, y_n)$</p>\n\t</li>\n\t<li>\n\t<p>$y_{n+1}= (1+h)f(x_{n+1}, y_{n+1})$</p>\n\t</li>\n</ol></div>",
+      "options": [
+        "$y_{n+1}=y_n+hf(x_n, y_n)$",
+        "$y_{n+1}=y_n+hf(x_{n+1}, y_{n+1})$",
+        "$y_{n+1}=y_{n-1}+2hf(x_n, y_n)$",
+        "$y_{n+1}= (1+h)f(x_{n+1}, y_{n+1})$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$y_{n+1}=y_n+hf(x_n, y_n)$",
+          "html": "<p>$y_{n+1}=y_n+hf(x_n, y_n)$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$y_{n+1}=y_n+hf(x_{n+1}, y_{n+1})$",
+          "html": "<p>$y_{n+1}=y_n+hf(x_{n+1}, y_{n+1})$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$y_{n+1}=y_{n-1}+2hf(x_n, y_n)$",
+          "html": "<p>$y_{n+1}=y_{n-1}+2hf(x_n, y_n)$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$y_{n+1}= (1+h)f(x_{n+1}, y_{n+1})$",
+          "html": "<p>$y_{n+1}= (1+h)f(x_{n+1}, y_{n+1})$</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2439/gate-cse-1994-question-1-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2439/gate-cse-1994-question-1-3"
+    },
+    {
+      "id": "go:2441",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.4, ISRO2017-2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Let $A$ and $B$ be any two arbitrary events, then, which one of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>Let $A$ and $B$ be any two arbitrary events, then, which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P (A \\cap B) = P(A)P(B)$</li>\n<li>$P (A \\cup B) = P(A)+P(B)$</li>\n<li>$P (A \\mid B) = P(A \\cap B)P(B)$</li>\n<li>$P (A \\cup B) \\leq P(A) + P(B)$</li>\n</ol>",
+      "options": [
+        "$P (A \\cap B) = P(A)P(B)$",
+        "$P (A \\cup B) = P(A)+P(B)$",
+        "$P (A \\mid B) = P(A \\cap B)P(B)$",
+        "$P (A \\cup B) \\leq P(A) + P(B)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P (A \\cap B) = P(A)P(B)$",
+          "html": "$P (A \\cap B) = P(A)P(B)$"
+        },
+        {
+          "label": "B",
+          "text": "$P (A \\cup B) = P(A)+P(B)$",
+          "html": "$P (A \\cup B) = P(A)+P(B)$"
+        },
+        {
+          "label": "C",
+          "text": "$P (A \\mid B) = P(A \\cap B)P(B)$",
+          "html": "$P (A \\mid B) = P(A \\cap B)P(B)$"
+        },
+        {
+          "label": "D",
+          "text": "$P (A \\cup B) \\leq P(A) + P(B)$",
+          "html": "$P (A \\cup B) \\leq P(A) + P(B)$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2441/gate-cse-1994-question-1-4-isro2017-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2441/gate-cse-1994-question-1-4-isro2017-2"
+    },
+    {
+      "id": "go:2442",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.5",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>An unrestricted use of the \"$goto$\" statement is harmful because</p>",
+      "rawQuestionHtml": "<p>An unrestricted use of the \"$goto$\" statement is harmful because</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>it makes it more difficult to verify programs</li>\n<li>it increases the running time of the programs</li>\n<li>it increases the memory required for the programs</li>\n<li>it results in the compiler generating longer machine code</li>\n</ol>",
+      "options": [
+        "it makes it more difficult to verify programs",
+        "it increases the running time of the programs",
+        "it increases the memory required for the programs",
+        "it results in the compiler generating longer machine code"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "it makes it more difficult to verify programs",
+          "html": "it makes it more difficult to verify programs"
+        },
+        {
+          "label": "B",
+          "text": "it increases the running time of the programs",
+          "html": "it increases the running time of the programs"
+        },
+        {
+          "label": "C",
+          "text": "it increases the memory required for the programs",
+          "html": "it increases the memory required for the programs"
+        },
+        {
+          "label": "D",
+          "text": "it results in the compiler generating longer machine code",
+          "html": "it results in the compiler generating longer machine code"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2442/gate-cse-1994-question-1-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2442/gate-cse-1994-question-1-5"
+    },
+    {
+      "id": "go:2443",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.6, ISRO2008-29",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>The number of distinct simple graphs with up to three nodes is</p>",
+      "rawQuestionHtml": "<p>The number of distinct simple graphs with up to three nodes is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$15$</li>\n<li>$10$</li>\n<li>$7$</li>\n<li>$9$</li>\n</ol>",
+      "options": [
+        "$15$",
+        "$10$",
+        "$7$",
+        "$9$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$15$",
+          "html": "$15$"
+        },
+        {
+          "label": "B",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "C",
+          "text": "$7$",
+          "html": "$7$"
+        },
+        {
+          "label": "D",
+          "text": "$9$",
+          "html": "$9$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2443/gate-cse-1994-question-1-6-isro2008-29",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2443/gate-cse-1994-question-1-6-isro2008-29"
+    },
+    {
+      "id": "go:2444",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.7, ISRO2017-14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>The recurrence relation that arises in relation with the complexity of binary search is:</p>",
+      "rawQuestionHtml": "<p>The recurrence relation that arises in relation with the complexity of binary search is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$T(n) = 2T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$</p>\n</li>\n<li>\n<p>$T(n) = T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$</p>\n</li>\n<li>\n<p>$T(n) = T\\left(\\frac{n}{2}\\right)+\\log n$</p>\n</li>\n<li>\n<p>$T(n) = T\\left(\\frac{n}{2}\\right)+n$</p>\n</li>\n</ol>",
+      "options": [
+        "$T(n) = 2T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$",
+        "$T(n) = T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$",
+        "$T(n) = T\\left(\\frac{n}{2}\\right)+\\log n$",
+        "$T(n) = T\\left(\\frac{n}{2}\\right)+n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$T(n) = 2T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$",
+          "html": "<p>$T(n) = 2T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$T(n) = T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$",
+          "html": "<p>$T(n) = T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$T(n) = T\\left(\\frac{n}{2}\\right)+\\log n$",
+          "html": "<p>$T(n) = T\\left(\\frac{n}{2}\\right)+\\log n$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$T(n) = T\\left(\\frac{n}{2}\\right)+n$",
+          "html": "<p>$T(n) = T\\left(\\frac{n}{2}\\right)+n$</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2444/gate-cse-1994-question-1-7-isro2017-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2444/gate-cse-1994-question-1-7-isro2017-14"
+    },
+    {
+      "id": "go:2445",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.8",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/Gate_QA/question-images/9049819705361334855.webp\" width=\"523\"/></p>",
+      "rawQuestionHtml": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/Gate_QA/question-images/9049819705361334855.webp\" width=\"523\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\overline{AC} + \\overline{BC} +CD$</p>\n</li>\n<li>\n<p>$\\overline{A}C + \\overline{B}C + CD$</p>\n</li>\n<li>\n<p>$ABC +\\overline {C}\\; \\overline{D}$</p>\n</li>\n<li>\n<p>$\\overline{A}\\; \\overline{B} + \\overline{B}\\;  \\overline{C} +CD$</p>\n</li>\n</ol>",
+      "options": [
+        "$\\overline{AC} + \\overline{BC} +CD$",
+        "$\\overline{A}C + \\overline{B}C + CD$",
+        "$ABC +\\overline {C}\\; \\overline{D}$",
+        "$\\overline{A}\\; \\overline{B} + \\overline{B}\\; \\overline{C} +CD$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\overline{AC} + \\overline{BC} +CD$",
+          "html": "<p>$\\overline{AC} + \\overline{BC} +CD$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$\\overline{A}C + \\overline{B}C + CD$",
+          "html": "<p>$\\overline{A}C + \\overline{B}C + CD$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$ABC +\\overline {C}\\; \\overline{D}$",
+          "html": "<p>$ABC +\\overline {C}\\; \\overline{D}$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$\\overline{A}\\; \\overline{B} + \\overline{B}\\; \\overline{C} +CD$",
+          "html": "<p>$\\overline{A}\\; \\overline{B} + \\overline{B}\\;  \\overline{C} +CD$</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2445/gate-cse-1994-question-1-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2445/gate-cse-1994-question-1-8"
+    },
+    {
+      "id": "go:2446",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.9",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The rank of matrix $\\begin{bmatrix} 0 &amp; 0 &amp; -3 \\\\ 9 &amp; 3 &amp; 5 \\\\ 3 &amp; 1 &amp; 1 \\end{bmatrix}$ is:</p>",
+      "rawQuestionHtml": "<p>The rank of matrix $\\begin{bmatrix} 0 &amp; 0 &amp; -3 \\\\ 9 &amp; 3 &amp; 5 \\\\ 3 &amp; 1 &amp; 1 \\end{bmatrix}$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n</ol>",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2446/gate-cse-1994-question-1-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2446/gate-cse-1994-question-1-9"
+    },
+    {
+      "id": "go:2451",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.10",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Some group $(G, o)$ is known to be abelian. Then, which one of the following is true for $G$?</p>",
+      "rawQuestionHtml": "<p>Some group $(G, o)$ is known to be abelian. Then, which one of the following is true for $G$?</p>\n<ol style=\"list-style-type:upper-alpha\"><li>\n<p>$g=g^{-1} \\text{ for every } g \\in G$</p>\n</li>\n<li>\n<p>$g=g^2 \\text{ for every }g  \\in G$</p>\n</li>\n<li>\n<p>$(goh)^2 = g^2oh^2 \\text{ for every } g, h \\in G$</p>\n</li>\n<li>\n<p>$G$ is of finite order</p>\n</li>\n</ol>",
+      "options": [
+        "$g=g^{-1} \\text{ for every } g \\in G$",
+        "$g=g^2 \\text{ for every }g \\in G$",
+        "$(goh)^2 = g^2oh^2 \\text{ for every } g, h \\in G$",
+        "$G$ is of finite order"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$g=g^{-1} \\text{ for every } g \\in G$",
+          "html": "<p>$g=g^{-1} \\text{ for every } g \\in G$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$g=g^2 \\text{ for every }g \\in G$",
+          "html": "<p>$g=g^2 \\text{ for every }g  \\in G$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$(goh)^2 = g^2oh^2 \\text{ for every } g, h \\in G$",
+          "html": "<p>$(goh)^2 = g^2oh^2 \\text{ for every } g, h \\in G$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$G$ is of finite order",
+          "html": "<p>$G$ is of finite order</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2451/gate-cse-1994-question-1-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2451/gate-cse-1994-question-1-10"
+    },
+    {
+      "id": "go:2452",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.11",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>In a compact single dimensional array representation for lower triangular matrices (i.e all the elements above the diagonal are zero) of size $n \\times n$, non-zero elements, (i.e elements of lower triangle) of each row are stored one after another, starting from the first row, the index of the $(i, j)^{th}$ element of the lower triangular matrix in this new representation is:</p>",
+      "rawQuestionHtml": "<p>In a compact single dimensional array representation for lower triangular matrices (i.e all the elements above the diagonal are zero) of size $n \\times n$, non-zero elements, (i.e elements of lower triangle) of each row are stored one after another, starting from the first row, the index of the $(i, j)^{th}$ element of the lower triangular matrix in this new representation is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$i+j$</li>\n<li>$i+j-1$</li>\n<li>$(j-1)+\\frac{i(i-1)}{2}$</li>\n<li>$i+\\frac{j(j-1)}{2}$</li>\n</ol>",
+      "options": [
+        "$i+j$",
+        "$i+j-1$",
+        "$(j-1)+\\frac{i(i-1)}{2}$",
+        "$i+\\frac{j(j-1)}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$i+j$",
+          "html": "$i+j$"
+        },
+        {
+          "label": "B",
+          "text": "$i+j-1$",
+          "html": "$i+j-1$"
+        },
+        {
+          "label": "C",
+          "text": "$(j-1)+\\frac{i(i-1)}{2}$",
+          "html": "$(j-1)+\\frac{i(i-1)}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$i+\\frac{j(j-1)}{2}$",
+          "html": "$i+\\frac{j(j-1)}{2}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2452/gate-cse-1994-question-1-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2452/gate-cse-1994-question-1-11"
+    },
+    {
+      "id": "go:2453",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.12",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Syntax-Directed Translation & Intermediate Code",
+      "type": "MCQ",
+      "question": "<p>Generation of intermediate code based on an abstract machine model is useful in compilers because</p>",
+      "rawQuestionHtml": "<p>Generation of intermediate code based on an abstract machine model is useful in compilers because</p>\n<ol style=\"list-style-type: upper-alpha;\"><li>\n<p>it makes implementation of lexical analysis and syntax analysis easier</p>\n</li>\n<li>\n<p>syntax-directed translations can be written for intermediate code generation</p>\n</li>\n<li>\n<p>it enhances the portability of the front end of the compiler</p>\n</li>\n<li>\n<p>it is not possible to generate code for real machines directly from high level language programs</p>\n</li>\n</ol>",
+      "options": [
+        "it makes implementation of lexical analysis and syntax analysis easier",
+        "syntax-directed translations can be written for intermediate code generation",
+        "it enhances the portability of the front end of the compiler",
+        "it is not possible to generate code for real machines directly from high level language programs"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "it makes implementation of lexical analysis and syntax analysis easier",
+          "html": "<p>it makes implementation of lexical analysis and syntax analysis easier</p>"
+        },
+        {
+          "label": "B",
+          "text": "syntax-directed translations can be written for intermediate code generation",
+          "html": "<p>syntax-directed translations can be written for intermediate code generation</p>"
+        },
+        {
+          "label": "C",
+          "text": "it enhances the portability of the front end of the compiler",
+          "html": "<p>it enhances the portability of the front end of the compiler</p>"
+        },
+        {
+          "label": "D",
+          "text": "it is not possible to generate code for real machines directly from high level language programs",
+          "html": "<p>it is not possible to generate code for real machines directly from high level language programs</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2453/gate-cse-1994-question-1-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2453/gate-cse-1994-question-1-12"
+    },
+    {
+      "id": "go:2454",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.13",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>A memory page containing a heavily used variable that was initialized very early and is in constant use is removed then</p>",
+      "rawQuestionHtml": "<p>A memory page containing a heavily used variable that was initialized very early and is in constant use is removed then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>LRU page replacement algorithm is used</p>\n</li>\n<li>\n<p>FIFO page replacement algorithm is used</p>\n</li>\n<li>\n<p>LFU page replacement algorithm is used</p>\n</li>\n<li>\n<p>None of the above</p>\n</li>\n</ol>",
+      "options": [
+        "LRU page replacement algorithm is used",
+        "FIFO page replacement algorithm is used",
+        "LFU page replacement algorithm is used",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "LRU page replacement algorithm is used",
+          "html": "<p>LRU page replacement algorithm is used</p>"
+        },
+        {
+          "label": "B",
+          "text": "FIFO page replacement algorithm is used",
+          "html": "<p>FIFO page replacement algorithm is used</p>"
+        },
+        {
+          "label": "C",
+          "text": "LFU page replacement algorithm is used",
+          "html": "<p>LFU page replacement algorithm is used</p>"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "<p>None of the above</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2454/gate-cse-1994-question-1-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2454/gate-cse-1994-question-1-13"
+    },
+    {
+      "id": "go:2457",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Which of the following permutations can be obtained in the output (in the same order) using a stack assuming that the input is the sequence $\\text{1, 2, 3, 4, 5}$ in that order?</p>",
+      "rawQuestionHtml": "<p>Which of the following permutations can be obtained in the output (in the same order) using a stack assuming that the input is the sequence $\\text{1, 2, 3, 4, 5}$ in that order?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$\\text{3, 4, 5, 1, 2}$</li>\n<li>$\\text{3, 4, 5, 2, 1}$</li>\n<li>$\\text{1, 5, 2, 3, 4}$</li>\n<li>$\\text{5, 4, 3, 1, 2}$</li>\n</ol>",
+      "options": [
+        "$\\text{3, 4, 5, 1, 2}$",
+        "$\\text{3, 4, 5, 2, 1}$",
+        "$\\text{1, 5, 2, 3, 4}$",
+        "$\\text{5, 4, 3, 1, 2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{3, 4, 5, 1, 2}$",
+          "html": "$\\text{3, 4, 5, 1, 2}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{3, 4, 5, 2, 1}$",
+          "html": "$\\text{3, 4, 5, 2, 1}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{1, 5, 2, 3, 4}$",
+          "html": "$\\text{1, 5, 2, 3, 4}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{5, 4, 3, 1, 2}$",
+          "html": "$\\text{5, 4, 3, 1, 2}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2457/gate-cse-1994-question-1-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2457/gate-cse-1994-question-1-14"
+    },
+    {
+      "id": "go:2458",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.15",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>The number of substrings (of all lengths inclusive) that can be formed from a character string of length $n$ is</p>",
+      "rawQuestionHtml": "<p>The number of substrings (of all lengths inclusive) that can be formed from a character string of length $n$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$n$</li>\n<li>$n^2$</li>\n<li>$\\frac{n(n-1)}{2}$</li>\n<li>$\\frac{n(n+1)}{2}$</li>\n</ol>",
+      "options": [
+        "$n$",
+        "$n^2$",
+        "$\\frac{n(n-1)}{2}$",
+        "$\\frac{n(n+1)}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$n$",
+          "html": "$n$"
+        },
+        {
+          "label": "B",
+          "text": "$n^2$",
+          "html": "$n^2$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{n(n-1)}{2}$",
+          "html": "$\\frac{n(n-1)}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{n(n+1)}{2}$",
+          "html": "$\\frac{n(n+1)}{2}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2458/gate-cse-1994-question-1-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2458/gate-cse-1994-question-1-15"
+    },
+    {
+      "id": "go:2459",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.16",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Which of the following conversions is not possible (algorithmically)?</p>",
+      "rawQuestionHtml": "<p>Which of the following conversions is not possible (algorithmically)?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Regular grammar to context free grammar</p>\n</li>\n<li>\n<p>Non-deterministic FSA to deterministic FSA</p>\n</li>\n<li>\n<p>Non-deterministic PDA to deterministic PDA</p>\n</li>\n<li>\n<p>Non-deterministic Turing machine to deterministic Turing machine</p>\n</li>\n</ol>",
+      "options": [
+        "Regular grammar to context free grammar",
+        "Non-deterministic FSA to deterministic FSA",
+        "Non-deterministic PDA to deterministic PDA",
+        "Non-deterministic Turing machine to deterministic Turing machine"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Regular grammar to context free grammar",
+          "html": "<p>Regular grammar to context free grammar</p>"
+        },
+        {
+          "label": "B",
+          "text": "Non-deterministic FSA to deterministic FSA",
+          "html": "<p>Non-deterministic FSA to deterministic FSA</p>"
+        },
+        {
+          "label": "C",
+          "text": "Non-deterministic PDA to deterministic PDA",
+          "html": "<p>Non-deterministic PDA to deterministic PDA</p>"
+        },
+        {
+          "label": "D",
+          "text": "Non-deterministic Turing machine to deterministic Turing machine",
+          "html": "<p>Non-deterministic Turing machine to deterministic Turing machine</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2459/gate-cse-1994-question-1-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2459/gate-cse-1994-question-1-16"
+    },
+    {
+      "id": "go:2460",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.17, UGCNET-Sep2013-II: 32",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Linked lists are not suitable data structures for which one of the following problems?</p>",
+      "rawQuestionHtml": "<p>Linked lists are not suitable data structures for which one of the following problems?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Insertion sort</p>\n</li>\n<li>\n<p>Binary search</p>\n</li>\n<li>\n<p>Radix sort</p>\n</li>\n<li>\n<p>Polynomial manipulation</p>\n</li>\n</ol>",
+      "options": [
+        "Insertion sort",
+        "Binary search",
+        "Radix sort",
+        "Polynomial manipulation"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Insertion sort",
+          "html": "<p>Insertion sort</p>"
+        },
+        {
+          "label": "B",
+          "text": "Binary search",
+          "html": "<p>Binary search</p>"
+        },
+        {
+          "label": "C",
+          "text": "Radix sort",
+          "html": "<p>Radix sort</p>"
+        },
+        {
+          "label": "D",
+          "text": "Polynomial manipulation",
+          "html": "<p>Polynomial manipulation</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2460/gate-cse-1994-question-1-17-ugcnet-sep2013-ii-32",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2460/gate-cse-1994-question-1-17-ugcnet-sep2013-ii-32"
+    },
+    {
+      "id": "go:2461",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.18",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Which of the following features cannot be captured by context-free grammars?</p>",
+      "rawQuestionHtml": "<p>Which of the following features cannot be captured by context-free grammars?</p>\n<ol style=\"list-style-type: upper-alpha;\"><li>\n<p>Syntax of if-then-else statements</p>\n</li>\n<li>\n<p>Syntax of recursive procedures</p>\n</li>\n<li>\n<p>Whether a variable has been declared before its use</p>\n</li>\n<li>\n<p>Variable names of arbitrary length</p>\n</li>\n</ol>",
+      "options": [
+        "Syntax of if-then-else statements",
+        "Syntax of recursive procedures",
+        "Whether a variable has been declared before its use",
+        "Variable names of arbitrary length"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Syntax of if-then-else statements",
+          "html": "<p>Syntax of if-then-else statements</p>"
+        },
+        {
+          "label": "B",
+          "text": "Syntax of recursive procedures",
+          "html": "<p>Syntax of recursive procedures</p>"
+        },
+        {
+          "label": "C",
+          "text": "Whether a variable has been declared before its use",
+          "html": "<p>Whether a variable has been declared before its use</p>"
+        },
+        {
+          "label": "D",
+          "text": "Variable names of arbitrary length",
+          "html": "<p>Variable names of arbitrary length</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2461/gate-cse-1994-question-1-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2461/gate-cse-1994-question-1-18"
+    },
+    {
+      "id": "go:2462",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.19, ISRO2016-31",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>Algorithm design technique used in quicksort algorithm is?</p>",
+      "rawQuestionHtml": "<p>Algorithm design technique used in quicksort algorithm is?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Dynamic programming</p>\n</li>\n<li>\n<p>Backtracking</p>\n</li>\n<li>\n<p>Divide and conquer</p>\n</li>\n<li>\n<p>Greedy method</p>\n</li>\n</ol>",
+      "options": [
+        "Dynamic programming",
+        "Backtracking",
+        "Divide and conquer",
+        "Greedy method"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Dynamic programming",
+          "html": "<p>Dynamic programming</p>"
+        },
+        {
+          "label": "B",
+          "text": "Backtracking",
+          "html": "<p>Backtracking</p>"
+        },
+        {
+          "label": "C",
+          "text": "Divide and conquer",
+          "html": "<p>Divide and conquer</p>"
+        },
+        {
+          "label": "D",
+          "text": "Greedy method",
+          "html": "<p>Greedy method</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2462/gate-cse-1994-question-1-19-isro2016-31",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2462/gate-cse-1994-question-1-19-isro2016-31"
+    },
+    {
+      "id": "go:305",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.20",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>In which of the following cases is it possible to obtain different results for call-by-reference and call-by-name parameter passing methods?</p>",
+      "rawQuestionHtml": "<p>In which of the following cases is it possible to obtain different results for call-by-reference and call-by-name parameter passing methods?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>Passing a constant value as a parameter</li>\n<li>Passing the address of an array as a parameter</li>\n<li>Passing an array element as a parameter</li>\n<li>Passing an array</li>\n</ol>",
+      "options": [
+        "Passing a constant value as a parameter",
+        "Passing the address of an array as a parameter",
+        "Passing an array element as a parameter",
+        "Passing an array"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Passing a constant value as a parameter",
+          "html": "Passing a constant value as a parameter"
+        },
+        {
+          "label": "B",
+          "text": "Passing the address of an array as a parameter",
+          "html": "Passing the address of an array as a parameter"
+        },
+        {
+          "label": "C",
+          "text": "Passing an array element as a parameter",
+          "html": "Passing an array element as a parameter"
+        },
+        {
+          "label": "D",
+          "text": "Passing an array",
+          "html": "Passing an array"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/305/gate-cse-1994-question-1-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/305/gate-cse-1994-question-1-20"
+    },
+    {
+      "id": "go:2464",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.21",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Which one of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Which one of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Macro definitions cannot appear within other macro definitions in assembly language programs</p>\n</li>\n<li>\n<p>Overlaying is used to run a program which is longer than the address space of a computer</p>\n</li>\n<li>\n<p>Virtual memory can be used to accommodate a program which is longer than the address space of a computer</p>\n</li>\n<li>\n<p>It is not possible to write interrupt service routines in a high level language</p>\n</li>\n</ol>",
+      "options": [
+        "Macro definitions cannot appear within other macro definitions in assembly language programs",
+        "Overlaying is used to run a program which is longer than the address space of a computer",
+        "Virtual memory can be used to accommodate a program which is longer than the address space of a computer",
+        "It is not possible to write interrupt service routines in a high level language"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Macro definitions cannot appear within other macro definitions in assembly language programs",
+          "html": "<p>Macro definitions cannot appear within other macro definitions in assembly language programs</p>"
+        },
+        {
+          "label": "B",
+          "text": "Overlaying is used to run a program which is longer than the address space of a computer",
+          "html": "<p>Overlaying is used to run a program which is longer than the address space of a computer</p>"
+        },
+        {
+          "label": "C",
+          "text": "Virtual memory can be used to accommodate a program which is longer than the address space of a computer",
+          "html": "<p>Virtual memory can be used to accommodate a program which is longer than the address space of a computer</p>"
+        },
+        {
+          "label": "D",
+          "text": "It is not possible to write interrupt service routines in a high level language",
+          "html": "<p>It is not possible to write interrupt service routines in a high level language</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2464/gate-cse-1994-question-1-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2464/gate-cse-1994-question-1-21"
+    },
+    {
+      "id": "go:2465",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.22",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is false?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is false?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Optimal binary search tree construction can be performed efficiently using dynamic programming</p>\n</li>\n<li>\n<p>Breadth-first search cannot be used to find connected components of a graph</p>\n</li>\n<li>\n<p>Given the prefix and postfix walks over a binary tree, the binary tree cannot be uniquely constructed.</p>\n</li>\n<li>\n<p>Depth-first search can be used to find connected components of a graph</p>\n</li>\n</ol>",
+      "options": [
+        "Optimal binary search tree construction can be performed efficiently using dynamic programming",
+        "Breadth-first search cannot be used to find connected components of a graph",
+        "Given the prefix and postfix walks over a binary tree, the binary tree cannot be uniquely constructed.",
+        "Depth-first search can be used to find connected components of a graph"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Optimal binary search tree construction can be performed efficiently using dynamic programming",
+          "html": "<p>Optimal binary search tree construction can be performed efficiently using dynamic programming</p>"
+        },
+        {
+          "label": "B",
+          "text": "Breadth-first search cannot be used to find connected components of a graph",
+          "html": "<p>Breadth-first search cannot be used to find connected components of a graph</p>"
+        },
+        {
+          "label": "C",
+          "text": "Given the prefix and postfix walks over a binary tree, the binary tree cannot be uniquely constructed.",
+          "html": "<p>Given the prefix and postfix walks over a binary tree, the binary tree cannot be uniquely constructed.</p>"
+        },
+        {
+          "label": "D",
+          "text": "Depth-first search can be used to find connected components of a graph",
+          "html": "<p>Depth-first search can be used to find connected components of a graph</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2465/gate-cse-1994-question-1-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2465/gate-cse-1994-question-1-22"
+    },
+    {
+      "id": "go:2466",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.23",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MSQ",
+      "question": "<p>Consider the following two functions:</p>\n<p>$g_1(n) = \\begin{cases} n^3 \\text{ for } 0 \\leq n \\leq 10,000 \\\\ n^2 \\text{ for } n &gt; 10,000 \\end{cases}$</p>\n<p>$g_2(n) = \\begin{cases} n \\text{ for } 0 \\leq n \\leq 100 \\\\ n^3 \\text{ for } n &gt; 100 \\end{cases}$</p>\n<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Consider the following two functions:</p>\n<p>$g_1(n) = \\begin{cases} n^3 \\text{ for } 0 \\leq n \\leq 10,000 \\\\ n^2 \\text{ for } n &gt; 10,000 \\end{cases}$</p>\n<p>$g_2(n) = \\begin{cases} n \\text{ for } 0 \\leq n \\leq 100 \\\\ n^3 \\text{ for } n &gt; 100 \\end{cases}$</p>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$g_1(n) \\text{ is } O(g_2(n))$</p>\n</li>\n<li>\n<p>$g_1(n) \\text{ is } O(n^3)$</p>\n</li>\n<li>\n<p>$g_2(n) \\text{ is } O(g_1(n))$</p>\n</li>\n<li>\n<p>$g_2(n) \\text{ is } O(n)$</p>\n</li>\n</ol>",
+      "options": [
+        "$g_1(n) \\text{ is } O(g_2(n))$",
+        "$g_1(n) \\text{ is } O(n^3)$",
+        "$g_2(n) \\text{ is } O(g_1(n))$",
+        "$g_2(n) \\text{ is } O(n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$g_1(n) \\text{ is } O(g_2(n))$",
+          "html": "<p>$g_1(n) \\text{ is } O(g_2(n))$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$g_1(n) \\text{ is } O(n^3)$",
+          "html": "<p>$g_1(n) \\text{ is } O(n^3)$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$g_2(n) \\text{ is } O(g_1(n))$",
+          "html": "<p>$g_2(n) \\text{ is } O(g_1(n))$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$g_2(n) \\text{ is } O(n)$",
+          "html": "<p>$g_2(n) \\text{ is } O(n)$</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2466/gate-cse-1994-question-1-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2466/gate-cse-1994-question-1-23"
+    },
+    {
+      "id": "go:2467",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 1.24",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Consider the following heap (figure) in which blank regions are not in use and hatched region are in use.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9450262757528095103.webp\" width=\"540\"/></p>\n<p>The sequence of requests for blocks of sizes $300, 25, 125, 50$ can be satisfied if we use</p>",
+      "rawQuestionHtml": "<p>Consider the following heap (figure) in which blank regions are not in use and hatched region are in use.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9450262757528095103.webp\" width=\"540\"/></p>\n<p>The sequence of requests for blocks of sizes $300, 25, 125, 50$ can be satisfied if we use</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li>\n<p>either first fit or best fit policy (any one)</p>\n</li>\n<li>\n<p>first fit but not best fit policy</p>\n</li>\n<li>\n<p>best fit but not first fit policy</p>\n</li>\n<li>\n<p>None of the above</p>\n</li>\n</ol>",
+      "options": [
+        "either first fit or best fit policy (any one)",
+        "first fit but not best fit policy",
+        "best fit but not first fit policy",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "either first fit or best fit policy (any one)",
+          "html": "<p>either first fit or best fit policy (any one)</p>"
+        },
+        {
+          "label": "B",
+          "text": "first fit but not best fit policy",
+          "html": "<p>first fit but not best fit policy</p>"
+        },
+        {
+          "label": "C",
+          "text": "best fit but not first fit policy",
+          "html": "<p>best fit but not first fit policy</p>"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "<p>None of the above</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2467/gate-cse-1994-question-1-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2467/gate-cse-1994-question-1-24"
+    },
+    {
+      "id": "go:2475",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 2.8",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "Let $A, B,$ and $C$ be independent events which occur with probabilities $0.8, 0.5,$ and $0.3$ respectively. The probability of occurrence of at least one of the event is _______",
+      "rawQuestionHtml": "Let $A, B,$ and $C$ be independent events which occur with probabilities $0.8, 0.5,$ and $0.3$ respectively. The probability of occurrence of at least one of the event is _______",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0.93"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2475/gate-cse-1994-question-2-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2475/gate-cse-1994-question-2-8"
+    },
+    {
+      "id": "go:2476",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 2.9",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "NAT",
+      "question": "The Hasse diagrams of all the lattices with up to four elements are ________ (write all the relevant Hasse diagrams)",
+      "rawQuestionHtml": "The Hasse diagrams of all the lattices with up to four elements are ________ (write all the relevant Hasse diagrams)",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "5"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2476/gate-cse-1994-question-2-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2476/gate-cse-1994-question-2-9"
+    },
+    {
+      "id": "go:2478",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.1",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/17546872743242537328.webp\" style=\"height:62px; width:600px\"></p>",
+      "rawQuestionHtml": "<a name=\"2478\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17546872743242537328.webp\" style=\"height:62px; width:600px\"></p>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2478/gate-cse-1994-question-3-1",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2478/gate-cse-1994-question-3-1"
+    },
+    {
+      "id": "go:2479",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.2",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "NAT",
+      "question": "State True or False with one line explanation<br/>\n<br/>\nExpanding opcode instruction formats are commonly employed in RISC. (Reduced Instruction Set Computers) machines.",
+      "rawQuestionHtml": "State True or False with one line explanation<br/>\n<br/>\nExpanding opcode instruction formats are commonly employed in RISC. (Reduced Instruction Set Computers) machines.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2479/gate-cse-1994-question-3-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2479/gate-cse-1994-question-3-2"
+    },
+    {
+      "id": "go:2480",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.3",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "State True or False with one line explanation<br/>\n<br/>\nA FSM (Finite State Machine) can be designed to add two integers of any arbitrary length (arbitrary number of digits).",
+      "rawQuestionHtml": "State True or False with one line explanation<br/>\n<br/>\nA FSM (Finite State Machine) can be designed to add two integers of any arbitrary length (arbitrary number of digits).",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2480/gate-cse-1994-question-3-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2480/gate-cse-1994-question-3-3"
+    },
+    {
+      "id": "go:2481",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.4",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Match the following items</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>(i) Newton-Raphson</td>\n\t\t\t<td>(a) Integration</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(ii) Runge-Kutta</td>\n\t\t\t<td>(b) Root finding</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(iii) Gauss-Seidel</td>\n\t\t\t<td>(c) Ordinary Differential Equations</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(iv) Simpson's Rule</td>\n\t\t\t<td>(d) Solution of Systems of Linear Equations</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+      "rawQuestionHtml": "<a name=\"2481\"></a><div itemprop=\"text\"><p>Match the following items</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>(i) Newton-Raphson</td>\n\t\t\t<td>(a) Integration</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(ii) Runge-Kutta</td>\n\t\t\t<td>(b) Root finding</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(iii) Gauss-Seidel</td>\n\t\t\t<td>(c) Ordinary Differential Equations</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(iv) Simpson's Rule</td>\n\t\t\t<td>(d) Solution of Systems of Linear Equations</td>\n\t\t</tr>\n\t</tbody>\n</table></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2481/gate-cse-1994-question-3-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2481/gate-cse-1994-question-3-4"
+    },
+    {
+      "id": "go:2492",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.6",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "NAT",
+      "question": "State True or False with reason<br/>\n<br/>\nThere is always a decomposition into Boyce-Codd normal form (BCNF) that is lossless and dependency preserving.",
+      "rawQuestionHtml": "State True or False with reason<br/>\n<br/>\nThere is always a decomposition into Boyce-Codd normal form (BCNF) that is lossless and dependency preserving.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2492/gate-cse-1994-question-3-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2492/gate-cse-1994-question-3-6"
+    },
+    {
+      "id": "go:2495",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.9",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "NAT",
+      "question": "Every subset of a countable set is countable.<br/>\n<br/>\nState whether the above statement is true or false with reason.",
+      "rawQuestionHtml": "Every subset of a countable set is countable.<br/>\n<br/>\nState whether the above statement is true or false with reason.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2495/gate-cse-1994-question-3-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2495/gate-cse-1994-question-3-9"
+    },
+    {
+      "id": "go:2496",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.10",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Match the following items</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\"><tbody><tr><td style=\"width: 81px;\">(i) ECL</td>\n\t\t\t<td style=\"width: 406px;\">(a) Unipolar; very high speed; difficult to fabricate; good resistance to radiation</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(ii) Ga As</td>\n\t\t\t<td style=\"width: 406px;\">(b) Unipolar; low power; modest speed and packing density</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(iii) TTL</td>\n\t\t\t<td style=\"width: 406px;\">(c) Bipolar; highest speed silicon IC; low packing density</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(iv) CMOS</td>\n\t\t\t<td style=\"width: 406px;\">(d) Bipolar, modest packing density, inexpensive</td>\n\t\t</tr></tbody></table>",
+      "rawQuestionHtml": "<a name=\"2496\"></a><div itemprop=\"text\">\n<p>Match the following items</p>\n\n<table border=\"1\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\"><tbody><tr><td style=\"width: 81px;\">(i) ECL</td>\n\t\t\t<td style=\"width: 406px;\">(a) Unipolar; very high speed; difficult to fabricate; good resistance to radiation</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(ii) Ga As</td>\n\t\t\t<td style=\"width: 406px;\">(b) Unipolar; low power; modest speed and packing density</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(iii) TTL</td>\n\t\t\t<td style=\"width: 406px;\">(c) Bipolar; highest speed silicon IC; low packing density</td>\n\t\t</tr><tr><td style=\"width: 81px;\">(iv) CMOS</td>\n\t\t\t<td style=\"width: 406px;\">(d) Bipolar, modest packing density, inexpensive</td>\n\t\t</tr></tbody></table>\n</div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2496/gate-cse-1994-question-3-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2496/gate-cse-1994-question-3-10"
+    },
+    {
+      "id": "go:2497",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.11",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "NAT",
+      "question": "State True or False with reason<br/>\n<br/>\nLogical data independence is easier to achieve than physical data independence.",
+      "rawQuestionHtml": "State True or False with reason<br/>\n<br/>\nLogical data independence is easier to achieve than physical data independence.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2497/gate-cse-1994-question-3-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2497/gate-cse-1994-question-3-11"
+    },
+    {
+      "id": "go:2499",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 3.13",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "NAT",
+      "question": "<p>Let $p$ and $q$ be propositions. Using only the Truth Table, decide whether </p>\n<ul>\n<li>$p \\Longleftrightarrow q$ does not imply $p \\to \\lnot q$</li>\n</ul>\n<p>is <strong>True </strong>or <strong>False</strong>.</p>",
+      "rawQuestionHtml": "<p>Let $p$ and $q$ be propositions. Using only the Truth Table, decide whether </p>\n<ul>\n<li>$p \\Longleftrightarrow q$ does not imply $p \\to \\lnot q$</li>\n</ul>\n<p>is <strong>True </strong>or <strong>False</strong>.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2499/gate-cse-1994-question-3-13",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2499/gate-cse-1994-question-3-13"
+    },
+    {
+      "id": "go:2507",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 11",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
+      "rawQuestionHtml": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "11"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2507/gate-cse-1994-question-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2507/gate-cse-1994-question-11"
+    },
+    {
+      "id": "go:2517",
+      "testId": "gate-1994-s0",
+      "year": 1994,
+      "set": 1,
+      "yearSetKey": "1994-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 1994 | Question: 21",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "NAT",
+      "question": "<p>Consider the following recursive function:</p>\n<pre class=\"prettyprint lang-c_cpp\">function fib (n:integer);integer;\nbegin\nif (n=0) or (n=1) then fib := 1\nelse fib := fib(n-1) + fib(n-2)\nend;</pre>\n<p>The above function is run on a computer with a stack of $64$ bytes. Assuming that only return address and parameter are passed on the stack, and that an integer value and an address takes $2$ bytes each, estimate the maximum value of $n$ for which the stack will not overflow. Give reasons for your answer.</p>",
+      "rawQuestionHtml": "<p>Consider the following recursive function:</p>\n<pre class=\"prettyprint lang-c_cpp\">function fib (n:integer);integer;\nbegin\nif (n=0) or (n=1) then fib := 1\nelse fib := fib(n-1) + fib(n-2)\nend;</pre>\n<p>The above function is run on a computer with a stack of $64$ bytes. Assuming that only return address and parameter are passed on the stack, and that an integer value and an address takes $2$ bytes each, estimate the maximum value of $n$ for which the stack will not overflow. Give reasons for your answer.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "16"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/2517/gate-cse-1994-question-21",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/2517/gate-cse-1994-question-21"
+    }
+  ]
+}

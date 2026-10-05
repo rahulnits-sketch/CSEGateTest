@@ -1,0 +1,2867 @@
+{
+  "id": "gate-2001-s0",
+  "yearSetKey": "2001-s0",
+  "year": 2001,
+  "set": 1,
+  "title": "GATE CSE 2001",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 81,
+  "totalQuestions": 53,
+  "gaQuestions": 0,
+  "csQuestions": 53,
+  "questions": [
+    {
+      "id": "go:694",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.1",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Consider the following statements:</p>\n<ul>\n<li>S1: The sum of two singular $n \\times n$ matrices may be non-singular</li>\n<li>S2: The sum of two $n \\times n$ non-singular matrices may be singular</li>\n</ul>\n<p><br/>\nWhich one of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following statements:</p>\n<ul>\n<li>S1: The sum of two singular $n \\times n$ matrices may be non-singular</li>\n<li>S2: The sum of two $n \\times n$ non-singular matrices may be singular</li>\n</ul>\n<p><br/>\nWhich one of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S1$ and $S2$ both are true</li>\n<li>$S1$ is true, $S2$ is false</li>\n<li>$S1$ is false, $S2$ is true</li>\n<li>$S1$ and $S2$ both are false</li>\n</ol>",
+      "options": [
+        "$S1$ and $S2$ both are true",
+        "$S1$ is true, $S2$ is false",
+        "$S1$ is false, $S2$ is true",
+        "$S1$ and $S2$ both are false"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$S1$ and $S2$ both are true",
+          "html": "$S1$ and $S2$ both are true"
+        },
+        {
+          "label": "B",
+          "text": "$S1$ is true, $S2$ is false",
+          "html": "$S1$ is true, $S2$ is false"
+        },
+        {
+          "label": "C",
+          "text": "$S1$ is false, $S2$ is true",
+          "html": "$S1$ is false, $S2$ is true"
+        },
+        {
+          "label": "D",
+          "text": "$S1$ and $S2$ both are false",
+          "html": "$S1$ and $S2$ both are false"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/694/gate-cse-2001-question-1-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/694/gate-cse-2001-question-1-1"
+    },
+    {
+      "id": "go:695",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.2",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Consider the following relations:</p>\n<ul>\n<li>$R_1\\:(a,b)$ iff $(a+b)$ is even over the set of integers</li>\n<li>$R_2 \\:(a,b)$ iff $(a+b)$ is odd over the set of integers</li>\n<li>$R_3 \\:(a,b)$ iff $a.b &gt; 0$ over the set of non-zero rational numbers</li>\n<li>$R_4\\:(a,b)$ iff $|a-b| \\leq 2$ over the set of natural numbers</li>\n</ul>\n<p>Which of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following relations:</p>\n<ul>\n<li>$R_1\\:(a,b)$ iff $(a+b)$ is even over the set of integers</li>\n<li>$R_2 \\:(a,b)$ iff $(a+b)$ is odd over the set of integers</li>\n<li>$R_3 \\:(a,b)$ iff $a.b &gt; 0$ over the set of non-zero rational numbers</li>\n<li>$R_4\\:(a,b)$ iff $|a-b| \\leq 2$ over the set of natural numbers</li>\n</ul>\n<p>Which of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$R_1$ and $R_2$ are equivalence relations, $R_3$ and $R_4$ are not</li>\n<li>$R_1$ and $R_3$ are equivalence relations, $R_2$ and $R_4$ are not</li>\n<li>$R_1$ and $R_4$ are equivalence relations, $R_2$ and $R_3$ are not</li>\n<li>$R_1, R_2, R_3$ and $R_4$ all are equivalence relations</li>\n</ol>",
+      "options": [
+        "$R_1$ and $R_2$ are equivalence relations, $R_3$ and $R_4$ are not",
+        "$R_1$ and $R_3$ are equivalence relations, $R_2$ and $R_4$ are not",
+        "$R_1$ and $R_4$ are equivalence relations, $R_2$ and $R_3$ are not",
+        "$R_1, R_2, R_3$ and $R_4$ all are equivalence relations"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$R_1$ and $R_2$ are equivalence relations, $R_3$ and $R_4$ are not",
+          "html": "$R_1$ and $R_2$ are equivalence relations, $R_3$ and $R_4$ are not"
+        },
+        {
+          "label": "B",
+          "text": "$R_1$ and $R_3$ are equivalence relations, $R_2$ and $R_4$ are not",
+          "html": "$R_1$ and $R_3$ are equivalence relations, $R_2$ and $R_4$ are not"
+        },
+        {
+          "label": "C",
+          "text": "$R_1$ and $R_4$ are equivalence relations, $R_2$ and $R_3$ are not",
+          "html": "$R_1$ and $R_4$ are equivalence relations, $R_2$ and $R_3$ are not"
+        },
+        {
+          "label": "D",
+          "text": "$R_1, R_2, R_3$ and $R_4$ all are equivalence relations",
+          "html": "$R_1, R_2, R_3$ and $R_4$ all are equivalence relations"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/695/gate-cse-2001-question-1-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/695/gate-cse-2001-question-1-2"
+    },
+    {
+      "id": "go:696",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.3",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Consider two well-formed formulas in propositional logic<br/>\n<br/>\n$F_1: P \\Rightarrow \\neg P$          $F_2: (P \\Rightarrow \\neg P) \\lor ( \\neg P \\Rightarrow P)$<br/>\n<br/>\nWhich one of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>Consider two well-formed formulas in propositional logic<br/>\n<br/>\n$F_1: P \\Rightarrow \\neg P$          $F_2: (P \\Rightarrow \\neg P) \\lor ( \\neg P \\Rightarrow P)$<br/>\n<br/>\nWhich one of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$F_1$ is satisfiable, $F_2$ is valid</li>\n<li>$F_1$ unsatisfiable, $F_2$ is satisfiable</li>\n<li>$F_1$ is unsatisfiable, $F_2$ is valid</li>\n<li>$F_1$ and $F_2$ are both satisfiable</li>\n</ol>",
+      "options": [
+        "$F_1$ is satisfiable, $F_2$ is valid",
+        "$F_1$ unsatisfiable, $F_2$ is satisfiable",
+        "$F_1$ is unsatisfiable, $F_2$ is valid",
+        "$F_1$ and $F_2$ are both satisfiable"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$F_1$ is satisfiable, $F_2$ is valid",
+          "html": "$F_1$ is satisfiable, $F_2$ is valid"
+        },
+        {
+          "label": "B",
+          "text": "$F_1$ unsatisfiable, $F_2$ is satisfiable",
+          "html": "$F_1$ unsatisfiable, $F_2$ is satisfiable"
+        },
+        {
+          "label": "C",
+          "text": "$F_1$ is unsatisfiable, $F_2$ is valid",
+          "html": "$F_1$ is unsatisfiable, $F_2$ is valid"
+        },
+        {
+          "label": "D",
+          "text": "$F_1$ and $F_2$ are both satisfiable",
+          "html": "$F_1$ and $F_2$ are both satisfiable"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/696/gate-cse-2001-question-1-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/696/gate-cse-2001-question-1-3"
+    },
+    {
+      "id": "go:697",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.4",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the following two statements:<br/>\n<br/>\n$S_1: \\left\\{ 0^{2n} \\mid n \\geq 1 \\right\\}$ is a regular language<br/>\n<br/>\n$S_2: \\left\\{0^m1^n0^{m+n} \\mid m \\geq 1 \\text{ and } n \\geq 1 \\right\\}$ is a regular language<br/>\n<br/>\nWhich of the following statement is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following two statements:<br/>\n<br/>\n$S_1: \\left\\{ 0^{2n} \\mid n \\geq 1 \\right\\}$ is a regular language<br/>\n<br/>\n$S_2: \\left\\{0^m1^n0^{m+n} \\mid m \\geq 1 \\text{ and } n \\geq 1 \\right\\}$ is a regular language<br/>\n<br/>\nWhich of the following statement is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $S_1$ is correct</li>\n<li>Only $S_2$ is correct</li>\n<li>Both $S_1$ and $S_2$ are correct</li>\n<li>None of $S_1$ and $S_2$ is correct</li>\n</ol>",
+      "options": [
+        "Only $S_1$ is correct",
+        "Only $S_2$ is correct",
+        "Both $S_1$ and $S_2$ are correct",
+        "None of $S_1$ and $S_2$ is correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $S_1$ is correct",
+          "html": "Only $S_1$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Only $S_2$ is correct",
+          "html": "Only $S_2$ is correct"
+        },
+        {
+          "label": "C",
+          "text": "Both $S_1$ and $S_2$ are correct",
+          "html": "Both $S_1$ and $S_2$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "None of $S_1$ and $S_2$ is correct",
+          "html": "None of $S_1$ and $S_2$ is correct"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/697/gate-cse-2001-question-1-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/697/gate-cse-2001-question-1-4"
+    },
+    {
+      "id": "go:698",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.5",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>If a language is context free it can always be accepted by a deterministic push-down automaton</li>\n<li>The union of two context free languages is context free</li>\n<li>The intersection of two context free languages is a context free</li>\n<li>The complement of a context free language is a context free</li>\n</ol>",
+      "options": [
+        "If a language is context free it can always be accepted by a deterministic push-down automaton",
+        "The union of two context free languages is context free",
+        "The intersection of two context free languages is a context free",
+        "The complement of a context free language is a context free"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "If a language is context free it can always be accepted by a deterministic push-down automaton",
+          "html": "If a language is context free it can always be accepted by a deterministic push-down automaton"
+        },
+        {
+          "label": "B",
+          "text": "The union of two context free languages is context free",
+          "html": "The union of two context free languages is context free"
+        },
+        {
+          "label": "C",
+          "text": "The intersection of two context free languages is a context free",
+          "html": "The intersection of two context free languages is a context free"
+        },
+        {
+          "label": "D",
+          "text": "The complement of a context free language is a context free",
+          "html": "The complement of a context free language is a context free"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/698/gate-cse-2001-question-1-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/698/gate-cse-2001-question-1-5"
+    },
+    {
+      "id": "go:699",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.6",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Given an arbitrary non-deterministic finite automaton (NFA) with $N$ states, the maximum number of states in an equivalent minimized DFA at least</p>",
+      "rawQuestionHtml": "<p>Given an arbitrary non-deterministic finite automaton (NFA) with $N$ states, the maximum number of states in an equivalent minimized DFA at least</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$N^2$</li>\n<li>$2^N$</li>\n<li>$2N$</li>\n<li>$N!$</li>\n</ol>",
+      "options": [
+        "$N^2$",
+        "$2^N$",
+        "$2N$",
+        "$N!$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$N^2$",
+          "html": "$N^2$"
+        },
+        {
+          "label": "B",
+          "text": "$2^N$",
+          "html": "$2^N$"
+        },
+        {
+          "label": "C",
+          "text": "$2N$",
+          "html": "$2N$"
+        },
+        {
+          "label": "D",
+          "text": "$N!$",
+          "html": "$N!$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/699/gate-cse-2001-question-1-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/699/gate-cse-2001-question-1-6"
+    },
+    {
+      "id": "go:700",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.7, ISRO2008-18",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>More than one word are put in one cache block to:</p>",
+      "rawQuestionHtml": "<p>More than one word are put in one cache block to:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>exploit the temporal locality of reference in a program</li>\n<li>exploit the spatial locality of reference in a program</li>\n<li>reduce the miss penalty</li>\n<li>none of the above</li>\n</ol>",
+      "options": [
+        "exploit the temporal locality of reference in a program",
+        "exploit the spatial locality of reference in a program",
+        "reduce the miss penalty",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "exploit the temporal locality of reference in a program",
+          "html": "exploit the temporal locality of reference in a program"
+        },
+        {
+          "label": "B",
+          "text": "exploit the spatial locality of reference in a program",
+          "html": "exploit the spatial locality of reference in a program"
+        },
+        {
+          "label": "C",
+          "text": "reduce the miss penalty",
+          "html": "reduce the miss penalty"
+        },
+        {
+          "label": "D",
+          "text": "none of the above",
+          "html": "none of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/700/gate-cse-2001-question-1-7-isro2008-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/700/gate-cse-2001-question-1-7-isro2008-18"
+    },
+    {
+      "id": "go:701",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.8",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is false?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is false?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Virtual memory implements the translation of a program's address space into physical memory address space</li>\n<li>Virtual memory allows each program to exceed the size of the primary memory</li>\n<li>Virtual memory increases the degree of multiprogramming</li>\n<li>Virtual memory reduces the context switching overhead</li>\n</ol>",
+      "options": [
+        "Virtual memory implements the translation of a program's address space into physical memory address space",
+        "Virtual memory allows each program to exceed the size of the primary memory",
+        "Virtual memory increases the degree of multiprogramming",
+        "Virtual memory reduces the context switching overhead"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Virtual memory implements the translation of a program's address space into physical memory address space",
+          "html": "Virtual memory implements the translation of a program's address space into physical memory address space"
+        },
+        {
+          "label": "B",
+          "text": "Virtual memory allows each program to exceed the size of the primary memory",
+          "html": "Virtual memory allows each program to exceed the size of the primary memory"
+        },
+        {
+          "label": "C",
+          "text": "Virtual memory increases the degree of multiprogramming",
+          "html": "Virtual memory increases the degree of multiprogramming"
+        },
+        {
+          "label": "D",
+          "text": "Virtual memory reduces the context switching overhead",
+          "html": "Virtual memory reduces the context switching overhead"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/701/gate-cse-2001-question-1-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/701/gate-cse-2001-question-1-8"
+    },
+    {
+      "id": "go:702",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.9",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>A low memory can be connected to 8085 by using</p>",
+      "rawQuestionHtml": "<a name=\"702\"></a><div itemprop=\"text\"><p>A low memory can be connected to 8085 by using</p>\n\n<ol style=\"list-style-type: upper-alpha;\">\n\t<li>$INTER$</li>\n\t<li>$\\overline{RESET\\text{ }IN}$</li>\n\t<li>$HOLD$</li>\n\t<li>$READY$</li>\n</ol></div>",
+      "options": [
+        "$INTER$",
+        "$\\overline{RESET\\text{ }IN}$",
+        "$HOLD$",
+        "$READY$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$INTER$",
+          "html": "$INTER$"
+        },
+        {
+          "label": "B",
+          "text": "$\\overline{RESET\\text{ }IN}$",
+          "html": "$\\overline{RESET\\text{ }IN}$"
+        },
+        {
+          "label": "C",
+          "text": "$HOLD$",
+          "html": "$HOLD$"
+        },
+        {
+          "label": "D",
+          "text": "$READY$",
+          "html": "$READY$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/702/gate-cse-2001-question-1-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/702/gate-cse-2001-question-1-9"
+    },
+    {
+      "id": "go:703",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.10, UGCNET-Dec2012-III: 36",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>Suppose a processor does not have any stack pointer registers, which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Suppose a processor does not have any stack pointer registers, which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>It cannot have subroutine call instruction</li>\n<li>It cannot have nested subroutines call</li>\n<li>Interrupts are not possible</li>\n<li>All subroutine calls and interrupts are possible</li>\n</ol>",
+      "options": [
+        "It cannot have subroutine call instruction",
+        "It cannot have nested subroutines call",
+        "Interrupts are not possible",
+        "All subroutine calls and interrupts are possible"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It cannot have subroutine call instruction",
+          "html": "It cannot have subroutine call instruction"
+        },
+        {
+          "label": "B",
+          "text": "It cannot have nested subroutines call",
+          "html": "It cannot have nested subroutines call"
+        },
+        {
+          "label": "C",
+          "text": "Interrupts are not possible",
+          "html": "Interrupts are not possible"
+        },
+        {
+          "label": "D",
+          "text": "All subroutine calls and interrupts are possible",
+          "html": "All subroutine calls and interrupts are possible"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/703/gate-cse-2001-question-1-10-ugcnet-dec2012-iii-36",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/703/gate-cse-2001-question-1-10-ugcnet-dec2012-iii-36"
+    },
+    {
+      "id": "go:704",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.11",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/12659020570234557228.webp\" width=\"248\"/></p>",
+      "rawQuestionHtml": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/12659020570234557228.webp\" width=\"248\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$XY+Y'Z$</li>\n<li>$WX'Y' + XY +XZ$</li>\n<li>$W'X+Y'Z+XY$</li>\n<li>$XZ+Y$</li>\n</ol>",
+      "options": [
+        "$XY+Y'Z$",
+        "$WX'Y' + XY +XZ$",
+        "$W'X+Y'Z+XY$",
+        "$XZ+Y$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$XY+Y'Z$",
+          "html": "$XY+Y'Z$"
+        },
+        {
+          "label": "B",
+          "text": "$WX'Y' + XY +XZ$",
+          "html": "$WX'Y' + XY +XZ$"
+        },
+        {
+          "label": "C",
+          "text": "$W'X+Y'Z+XY$",
+          "html": "$W'X+Y'Z+XY$"
+        },
+        {
+          "label": "D",
+          "text": "$XZ+Y$",
+          "html": "$XZ+Y$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/704/gate-cse-2001-question-1-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/704/gate-cse-2001-question-1-11"
+    },
+    {
+      "id": "go:705",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.12",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "MCQ",
+      "question": "<p>A processor needs software interrupt to</p>",
+      "rawQuestionHtml": "<p>A processor needs software interrupt to</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>test the interrupt system of the processor</li>\n<li>implement co-routines</li>\n<li>obtain system services which need execution of privileged instructions</li>\n<li>return from subroutine</li>\n</ol>",
+      "options": [
+        "test the interrupt system of the processor",
+        "implement co-routines",
+        "obtain system services which need execution of privileged instructions",
+        "return from subroutine"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "test the interrupt system of the processor",
+          "html": "test the interrupt system of the processor"
+        },
+        {
+          "label": "B",
+          "text": "implement co-routines",
+          "html": "implement co-routines"
+        },
+        {
+          "label": "C",
+          "text": "obtain system services which need execution of privileged instructions",
+          "html": "obtain system services which need execution of privileged instructions"
+        },
+        {
+          "label": "D",
+          "text": "return from subroutine",
+          "html": "return from subroutine"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/705/gate-cse-2001-question-1-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/705/gate-cse-2001-question-1-12"
+    },
+    {
+      "id": "go:706",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.13",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "MCQ",
+      "question": "<p>A CPU has two modes -- privileged and non-privileged. In order to change the mode from privileged to non-privileged</p>",
+      "rawQuestionHtml": "<p>A CPU has two modes -- privileged and non-privileged. In order to change the mode from privileged to non-privileged</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>a hardware interrupt is needed</li>\n<li>a software interrupt is needed</li>\n<li>a privileged instruction (which does not generate an interrupt) is needed</li>\n<li>a non-privileged instruction (which does not generate an interrupt) is needed</li>\n</ol>",
+      "options": [
+        "a hardware interrupt is needed",
+        "a software interrupt is needed",
+        "a privileged instruction (which does not generate an interrupt) is needed",
+        "a non-privileged instruction (which does not generate an interrupt) is needed"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "a hardware interrupt is needed",
+          "html": "a hardware interrupt is needed"
+        },
+        {
+          "label": "B",
+          "text": "a software interrupt is needed",
+          "html": "a software interrupt is needed"
+        },
+        {
+          "label": "C",
+          "text": "a privileged instruction (which does not generate an interrupt) is needed",
+          "html": "a privileged instruction (which does not generate an interrupt) is needed"
+        },
+        {
+          "label": "D",
+          "text": "a non-privileged instruction (which does not generate an interrupt) is needed",
+          "html": "a non-privileged instruction (which does not generate an interrupt) is needed"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/706/gate-cse-2001-question-1-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/706/gate-cse-2001-question-1-13"
+    },
+    {
+      "id": "go:707",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Randomized quicksort is an extension of quicksort where the pivot is chosen randomly. What is the worst case complexity of sorting n numbers using Randomized quicksort?</p>",
+      "rawQuestionHtml": "<p>Randomized quicksort is an extension of quicksort where the pivot is chosen randomly. What is the worst case complexity of sorting n numbers using Randomized quicksort?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$O(n)$</li>\n<li>$O(n \\log n)$</li>\n<li>$O(n^2)$</li>\n<li>$O(n!)$</li>\n</ol>",
+      "options": [
+        "$O(n)$",
+        "$O(n \\log n)$",
+        "$O(n^2)$",
+        "$O(n!)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$O(n)$",
+          "html": "$O(n)$"
+        },
+        {
+          "label": "B",
+          "text": "$O(n \\log n)$",
+          "html": "$O(n \\log n)$"
+        },
+        {
+          "label": "C",
+          "text": "$O(n^2)$",
+          "html": "$O(n^2)$"
+        },
+        {
+          "label": "D",
+          "text": "$O(n!)$",
+          "html": "$O(n!)$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/707/gate-cse-2001-question-1-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/707/gate-cse-2001-question-1-14"
+    },
+    {
+      "id": "go:708",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Consider any array representation of an $n$ element binary heap where the elements are stored from index $1$ to index $n$ of the array. For the element stored at index $i$ of the array $(i \\leq n)$, the index of the parent is</p>",
+      "rawQuestionHtml": "<p>Consider any array representation of an $n$ element binary heap where the elements are stored from index $1$ to index $n$ of the array. For the element stored at index $i$ of the array $(i \\leq n)$, the index of the parent is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$i-1$</li>\n<li>$\\lfloor \\frac{i}{2} \\rfloor$</li>\n<li>$\\lceil \\frac{i}{2} \\rceil$</li>\n<li>$\\frac{(i+1)}{2}$</li>\n</ol>",
+      "options": [
+        "$i-1$",
+        "$\\lfloor \\frac{i}{2} \\rfloor$",
+        "$\\lceil \\frac{i}{2} \\rceil$",
+        "$\\frac{(i+1)}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$i-1$",
+          "html": "$i-1$"
+        },
+        {
+          "label": "B",
+          "text": "$\\lfloor \\frac{i}{2} \\rfloor$",
+          "html": "$\\lfloor \\frac{i}{2} \\rfloor$"
+        },
+        {
+          "label": "C",
+          "text": "$\\lceil \\frac{i}{2} \\rceil$",
+          "html": "$\\lceil \\frac{i}{2} \\rceil$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{(i+1)}{2}$",
+          "html": "$\\frac{(i+1)}{2}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/708/gate-cse-2001-question-1-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/708/gate-cse-2001-question-1-15"
+    },
+    {
+      "id": "go:709",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Let $f(n) = n^2 \\log n$ and $g(n) = n(\\log n)^{10}$ be two positive functions of $n$. Which of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>Let $f(n) = n^2 \\log n$ and $g(n) = n(\\log n)^{10}$ be two positive functions of $n$. Which of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f(n) = O(g(n)) \\text{ and } g(n) \\neq O(f(n))$</li>\n<li>$g(n) = O(f(n)) \\text{ and } f(n) \\neq O(g(n))$</li>\n<li>$f(n) \\neq O(g(n)) \\text{ and } g(n) \\neq O(f(n))$</li>\n<li>$f(n) =O(g(n)) \\text{ and } g(n) = O(f(n))$</li>\n</ol>",
+      "options": [
+        "$f(n) = O(g(n)) \\text{ and } g(n) \\neq O(f(n))$",
+        "$g(n) = O(f(n)) \\text{ and } f(n) \\neq O(g(n))$",
+        "$f(n) \\neq O(g(n)) \\text{ and } g(n) \\neq O(f(n))$",
+        "$f(n) =O(g(n)) \\text{ and } g(n) = O(f(n))$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f(n) = O(g(n)) \\text{ and } g(n) \\neq O(f(n))$",
+          "html": "$f(n) = O(g(n)) \\text{ and } g(n) \\neq O(f(n))$"
+        },
+        {
+          "label": "B",
+          "text": "$g(n) = O(f(n)) \\text{ and } f(n) \\neq O(g(n))$",
+          "html": "$g(n) = O(f(n)) \\text{ and } f(n) \\neq O(g(n))$"
+        },
+        {
+          "label": "C",
+          "text": "$f(n) \\neq O(g(n)) \\text{ and } g(n) \\neq O(f(n))$",
+          "html": "$f(n) \\neq O(g(n)) \\text{ and } g(n) \\neq O(f(n))$"
+        },
+        {
+          "label": "D",
+          "text": "$f(n) =O(g(n)) \\text{ and } g(n) = O(f(n))$",
+          "html": "$f(n) =O(g(n)) \\text{ and } g(n) = O(f(n))$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/709/gate-cse-2001-question-1-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/709/gate-cse-2001-question-1-16"
+    },
+    {
+      "id": "go:710",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.17",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>The process of assigning load addresses to the various parts of the program and adjusting the code and the data in the program to reflect the assigned addresses is called</p>",
+      "rawQuestionHtml": "<p>The process of assigning load addresses to the various parts of the program and adjusting the code and the data in the program to reflect the assigned addresses is called</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Assembly</li>\n<li>parsing</li>\n<li>Relocation</li>\n<li>Symbol resolution</li>\n</ol>",
+      "options": [
+        "Assembly",
+        "parsing",
+        "Relocation",
+        "Symbol resolution"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Assembly",
+          "html": "Assembly"
+        },
+        {
+          "label": "B",
+          "text": "parsing",
+          "html": "parsing"
+        },
+        {
+          "label": "C",
+          "text": "Relocation",
+          "html": "Relocation"
+        },
+        {
+          "label": "D",
+          "text": "Symbol resolution",
+          "html": "Symbol resolution"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/710/gate-cse-2001-question-1-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/710/gate-cse-2001-question-1-17"
+    },
+    {
+      "id": "go:711",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.18",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Which of the following statements is false?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is false?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>An unambiguous grammar has same leftmost and rightmost derivation</li>\n<li>An LL(1) parser is a top-down parser</li>\n<li>LALR is more powerful than SLR</li>\n<li>An ambiguous grammar can never be LR(k) for any k</li>\n</ol>",
+      "options": [
+        "An unambiguous grammar has same leftmost and rightmost derivation",
+        "An LL(1) parser is a top-down parser",
+        "LALR is more powerful than SLR",
+        "An ambiguous grammar can never be LR(k) for any k"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "An unambiguous grammar has same leftmost and rightmost derivation",
+          "html": "An unambiguous grammar has same leftmost and rightmost derivation"
+        },
+        {
+          "label": "B",
+          "text": "An LL(1) parser is a top-down parser",
+          "html": "An LL(1) parser is a top-down parser"
+        },
+        {
+          "label": "C",
+          "text": "LALR is more powerful than SLR",
+          "html": "LALR is more powerful than SLR"
+        },
+        {
+          "label": "D",
+          "text": "An ambiguous grammar can never be LR(k) for any k",
+          "html": "An ambiguous grammar can never be LR(k) for any k"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/711/gate-cse-2001-question-1-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/711/gate-cse-2001-question-1-18"
+    },
+    {
+      "id": "go:49481",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "ISRO2007-11, GATE CSE 2001 | Question: 1.19",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Consider a set of n tasks with known runtimes $r_1, r_2, \\dots r_n$ to be run on a uniprocessor machine. Which of the following processor scheduling algorithms will result in the maximum throughput?</p>",
+      "rawQuestionHtml": "<p>Consider a set of n tasks with known runtimes $r_1, r_2, \\dots r_n$ to be run on a uniprocessor machine. Which of the following processor scheduling algorithms will result in the maximum throughput?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Round Robin</li>\n<li>Shortest job first</li>\n<li>Highest response ratio next</li>\n<li>first come first served</li>\n</ol>",
+      "options": [
+        "Round Robin",
+        "Shortest job first",
+        "Highest response ratio next",
+        "first come first served"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Round Robin",
+          "html": "Round Robin"
+        },
+        {
+          "label": "B",
+          "text": "Shortest job first",
+          "html": "Shortest job first"
+        },
+        {
+          "label": "C",
+          "text": "Highest response ratio next",
+          "html": "Highest response ratio next"
+        },
+        {
+          "label": "D",
+          "text": "first come first served",
+          "html": "first come first served"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/49481/isro2007-11-gate-cse-2001-question-1-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/49481/isro2007-11-gate-cse-2001-question-1-19"
+    },
+    {
+      "id": "go:713",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.20",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Where does the swap space reside?</p>",
+      "rawQuestionHtml": "<p>Where does the swap space reside?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>RAM</li>\n<li>Disk</li>\n<li>ROM</li>\n<li>On-chip cache</li>\n</ol>",
+      "options": [
+        "RAM",
+        "Disk",
+        "ROM",
+        "On-chip cache"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "RAM",
+          "html": "RAM"
+        },
+        {
+          "label": "B",
+          "text": "Disk",
+          "html": "Disk"
+        },
+        {
+          "label": "C",
+          "text": "ROM",
+          "html": "ROM"
+        },
+        {
+          "label": "D",
+          "text": "On-chip cache",
+          "html": "On-chip cache"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/713/gate-cse-2001-question-1-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/713/gate-cse-2001-question-1-20"
+    },
+    {
+      "id": "go:714",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.21",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Consider a virtual memory system with FIFO page replacement policy. For an arbitrary page access pattern, increasing the number of page frames in main memory will</p>",
+      "rawQuestionHtml": "<p>Consider a virtual memory system with FIFO page replacement policy. For an arbitrary page access pattern, increasing the number of page frames in main memory will</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li>always decrease the number of page faults</li>\n<li>always increase the number of page faults</li>\n<li>sometimes increase the number of page faults</li>\n<li>never affect the number of page faults</li>\n</ol>",
+      "options": [
+        "always decrease the number of page faults",
+        "always increase the number of page faults",
+        "sometimes increase the number of page faults",
+        "never affect the number of page faults"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "always decrease the number of page faults",
+          "html": "always decrease the number of page faults"
+        },
+        {
+          "label": "B",
+          "text": "always increase the number of page faults",
+          "html": "always increase the number of page faults"
+        },
+        {
+          "label": "C",
+          "text": "sometimes increase the number of page faults",
+          "html": "sometimes increase the number of page faults"
+        },
+        {
+          "label": "D",
+          "text": "never affect the number of page faults",
+          "html": "never affect the number of page faults"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/714/gate-cse-2001-question-1-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/714/gate-cse-2001-question-1-21"
+    },
+    {
+      "id": "go:715",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "MCQ",
+      "question": "<p>Which of the following requires a device driver?</p>",
+      "rawQuestionHtml": "<p>Which of the following requires a device driver?</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>Register</li>\n<li>Cache</li>\n<li>Main memory</li>\n<li>Disk</li>\n</ol>",
+      "options": [
+        "Register",
+        "Cache",
+        "Main memory",
+        "Disk"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Register",
+          "html": "Register"
+        },
+        {
+          "label": "B",
+          "text": "Cache",
+          "html": "Cache"
+        },
+        {
+          "label": "C",
+          "text": "Main memory",
+          "html": "Main memory"
+        },
+        {
+          "label": "D",
+          "text": "Disk",
+          "html": "Disk"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/715/gate-cse-2001-question-1-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/715/gate-cse-2001-question-1-22"
+    },
+    {
+      "id": "go:716",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.23",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Consider a schema $R(A, B, C, D)$ and functional dependencies $A \\rightarrow B$ and $C \\rightarrow D$. Then the decomposition of $R$ into $R_1(AB)$ and $R_2(CD)$ is:</p>",
+      "rawQuestionHtml": "<p>Consider a schema $R(A, B, C, D)$ and functional dependencies $A \\rightarrow B$ and $C \\rightarrow D$. Then the decomposition of $R$ into $R_1(AB)$ and $R_2(CD)$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Dependency preserving and lossless join</li>\n<li>Lossless join but not dependency preserving</li>\n<li>Dependency preserving but not lossless join</li>\n<li>Not dependency preserving and not lossless join</li>\n</ol>",
+      "options": [
+        "Dependency preserving and lossless join",
+        "Lossless join but not dependency preserving",
+        "Dependency preserving but not lossless join",
+        "Not dependency preserving and not lossless join"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Dependency preserving and lossless join",
+          "html": "Dependency preserving and lossless join"
+        },
+        {
+          "label": "B",
+          "text": "Lossless join but not dependency preserving",
+          "html": "Lossless join but not dependency preserving"
+        },
+        {
+          "label": "C",
+          "text": "Dependency preserving but not lossless join",
+          "html": "Dependency preserving but not lossless join"
+        },
+        {
+          "label": "D",
+          "text": "Not dependency preserving and not lossless join",
+          "html": "Not dependency preserving and not lossless join"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/716/gate-cse-2001-question-1-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/716/gate-cse-2001-question-1-23"
+    },
+    {
+      "id": "go:717",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.24",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Suppose the adjacency relation of vertices in a graph is represented in a table $Adj(X, Y)$. Which of the following queries cannot be expressed by a relational algebra expression of constant length?</p>",
+      "rawQuestionHtml": "<p>Suppose the adjacency relation of vertices in a graph is represented in a table $Adj(X, Y)$. Which of the following queries cannot be expressed by a relational algebra expression of constant length?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>List all vertices adjacent to a given vertex</li>\n<li>List all vertices which have self loops</li>\n<li>List all vertices which belong to cycles of less than three vertices</li>\n<li>List all vertices reachable from a given vertex</li>\n</ol>",
+      "options": [
+        "List all vertices adjacent to a given vertex",
+        "List all vertices which have self loops",
+        "List all vertices which belong to cycles of less than three vertices",
+        "List all vertices reachable from a given vertex"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "List all vertices adjacent to a given vertex",
+          "html": "List all vertices adjacent to a given vertex"
+        },
+        {
+          "label": "B",
+          "text": "List all vertices which have self loops",
+          "html": "List all vertices which have self loops"
+        },
+        {
+          "label": "C",
+          "text": "List all vertices which belong to cycles of less than three vertices",
+          "html": "List all vertices which belong to cycles of less than three vertices"
+        },
+        {
+          "label": "D",
+          "text": "List all vertices reachable from a given vertex",
+          "html": "List all vertices reachable from a given vertex"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/717/gate-cse-2001-question-1-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/717/gate-cse-2001-question-1-24"
+    },
+    {
+      "id": "go:718",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 1.25",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Let $r$ and $s$ be two relations over the relation schemes $R$ and $S$ respectively, and let $A$ be an attribute in $R$. Then the relational algebra expression $\\sigma_{A=a}(r \\bowtie s)$ is always equal to:</p>",
+      "rawQuestionHtml": "<p>Let $r$ and $s$ be two relations over the relation schemes $R$ and $S$ respectively, and let $A$ be an attribute in $R$. Then the relational algebra expression $\\sigma_{A=a}(r \\bowtie s)$ is always equal to:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\sigma_{A=a}(r)$</li>\n<li>$r$</li>\n<li>$\\sigma_{A=a}(r) \\bowtie s$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$\\sigma_{A=a}(r)$",
+        "$r$",
+        "$\\sigma_{A=a}(r) \\bowtie s$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\sigma_{A=a}(r)$",
+          "html": "$\\sigma_{A=a}(r)$"
+        },
+        {
+          "label": "B",
+          "text": "$r$",
+          "html": "$r$"
+        },
+        {
+          "label": "C",
+          "text": "$\\sigma_{A=a}(r) \\bowtie s$",
+          "html": "$\\sigma_{A=a}(r) \\bowtie s$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/718/gate-cse-2001-question-1-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/718/gate-cse-2001-question-1-25"
+    },
+    {
+      "id": "go:719",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.1",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>How many $4$-digit even numbers have all $4$ digits distinct?</p>",
+      "rawQuestionHtml": "<p>How many $4$-digit even numbers have all $4$ digits distinct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2240$</li>\n<li>$2296$</li>\n<li>$2620$</li>\n<li>$4536$</li>\n</ol>",
+      "options": [
+        "$2240$",
+        "$2296$",
+        "$2620$",
+        "$4536$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2240$",
+          "html": "$2240$"
+        },
+        {
+          "label": "B",
+          "text": "$2296$",
+          "html": "$2296$"
+        },
+        {
+          "label": "C",
+          "text": "$2620$",
+          "html": "$2620$"
+        },
+        {
+          "label": "D",
+          "text": "$4536$",
+          "html": "$4536$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/719/gate-cse-2001-question-2-1",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/719/gate-cse-2001-question-2-1"
+    },
+    {
+      "id": "go:720",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.2",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Consider the following statements:</p>\n<ul>\n<li>$S_1:$ There exists infinite sets $A$, $B$, $C$ such that $A \\cap (B \\cup C)$ is finite.</li>\n<li>$S_2:$ There exists two irrational numbers $x$ and y such that $(x+y)$ is rational.</li>\n</ul>\n<p>Which of the following is true about $S_1$ and $S_2$?</p>",
+      "rawQuestionHtml": "<p>Consider the following statements:</p>\n<ul>\n<li>$S_1:$ There exists infinite sets $A$, $B$, $C$ such that $A \\cap (B \\cup C)$ is finite.</li>\n<li>$S_2:$ There exists two irrational numbers $x$ and y such that $(x+y)$ is rational.</li>\n</ul>\n<p>Which of the following is true about $S_1$ and $S_2$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $S_1$ is correct</li>\n<li>Only $S_2$ is correct</li>\n<li>Both $S_1$ and $S_2$ are correct</li>\n<li>None of $S_1$ and $S_2$ is correct</li>\n</ol>",
+      "options": [
+        "Only $S_1$ is correct",
+        "Only $S_2$ is correct",
+        "Both $S_1$ and $S_2$ are correct",
+        "None of $S_1$ and $S_2$ is correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $S_1$ is correct",
+          "html": "Only $S_1$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Only $S_2$ is correct",
+          "html": "Only $S_2$ is correct"
+        },
+        {
+          "label": "C",
+          "text": "Both $S_1$ and $S_2$ are correct",
+          "html": "Both $S_1$ and $S_2$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "None of $S_1$ and $S_2$ is correct",
+          "html": "None of $S_1$ and $S_2$ is correct"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/720/gate-cse-2001-question-2-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/720/gate-cse-2001-question-2-2"
+    },
+    {
+      "id": "go:721",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.3",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $f: A \\rightarrow B$ a function, and let E and F be subsets of $A$. Consider the following statements about images.</p>\n<ul>\n<li>$S_1: f(E \\cup F) = f(E) \\cup f(F)$</li>\n<li>$S_2: f(E \\cap F)=f(E) \\cap f(F)$</li>\n</ul>\n<p>Which of the following is true about S1 and S2?</p>",
+      "rawQuestionHtml": "<p>Let $f: A \\rightarrow B$ a function, and let E and F be subsets of $A$. Consider the following statements about images.</p>\n<ul>\n<li>$S_1: f(E \\cup F) = f(E) \\cup f(F)$</li>\n<li>$S_2: f(E \\cap F)=f(E) \\cap f(F)$</li>\n</ul>\n<p>Which of the following is true about S1 and S2?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $S_1$ is correct</li>\n<li>Only $S_2$ is correct</li>\n<li>Both $S_1$ and $S_2$ are correct</li>\n<li>None of $S_1$ and $S_2$ is correct</li>\n</ol>",
+      "options": [
+        "Only $S_1$ is correct",
+        "Only $S_2$ is correct",
+        "Both $S_1$ and $S_2$ are correct",
+        "None of $S_1$ and $S_2$ is correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $S_1$ is correct",
+          "html": "Only $S_1$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Only $S_2$ is correct",
+          "html": "Only $S_2$ is correct"
+        },
+        {
+          "label": "C",
+          "text": "Both $S_1$ and $S_2$ are correct",
+          "html": "Both $S_1$ and $S_2$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "None of $S_1$ and $S_2$ is correct",
+          "html": "None of $S_1$ and $S_2$ is correct"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/721/gate-cse-2001-question-2-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/721/gate-cse-2001-question-2-3"
+    },
+    {
+      "id": "go:722",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.4",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Seven (distinct) car accidents occurred in a week. What is the probability that they all occurred on the same day?</p>",
+      "rawQuestionHtml": "<p>Seven (distinct) car accidents occurred in a week. What is the probability that they all occurred on the same day?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\dfrac{1}{7^7}\\\\$</li>\n<li>$\\dfrac{1}{7^6}\\\\$</li>\n<li>$\\dfrac{1}{2^7}\\\\$</li>\n<li>$\\dfrac{7}{2^7}\\\\$</li>\n</ol>",
+      "options": [
+        "$\\dfrac{1}{7^7}\\\\$",
+        "$\\dfrac{1}{7^6}\\\\$",
+        "$\\dfrac{1}{2^7}\\\\$",
+        "$\\dfrac{7}{2^7}\\\\$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\dfrac{1}{7^7}\\\\$",
+          "html": "$\\dfrac{1}{7^7}\\\\$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{1}{7^6}\\\\$",
+          "html": "$\\dfrac{1}{7^6}\\\\$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{1}{2^7}\\\\$",
+          "html": "$\\dfrac{1}{2^7}\\\\$"
+        },
+        {
+          "label": "D",
+          "text": "$\\dfrac{7}{2^7}\\\\$",
+          "html": "$\\dfrac{7}{2^7}\\\\$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/722/gate-cse-2001-question-2-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/722/gate-cse-2001-question-2-4"
+    },
+    {
+      "id": "go:723",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.5",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider a DFA over $\\Sigma=\\{a,b\\}$ accepting all strings which have number of a's divisible by $6$ and number of $b$'s divisible by $8$. What is the minimum number of states that the DFA will have?</p>",
+      "rawQuestionHtml": "<p>Consider a DFA over $\\Sigma=\\{a,b\\}$ accepting all strings which have number of a's divisible by $6$ and number of $b$'s divisible by $8$. What is the minimum number of states that the DFA will have?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$8$</li>\n<li>$14$</li>\n<li>$15$</li>\n<li>$48$</li>\n</ol>",
+      "options": [
+        "$8$",
+        "$14$",
+        "$15$",
+        "$48$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "B",
+          "text": "$14$",
+          "html": "$14$"
+        },
+        {
+          "label": "C",
+          "text": "$15$",
+          "html": "$15$"
+        },
+        {
+          "label": "D",
+          "text": "$48$",
+          "html": "$48$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/723/gate-cse-2001-question-2-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/723/gate-cse-2001-question-2-5"
+    },
+    {
+      "id": "go:724",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.6",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the following languages:</p>\n<ul>\n<li>$L1=\\left\\{ww \\mid w \\in \\{a,b\\}^*\\right\\}$</li>\n<li>$L2=\\left\\{ww^R \\mid w \\in \\{a,b\\}^*, w^R \\text{ is the reverse of w} \\right\\}$</li>\n<li>$L3=\\left\\{0^{2i} \\mid \\text{ i is an integer} \\right\\}$</li>\n<li>$L4= \\left\\{ 0^{i^2} \\mid \\text{ i is an integer} \\right\\}$</li>\n</ul>\n<p>Which of the languages are regular?</p>",
+      "rawQuestionHtml": "<p>Consider the following languages:</p>\n<ul>\n<li>$L1=\\left\\{ww \\mid w \\in \\{a,b\\}^*\\right\\}$</li>\n<li>$L2=\\left\\{ww^R \\mid w \\in \\{a,b\\}^*, w^R \\text{ is the reverse of w} \\right\\}$</li>\n<li>$L3=\\left\\{0^{2i} \\mid \\text{ i is an integer} \\right\\}$</li>\n<li>$L4= \\left\\{ 0^{i^2} \\mid \\text{ i is an integer} \\right\\}$</li>\n</ul>\n<p>Which of the languages are regular?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $L1$ and $L2$</li>\n<li>Only $L2, L3$ and $L4$</li>\n<li>Only $L3$ and $L4$</li>\n<li>Only $L3$</li>\n</ol>",
+      "options": [
+        "Only $L1$ and $L2$",
+        "Only $L2, L3$ and $L4$",
+        "Only $L3$ and $L4$",
+        "Only $L3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $L1$ and $L2$",
+          "html": "Only $L1$ and $L2$"
+        },
+        {
+          "label": "B",
+          "text": "Only $L2, L3$ and $L4$",
+          "html": "Only $L2, L3$ and $L4$"
+        },
+        {
+          "label": "C",
+          "text": "Only $L3$ and $L4$",
+          "html": "Only $L3$ and $L4$"
+        },
+        {
+          "label": "D",
+          "text": "Only $L3$",
+          "html": "Only $L3$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/724/gate-cse-2001-question-2-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/724/gate-cse-2001-question-2-6"
+    },
+    {
+      "id": "go:725",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.7",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>Consider the following problem $X$.<br/>\n<br/>\nGiven a Turing machine $M$ over the input alphabet $\\Sigma$, any state $q$ of $M$ and a word $w \\in \\Sigma^*$, does the computation of $M$ on $w$ visit the state of $q$?<br/>\n<br/>\nWhich of the following statements about $X$ is correct?</p>",
+      "rawQuestionHtml": "<p>Consider the following problem $X$.<br/>\n<br/>\nGiven a Turing machine $M$ over the input alphabet $\\Sigma$, any state $q$ of $M$ and a word $w \\in \\Sigma^*$, does the computation of $M$ on $w$ visit the state of $q$?<br/>\n<br/>\nWhich of the following statements about $X$ is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X$ is decidable</li>\n<li>$X$ is undecidable but partially decidable</li>\n<li>$X$ is undecidable and not even  partially decidable</li>\n<li>$X$ is not a decision problem</li>\n</ol>",
+      "options": [
+        "$X$ is decidable",
+        "$X$ is undecidable but partially decidable",
+        "$X$ is undecidable and not even partially decidable",
+        "$X$ is not a decision problem"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$X$ is decidable",
+          "html": "$X$ is decidable"
+        },
+        {
+          "label": "B",
+          "text": "$X$ is undecidable but partially decidable",
+          "html": "$X$ is undecidable but partially decidable"
+        },
+        {
+          "label": "C",
+          "text": "$X$ is undecidable and not even partially decidable",
+          "html": "$X$ is undecidable and not even  partially decidable"
+        },
+        {
+          "label": "D",
+          "text": "$X$ is not a decision problem",
+          "html": "$X$ is not a decision problem"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/725/gate-cse-2001-question-2-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/725/gate-cse-2001-question-2-7"
+    },
+    {
+      "id": "go:726",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.8",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/Gate_QA/question-images/2488972625413410129.webp\"/></p>",
+      "rawQuestionHtml": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/Gate_QA/question-images/2488972625413410129.webp\"/></p>\n<ol class=\"noshrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/></li>\n</ol>",
+      "options": [
+        "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/726/gate-cse-2001-question-2-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/726/gate-cse-2001-question-2-8"
+    },
+    {
+      "id": "go:727",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.9",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Which is the most appropriate match for the items in the first column with the items in the second column:$$\\begin{array}{|cl|cl|} \\hline \\text{X.} &amp;\\text{Indirect Addressing} &amp;  \\text{I.} &amp;\\text{Array implementation} \\\\\\hline<br/>\n\\text{Y.} &amp;\\text{Indexed Addressing} &amp; \\text{II.} &amp;\\text{Writing relocatable code}  \\\\\\hline <br/>\n\\text {Z.} &amp;\\text{Base Register Addressing}  &amp; \\text{III.} &amp;\\text{Passing array as parameter}\\\\\\hline  \\end{array}$$</p>",
+      "rawQuestionHtml": "<p>Which is the most appropriate match for the items in the first column with the items in the second column:$$\\begin{array}{|cl|cl|} \\hline \\text{X.} &amp;\\text{Indirect Addressing} &amp;  \\text{I.} &amp;\\text{Array implementation} \\\\\\hline<br/>\n\\text{Y.} &amp;\\text{Indexed Addressing} &amp; \\text{II.} &amp;\\text{Writing relocatable code}  \\\\\\hline <br/>\n\\text {Z.} &amp;\\text{Base Register Addressing}  &amp; \\text{III.} &amp;\\text{Passing array as parameter}\\\\\\hline  \\end{array}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(X, III), (Y, I), (Z, II)</li>\n<li>(X, II), (Y, III), (Z, I)</li>\n<li>(X, III), (Y, II), (Z, I)</li>\n<li>(X, I), (Y, III), (Z, II)</li>\n</ol>",
+      "options": [
+        "(X, III), (Y, I), (Z, II)",
+        "(X, II), (Y, III), (Z, I)",
+        "(X, III), (Y, II), (Z, I)",
+        "(X, I), (Y, III), (Z, II)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(X, III), (Y, I), (Z, II)",
+          "html": "(X, III), (Y, I), (Z, II)"
+        },
+        {
+          "label": "B",
+          "text": "(X, II), (Y, III), (Z, I)",
+          "html": "(X, II), (Y, III), (Z, I)"
+        },
+        {
+          "label": "C",
+          "text": "(X, III), (Y, II), (Z, I)",
+          "html": "(X, III), (Y, II), (Z, I)"
+        },
+        {
+          "label": "D",
+          "text": "(X, I), (Y, III), (Z, II)",
+          "html": "(X, I), (Y, III), (Z, II)"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/727/gate-cse-2001-question-2-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/727/gate-cse-2001-question-2-9"
+    },
+    {
+      "id": "go:728",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.10",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The $2's$ complement representation of (-539)<sub>10</sub> in hexadecimal is</p>",
+      "rawQuestionHtml": "<p>The $2's$ complement representation of (-539)<sub>10</sub> in hexadecimal is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$ABE$</li>\n<li>$DBC$</li>\n<li>$DE5$</li>\n<li>$9E7$</li>\n</ol>",
+      "options": [
+        "$ABE$",
+        "$DBC$",
+        "$DE5$",
+        "$9E7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$ABE$",
+          "html": "$ABE$"
+        },
+        {
+          "label": "B",
+          "text": "$DBC$",
+          "html": "$DBC$"
+        },
+        {
+          "label": "C",
+          "text": "$DE5$",
+          "html": "$DE5$"
+        },
+        {
+          "label": "D",
+          "text": "$9E7$",
+          "html": "$9E7$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/728/gate-cse-2001-question-2-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/728/gate-cse-2001-question-2-10"
+    },
+    {
+      "id": "go:729",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.11",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f=X_1'+X_2$</li>\n<li>$f=X_1'X_2+X_1X_2'$</li>\n<li>$f=X_1X_2+X_1'X_2'$</li>\n<li>$f=X_1+X_2'$</li>\n</ol>",
+      "options": [
+        "$f=X_1'+X_2$",
+        "$f=X_1'X_2+X_1X_2'$",
+        "$f=X_1X_2+X_1'X_2'$",
+        "$f=X_1+X_2'$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f=X_1'+X_2$",
+          "html": "$f=X_1'+X_2$"
+        },
+        {
+          "label": "B",
+          "text": "$f=X_1'X_2+X_1X_2'$",
+          "html": "$f=X_1'X_2+X_1X_2'$"
+        },
+        {
+          "label": "C",
+          "text": "$f=X_1X_2+X_1'X_2'$",
+          "html": "$f=X_1X_2+X_1'X_2'$"
+        },
+        {
+          "label": "D",
+          "text": "$f=X_1+X_2'$",
+          "html": "$f=X_1+X_2'$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/729/gate-cse-2001-question-2-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/729/gate-cse-2001-question-2-11"
+    },
+    {
+      "id": "go:730",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.12",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>",
+      "rawQuestionHtml": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 3, 4, 6, 7, 5, 2$</li>\n<li>$1, 2, 5, 3, 7, 6, 4$</li>\n<li>$1, 2, 7, 3, 5, 6, 4$</li>\n<li>$1, 6, 5, 7, 2, 3, 4$</li>\n</ol>",
+      "options": [
+        "$1, 3, 4, 6, 7, 5, 2$",
+        "$1, 2, 5, 3, 7, 6, 4$",
+        "$1, 2, 7, 3, 5, 6, 4$",
+        "$1, 6, 5, 7, 2, 3, 4$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1, 3, 4, 6, 7, 5, 2$",
+          "html": "$1, 3, 4, 6, 7, 5, 2$"
+        },
+        {
+          "label": "B",
+          "text": "$1, 2, 5, 3, 7, 6, 4$",
+          "html": "$1, 2, 5, 3, 7, 6, 4$"
+        },
+        {
+          "label": "C",
+          "text": "$1, 2, 7, 3, 5, 6, 4$",
+          "html": "$1, 2, 7, 3, 5, 6, 4$"
+        },
+        {
+          "label": "D",
+          "text": "$1, 6, 5, 7, 2, 3, 4$",
+          "html": "$1, 6, 5, 7, 2, 3, 4$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/730/gate-cse-2001-question-2-12",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/730/gate-cse-2001-question-2-12"
+    },
+    {
+      "id": "go:731",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.13",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Consider the following data path of a simple non-pipelined CPU. The registers $A, B$, $A_{1},A_{2}, \\textsf{MDR},$ the $\\textsf{bus}$ and the $\\textsf{ALU}$ are $8$-$bit$ wide. $\\textsf{SP}$ and $\\textsf{MAR}$ are $16$-$bit$ registers. The $\\textsf{MUX}$ is of size $8 \\times (2:1)$ and the $\\textsf{DEMUX}$ is of size $8 \\times (1:2)$. Each memory operation takes $2$ $\\textsf{CPU}$ clock cycles and uses $\\textsf{MAR}$ (Memory Address Register) and $\\textsf{MDR}$ (Memory Date Register). $\\textsf{SP}$ can be decremented locally.</p>\n<p><img alt=\"\" height=\"261\" src=\"/Gate_QA/question-images/6301981403617845683.webp\" width=\"632\"/></p>\n<p>The $\\textsf{CPU}$ instruction \"<code>push r</code>\" where, $r =$ $A$ or $B$ has the specification</p>\n<ul>\n<li>$M[SP] ← r $</li>\n<li>$SP ← SP - 1$</li>\n</ul>\n<p>How many $\\textsf{CPU}$ clock cycles are required to execute the \"<code>push r</code>\" instruction?</p>",
+      "rawQuestionHtml": "<p>Consider the following data path of a simple non-pipelined CPU. The registers $A, B$, $A_{1},A_{2}, \\textsf{MDR},$ the $\\textsf{bus}$ and the $\\textsf{ALU}$ are $8$-$bit$ wide. $\\textsf{SP}$ and $\\textsf{MAR}$ are $16$-$bit$ registers. The $\\textsf{MUX}$ is of size $8 \\times (2:1)$ and the $\\textsf{DEMUX}$ is of size $8 \\times (1:2)$. Each memory operation takes $2$ $\\textsf{CPU}$ clock cycles and uses $\\textsf{MAR}$ (Memory Address Register) and $\\textsf{MDR}$ (Memory Date Register). $\\textsf{SP}$ can be decremented locally.</p>\n<p><img alt=\"\" height=\"261\" src=\"/Gate_QA/question-images/6301981403617845683.webp\" width=\"632\"/></p>\n<p>The $\\textsf{CPU}$ instruction \"<code>push r</code>\" where, $r =$ $A$ or $B$ has the specification</p>\n<ul>\n<li>$M[SP] ← r $</li>\n<li>$SP ← SP - 1$</li>\n</ul>\n<p>How many $\\textsf{CPU}$ clock cycles are required to execute the \"<code>push r</code>\" instruction?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "D",
+          "text": "$5$",
+          "html": "$5$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/731/gate-cse-2001-question-2-13",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/731/gate-cse-2001-question-2-13"
+    },
+    {
+      "id": "go:732",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Consider an undirected, unweighted graph $G$. Let a breadth-first traversal of $G$ be done starting from a node $r$. Let $d(r,u)$ and $d(r,v)$ be the lengths of the shortest paths from $r$ to $u$ and $v$ respectively in $G$. If $u$ is visited before $v$ during the breadth-first traversal, which of the following statements is correct?</p>",
+      "rawQuestionHtml": "<p>Consider an undirected, unweighted graph $G$. Let a breadth-first traversal of $G$ be done starting from a node $r$. Let $d(r,u)$ and $d(r,v)$ be the lengths of the shortest paths from $r$ to $u$ and $v$ respectively in $G$. If $u$ is visited before $v$ during the breadth-first traversal, which of the following statements is correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$d(r,u) &lt; d(r,v)$</li>\n<li>$d(r,u) &gt; d(r,v)$</li>\n<li>$d(r,u) \\leq d(r,v)$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$d(r,u) &lt; d(r,v)$",
+        "$d(r,u) &gt; d(r,v)$",
+        "$d(r,u) \\leq d(r,v)$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$d(r,u) &lt; d(r,v)$",
+          "html": "$d(r,u) &lt; d(r,v)$"
+        },
+        {
+          "label": "B",
+          "text": "$d(r,u) &gt; d(r,v)$",
+          "html": "$d(r,u) &gt; d(r,v)$"
+        },
+        {
+          "label": "C",
+          "text": "$d(r,u) \\leq d(r,v)$",
+          "html": "$d(r,u) \\leq d(r,v)$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/732/gate-cse-2001-question-2-14",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/732/gate-cse-2001-question-2-14"
+    },
+    {
+      "id": "go:733",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.15",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>How many undirected graphs (not necessarily connected) can be constructed out of a given set $V=\\{v_1, v_2, \\dots v_n\\}$ of $n$ vertices?</p>",
+      "rawQuestionHtml": "<p>How many undirected graphs (not necessarily connected) can be constructed out of a given set $V=\\{v_1, v_2, \\dots v_n\\}$ of $n$ vertices?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{n(n-1)} {2}$</li>\n<li>$2^n$</li>\n<li>$n!$</li>\n<li>$2^\\frac{n(n-1)} {2} $</li>\n</ol>",
+      "options": [
+        "$\\frac{n(n-1)} {2}$",
+        "$2^n$",
+        "$n!$",
+        "$2^\\frac{n(n-1)} {2} $"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{n(n-1)} {2}$",
+          "html": "$\\frac{n(n-1)} {2}$"
+        },
+        {
+          "label": "B",
+          "text": "$2^n$",
+          "html": "$2^n$"
+        },
+        {
+          "label": "C",
+          "text": "$n!$",
+          "html": "$n!$"
+        },
+        {
+          "label": "D",
+          "text": "$2^\\frac{n(n-1)} {2} $",
+          "html": "$2^\\frac{n(n-1)} {2} $"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/733/gate-cse-2001-question-2-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/733/gate-cse-2001-question-2-15"
+    },
+    {
+      "id": "go:734",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>What is the minimum number of stacks of size $n$ required to implement a queue of size $n$?</p>",
+      "rawQuestionHtml": "<p>What is the minimum number of stacks of size $n$ required to implement a queue of size $n$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>One</li>\n<li>Two</li>\n<li>Three</li>\n<li>Four</li>\n</ol>",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "One",
+          "html": "One"
+        },
+        {
+          "label": "B",
+          "text": "Two",
+          "html": "Two"
+        },
+        {
+          "label": "C",
+          "text": "Three",
+          "html": "Three"
+        },
+        {
+          "label": "D",
+          "text": "Four",
+          "html": "Four"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/734/gate-cse-2001-question-2-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/734/gate-cse-2001-question-2-16"
+    },
+    {
+      "id": "go:735",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.17 | UGCNET-AUG2016-III: 21",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>What is printed by the print statements in the program $P1$ assuming call by reference parameter passing?</p>\n<pre class=\"prettyprint lang-c_cpp\" style=\"text-align: justify;\">Program P1\n{\n    x = 10;\n    y = 3;\n    func1(y,x,x);\n    print x;\n    print y;\n}\n\nfunc1(x,y,z)\n{\n    y = y + 4;\n    z = x + y + z\n}</pre>",
+      "rawQuestionHtml": "<p>What is printed by the print statements in the program $P1$ assuming call by reference parameter passing?</p>\n<pre class=\"prettyprint lang-c_cpp\" style=\"text-align: justify;\">Program P1\n{\n    x = 10;\n    y = 3;\n    func1(y,x,x);\n    print x;\n    print y;\n}\n\nfunc1(x,y,z)\n{\n    y = y + 4;\n    z = x + y + z\n}</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{10, 3}$</li>\n<li>$\\text{31, 3}$</li>\n<li>$\\text{27, 7}$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$\\text{10, 3}$",
+        "$\\text{31, 3}$",
+        "$\\text{27, 7}$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{10, 3}$",
+          "html": "$\\text{10, 3}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{31, 3}$",
+          "html": "$\\text{31, 3}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{27, 7}$",
+          "html": "$\\text{27, 7}$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/735/gate-cse-2001-question-2-17-ugcnet-aug2016-iii-21",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/735/gate-cse-2001-question-2-17-ugcnet-aug2016-iii-21"
+    },
+    {
+      "id": "go:736",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.18",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following three C functions:</p>\n<p>$[P1]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int x = 10;\n    return (&amp;x);\n}</pre>\n<p>$[P2]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int *px;\n    *px = 10;\n    return px;\n}</pre>\n<p>$[P3]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int *px;\n    px = (int*) malloc (sizeof(int));\n    *px = 10;\n    return px;\n}</pre>\n<p>Which of the above three functions are likely to cause problems with pointers?</p>",
+      "rawQuestionHtml": "<p>Consider the following three C functions:</p>\n<p>$[P1]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int x = 10;\n    return (&amp;x);\n}</pre>\n<p>$[P2]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int *px;\n    *px = 10;\n    return px;\n}</pre>\n<p>$[P3]$ </p>\n<pre class=\"prettyprint lang-c_cpp\">int *g(void)\n{\n    int *px;\n    px = (int*) malloc (sizeof(int));\n    *px = 10;\n    return px;\n}</pre>\n<p>Which of the above three functions are likely to cause problems with pointers?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $P3$</li>\n<li>Only $P1$ and $P3$</li>\n<li>Only $P1$ and $P2$</li>\n<li>$P1, P2$ and $P3$</li>\n</ol>",
+      "options": [
+        "Only $P3$",
+        "Only $P1$ and $P3$",
+        "Only $P1$ and $P2$",
+        "$P1, P2$ and $P3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $P3$",
+          "html": "Only $P3$"
+        },
+        {
+          "label": "B",
+          "text": "Only $P1$ and $P3$",
+          "html": "Only $P1$ and $P3$"
+        },
+        {
+          "label": "C",
+          "text": "Only $P1$ and $P2$",
+          "html": "Only $P1$ and $P2$"
+        },
+        {
+          "label": "D",
+          "text": "$P1, P2$ and $P3$",
+          "html": "$P1, P2$ and $P3$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/736/gate-cse-2001-question-2-18",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/736/gate-cse-2001-question-2-18"
+    },
+    {
+      "id": "go:737",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.19",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following program</p>\n\n<pre class=\"prettyprint lang-c_cpp\">Program P2\n    var n : int;\n    \n    procedure W(var x : int)\n    begin\n        x = x + 1;\n        print x;\n    end\n\n    procedure D\n    begin\n        var n : int;\n        n = 3;\n        W(n);\n    end\n\n    begin    \\\\begin P2\n        n=10;\n        D;\n    end</pre>\n\n<p>If the language has dynamic scooping and parameters are passed by reference, what will be printed by the program?</p>",
+      "rawQuestionHtml": "<a name=\"737\"></a><div itemprop=\"text\"><p>Consider the following program</p>\n\n<pre class=\"prettyprint lang-c_cpp\">Program P2\n    var n : int;\n    \n    procedure W(var x : int)\n    begin\n        x = x + 1;\n        print x;\n    end\n\n    procedure D\n    begin\n        var n : int;\n        n = 3;\n        W(n);\n    end\n\n    begin    \\\\begin P2\n        n=10;\n        D;\n    end</pre>\n\n<p>If the language has dynamic scooping and parameters are passed by reference, what will be printed by the program?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>10</li>\n\t<li>11</li>\n\t<li>3</li>\n\t<li>None of the above</li>\n</ol></div>",
+      "options": [
+        "10",
+        "11",
+        "3",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "label": "B",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/737/gate-cse-2001-question-2-19",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/737/gate-cse-2001-question-2-19"
+    },
+    {
+      "id": "go:738",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.20",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which of the following does not interrupt a running process?</p>",
+      "rawQuestionHtml": "<p>Which of the following does not interrupt a running process?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>A device</li>\n<li>Timer</li>\n<li>Scheduler process</li>\n<li>Power failure</li>\n</ol>",
+      "options": [
+        "A device",
+        "Timer",
+        "Scheduler process",
+        "Power failure"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "A device",
+          "html": "A device"
+        },
+        {
+          "label": "B",
+          "text": "Timer",
+          "html": "Timer"
+        },
+        {
+          "label": "C",
+          "text": "Scheduler process",
+          "html": "Scheduler process"
+        },
+        {
+          "label": "D",
+          "text": "Power failure",
+          "html": "Power failure"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/738/gate-cse-2001-question-2-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/738/gate-cse-2001-question-2-20"
+    },
+    {
+      "id": "go:739",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.21",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Consider a machine with $64$ MB physical memory and a $32$-bit virtual address space. If the page size s $4$ KB, what is the approximate size of the page table?</p>",
+      "rawQuestionHtml": "<p>Consider a machine with $64$ MB physical memory and a $32$-bit virtual address space. If the page size s $4$ KB, what is the approximate size of the page table?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{16 MB}$</li>\n<li>$\\text{8 MB}$</li>\n<li>$\\text{2 MB}$</li>\n<li>$\\text{24 MB}$</li>\n</ol>",
+      "options": [
+        "$\\text{16 MB}$",
+        "$\\text{8 MB}$",
+        "$\\text{2 MB}$",
+        "$\\text{24 MB}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{16 MB}$",
+          "html": "$\\text{16 MB}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{8 MB}$",
+          "html": "$\\text{8 MB}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{2 MB}$",
+          "html": "$\\text{2 MB}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{24 MB}$",
+          "html": "$\\text{24 MB}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/739/gate-cse-2001-question-2-21",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/739/gate-cse-2001-question-2-21"
+    },
+    {
+      "id": "go:740",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Consider Peterson's algorithm for mutual exclusion between two concurrent processes i and j. The program executed by process is shown below.</p>\n<pre class=\"prettyprint lang-c_cpp\">repeat\n    flag[i] = true;\n    turn = j;\n    while (P) do no-op;\n    Enter critical section, perform actions, then\n    exit critical section\n    Flag[i] = false;\n    Perform other non-critical section actions.\nUntil false;\n\n</pre>\n<p>For the program to guarantee mutual exclusion, the predicate P in the while loop should be</p>",
+      "rawQuestionHtml": "<p>Consider Peterson's algorithm for mutual exclusion between two concurrent processes i and j. The program executed by process is shown below.</p>\n<pre class=\"prettyprint lang-c_cpp\">repeat\n    flag[i] = true;\n    turn = j;\n    while (P) do no-op;\n    Enter critical section, perform actions, then\n    exit critical section\n    Flag[i] = false;\n    Perform other non-critical section actions.\nUntil false;\n\n</pre>\n<p>For the program to guarantee mutual exclusion, the predicate P in the while loop should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>flag[j] = true and turn = i</li>\n<li>flag[j] = true and turn = j</li>\n<li>flag[i] = true and turn = j</li>\n<li>flag[i] = true and turn = i</li>\n</ol>",
+      "options": [
+        "flag[j] = true and turn = i",
+        "flag[j] = true and turn = j",
+        "flag[i] = true and turn = j",
+        "flag[i] = true and turn = i"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "flag[j] = true and turn = i",
+          "html": "flag[j] = true and turn = i"
+        },
+        {
+          "label": "B",
+          "text": "flag[j] = true and turn = j",
+          "html": "flag[j] = true and turn = j"
+        },
+        {
+          "label": "C",
+          "text": "flag[i] = true and turn = j",
+          "html": "flag[i] = true and turn = j"
+        },
+        {
+          "label": "D",
+          "text": "flag[i] = true and turn = i",
+          "html": "flag[i] = true and turn = i"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/740/gate-cse-2001-question-2-22",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/740/gate-cse-2001-question-2-22"
+    },
+    {
+      "id": "go:741",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.23",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>$R(A,B,C,D)$ is a relation. Which of the following does not have a lossless join, dependency preserving $BCNF$ decomposition?</p>",
+      "rawQuestionHtml": "<p>$R(A,B,C,D)$ is a relation. Which of the following does not have a lossless join, dependency preserving $BCNF$ decomposition?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A \\rightarrow B, B \\rightarrow CD$</li>\n<li>$A \\rightarrow B, B \\rightarrow C, C \\rightarrow D$</li>\n<li>$ AB \\rightarrow C, C \\rightarrow AD$</li>\n<li>$A \\rightarrow BCD$</li>\n</ol>",
+      "options": [
+        "$A \\rightarrow B, B \\rightarrow CD$",
+        "$A \\rightarrow B, B \\rightarrow C, C \\rightarrow D$",
+        "$ AB \\rightarrow C, C \\rightarrow AD$",
+        "$A \\rightarrow BCD$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$A \\rightarrow B, B \\rightarrow CD$",
+          "html": "$A \\rightarrow B, B \\rightarrow CD$"
+        },
+        {
+          "label": "B",
+          "text": "$A \\rightarrow B, B \\rightarrow C, C \\rightarrow D$",
+          "html": "$A \\rightarrow B, B \\rightarrow C, C \\rightarrow D$"
+        },
+        {
+          "label": "C",
+          "text": "$ AB \\rightarrow C, C \\rightarrow AD$",
+          "html": "$ AB \\rightarrow C, C \\rightarrow AD$"
+        },
+        {
+          "label": "D",
+          "text": "$A \\rightarrow BCD$",
+          "html": "$A \\rightarrow BCD$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/741/gate-cse-2001-question-2-23",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/741/gate-cse-2001-question-2-23"
+    },
+    {
+      "id": "go:742",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.24",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Which of the following relational calculus expressions is not safe?</p>",
+      "rawQuestionHtml": "<p>Which of the following relational calculus expressions is not safe?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\neg \\exists s \\in R_2 (t[A] = s[A])\\}$</li>\n<li>$\\{t \\mid \\forall u \\in R_1 (u[A] = \\text{\\\"}x\\text{\\\"} \\Rightarrow \\exists s \\in R_2 (t[A] = s[A] \\wedge s[A] = u[A]))\\}$</li>\n<li>$\\{t \\mid \\neg(t \\in R_1)\\}$</li>\n<li>$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\exists s \\in R_2 (t[A] = s[A])\\}$</li>\n</ol>",
+      "options": [
+        "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\neg \\exists s \\in R_2 (t[A] = s[A])\\}$",
+        "$\\{t \\mid \\forall u \\in R_1 (u[A] = \\text{\\\"}x\\text{\\\"} \\Rightarrow \\exists s \\in R_2 (t[A] = s[A] \\wedge s[A] = u[A]))\\}$",
+        "$\\{t \\mid \\neg(t \\in R_1)\\}$",
+        "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\exists s \\in R_2 (t[A] = s[A])\\}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\neg \\exists s \\in R_2 (t[A] = s[A])\\}$",
+          "html": "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\neg \\exists s \\in R_2 (t[A] = s[A])\\}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\{t \\mid \\forall u \\in R_1 (u[A] = \\text{\\\"}x\\text{\\\"} \\Rightarrow \\exists s \\in R_2 (t[A] = s[A] \\wedge s[A] = u[A]))\\}$",
+          "html": "$\\{t \\mid \\forall u \\in R_1 (u[A] = \\text{\\\"}x\\text{\\\"} \\Rightarrow \\exists s \\in R_2 (t[A] = s[A] \\wedge s[A] = u[A]))\\}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\{t \\mid \\neg(t \\in R_1)\\}$",
+          "html": "$\\{t \\mid \\neg(t \\in R_1)\\}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\exists s \\in R_2 (t[A] = s[A])\\}$",
+          "html": "$\\{t \\mid \\exists u \\in R_1 (t[A] = u[A]) \\wedge \\exists s \\in R_2 (t[A] = s[A])\\}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/742/gate-cse-2001-question-2-24",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/742/gate-cse-2001-question-2-24"
+    },
+    {
+      "id": "go:743",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 2.25",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Consider a relation geq which represents \"greater than or equal to\", that is, $(x,y) \\in $ geq only if $y \\geq x$.</p>\n<pre class=\"prettyprint lang-sql\">create table geq\n(\t\n    ib\tinteger\tnot null,\n    ub\tinteger\tnot null,\n    primary key ib,\t\n    foreign key (ub) references geq on delete cascade\n);</pre>\n<p>Which of the following is possible if tuple (x,y) is deleted?</p>",
+      "rawQuestionHtml": "<p>Consider a relation geq which represents \"greater than or equal to\", that is, $(x,y) \\in $ geq only if $y \\geq x$.</p>\n<pre class=\"prettyprint lang-sql\">create table geq\n(\t\n    ib\tinteger\tnot null,\n    ub\tinteger\tnot null,\n    primary key ib,\t\n    foreign key (ub) references geq on delete cascade\n);</pre>\n<p>Which of the following is possible if tuple (x,y) is deleted?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>A tuple (z,w) with z &gt; y is deleted</li>\n<li>A tuple (z,w) with z &gt; x is deleted</li>\n<li>A tuple (z,w) with w &lt; x is deleted</li>\n<li>The deletion of (x,y) is prohibited</li>\n</ol>",
+      "options": [
+        "A tuple (z,w) with z &gt; y is deleted",
+        "A tuple (z,w) with z &gt; x is deleted",
+        "A tuple (z,w) with w &lt; x is deleted",
+        "The deletion of (x,y) is prohibited"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "A tuple (z,w) with z &gt; y is deleted",
+          "html": "A tuple (z,w) with z &gt; y is deleted"
+        },
+        {
+          "label": "B",
+          "text": "A tuple (z,w) with z &gt; x is deleted",
+          "html": "A tuple (z,w) with z &gt; x is deleted"
+        },
+        {
+          "label": "C",
+          "text": "A tuple (z,w) with w &lt; x is deleted",
+          "html": "A tuple (z,w) with w &lt; x is deleted"
+        },
+        {
+          "label": "D",
+          "text": "The deletion of (x,y) is prohibited",
+          "html": "The deletion of (x,y) is prohibited"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/743/gate-cse-2001-question-2-25",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/743/gate-cse-2001-question-2-25"
+    },
+    {
+      "id": "go:749",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 8",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "NAT",
+      "question": "<p>Consider a disk with the following specifications: 20 surfaces, 1000 tracks/surface, 16 sectors/track, data density 1 KB/sector, rotation speed 3000 rpm. The operating system initiates the transfer between the disk and the memory sector-wise. Once the head has been placed on the right track, the disk reads a sector in a single scan. It reads bits from the sector while the head is passing over the sector. The read bits are formed into bytes in a serial-in-parallel-out buffer and each byte is then transferred to memory. The disk writing is exactly a complementary process.</p>\n<p>For parts (C) and (D) below, assume memory read-write time = 0.1 microseconds/byte, interrupt driven transfer has an interrupt overhead = 0.4 microseconds, the DMA initialization, and termination overhead is negligible compared to the total sector transfer time. DMA requests are always granted.</p>",
+      "rawQuestionHtml": "<p>Consider a disk with the following specifications: 20 surfaces, 1000 tracks/surface, 16 sectors/track, data density 1 KB/sector, rotation speed 3000 rpm. The operating system initiates the transfer between the disk and the memory sector-wise. Once the head has been placed on the right track, the disk reads a sector in a single scan. It reads bits from the sector while the head is passing over the sector. The read bits are formed into bytes in a serial-in-parallel-out buffer and each byte is then transferred to memory. The disk writing is exactly a complementary process.</p>\n<p>For parts (C) and (D) below, assume memory read-write time = 0.1 microseconds/byte, interrupt driven transfer has an interrupt overhead = 0.4 microseconds, the DMA initialization, and termination overhead is negligible compared to the total sector transfer time. DMA requests are always granted.</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>What is the total capacity of the desk?</li>\n<li>What is the data transfer rate?</li>\n<li>What is the percentage of time the CPU is required for this disk I/O for byte-wise interrupts driven transfer?</li>\n<li>What is the maximum percentage of time the CPU is held up for this disk I/O for cycle-stealing DMA transfer?</li>\n</ol>",
+      "options": [
+        "What is the total capacity of the desk?",
+        "What is the data transfer rate?",
+        "What is the percentage of time the CPU is required for this disk I/O for byte-wise interrupts driven transfer?",
+        "What is the maximum percentage of time the CPU is held up for this disk I/O for cycle-stealing DMA transfer?"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "What is the total capacity of the desk?",
+          "html": "What is the total capacity of the desk?"
+        },
+        {
+          "label": "B",
+          "text": "What is the data transfer rate?",
+          "html": "What is the data transfer rate?"
+        },
+        {
+          "label": "C",
+          "text": "What is the percentage of time the CPU is required for this disk I/O for byte-wise interrupts driven transfer?",
+          "html": "What is the percentage of time the CPU is required for this disk I/O for byte-wise interrupts driven transfer?"
+        },
+        {
+          "label": "D",
+          "text": "What is the maximum percentage of time the CPU is held up for this disk I/O for cycle-stealing DMA transfer?",
+          "html": "What is the maximum percentage of time the CPU is held up for this disk I/O for cycle-stealing DMA transfer?"
+        }
+      ],
+      "answer": [
+        "800"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/749/gate-cse-2001-question-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/749/gate-cse-2001-question-8"
+    },
+    {
+      "id": "go:756",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Consider a weighted undirected graph with vertex set <small>$V = \\{n1, n2, n3, n4, n5, n6 \\}$</small> and edge set <small>$E = \\{(n1,n2,2), (n1,n3,8), (n1,n6,3), (n2,n4,4), (n2,n5,12), (n3,n4,7), (n4,n5,9), (n4,n6,4)\\}$.</small></p>\n<p>The third value in each tuple represents the weight of the edge specified in the tuple.</p>",
+      "rawQuestionHtml": "<p>Consider a weighted undirected graph with vertex set <small>$V = \\{n1, n2, n3, n4, n5, n6 \\}$</small> and edge set <small>$E = \\{(n1,n2,2), (n1,n3,8), (n1,n6,3), (n2,n4,4), (n2,n5,12), (n3,n4,7), (n4,n5,9), (n4,n6,4)\\}$.</small></p>\n<p>The third value in each tuple represents the weight of the edge specified in the tuple.</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>List the edges of a minimum spanning tree of the graph.</li>\n<li>How many distinct minimum spanning trees does this graph have?</li>\n<li>Is the minimum among the edge weights of a minimum spanning tree unique over all possible minimum spanning trees of a graph?</li>\n<li>Is the maximum among the edge weights of a minimum spanning tree unique over all possible minimum spanning tree of a graph?</li>\n</ol>",
+      "options": [
+        "List the edges of a minimum spanning tree of the graph.",
+        "How many distinct minimum spanning trees does this graph have?",
+        "Is the minimum among the edge weights of a minimum spanning tree unique over all possible minimum spanning trees of a graph?",
+        "Is the maximum among the edge weights of a minimum spanning tree unique over all possible minimum spanning tree of a graph?"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "List the edges of a minimum spanning tree of the graph.",
+          "html": "List the edges of a minimum spanning tree of the graph."
+        },
+        {
+          "label": "B",
+          "text": "How many distinct minimum spanning trees does this graph have?",
+          "html": "How many distinct minimum spanning trees does this graph have?"
+        },
+        {
+          "label": "C",
+          "text": "Is the minimum among the edge weights of a minimum spanning tree unique over all possible minimum spanning trees of a graph?",
+          "html": "Is the minimum among the edge weights of a minimum spanning tree unique over all possible minimum spanning trees of a graph?"
+        },
+        {
+          "label": "D",
+          "text": "Is the maximum among the edge weights of a minimum spanning tree unique over all possible minimum spanning tree of a graph?",
+          "html": "Is the maximum among the edge weights of a minimum spanning tree unique over all possible minimum spanning tree of a graph?"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/756/gate-cse-2001-question-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/756/gate-cse-2001-question-15"
+    },
+    {
+      "id": "go:761",
+      "testId": "gate-2001-s0",
+      "year": 2001,
+      "set": 1,
+      "yearSetKey": "2001-s0",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 2001 | Question: 20",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "MCQ",
+      "question": "<p>Consider a disk with the $100$ tracks numbered from $0$ to $99$ rotating at $3000$ rpm. The number of sectors per track is $100$ and the time to move the head between two successive tracks is $0.2$ millisecond.</p>",
+      "rawQuestionHtml": "<p>Consider a disk with the $100$ tracks numbered from $0$ to $99$ rotating at $3000$ rpm. The number of sectors per track is $100$ and the time to move the head between two successive tracks is $0.2$ millisecond.</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>Consider a set of disk requests to read data from tracks $32, 7, 45, 5$ and $10$. Assuming that the elevator algorithm is used to schedule disk requests, and the head is initially at track $25$ moving up (towards larger track numbers), what is the total seek time for servicing the requests?</li>\n<li>Consider an initial set of $100$ arbitrary disk requests and assume that no new disk requests arrive while servicing these requests. If the head is initially at track $0$ and the elevator algorithm is used to schedule disk requests, what is the worse case time to complete all the requests?</li>\n</ol>",
+      "options": [
+        "Consider a set of disk requests to read data from tracks $32, 7, 45, 5$ and $10$. Assuming that the elevator algorithm is used to schedule disk requests, and the head is initially at track $25$ moving up (towards larger track numbers), what is the total seek time for servicing the requests?",
+        "Consider an initial set of $100$ arbitrary disk requests and assume that no new disk requests arrive while servicing these requests. If the head is initially at track $0$ and the elevator algorithm is used to schedule disk requests, what is the worse case time to complete all the requests?"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Consider a set of disk requests to read data from tracks $32, 7, 45, 5$ and $10$. Assuming that the elevator algorithm is used to schedule disk requests, and the head is initially at track $25$ moving up (towards larger track numbers), what is the total seek time for servicing the requests?",
+          "html": "Consider a set of disk requests to read data from tracks $32, 7, 45, 5$ and $10$. Assuming that the elevator algorithm is used to schedule disk requests, and the head is initially at track $25$ moving up (towards larger track numbers), what is the total seek time for servicing the requests?"
+        },
+        {
+          "label": "B",
+          "text": "Consider an initial set of $100$ arbitrary disk requests and assume that no new disk requests arrive while servicing these requests. If the head is initially at track $0$ and the elevator algorithm is used to schedule disk requests, what is the worse case time to complete all the requests?",
+          "html": "Consider an initial set of $100$ arbitrary disk requests and assume that no new disk requests arrive while servicing these requests. If the head is initially at track $0$ and the elevator algorithm is used to schedule disk requests, what is the worse case time to complete all the requests?"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/761/gate-cse-2001-question-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/761/gate-cse-2001-question-20"
+    }
+  ]
+}

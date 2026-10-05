@@ -1,0 +1,2933 @@
+{
+  "id": "gate-2022-additional",
+  "yearSetKey": "2022-additional",
+  "year": 2022,
+  "set": 1,
+  "title": "GATE CSE 2022",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 55,
+  "totalQuestions": 55,
+  "gaQuestions": 55,
+  "csQuestions": 0,
+  "questions": [
+    {
+      "id": "go:411722",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3387,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Inhaling the smoke from a burning ______________ could ____________ you quickly.</p>",
+      "rawQuestionHtml": "<a name=\"411722\"></a><div itemprop=\"text\"><p>Inhaling the smoke from a burning ______________ could ____________ you quickly.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>tire / tier</li>\n\t<li>tire / tyre</li>\n\t<li>tyre / tire</li>\n\t<li>tyre / tier</li>\n</ol></div>",
+      "options": [
+        "tire / tier",
+        "tire / tyre",
+        "tyre / tire",
+        "tyre / tier"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "tire / tier",
+          "html": "tire / tier"
+        },
+        {
+          "label": "B",
+          "text": "tire / tyre",
+          "html": "tire / tyre"
+        },
+        {
+          "label": "C",
+          "text": "tyre / tire",
+          "html": "tyre / tire"
+        },
+        {
+          "label": "D",
+          "text": "tyre / tier",
+          "html": "tyre / tier"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411722/gate-ch-2022-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411722/gate-ch-2022-ga-question-1"
+    },
+    {
+      "id": "go:411718",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3388,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Pipes $\\text{P}$ and $\\text{Q}$ can fill a storage tank in full with water in $10$ and $6$ minutes, respectively. Pipe $\\text{R}$ draws the water out from the storage tank at a rate of $34$ litres per minute. $\\text{P, Q and R}$ operate at a constant rate.</p>\n\n<p>If it takes one hour to completely empty a full storage tank with all the pipes operating simultaneously, what is the capacity of the storage tank (in litres)?</p>",
+      "rawQuestionHtml": "<a name=\"411718\"></a><div itemprop=\"text\"><p>Pipes $\\text{P}$ and $\\text{Q}$ can fill a storage tank in full with water in $10$ and $6$ minutes, respectively. Pipe $\\text{R}$ draws the water out from the storage tank at a rate of $34$ litres per minute. $\\text{P, Q and R}$ operate at a constant rate.</p>\n\n<p>If it takes one hour to completely empty a full storage tank with all the pipes operating simultaneously, what is the capacity of the storage tank (in litres)?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$26.8$</li>\n\t<li>$60.0$</li>\n\t<li>$120.0$</li>\n\t<li>$127.5$</li>\n</ol></div>",
+      "options": [
+        "$26.8$",
+        "$60.0$",
+        "$120.0$",
+        "$127.5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$26.8$",
+          "html": "$26.8$"
+        },
+        {
+          "label": "B",
+          "text": "$60.0$",
+          "html": "$60.0$"
+        },
+        {
+          "label": "C",
+          "text": "$120.0$",
+          "html": "$120.0$"
+        },
+        {
+          "label": "D",
+          "text": "$127.5$",
+          "html": "$127.5$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411718/gate-ch-2022-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411718/gate-ch-2022-ga-question-3"
+    },
+    {
+      "id": "go:411716",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3389,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Six persons $\\text{P, Q, R, S, T and U}$ are sitting around a circular table facing the center not necessarily in the same order. Consider the following statements:</p>\n\n<ul>\n\t<li>$\\text{P}$ sits next to $\\text{S}$ and $\\text{T}$.</li>\n\t<li>$\\text{Q}$ sits diametrically opposite to $\\text{P}$.</li>\n\t<li>The shortest distance between $\\text{S}$ and $\\text{R}$ is equal to the shortest distance between $\\text{T}$ and $\\text{U}$.</li>\n</ul>\n\n<p>Based on the above statements, $\\text{Q}$ is a neighbor of</p>",
+      "rawQuestionHtml": "<a name=\"411716\"></a><div itemprop=\"text\"><p>Six persons $\\text{P, Q, R, S, T and U}$ are sitting around a circular table facing the center not necessarily in the same order. Consider the following statements:</p>\n\n<ul>\n\t<li>$\\text{P}$ sits next to $\\text{S}$ and $\\text{T}$.</li>\n\t<li>$\\text{Q}$ sits diametrically opposite to $\\text{P}$.</li>\n\t<li>The shortest distance between $\\text{S}$ and $\\text{R}$ is equal to the shortest distance between $\\text{T}$ and $\\text{U}$.</li>\n</ul>\n\n<p>Based on the above statements, $\\text{Q}$ is a neighbor of</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$\\text{U}$ and $\\text{S}$</li>\n\t<li>$\\text{R}$ and $\\text{T}$</li>\n\t<li>$\\text{R}$ and $\\text{U}$</li>\n\t<li>$\\text{P}$ and $\\text{S}$</li>\n</ol></div>",
+      "options": [
+        "$\\text{U}$ and $\\text{S}$",
+        "$\\text{R}$ and $\\text{T}$",
+        "$\\text{R}$ and $\\text{U}$",
+        "$\\text{P}$ and $\\text{S}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{U}$ and $\\text{S}$",
+          "html": "$\\text{U}$ and $\\text{S}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{R}$ and $\\text{T}$",
+          "html": "$\\text{R}$ and $\\text{T}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{R}$ and $\\text{U}$",
+          "html": "$\\text{R}$ and $\\text{U}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{P}$ and $\\text{S}$",
+          "html": "$\\text{P}$ and $\\text{S}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411716/gate-ch-2022-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411716/gate-ch-2022-ga-question-4"
+    },
+    {
+      "id": "go:411714",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3390,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>A building has several rooms and doors as shown in the top view of the building given below. The doors are closed initially.</p>\n\n<p>What is the minimum number of doors that need to be opened in order to go from the point $\\text{P}$ to the point $\\text{Q}?$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"264\" src=\"/Gate_QA/question-images/1197063519577029898.png\" width=\"264\"></p>",
+      "rawQuestionHtml": "<a name=\"411714\"></a><div itemprop=\"text\"><p>A building has several rooms and doors as shown in the top view of the building given below. The doors are closed initially.</p>\n\n<p>What is the minimum number of doors that need to be opened in order to go from the point $\\text{P}$ to the point $\\text{Q}?$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"264\" src=\"/Gate_QA/question-images/1197063519577029898.png\" width=\"264\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$4$</li>\n\t<li>$3$</li>\n\t<li>$2$</li>\n\t<li>$1$</li>\n</ol></div>",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$1$",
+          "html": "$1$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411714/gate-ch-2022-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411714/gate-ch-2022-ga-question-5"
+    },
+    {
+      "id": "go:411712",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3391,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Rice, a versatile and inexpensive source of carbohydrate, is a critical component of diet worldwide. Climate change, causing extreme weather, poses a threat to sustained availability of rice. Scientists are working on developing Green Super Rice $\\text{(GSR)}$, which is resilient under extreme weather conditions yet gives higher yields sustainably.</p><p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information given in the above passage?</p>",
+      "rawQuestionHtml": "<a name=\"411712\"></a><div itemprop=\"text\"><p>Rice, a versatile and inexpensive source of carbohydrate, is a critical component of diet worldwide. Climate change, causing extreme weather, poses a threat to sustained availability of rice. Scientists are working on developing Green Super Rice $\\text{(GSR)}$, which is resilient under extreme weather conditions yet gives higher yields sustainably.</p><p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information given in the above passage?</p><ol style=\"list-style-type:upper-alpha\" type=\"A\"><li>$\\text{GSR}$ is an alternative to regular rice, but it grows only in an extreme weather</li><li>$\\text{GSR}$ may be used in future in response to adverse effects of climate change</li><li>$\\text{GSR}$ grows in an extreme weather, but the quantity of produce is lesser than regular ice</li><li>Regular rice will continue to provide good yields even in extreme weather</li></ol></div>",
+      "options": [
+        "$\\text{GSR}$ is an alternative to regular rice, but it grows only in an extreme weather",
+        "$\\text{GSR}$ may be used in future in response to adverse effects of climate change",
+        "$\\text{GSR}$ grows in an extreme weather, but the quantity of produce is lesser than regular ice",
+        "Regular rice will continue to provide good yields even in extreme weather"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{GSR}$ is an alternative to regular rice, but it grows only in an extreme weather",
+          "html": "$\\text{GSR}$ is an alternative to regular rice, but it grows only in an extreme weather"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{GSR}$ may be used in future in response to adverse effects of climate change",
+          "html": "$\\text{GSR}$ may be used in future in response to adverse effects of climate change"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{GSR}$ grows in an extreme weather, but the quantity of produce is lesser than regular ice",
+          "html": "$\\text{GSR}$ grows in an extreme weather, but the quantity of produce is lesser than regular ice"
+        },
+        {
+          "label": "D",
+          "text": "Regular rice will continue to provide good yields even in extreme weather",
+          "html": "Regular rice will continue to provide good yields even in extreme weather"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411712/gate-ch-2022-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411712/gate-ch-2022-ga-question-6"
+    },
+    {
+      "id": "go:411710",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3392,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>A game consists of spinning an arrow around a stationary disk as shown below. When the arrow comes to rest, there are eight equally likely outcomes. It could come to rest in any one of the sectors numbered $1, 2, 3, 4, 5, 6, 7$ or $8$ as shown.</p>\n\n<p>Two such disks are used in a game where their arrows are independently spun.</p>\n\n<p>What is the probability that the sum of the numbers on the resulting sectors upon spinning the two disks is equal to 8 after the arrows come to rest?</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/6904074075302246458.jpg\" width=\"500\"></p>",
+      "rawQuestionHtml": "<a name=\"411710\"></a><div itemprop=\"text\"><p>A game consists of spinning an arrow around a stationary disk as shown below. When the arrow comes to rest, there are eight equally likely outcomes. It could come to rest in any one of the sectors numbered $1, 2, 3, 4, 5, 6, 7$ or $8$ as shown.</p>\n\n<p>Two such disks are used in a game where their arrows are independently spun.</p>\n\n<p>What is the probability that the sum of the numbers on the resulting sectors upon spinning the two disks is equal to 8 after the arrows come to rest?</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/6904074075302246458.jpg\" width=\"500\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$\\dfrac{1}{16}$</li>\n<li>$\\dfrac{5}{64}$</li>\n<li>$\\dfrac{3}{32}$</li>\n<li>$\\dfrac{7}{64}$</li>\n</ol></div>",
+      "options": [
+        "$\\dfrac{1}{16}$",
+        "$\\dfrac{5}{64}$",
+        "$\\dfrac{3}{32}$",
+        "$\\dfrac{7}{64}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\dfrac{1}{16}$",
+          "html": "$\\dfrac{1}{16}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{5}{64}$",
+          "html": "$\\dfrac{5}{64}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{3}{32}$",
+          "html": "$\\dfrac{3}{32}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\dfrac{7}{64}$",
+          "html": "$\\dfrac{7}{64}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411710/gate-ch-2022-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411710/gate-ch-2022-ga-question-7"
+    },
+    {
+      "id": "go:411708",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3393,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​​​Consider the following inequalities.</p>\n\n<ol style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>$3p \\:– q &lt; 4$</li>\n\t<li>$3q \\:– p &lt; 12$</li>\n</ol>\n\n<p>Which one of the following expressions below satisfies the above two inequalities?</p>",
+      "rawQuestionHtml": "<a name=\"411708\"></a><div itemprop=\"text\"><p>​​​​​​​Consider the following inequalities.</p>\n\n<ol style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>$3p \\:– q &lt; 4$</li>\n\t<li>$3q \\:– p &lt; 12$</li>\n</ol>\n\n<p>Which one of the following expressions below satisfies the above two inequalities?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$p + q &lt; 8$</li>\n\t<li>$p + q = 8$</li>\n\t<li>$8 \\leq p + q &lt; 16$</li>\n\t<li>$p + q \\geq 16$</li>\n</ol></div>",
+      "options": [
+        "$p + q &lt; 8$",
+        "$p + q = 8$",
+        "$8 \\leq p + q &lt; 16$",
+        "$p + q \\geq 16$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$p + q &lt; 8$",
+          "html": "$p + q &lt; 8$"
+        },
+        {
+          "label": "B",
+          "text": "$p + q = 8$",
+          "html": "$p + q = 8$"
+        },
+        {
+          "label": "C",
+          "text": "$8 \\leq p + q &lt; 16$",
+          "html": "$8 \\leq p + q &lt; 16$"
+        },
+        {
+          "label": "D",
+          "text": "$p + q \\geq 16$",
+          "html": "$p + q \\geq 16$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411708/gate-ch-2022-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411708/gate-ch-2022-ga-question-8"
+    },
+    {
+      "id": "go:411706",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3394,
+      "section": "GA",
+      "title": "GATE CH 2022 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Given below are three statements and four conclusions drawn based on the statements.</p>\n\n<p>Statement $1$ : Some engineers are writers.</p>\n\n<p>Statement $2$ : No writer is an actor.</p>\n\n<p>Statement $3$ : All actors are engineers.</p>\n\n<p>&nbsp;</p>\n\n<p>Conclusion $\\text{I}$ : Some writers are engineers.</p>\n\n<p>Conclusion $\\text{II}$ : All engineers are actors.</p>\n\n<p>Conclusion $\\text{III}$ : No actor is a writer.</p>\n\n<p>Conclusion $\\text{IV}$ : Some actors are writers.</p>\n\n<p>Which one of the following options can be logically inferred?</p>",
+      "rawQuestionHtml": "<a name=\"411706\"></a><div itemprop=\"text\"><p>Given below are three statements and four conclusions drawn based on the statements.</p>\n\n<p>Statement $1$ : Some engineers are writers.</p>\n\n<p>Statement $2$ : No writer is an actor.</p>\n\n<p>Statement $3$ : All actors are engineers.</p>\n\n<p>&nbsp;</p>\n\n<p>Conclusion $\\text{I}$ : Some writers are engineers.</p>\n\n<p>Conclusion $\\text{II}$ : All engineers are actors.</p>\n\n<p>Conclusion $\\text{III}$ : No actor is a writer.</p>\n\n<p>Conclusion $\\text{IV}$ : Some actors are writers.</p>\n\n<p>Which one of the following options can be logically inferred?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Only conclusion $\\text{I}$ is correct</li>\n\t<li>Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct</li>\n\t<li>Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct</li>\n\t<li>Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct</li>\n</ol></div>",
+      "options": [
+        "Only conclusion $\\text{I}$ is correct",
+        "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+        "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct",
+        "Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only conclusion $\\text{I}$ is correct",
+          "html": "Only conclusion $\\text{I}$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct"
+        },
+        {
+          "label": "C",
+          "text": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct",
+          "html": "Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411706/gate-ch-2022-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411706/gate-ch-2022-ga-question-9"
+    },
+    {
+      "id": "go:411743",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3395,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>You should ___________ when to say _______________.</p>",
+      "rawQuestionHtml": "<a name=\"411743\"></a><div itemprop=\"text\"><p>You should ___________ when to say _______________.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>no/no</li>\n\t<li>no / know</li>\n\t<li>know / know</li>\n\t<li>know / no</li>\n</ol></div>",
+      "options": [
+        "no/no",
+        "no / know",
+        "know / know",
+        "know / no"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "no/no",
+          "html": "no/no"
+        },
+        {
+          "label": "B",
+          "text": "no / know",
+          "html": "no / know"
+        },
+        {
+          "label": "C",
+          "text": "know / know",
+          "html": "know / know"
+        },
+        {
+          "label": "D",
+          "text": "know / no",
+          "html": "know / no"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411743/gate-civil-2022-set-1-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411743/gate-civil-2022-set-1-ga-question-1"
+    },
+    {
+      "id": "go:411739",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3396,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>If</p>\n\n<p>$p : q = 1:2$</p>\n\n<p>$q : r = 4 : 3$</p>\n\n<p>$r : s = 4 : 5$</p>\n\n<p>and $u$&nbsp; is $50\\%$ more than $s$, what is the ratio $p : u$?</p>",
+      "rawQuestionHtml": "<a name=\"411739\"></a><div itemprop=\"text\"><p>If</p>\n\n<p>$p : q = 1:2$</p>\n\n<p>$q : r = 4 : 3$</p>\n\n<p>$r : s = 4 : 5$</p>\n\n<p>and $u$&nbsp; is $50\\%$ more than $s$, what is the ratio $p : u$?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2 : 15$</li>\n\t<li>$16 : 15$</li>\n\t<li>$1 : 5$</li>\n\t<li>$16 : 45$</li>\n</ol></div>",
+      "options": [
+        "$2 : 15$",
+        "$16 : 15$",
+        "$1 : 5$",
+        "$16 : 45$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2 : 15$",
+          "html": "$2 : 15$"
+        },
+        {
+          "label": "B",
+          "text": "$16 : 15$",
+          "html": "$16 : 15$"
+        },
+        {
+          "label": "C",
+          "text": "$1 : 5$",
+          "html": "$1 : 5$"
+        },
+        {
+          "label": "D",
+          "text": "$16 : 45$",
+          "html": "$16 : 45$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411739/gate-civil-2022-set-1-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411739/gate-civil-2022-set-1-ga-question-3"
+    },
+    {
+      "id": "go:411737",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3397,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Analytical & Logical Reasoning",
+      "type": "MCQ",
+      "question": "<p>Given the statements:</p>\n\n<ul>\n\t<li>$\\text{P}$ is the sister of $\\text{Q}$.</li>\n\t<li>$\\text{Q}$ is the husband of $\\text{R}$.</li>\n\t<li>$\\text{R}$ is the mother of $\\text{S}$.</li>\n\t<li>$\\text{T}$ is the husband of $\\text{P}$.</li>\n</ul>\n\n<p>Based on the above information, $\\text{T}$ is ____________ of $\\text{S}$.</p>",
+      "rawQuestionHtml": "<a name=\"411737\"></a><div itemprop=\"text\"><p>Given the statements:</p>\n\n<ul>\n\t<li>$\\text{P}$ is the sister of $\\text{Q}$.</li>\n\t<li>$\\text{Q}$ is the husband of $\\text{R}$.</li>\n\t<li>$\\text{R}$ is the mother of $\\text{S}$.</li>\n\t<li>$\\text{T}$ is the husband of $\\text{P}$.</li>\n</ul>\n\n<p>Based on the above information, $\\text{T}$ is ____________ of $\\text{S}$.</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>the grandfather</li>\n\t<li>an uncle</li>\n\t<li>the father</li>\n\t<li>a brother</li>\n</ol></div>",
+      "options": [
+        "the grandfather",
+        "an uncle",
+        "the father",
+        "a brother"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "the grandfather",
+          "html": "the grandfather"
+        },
+        {
+          "label": "B",
+          "text": "an uncle",
+          "html": "an uncle"
+        },
+        {
+          "label": "C",
+          "text": "the father",
+          "html": "the father"
+        },
+        {
+          "label": "D",
+          "text": "a brother",
+          "html": "a brother"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411737/gate-civil-2022-set-1-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411737/gate-civil-2022-set-1-ga-question-4"
+    },
+    {
+      "id": "go:411735",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3398,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In the following diagram, the point $\\text{R}$ is the center of the circle. The lines $\\text{PQ}$ and $\\text{ZV}$ are tangential to the circle. The relation among the areas of the squares, $\\text{PXWR, RUVZ}$ and $\\text{SPQT}$ is</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/10778550616814881847.png\" width=\"350\"></p>\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"411735\"></a><div itemprop=\"text\"><p>In the following diagram, the point $\\text{R}$ is the center of the circle. The lines $\\text{PQ}$ and $\\text{ZV}$ are tangential to the circle. The relation among the areas of the squares, $\\text{PXWR, RUVZ}$ and $\\text{SPQT}$ is</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/10778550616814881847.png\" width=\"350\"></p>\n\n<p>&nbsp;</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Area of $\\text{SPQT}$ = Area of $\\text{RUVZ}$ – Area of $\\text{PXWR}$</li>\n\t<li>Area of $\\text{SPQT}$ = Area of $\\text{PXWR}$ –&nbsp; Area of $\\text{RUVZ}$</li>\n\t<li>Area of $\\text{PXWR}$ = Area of $\\text{SPQT}$ – Area of $\\text{RUVZ}$</li>\n\t<li>Area of $\\text{PXWR}$ = Area of $\\text{RUVZ}$ – Area of $\\text{SPQT}$</li>\n</ol></div>",
+      "options": [
+        "Area of $\\text{SPQT}$ = Area of $\\text{RUVZ}$ – Area of $\\text{PXWR}$",
+        "Area of $\\text{SPQT}$ = Area of $\\text{PXWR}$ – Area of $\\text{RUVZ}$",
+        "Area of $\\text{PXWR}$ = Area of $\\text{SPQT}$ – Area of $\\text{RUVZ}$",
+        "Area of $\\text{PXWR}$ = Area of $\\text{RUVZ}$ – Area of $\\text{SPQT}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Area of $\\text{SPQT}$ = Area of $\\text{RUVZ}$ – Area of $\\text{PXWR}$",
+          "html": "Area of $\\text{SPQT}$ = Area of $\\text{RUVZ}$ – Area of $\\text{PXWR}$"
+        },
+        {
+          "label": "B",
+          "text": "Area of $\\text{SPQT}$ = Area of $\\text{PXWR}$ – Area of $\\text{RUVZ}$",
+          "html": "Area of $\\text{SPQT}$ = Area of $\\text{PXWR}$ –&nbsp; Area of $\\text{RUVZ}$"
+        },
+        {
+          "label": "C",
+          "text": "Area of $\\text{PXWR}$ = Area of $\\text{SPQT}$ – Area of $\\text{RUVZ}$",
+          "html": "Area of $\\text{PXWR}$ = Area of $\\text{SPQT}$ – Area of $\\text{RUVZ}$"
+        },
+        {
+          "label": "D",
+          "text": "Area of $\\text{PXWR}$ = Area of $\\text{RUVZ}$ – Area of $\\text{SPQT}$",
+          "html": "Area of $\\text{PXWR}$ = Area of $\\text{RUVZ}$ – Area of $\\text{SPQT}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411735/gate-civil-2022-set-1-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411735/gate-civil-2022-set-1-ga-question-5"
+    },
+    {
+      "id": "go:411733",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3399,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Healthy eating is a critical component of healthy aging. When should one start eating healthy? It turns out that it is never too early. For example, babies who start eating healthy in the first year are more likely to have better overall health&nbsp;as they get older.</p>\n\n<p>Which one of the following is the CORRECT logical inference based on the information in the above passage?</p>",
+      "rawQuestionHtml": "<a name=\"411733\"></a><div itemprop=\"text\"><p>Healthy eating is a critical component of healthy aging. When should one start eating healthy? It turns out that it is never too early. For example, babies who start eating healthy in the first year are more likely to have better overall health&nbsp;as they get older.</p>\n\n<p>Which one of the following is the CORRECT logical inference based on the information in the above passage?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Healthy eating is important for those with good health conditions, but not for others</li>\n\t<li>Eating healthy can be started at any age, earlier the better</li>\n\t<li>Eating healthy and better overall health are more correlated at a young age, but not older age</li>\n\t<li>Healthy eating is more important for adults than kids</li>\n</ol></div>",
+      "options": [
+        "Healthy eating is important for those with good health conditions, but not for others",
+        "Eating healthy can be started at any age, earlier the better",
+        "Eating healthy and better overall health are more correlated at a young age, but not older age",
+        "Healthy eating is more important for adults than kids"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Healthy eating is important for those with good health conditions, but not for others",
+          "html": "Healthy eating is important for those with good health conditions, but not for others"
+        },
+        {
+          "label": "B",
+          "text": "Eating healthy can be started at any age, earlier the better",
+          "html": "Eating healthy can be started at any age, earlier the better"
+        },
+        {
+          "label": "C",
+          "text": "Eating healthy and better overall health are more correlated at a young age, but not older age",
+          "html": "Eating healthy and better overall health are more correlated at a young age, but not older age"
+        },
+        {
+          "label": "D",
+          "text": "Healthy eating is more important for adults than kids",
+          "html": "Healthy eating is more important for adults than kids"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411733/gate-civil-2022-set-1-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411733/gate-civil-2022-set-1-ga-question-6"
+    },
+    {
+      "id": "go:411731",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3400,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>$\\text{P}$&nbsp; invested ₹$5000$ per month for $6$ months of a year and $\\text{Q}$ invested ₹$x$ per month for $8$ months of the year in a partnership business. The profit is shared in proportion to the total investment made in that year.</p>\n\n<p>If at the end of that investment year, $\\text{Q}$ receives $\\dfrac{4}{9}$ of the total profit, what is the value of $x$ (in ₹)?</p>",
+      "rawQuestionHtml": "<a name=\"411731\"></a><div itemprop=\"text\"><p>$\\text{P}$&nbsp; invested ₹$5000$ per month for $6$ months of a year and $\\text{Q}$ invested ₹$x$ per month for $8$ months of the year in a partnership business. The profit is shared in proportion to the total investment made in that year.</p>\n\n<p>If at the end of that investment year, $\\text{Q}$ receives $\\dfrac{4}{9}$ of the total profit, what is the value of $x$ (in ₹)?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2500$</li>\n\t<li>$3000$</li>\n\t<li>$4687$</li>\n\t<li>$8437$</li>\n</ol></div>",
+      "options": [
+        "$2500$",
+        "$3000$",
+        "$4687$",
+        "$8437$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2500$",
+          "html": "$2500$"
+        },
+        {
+          "label": "B",
+          "text": "$3000$",
+          "html": "$3000$"
+        },
+        {
+          "label": "C",
+          "text": "$4687$",
+          "html": "$4687$"
+        },
+        {
+          "label": "D",
+          "text": "$8437$",
+          "html": "$8437$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411731/gate-civil-2022-set-1-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411731/gate-civil-2022-set-1-ga-question-7"
+    },
+    {
+      "id": "go:411729",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3401,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/7891321917655712828.jpg\" width=\"400\"></p>\n\n<p>The above frequency chart shows the frequency distribution of marks obtained by a set of students in an exam.</p>\n\n<p>From the data presented above, which one of the following is $\\text{CORRECT}$?</p>",
+      "rawQuestionHtml": "<a name=\"411729\"></a><div itemprop=\"text\"><p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/7891321917655712828.jpg\" width=\"400\"></p>\n\n<p>The above frequency chart shows the frequency distribution of marks obtained by a set of students in an exam.</p>\n\n<p>From the data presented above, which one of the following is $\\text{CORRECT}$?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>mean &gt; mode &gt; median</li>\n\t<li>mode &gt; median&gt; mean</li>\n\t<li>mode &gt; mean &gt; median</li>\n\t<li>median &gt; mode &gt; mean</li>\n</ol></div>",
+      "options": [
+        "mean &gt; mode &gt; median",
+        "mode &gt; median&gt; mean",
+        "mode &gt; mean &gt; median",
+        "median &gt; mode &gt; mean"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "mean &gt; mode &gt; median",
+          "html": "mean &gt; mode &gt; median"
+        },
+        {
+          "label": "B",
+          "text": "mode &gt; median&gt; mean",
+          "html": "mode &gt; median&gt; mean"
+        },
+        {
+          "label": "C",
+          "text": "mode &gt; mean &gt; median",
+          "html": "mode &gt; mean &gt; median"
+        },
+        {
+          "label": "D",
+          "text": "median &gt; mode &gt; mean",
+          "html": "median &gt; mode &gt; mean"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411729/gate-civil-2022-set-1-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411729/gate-civil-2022-set-1-ga-question-8"
+    },
+    {
+      "id": "go:411726",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3402,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 1 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>In the square grid shown on the left, a person standing at $\\text{P2}$ position is required to move to $\\text{P5}$ position.</p>\n\n<p>The only movement allowed for a step involves, “two moves along one direction followed by one move in a perpendicular direction”. The permissible directions for movement are shown as dotted arrows in the right.</p>\n\n<p>For example, a person at a given position $\\text{Y}$ can move only to the positions marked $\\text{X}$ on the right.</p>\n\n<p>Without occupying any of the shaded squares at the end of each step, the minimum number of steps required to go from $\\text{P2}$ to $\\text{P5}$ is</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13108134477397399653.jpg\" width=\"600\"></p>",
+      "rawQuestionHtml": "<a name=\"411726\"></a><div itemprop=\"text\"><p>In the square grid shown on the left, a person standing at $\\text{P2}$ position is required to move to $\\text{P5}$ position.</p>\n\n<p>The only movement allowed for a step involves, “two moves along one direction followed by one move in a perpendicular direction”. The permissible directions for movement are shown as dotted arrows in the right.</p>\n\n<p>For example, a person at a given position $\\text{Y}$ can move only to the positions marked $\\text{X}$ on the right.</p>\n\n<p>Without occupying any of the shaded squares at the end of each step, the minimum number of steps required to go from $\\text{P2}$ to $\\text{P5}$ is</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13108134477397399653.jpg\" width=\"600\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$4$</li>\n\t<li>$5$</li>\n\t<li>$6$</li>\n\t<li>$7$</li>\n</ol></div>",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$7$",
+          "html": "$7$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411726/gate-civil-2022-set-1-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411726/gate-civil-2022-set-1-ga-question-9"
+    },
+    {
+      "id": "go:411763",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3403,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>The movie was funny and I __________.</p>",
+      "rawQuestionHtml": "<a name=\"411763\"></a><div itemprop=\"text\"><p>The movie was funny and I __________.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>could help laughing</li>\n\t<li>couldn’t help laughed</li>\n\t<li>couldn’t help laughing</li>\n\t<li>could helped laughed</li>\n</ol></div>",
+      "options": [
+        "could help laughing",
+        "couldn’t help laughed",
+        "couldn’t help laughing",
+        "could helped laughed"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "could help laughing",
+          "html": "could help laughing"
+        },
+        {
+          "label": "B",
+          "text": "couldn’t help laughed",
+          "html": "couldn’t help laughed"
+        },
+        {
+          "label": "C",
+          "text": "couldn’t help laughing",
+          "html": "couldn’t help laughing"
+        },
+        {
+          "label": "D",
+          "text": "could helped laughed",
+          "html": "could helped laughed"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411763/gate-civil-2022-set-2-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411763/gate-civil-2022-set-2-ga-question-1"
+    },
+    {
+      "id": "go:411761",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3404,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>$x:y:z = \\frac{1}{2} : \\frac{1}{3} : \\frac{1}{4}.$</p>\n\n<p>What is the value of $\\frac{x+z-y}{y} ?$</p>",
+      "rawQuestionHtml": "<a name=\"411761\"></a><div itemprop=\"text\"><p>$x:y:z = \\frac{1}{2} : \\frac{1}{3} : \\frac{1}{4}.$</p>\n\n<p>What is the value of $\\frac{x+z-y}{y} ?$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$0.75$</li>\n\t<li>$1.25$</li>\n\t<li>$2.25$</li>\n\t<li>$3.25$</li>\n</ol></div>",
+      "options": [
+        "$0.75$",
+        "$1.25$",
+        "$2.25$",
+        "$3.25$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0.75$",
+          "html": "$0.75$"
+        },
+        {
+          "label": "B",
+          "text": "$1.25$",
+          "html": "$1.25$"
+        },
+        {
+          "label": "C",
+          "text": "$2.25$",
+          "html": "$2.25$"
+        },
+        {
+          "label": "D",
+          "text": "$3.25$",
+          "html": "$3.25$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411761/gate-civil-2022-set-2-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411761/gate-civil-2022-set-2-ga-question-2"
+    },
+    {
+      "id": "go:411759",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3405,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Both the numerator and the denominator of $\\dfrac{3}{4}$ are increased by a positive integer, $x,$ and those of $\\dfrac{15}{17}$ are decreased by the same integer. This operation results in the same value for both the fractions.</p>\n\n<p>What is the value of $x ?$</p>",
+      "rawQuestionHtml": "<a name=\"411759\"></a><div itemprop=\"text\"><p>Both the numerator and the denominator of $\\dfrac{3}{4}$ are increased by a positive integer, $x,$ and those of $\\dfrac{15}{17}$ are decreased by the same integer. This operation results in the same value for both the fractions.</p>\n\n<p>What is the value of $x ?$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$1$</li>\n\t<li>$2$</li>\n\t<li>$3$</li>\n\t<li>$4$</li>\n</ol></div>",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "D",
+          "text": "$4$",
+          "html": "$4$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411759/gate-civil-2022-set-2-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411759/gate-civil-2022-set-2-ga-question-3"
+    },
+    {
+      "id": "go:411757",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3406,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A survey of $450$ students about their subjects of interest resulted in the following outcome.</p>\n\n<ul>\n\t<li>$150$ students are interested in Mathematics.</li>\n\t<li>$200$ students are interested in Physics.</li>\n\t<li>$175$ students are interested in Chemistry.</li>\n\t<li>$50$ students are interested in Mathematics and Physics.</li>\n\t<li>$60$ students are interested in Physics and Chemistry.</li>\n\t<li>$40$ students are interested in Mathematics and Chemistry.</li>\n\t<li>$30$ students are interested in Mathematics,&nbsp;Physics,&nbsp;and Chemistry.</li>\n\t<li>Remaining students are interested in Humanities.</li>\n</ul>\n\n<p>Based on the above information, the number of students interested in Humanities is</p>",
+      "rawQuestionHtml": "<a name=\"411757\"></a><div itemprop=\"text\"><p>A survey of $450$ students about their subjects of interest resulted in the following outcome.</p>\n\n<ul>\n\t<li>$150$ students are interested in Mathematics.</li>\n\t<li>$200$ students are interested in Physics.</li>\n\t<li>$175$ students are interested in Chemistry.</li>\n\t<li>$50$ students are interested in Mathematics and Physics.</li>\n\t<li>$60$ students are interested in Physics and Chemistry.</li>\n\t<li>$40$ students are interested in Mathematics and Chemistry.</li>\n\t<li>$30$ students are interested in Mathematics,&nbsp;Physics,&nbsp;and Chemistry.</li>\n\t<li>Remaining students are interested in Humanities.</li>\n</ul>\n\n<p>Based on the above information, the number of students interested in Humanities is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$10$</li>\n\t<li>$30$</li>\n\t<li>$40$</li>\n\t<li>$45$</li>\n</ol></div>",
+      "options": [
+        "$10$",
+        "$30$",
+        "$40$",
+        "$45$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "B",
+          "text": "$30$",
+          "html": "$30$"
+        },
+        {
+          "label": "C",
+          "text": "$40$",
+          "html": "$40$"
+        },
+        {
+          "label": "D",
+          "text": "$45$",
+          "html": "$45$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411757/gate-civil-2022-set-2-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411757/gate-civil-2022-set-2-ga-question-4"
+    },
+    {
+      "id": "go:411753",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3407,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>In the last few years, several new shopping malls were opened in the city. The total number of visitors in the malls is impressive. However, the total revenue generated through sales in the shops in these malls is generally low.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the&nbsp;information in the above passage?&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"411753\"></a><div itemprop=\"text\"><p>In the last few years, several new shopping malls were opened in the city. The total number of visitors in the malls is impressive. However, the total revenue generated through sales in the shops in these malls is generally low.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the&nbsp;information in the above passage?&nbsp;</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>Fewer people are visiting the malls but spending more</li>\n\t<li>More people are visiting the malls but&nbsp;not spending enough</li>\n\t<li>More people are visiting the malls and&nbsp;spending more</li>\n\t<li>Fewer people are visiting the malls and not&nbsp;spending enough</li>\n</ol></div>",
+      "options": [
+        "Fewer people are visiting the malls but spending more",
+        "More people are visiting the malls but not spending enough",
+        "More people are visiting the malls and spending more",
+        "Fewer people are visiting the malls and not spending enough"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Fewer people are visiting the malls but spending more",
+          "html": "Fewer people are visiting the malls but spending more"
+        },
+        {
+          "label": "B",
+          "text": "More people are visiting the malls but not spending enough",
+          "html": "More people are visiting the malls but&nbsp;not spending enough"
+        },
+        {
+          "label": "C",
+          "text": "More people are visiting the malls and spending more",
+          "html": "More people are visiting the malls and&nbsp;spending more"
+        },
+        {
+          "label": "D",
+          "text": "Fewer people are visiting the malls and not spending enough",
+          "html": "Fewer people are visiting the malls and not&nbsp;spending enough"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411753/gate-civil-2022-set-2-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411753/gate-civil-2022-set-2-ga-question-6"
+    },
+    {
+      "id": "go:411751",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3408,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In a partnership business, the monthly investment by three friends for the first six months is in the ratio $3:4:5.$ After six months, they had to increase their monthly investments by $10 \\%, 15&nbsp;\\%, \\; \\text{and}&nbsp;\\; 20&nbsp;\\%,$ respectively, of their initial monthly investment. The new investment ratio was kept constant for the next six months.</p>\n\n<p>What is the ratio of their shares in the total profit (in the same order) at the end of the year such that the share is proportional to their individual total investment over the year?</p>",
+      "rawQuestionHtml": "<a name=\"411751\"></a><div itemprop=\"text\"><p>In a partnership business, the monthly investment by three friends for the first six months is in the ratio $3:4:5.$ After six months, they had to increase their monthly investments by $10 \\%, 15&nbsp;\\%, \\; \\text{and}&nbsp;\\; 20&nbsp;\\%,$ respectively, of their initial monthly investment. The new investment ratio was kept constant for the next six months.</p>\n\n<p>What is the ratio of their shares in the total profit (in the same order) at the end of the year such that the share is proportional to their individual total investment over the year?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$22:23:24$</li>\n\t<li>$22:33:50$</li>\n\t<li>$33:46:60$</li>\n\t<li>$63:86:110$</li>\n</ol></div>",
+      "options": [
+        "$22:23:24$",
+        "$22:33:50$",
+        "$33:46:60$",
+        "$63:86:110$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$22:23:24$",
+          "html": "$22:23:24$"
+        },
+        {
+          "label": "B",
+          "text": "$22:33:50$",
+          "html": "$22:33:50$"
+        },
+        {
+          "label": "C",
+          "text": "$33:46:60$",
+          "html": "$33:46:60$"
+        },
+        {
+          "label": "D",
+          "text": "$63:86:110$",
+          "html": "$63:86:110$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411751/gate-civil-2022-set-2-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411751/gate-civil-2022-set-2-ga-question-7"
+    },
+    {
+      "id": "go:411749",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3409,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Consider the following equations of straight lines:</p>\n\n<p>$\\text{Line L1}: 2x –&nbsp;3y = 5$</p>\n\n<p>$\\text{Line L2}: 3x +&nbsp;2y = 8$</p>\n\n<p>$\\text{Line L3}: 4x – 6y = 5$</p>\n\n<p>$\\text{Line L4}: 6x – 9y = 6$</p>\n\n<p>Which one among the following is the correct statement?</p>",
+      "rawQuestionHtml": "<a name=\"411749\"></a><div itemprop=\"text\"><p>Consider the following equations of straight lines:</p>\n\n<p>$\\text{Line L1}: 2x –&nbsp;3y = 5$</p>\n\n<p>$\\text{Line L2}: 3x +&nbsp;2y = 8$</p>\n\n<p>$\\text{Line L3}: 4x – 6y = 5$</p>\n\n<p>$\\text{Line L4}: 6x – 9y = 6$</p>\n\n<p>Which one among the following is the correct statement?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{L1}$ is parallel to&nbsp;$\\text{L2}$ and&nbsp;$\\text{L1}$ is perpendicular to&nbsp;$\\text{L3}$</li>\n\t<li>$\\text{L2}$ is parallel to&nbsp;$\\text{L4}$ and&nbsp;$\\text{L2}$ is perpendicular to&nbsp;$\\text{L1}$</li>\n\t<li>$\\text{L3}$ is perpendicular to&nbsp;$\\text{L4}$ and&nbsp;$\\text{L3}$ is parallel to&nbsp;$\\text{L2}$</li>\n\t<li>$\\text{L4}$ is perpendicular&nbsp;to&nbsp;$\\text{L2}$ and&nbsp;$\\text{L4}$ is parallel to&nbsp;$\\text{L3}$</li>\n</ol></div>",
+      "options": [
+        "$\\text{L1}$ is parallel to $\\text{L2}$ and $\\text{L1}$ is perpendicular to $\\text{L3}$",
+        "$\\text{L2}$ is parallel to $\\text{L4}$ and $\\text{L2}$ is perpendicular to $\\text{L1}$",
+        "$\\text{L3}$ is perpendicular to $\\text{L4}$ and $\\text{L3}$ is parallel to $\\text{L2}$",
+        "$\\text{L4}$ is perpendicular to $\\text{L2}$ and $\\text{L4}$ is parallel to $\\text{L3}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{L1}$ is parallel to $\\text{L2}$ and $\\text{L1}$ is perpendicular to $\\text{L3}$",
+          "html": "$\\text{L1}$ is parallel to&nbsp;$\\text{L2}$ and&nbsp;$\\text{L1}$ is perpendicular to&nbsp;$\\text{L3}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{L2}$ is parallel to $\\text{L4}$ and $\\text{L2}$ is perpendicular to $\\text{L1}$",
+          "html": "$\\text{L2}$ is parallel to&nbsp;$\\text{L4}$ and&nbsp;$\\text{L2}$ is perpendicular to&nbsp;$\\text{L1}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{L3}$ is perpendicular to $\\text{L4}$ and $\\text{L3}$ is parallel to $\\text{L2}$",
+          "html": "$\\text{L3}$ is perpendicular to&nbsp;$\\text{L4}$ and&nbsp;$\\text{L3}$ is parallel to&nbsp;$\\text{L2}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{L4}$ is perpendicular to $\\text{L2}$ and $\\text{L4}$ is parallel to $\\text{L3}$",
+          "html": "$\\text{L4}$ is perpendicular&nbsp;to&nbsp;$\\text{L2}$ and&nbsp;$\\text{L4}$ is parallel to&nbsp;$\\text{L3}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411749/gate-civil-2022-set-2-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411749/gate-civil-2022-set-2-ga-question-8"
+    },
+    {
+      "id": "go:411747",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3410,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Analytical & Logical Reasoning",
+      "type": "MCQ",
+      "question": "<p>Given below are two statements and four conclusions drawn based on the statements.</p>\n\n<ul>\n\t<li>Statement $1:$ Some soaps are clean.</li>\n\t<li>Statement $2:$ All&nbsp;clean objects are wet.</li>\n</ul>\n\n<p>Conclusion $\\text{I}$: Some clean objects are soaps.</p>\n\n<p>Conclusion $\\text{II}$: No&nbsp;clean object is a&nbsp;soap.</p>\n\n<p>Conclusion $\\text{III}$: Some wet&nbsp;objects are soaps.</p>\n\n<p>Conclusion $\\text{IV}$: All wet&nbsp;objects are soaps.</p>\n\n<p>Which one of the following options can be logically inferred?</p>",
+      "rawQuestionHtml": "<a name=\"411747\"></a><div itemprop=\"text\"><p>Given below are two statements and four conclusions drawn based on the statements.</p>\n\n<ul>\n\t<li>Statement $1:$ Some soaps are clean.</li>\n\t<li>Statement $2:$ All&nbsp;clean objects are wet.</li>\n</ul>\n\n<p>Conclusion $\\text{I}$: Some clean objects are soaps.</p>\n\n<p>Conclusion $\\text{II}$: No&nbsp;clean object is a&nbsp;soap.</p>\n\n<p>Conclusion $\\text{III}$: Some wet&nbsp;objects are soaps.</p>\n\n<p>Conclusion $\\text{IV}$: All wet&nbsp;objects are soaps.</p>\n\n<p>Which one of the following options can be logically inferred?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>Only conclusion $\\text{I}$ is correct</li>\n\t<li>Either&nbsp;conclusion $\\text{I}$ or&nbsp;conclusion $\\text{II}$ is correct</li>\n\t<li>Either&nbsp;conclusion $\\text{III}$ or&nbsp;conclusion $\\text{IV}$ is correct</li>\n\t<li>Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are&nbsp;correct</li>\n</ol></div>",
+      "options": [
+        "Only conclusion $\\text{I}$ is correct",
+        "Either conclusion $\\text{I}$ or conclusion $\\text{II}$ is correct",
+        "Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct",
+        "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only conclusion $\\text{I}$ is correct",
+          "html": "Only conclusion $\\text{I}$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Either conclusion $\\text{I}$ or conclusion $\\text{II}$ is correct",
+          "html": "Either&nbsp;conclusion $\\text{I}$ or&nbsp;conclusion $\\text{II}$ is correct"
+        },
+        {
+          "label": "C",
+          "text": "Either conclusion $\\text{III}$ or conclusion $\\text{IV}$ is correct",
+          "html": "Either&nbsp;conclusion $\\text{III}$ or&nbsp;conclusion $\\text{IV}$ is correct"
+        },
+        {
+          "label": "D",
+          "text": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are&nbsp;correct"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411747/gate-civil-2022-set-2-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411747/gate-civil-2022-set-2-ga-question-9"
+    },
+    {
+      "id": "go:411745",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3411,
+      "section": "GA",
+      "title": "GATE Civil 2022 Set 2 | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>An ant walks in a straight line on a plane leaving behind a trace of its movement. The initial position of the ant is at point $\\text{P}$ facing east.</p>\n\n<p>The ant first turns $72^{\\circ}&nbsp;$ anticlockwise at $\\text{P},$ and then does the following two steps in sequence exactly FIVE times before halting.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/18173215492162641464.png\" width=\"200\"></p>\n\n<p>&nbsp;</p>\n\n<ol>\n\t<li>moves forward for $10 \\; \\text{cm.}$</li>\n\t<li>turns $144^{\\circ}$ clockwise.</li>\n</ol>\n\n<p>The pattern made by the trace left behind by the ant is</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;A.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/1130773286411699056.jpg\" width=\"400\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;B.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/6554091859054483835.jpg\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;C.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/13287745497917427897.jpg\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;D.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/1275646304055832875.jpg\" width=\"400\"></p>",
+      "rawQuestionHtml": "<a name=\"411745\"></a><div itemprop=\"text\"><p>An ant walks in a straight line on a plane leaving behind a trace of its movement. The initial position of the ant is at point $\\text{P}$ facing east.</p>\n\n<p>The ant first turns $72^{\\circ}&nbsp;$ anticlockwise at $\\text{P},$ and then does the following two steps in sequence exactly FIVE times before halting.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/18173215492162641464.png\" width=\"200\"></p>\n\n<p>&nbsp;</p>\n\n<ol>\n\t<li>moves forward for $10 \\; \\text{cm.}$</li>\n\t<li>turns $144^{\\circ}$ clockwise.</li>\n</ol>\n\n<p>The pattern made by the trace left behind by the ant is</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;A.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/1130773286411699056.jpg\" width=\"400\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;B.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/6554091859054483835.jpg\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;C.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/13287745497917427897.jpg\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;D.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/1275646304055832875.jpg\" width=\"400\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411745/gate-civil-2022-set-2-ga-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411745/gate-civil-2022-set-2-ga-question-10"
+    },
+    {
+      "id": "go:411700",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3412,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>A sum of money is to be distributed among $\\text{P, Q, R,}$ and $\\text{S}$ in the proportion $5:2:4:3,$ respectively.</p>\n\n<p>If $\\text{R}$ gets&nbsp; ₹ $ 1000$ more than $\\text{S},$ what is the share of $\\text{Q (in ₹)}?$</p>",
+      "rawQuestionHtml": "<a name=\"411700\"></a><div itemprop=\"text\"><p>A sum of money is to be distributed among $\\text{P, Q, R,}$ and $\\text{S}$ in the proportion $5:2:4:3,$ respectively.</p>\n\n<p>If $\\text{R}$ gets&nbsp; ₹ $ 1000$ more than $\\text{S},$ what is the share of $\\text{Q (in ₹)}?$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$500$</li>\n\t<li>$1000$</li>\n\t<li>$1500$</li>\n\t<li>$2000$</li>\n</ol></div>",
+      "options": [
+        "$500$",
+        "$1000$",
+        "$1500$",
+        "$2000$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$500$",
+          "html": "$500$"
+        },
+        {
+          "label": "B",
+          "text": "$1000$",
+          "html": "$1000$"
+        },
+        {
+          "label": "C",
+          "text": "$1500$",
+          "html": "$1500$"
+        },
+        {
+          "label": "D",
+          "text": "$2000$",
+          "html": "$2000$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411700/gate-ece-2022-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411700/gate-ece-2022-ga-question-2"
+    },
+    {
+      "id": "go:411698",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3413,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>A trapezium has vertices marked as $\\text{P, Q, R}$ and $\\text{S}$ (in that order anticlockwise). The side $\\text{PQ}$ is parallel to side $\\text{SR}.$</p>\n\n<p>Further, it is given that, $\\text{PQ = 11 cm, QR = 4 cm, RS = 6 cm}$ and $\\text{SP = 3 cm.}$</p>\n\n<p>What is the shortest distance between $\\text{PQ}$ and $\\text{SR (in cm)}?$</p>",
+      "rawQuestionHtml": "<a name=\"411698\"></a><div itemprop=\"text\"><p>A trapezium has vertices marked as $\\text{P, Q, R}$ and $\\text{S}$ (in that order anticlockwise). The side $\\text{PQ}$ is parallel to side $\\text{SR}.$</p>\n\n<p>Further, it is given that, $\\text{PQ = 11 cm, QR = 4 cm, RS = 6 cm}$ and $\\text{SP = 3 cm.}$</p>\n\n<p>What is the shortest distance between $\\text{PQ}$ and $\\text{SR (in cm)}?$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$1.80$</li>\n\t<li>$2.40$</li>\n\t<li>$4.20$</li>\n\t<li>$5.76$</li>\n</ol></div>",
+      "options": [
+        "$1.80$",
+        "$2.40$",
+        "$4.20$",
+        "$5.76$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1.80$",
+          "html": "$1.80$"
+        },
+        {
+          "label": "B",
+          "text": "$2.40$",
+          "html": "$2.40$"
+        },
+        {
+          "label": "C",
+          "text": "$4.20$",
+          "html": "$4.20$"
+        },
+        {
+          "label": "D",
+          "text": "$5.76$",
+          "html": "$5.76$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411698/gate-ece-2022-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411698/gate-ece-2022-ga-question-3"
+    },
+    {
+      "id": "go:411696",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3414,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p>The figure shows a grid formed by a collection of unit squares. The unshaded unit square in the grid represents a hole.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8513612321632071679.png\" width=\"275\"></p>\n\n<p>What is the maximum number of squares without a “hole in the interior” that can be formed within the $4 \\times 4$ grid using the unit squares as building blocks?</p>",
+      "rawQuestionHtml": "<a name=\"411696\"></a><div itemprop=\"text\"><p>The figure shows a grid formed by a collection of unit squares. The unshaded unit square in the grid represents a hole.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8513612321632071679.png\" width=\"275\"></p>\n\n<p>What is the maximum number of squares without a “hole in the interior” that can be formed within the $4 \\times 4$ grid using the unit squares as building blocks?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$15$</li>\n\t<li>$20$</li>\n\t<li>$21$</li>\n\t<li>$26$</li>\n</ol></div>",
+      "options": [
+        "$15$",
+        "$20$",
+        "$21$",
+        "$26$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$15$",
+          "html": "$15$"
+        },
+        {
+          "label": "B",
+          "text": "$20$",
+          "html": "$20$"
+        },
+        {
+          "label": "C",
+          "text": "$21$",
+          "html": "$21$"
+        },
+        {
+          "label": "D",
+          "text": "$26$",
+          "html": "$26$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411696/gate-ece-2022-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411696/gate-ece-2022-ga-question-4"
+    },
+    {
+      "id": "go:411694",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3415,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p>An art gallery engages a security guard to ensure that the items displayed are protected. The diagram below represents the plan of the gallery where the boundary walls are opaque. The location the security guard posted is identified such that all the inner space (shaded region in the plan) of the gallery is within the line of sight of the security guard.</p>\n\n<p>If the security guard does not move around the posted location and has a $360^{\\circ}$ view, which one of the following correctly represents the set of $\\text{ALL}$ possible locations among the locations $\\text{P, Q, R}$ and $\\text{S},$ where the security guard can be posted to watch over the entire inner space of the gallery.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8321512612203836632.png\" width=\"250\"></p>",
+      "rawQuestionHtml": "<a name=\"411694\"></a><div itemprop=\"text\"><p>An art gallery engages a security guard to ensure that the items displayed are protected. The diagram below represents the plan of the gallery where the boundary walls are opaque. The location the security guard posted is identified such that all the inner space (shaded region in the plan) of the gallery is within the line of sight of the security guard.</p>\n\n<p>If the security guard does not move around the posted location and has a $360^{\\circ}$ view, which one of the following correctly represents the set of $\\text{ALL}$ possible locations among the locations $\\text{P, Q, R}$ and $\\text{S},$ where the security guard can be posted to watch over the entire inner space of the gallery.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8321512612203836632.png\" width=\"250\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{P}$ and $\\text{Q}$</li>\n\t<li>$\\text{Q}$</li>\n\t<li>$\\text{Q}$ and $\\text{S}$</li>\n\t<li>$\\text{R}$ and $\\text{S}$</li>\n</ol></div>",
+      "options": [
+        "$\\text{P}$ and $\\text{Q}$",
+        "$\\text{Q}$",
+        "$\\text{Q}$ and $\\text{S}$",
+        "$\\text{R}$ and $\\text{S}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{P}$ and $\\text{Q}$",
+          "html": "$\\text{P}$ and $\\text{Q}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Q}$",
+          "html": "$\\text{Q}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Q}$ and $\\text{S}$",
+          "html": "$\\text{Q}$ and $\\text{S}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{R}$ and $\\text{S}$",
+          "html": "$\\text{R}$ and $\\text{S}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411694/gate-ece-2022-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411694/gate-ece-2022-ga-question-5"
+    },
+    {
+      "id": "go:411690",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3416,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Consider the following inequalities.</p>\n\n\n\n<p>Which one of the following expressions below satisfies the above two inequalities?</p>",
+      "rawQuestionHtml": "<a name=\"411690\"></a><div itemprop=\"text\"><p>Consider the following inequalities.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$2x – 1 &gt; 7$</li>\n\t<li>$2x – 9 &lt; 1$</li>\n</ol>\n\n<p>Which one of the following expressions below satisfies the above two inequalities?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$x \\leq – 4$</li>\n\t<li>$ – 4 &lt; x \\leq 4$</li>\n\t<li>$4 &lt; x &lt; 5$</li>\n\t<li>$x \\geq 5$</li>\n</ol></div>",
+      "options": [
+        "$2x – 1 &gt; 7$",
+        "$2x – 9 &lt; 1$",
+        "$4 &lt; x &lt; 5$",
+        "$x \\geq 5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2x – 1 &gt; 7$",
+          "html": "$2x – 1 &gt; 7$"
+        },
+        {
+          "label": "B",
+          "text": "$2x – 9 &lt; 1$",
+          "html": "$2x – 9 &lt; 1$"
+        },
+        {
+          "label": "C",
+          "text": "$4 &lt; x &lt; 5$",
+          "html": "$4 &lt; x &lt; 5$"
+        },
+        {
+          "label": "D",
+          "text": "$x \\geq 5$",
+          "html": "$x \\geq 5$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411690/gate-ece-2022-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411690/gate-ece-2022-ga-question-7"
+    },
+    {
+      "id": "go:411686",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3417,
+      "section": "GA",
+      "title": "GATE ECE 2022 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>In a class of five students $\\text{P, Q, R, S}$ and $\\text{T},$ only one student is known to have copied in the exam. The disciplinary committee has investigated the situation and recorded the statements from the students as given below.</p>\n\n<p>$\\text{Statement of P: R}$ has copied in the exam.</p>\n\n<p>$\\text{Statement of Q: S}$ has copied in the exam.</p>\n\n<p>$\\text{Statement of R: P}$ did not copy in the exam.&nbsp;</p>\n\n<p>$\\text{Statement of S:}$ Only one of us is telling the truth.</p>\n\n<p>$\\text{Statement of T: R}$ is telling the truth.</p>\n\n<p>The investigating team had authentic information that $\\text{S}$ never lies.</p>\n\n<p>Based on the information given above, the person who has copied in the exam is</p>",
+      "rawQuestionHtml": "<a name=\"411686\"></a><div itemprop=\"text\"><p>In a class of five students $\\text{P, Q, R, S}$ and $\\text{T},$ only one student is known to have copied in the exam. The disciplinary committee has investigated the situation and recorded the statements from the students as given below.</p>\n\n<p>$\\text{Statement of P: R}$ has copied in the exam.</p>\n\n<p>$\\text{Statement of Q: S}$ has copied in the exam.</p>\n\n<p>$\\text{Statement of R: P}$ did not copy in the exam.&nbsp;</p>\n\n<p>$\\text{Statement of S:}$ Only one of us is telling the truth.</p>\n\n<p>$\\text{Statement of T: R}$ is telling the truth.</p>\n\n<p>The investigating team had authentic information that $\\text{S}$ never lies.</p>\n\n<p>Based on the information given above, the person who has copied in the exam is</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\text{R}$</li>\n\t<li>$\\text{P}$</li>\n\t<li>$\\text{Q}$</li>\n\t<li>$\\text{T}$</li>\n</ol></div>",
+      "options": [
+        "$\\text{R}$",
+        "$\\text{P}$",
+        "$\\text{Q}$",
+        "$\\text{T}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{R}$",
+          "html": "$\\text{R}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{P}$",
+          "html": "$\\text{P}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Q}$",
+          "html": "$\\text{Q}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{T}$",
+          "html": "$\\text{T}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411686/gate-ece-2022-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411686/gate-ece-2022-ga-question-9"
+    },
+    {
+      "id": "go:411682",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3418,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>As you grow older, an injury to your ______________ may take longer to ____________.</p>",
+      "rawQuestionHtml": "<a name=\"411682\"></a><div itemprop=\"text\"><p>As you grow older, an injury to your ______________ may take longer to ____________.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>heel / heel</li>\n\t<li>heal / heel</li>\n\t<li>heal / heal</li>\n\t<li>heel / heal</li>\n</ol></div>",
+      "options": [
+        "heel / heel",
+        "heal / heel",
+        "heal / heal",
+        "heel / heal"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "heel / heel",
+          "html": "heel / heel"
+        },
+        {
+          "label": "B",
+          "text": "heal / heel",
+          "html": "heal / heel"
+        },
+        {
+          "label": "C",
+          "text": "heal / heal",
+          "html": "heal / heal"
+        },
+        {
+          "label": "D",
+          "text": "heel / heal",
+          "html": "heel / heal"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411682/gate-electrical-2022-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411682/gate-electrical-2022-ga-question-1"
+    },
+    {
+      "id": "go:411680",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3419,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>In a $500\\;m$ race, $P$ and $Q$ have speeds in the ratio of $3 : 4$. $Q$ starts the race when $P$ has already covered $140\\; m$.</p>\n\n<p>What is the distance between $P$ and $Q$ (in $m$) when $P$ wins the race?</p>",
+      "rawQuestionHtml": "<a name=\"411680\"></a><div itemprop=\"text\"><p>In a $500\\;m$ race, $P$ and $Q$ have speeds in the ratio of $3 : 4$. $Q$ starts the race when $P$ has already covered $140\\; m$.</p>\n\n<p>What is the distance between $P$ and $Q$ (in $m$) when $P$ wins the race?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$20$</li>\n\t<li>$40$</li>\n\t<li>$60$</li>\n\t<li>$140$</li>\n</ol></div>",
+      "options": [
+        "$20$",
+        "$40$",
+        "$60$",
+        "$140$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$20$",
+          "html": "$20$"
+        },
+        {
+          "label": "B",
+          "text": "$40$",
+          "html": "$40$"
+        },
+        {
+          "label": "C",
+          "text": "$60$",
+          "html": "$60$"
+        },
+        {
+          "label": "D",
+          "text": "$140$",
+          "html": "$140$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411680/gate-electrical-2022-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411680/gate-electrical-2022-ga-question-2"
+    },
+    {
+      "id": "go:411678",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3420,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Three bells $P$, $Q$ and $R$ are rung periodically in a school. $P$ is rung every $20$ minutes; $Q$ is rung every $30$ minutes and $R$ is rung every $50$ minutes.</p>\n\n<p>If all the three bells are rung at $12 : 00$ $\\text{PM}$, when will the three bells ring together again the next time?</p>",
+      "rawQuestionHtml": "<a name=\"411678\"></a><div itemprop=\"text\"><p>Three bells $P$, $Q$ and $R$ are rung periodically in a school. $P$ is rung every $20$ minutes; $Q$ is rung every $30$ minutes and $R$ is rung every $50$ minutes.</p>\n\n<p>If all the three bells are rung at $12 : 00$ $\\text{PM}$, when will the three bells ring together again the next time?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$5 : 00$ $\\text{PM}$</li>\n\t<li>$5 : 30$ $\\text{PM}$</li>\n\t<li>$6 : 00$ $\\text{PM}$</li>\n\t<li>$6 : 30$ $\\text{PM}$</li>\n</ol></div>",
+      "options": [
+        "$5 : 00$ $\\text{PM}$",
+        "$5 : 30$ $\\text{PM}$",
+        "$6 : 00$ $\\text{PM}$",
+        "$6 : 30$ $\\text{PM}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$5 : 00$ $\\text{PM}$",
+          "html": "$5 : 00$ $\\text{PM}$"
+        },
+        {
+          "label": "B",
+          "text": "$5 : 30$ $\\text{PM}$",
+          "html": "$5 : 30$ $\\text{PM}$"
+        },
+        {
+          "label": "C",
+          "text": "$6 : 00$ $\\text{PM}$",
+          "html": "$6 : 00$ $\\text{PM}$"
+        },
+        {
+          "label": "D",
+          "text": "$6 : 30$ $\\text{PM}$",
+          "html": "$6 : 30$ $\\text{PM}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411678/gate-electrical-2022-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411678/gate-electrical-2022-ga-question-3"
+    },
+    {
+      "id": "go:411676",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3421,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Given below are two statements and four conclusions drawn based on the statements.</p>\n\n<p>Statement $1$: Some bottles are cups.</p>\n\n<p>Statement $2$: All cups are knives.</p>\n\n<p>&nbsp;</p>\n\n<p>Conclusion $\\text{I}$ : Some bottles are knives.</p>\n\n<p>Conclusion $\\text{II}$ : Some knives are cups.</p>\n\n<p>Conclusion $\\text{III}$ : All cups are bottles.</p>\n\n<p>Conclusion $\\text{IV}$ : All knives are cups.</p>\n\n<p>Which one of the following options can be logically inferred?</p>",
+      "rawQuestionHtml": "<a name=\"411676\"></a><div itemprop=\"text\"><p>Given below are two statements and four conclusions drawn based on the statements.</p>\n\n<p>Statement $1$: Some bottles are cups.</p>\n\n<p>Statement $2$: All cups are knives.</p>\n\n<p>&nbsp;</p>\n\n<p>Conclusion $\\text{I}$ : Some bottles are knives.</p>\n\n<p>Conclusion $\\text{II}$ : Some knives are cups.</p>\n\n<p>Conclusion $\\text{III}$ : All cups are bottles.</p>\n\n<p>Conclusion $\\text{IV}$ : All knives are cups.</p>\n\n<p>Which one of the following options can be logically inferred?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct</li>\n\t<li>Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct</li>\n\t<li>Only conclusion $\\text{II}$ and conclusion $\\text{IV}$ are correct</li>\n\t<li>Only conclusion $\\text{III}$ and conclusion $\\text{IV}$ are correct</li>\n</ol></div>",
+      "options": [
+        "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct",
+        "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+        "Only conclusion $\\text{II}$ and conclusion $\\text{IV}$ are correct",
+        "Only conclusion $\\text{III}$ and conclusion $\\text{IV}$ are correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct",
+          "html": "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct"
+        },
+        {
+          "label": "B",
+          "text": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct"
+        },
+        {
+          "label": "C",
+          "text": "Only conclusion $\\text{II}$ and conclusion $\\text{IV}$ are correct",
+          "html": "Only conclusion $\\text{II}$ and conclusion $\\text{IV}$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "Only conclusion $\\text{III}$ and conclusion $\\text{IV}$ are correct",
+          "html": "Only conclusion $\\text{III}$ and conclusion $\\text{IV}$ are correct"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411676/gate-electrical-2022-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411676/gate-electrical-2022-ga-question-4"
+    },
+    {
+      "id": "go:411674",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3422,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The figure below shows the front and rear view of a disc, which is shaded with identical patterns. The disc is flipped once with respect to any one of the fixed axes $1 -1$, $2 -2$ or $3 -3$ chosen uniformly at random.</p>\n\n<p>What is the probability that the disc $\\text{DOES NOT}$ retain the same front and rear views after the flipping operation?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2073322995436707154.png\" width=\"500\"></p>\n\n\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"411674\"></a><div itemprop=\"text\"><p>The figure below shows the front and rear view of a disc, which is shaded with identical patterns. The disc is flipped once with respect to any one of the fixed axes $1 -1$, $2 -2$ or $3 -3$ chosen uniformly at random.</p>\n\n<p>What is the probability that the disc $\\text{DOES NOT}$ retain the same front and rear views after the flipping operation?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2073322995436707154.png\" width=\"500\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$0$</li>\n\t<li>$\\frac{1}{3}$</li>\n\t<li>$\\frac{2}{3}$</li>\n\t<li>$1$</li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "options": [
+        "$0$",
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$",
+        "$1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{3}$",
+          "html": "$\\frac{1}{3}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{2}{3}$",
+          "html": "$\\frac{2}{3}$"
+        },
+        {
+          "label": "D",
+          "text": "$1$",
+          "html": "$1$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411674/gate-electrical-2022-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411674/gate-electrical-2022-ga-question-5"
+    },
+    {
+      "id": "go:411671",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3423,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Altruism is the human concern for the wellbeing of others. Altruism has been shown to be motivated more by social bonding, familiarity and identification of belongingness to a group. The notion that altruism may be attributed to empathy or guilt has now been rejected.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information in the above passage?</p>",
+      "rawQuestionHtml": "<a name=\"411671\"></a><div itemprop=\"text\"><p>Altruism is the human concern for the wellbeing of others. Altruism has been shown to be motivated more by social bonding, familiarity and identification of belongingness to a group. The notion that altruism may be attributed to empathy or guilt has now been rejected.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information in the above passage?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Humans engage in altruism due to guilt but not empathy</li>\n\t<li>Humans engage in altruism due to empathy but not guilt</li>\n\t<li>Humans engage in altruism due to group identification but not empathy</li>\n\t<li>Humans engage in altruism due to empathy but not familiarity</li>\n</ol></div>",
+      "options": [
+        "Humans engage in altruism due to guilt but not empathy",
+        "Humans engage in altruism due to empathy but not guilt",
+        "Humans engage in altruism due to group identification but not empathy",
+        "Humans engage in altruism due to empathy but not familiarity"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Humans engage in altruism due to guilt but not empathy",
+          "html": "Humans engage in altruism due to guilt but not empathy"
+        },
+        {
+          "label": "B",
+          "text": "Humans engage in altruism due to empathy but not guilt",
+          "html": "Humans engage in altruism due to empathy but not guilt"
+        },
+        {
+          "label": "C",
+          "text": "Humans engage in altruism due to group identification but not empathy",
+          "html": "Humans engage in altruism due to group identification but not empathy"
+        },
+        {
+          "label": "D",
+          "text": "Humans engage in altruism due to empathy but not familiarity",
+          "html": "Humans engage in altruism due to empathy but not familiarity"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411671/gate-electrical-2022-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411671/gate-electrical-2022-ga-question-6"
+    },
+    {
+      "id": "go:411669",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3424,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>There are two identical dice with a single letter on each of the faces. The following six letters: $\\text{Q, R, S, T, U}$ and $\\text{V}$, one on each of the faces. Any of the six outcomes are equally likely.</p>\n\n<p>The two dice are thrown once independently at random.</p>\n\n<p>What is the probability that the outcomes on the dice were composed only of any combination of the following possible outcomes: $\\text{Q, U}$ and $\\text{V}$?</p>",
+      "rawQuestionHtml": "<a name=\"411669\"></a><div itemprop=\"text\"><p>There are two identical dice with a single letter on each of the faces. The following six letters: $\\text{Q, R, S, T, U}$ and $\\text{V}$, one on each of the faces. Any of the six outcomes are equally likely.</p>\n\n<p>The two dice are thrown once independently at random.</p>\n\n<p>What is the probability that the outcomes on the dice were composed only of any combination of the following possible outcomes: $\\text{Q, U}$ and $\\text{V}$?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$\\frac{1}{4}$</li>\n\t<li>$\\frac{3}{4}$</li>\n\t<li>$\\frac{1}{6}$</li>\n\t<li>$\\frac{5}{36}$</li>\n</ol></div>",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{5}{36}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{4}$",
+          "html": "$\\frac{1}{4}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{3}{4}$",
+          "html": "$\\frac{3}{4}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{6}$",
+          "html": "$\\frac{1}{6}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{5}{36}$",
+          "html": "$\\frac{5}{36}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411669/gate-electrical-2022-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411669/gate-electrical-2022-ga-question-7"
+    },
+    {
+      "id": "go:411667",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3425,
+      "section": "GA",
+      "title": "GATE Electrical 2022 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The price of an item is $10\\%$ cheaper in an online store $\\text{S}$ compared to the price at another online store $\\text{M}$. Store $\\text{S}$ charges &nbsp;$\\text{₹ }150$ for delivery. There are no delivery charges for orders from the store $\\text{M}$. A person bought the items from the store $\\text{S}$ and saved &nbsp;$\\text{₹ } 100$.</p>\n\n<p>What is the price of the item at the online store $\\text{S}$ (in $\\text{₹}$) if there are no other charges than what is described above?</p>",
+      "rawQuestionHtml": "<a name=\"411667\"></a><div itemprop=\"text\"><p>The price of an item is $10\\%$ cheaper in an online store $\\text{S}$ compared to the price at another online store $\\text{M}$. Store $\\text{S}$ charges &nbsp;$\\text{₹ }150$ for delivery. There are no delivery charges for orders from the store $\\text{M}$. A person bought the items from the store $\\text{S}$ and saved &nbsp;$\\text{₹ } 100$.</p>\n\n<p>What is the price of the item at the online store $\\text{S}$ (in $\\text{₹}$) if there are no other charges than what is described above?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2500$</li>\n\t<li>$2250$</li>\n\t<li>$1750$</li>\n\t<li>$1500$</li>\n</ol></div>",
+      "options": [
+        "$2500$",
+        "$2250$",
+        "$1750$",
+        "$1500$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2500$",
+          "html": "$2500$"
+        },
+        {
+          "label": "B",
+          "text": "$2250$",
+          "html": "$2250$"
+        },
+        {
+          "label": "C",
+          "text": "$1750$",
+          "html": "$1750$"
+        },
+        {
+          "label": "D",
+          "text": "$1500$",
+          "html": "$1500$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411667/gate-electrical-2022-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411667/gate-electrical-2022-ga-question-8"
+    },
+    {
+      "id": "go:411783",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3426,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>After playing __________ hours of tennis, I am feeling __________________ tired to walk back.</p>",
+      "rawQuestionHtml": "<a name=\"411783\"></a><div itemprop=\"text\"><p>After playing __________ hours of tennis, I am feeling __________________ tired to walk back.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>too/too</li>\n\t<li>too/two</li>\n\t<li>two/ two</li>\n\t<li>two/too</li>\n</ol></div>",
+      "options": [
+        "too/too",
+        "too/two",
+        "two/ two",
+        "two/too"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "too/too",
+          "html": "too/too"
+        },
+        {
+          "label": "B",
+          "text": "too/two",
+          "html": "too/two"
+        },
+        {
+          "label": "C",
+          "text": "two/ two",
+          "html": "two/ two"
+        },
+        {
+          "label": "D",
+          "text": "two/too",
+          "html": "two/too"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411783/gate-mechanical-2022-set-1-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411783/gate-mechanical-2022-set-1-ga-question-1"
+    },
+    {
+      "id": "go:411781",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3427,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>The average of the monthly salaries of $\\text{M, N}$ and $\\text{S}$ is ₹$4000$. The average of the monthly salaries of $\\text{N, S}$ and $\\text{P}$ is ₹$5000$. The monthly salary of $\\text{P}$ is ₹$6000$.</p>\n\n<p>What is the monthly salary of $\\text{M}$ as a percentage of the monthly salary of $\\text{P}?$</p>",
+      "rawQuestionHtml": "<a name=\"411781\"></a><div itemprop=\"text\"><p>The average of the monthly salaries of $\\text{M, N}$ and $\\text{S}$ is ₹$4000$. The average of the monthly salaries of $\\text{N, S}$ and $\\text{P}$ is ₹$5000$. The monthly salary of $\\text{P}$ is ₹$6000$.</p>\n\n<p>What is the monthly salary of $\\text{M}$ as a percentage of the monthly salary of $\\text{P}?$</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$50\\%$</li>\n\t<li>$75\\%$</li>\n\t<li>$100\\%$</li>\n\t<li>$125\\%$</li>\n</ol></div>",
+      "options": [
+        "$50\\%$",
+        "$75\\%$",
+        "$100\\%$",
+        "$125\\%$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$50\\%$",
+          "html": "$50\\%$"
+        },
+        {
+          "label": "B",
+          "text": "$75\\%$",
+          "html": "$75\\%$"
+        },
+        {
+          "label": "C",
+          "text": "$100\\%$",
+          "html": "$100\\%$"
+        },
+        {
+          "label": "D",
+          "text": "$125\\%$",
+          "html": "$125\\%$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411781/gate-mechanical-2022-set-1-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411781/gate-mechanical-2022-set-1-ga-question-2"
+    },
+    {
+      "id": "go:411779",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3428,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A person travelled $80$ $\\text{km}$ in $6$ hours. If the person travelled the first part with a uniform speed of $10$ $\\text{kmph}$ and the remaining part with a uniform speed of $18$ $\\text{kmph}$.</p>\n\n<p>What percentage of the total distance is travelled at a uniform speed of $10$ $\\text{kmph}$?</p>",
+      "rawQuestionHtml": "<a name=\"411779\"></a><div itemprop=\"text\"><p>A person travelled $80$ $\\text{km}$ in $6$ hours. If the person travelled the first part with a uniform speed of $10$ $\\text{kmph}$ and the remaining part with a uniform speed of $18$ $\\text{kmph}$.</p>\n\n<p>What percentage of the total distance is travelled at a uniform speed of $10$ $\\text{kmph}$?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$28.25$</li>\n\t<li>$37.25$</li>\n\t<li>$43.75$</li>\n\t<li>$50.00$</li>\n</ol></div>",
+      "options": [
+        "$28.25$",
+        "$37.25$",
+        "$43.75$",
+        "$50.00$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$28.25$",
+          "html": "$28.25$"
+        },
+        {
+          "label": "B",
+          "text": "$37.25$",
+          "html": "$37.25$"
+        },
+        {
+          "label": "C",
+          "text": "$43.75$",
+          "html": "$43.75$"
+        },
+        {
+          "label": "D",
+          "text": "$50.00$",
+          "html": "$50.00$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411779/gate-mechanical-2022-set-1-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411779/gate-mechanical-2022-set-1-ga-question-3"
+    },
+    {
+      "id": "go:411777",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3429,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Four girls $\\text{P, Q, R and S}$ are studying languages in a University. $\\text{P}$ is learning French and Dutch. $\\text{Q}$ is learning Chinese and Japanese. $\\text{R}$ is learning Spanish and French. $\\text{S}$ is learning Dutch and Japanese.</p>\n\n<p>Given that: French is easier than Dutch; Chinese is harder than Japanese; Dutch is easier than Japanese, and Spanish is easier than French.</p>\n\n<p>Based on the above information, which girl is learning the most difficult pair of languages?</p>",
+      "rawQuestionHtml": "<a name=\"411777\"></a><div itemprop=\"text\"><p>Four girls $\\text{P, Q, R and S}$ are studying languages in a University. $\\text{P}$ is learning French and Dutch. $\\text{Q}$ is learning Chinese and Japanese. $\\text{R}$ is learning Spanish and French. $\\text{S}$ is learning Dutch and Japanese.</p>\n\n<p>Given that: French is easier than Dutch; Chinese is harder than Japanese; Dutch is easier than Japanese, and Spanish is easier than French.</p>\n\n<p>Based on the above information, which girl is learning the most difficult pair of languages?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$\\text{P}$</li>\n\t<li>$\\text{Q}$</li>\n\t<li>$\\text{R}$</li>\n\t<li>$\\text{S}$</li>\n</ol></div>",
+      "options": [
+        "$\\text{P}$",
+        "$\\text{Q}$",
+        "$\\text{R}$",
+        "$\\text{S}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{P}$",
+          "html": "$\\text{P}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Q}$",
+          "html": "$\\text{Q}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{R}$",
+          "html": "$\\text{R}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{S}$",
+          "html": "$\\text{S}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411777/gate-mechanical-2022-set-1-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411777/gate-mechanical-2022-set-1-ga-question-4"
+    },
+    {
+      "id": "go:411773",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3430,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Humans are naturally compassionate and honest. In a study using strategically placed wallets that appear \"lost\", it was found that wallets with money are more likely to be returned than wallets without money. Similarly, wallets that had a key and money are more likely to be returned than wallets with the same amount of money alone. This suggests that the primary reason for this behavior is compassion and empathy.</p>\n\n<p>Which one of the following is the CORRECT logical inference based on the information in the above passage?</p>",
+      "rawQuestionHtml": "<a name=\"411773\"></a><div itemprop=\"text\"><p>Humans are naturally compassionate and honest. In a study using strategically placed wallets that appear \"lost\", it was found that wallets with money are more likely to be returned than wallets without money. Similarly, wallets that had a key and money are more likely to be returned than wallets with the same amount of money alone. This suggests that the primary reason for this behavior is compassion and empathy.</p>\n\n<p>Which one of the following is the CORRECT logical inference based on the information in the above passage?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Wallets with a key are more likely to be returned because people do not care about money</li>\n\t<li>Wallets with a key are more likely to be returned because people relate to suffering of others</li>\n\t<li>Wallets used in experiments are more likely to be returned than wallets that are really lost</li>\n\t<li>Money is always more important than keys</li>\n</ol></div>",
+      "options": [
+        "Wallets with a key are more likely to be returned because people do not care about money",
+        "Wallets with a key are more likely to be returned because people relate to suffering of others",
+        "Wallets used in experiments are more likely to be returned than wallets that are really lost",
+        "Money is always more important than keys"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Wallets with a key are more likely to be returned because people do not care about money",
+          "html": "Wallets with a key are more likely to be returned because people do not care about money"
+        },
+        {
+          "label": "B",
+          "text": "Wallets with a key are more likely to be returned because people relate to suffering of others",
+          "html": "Wallets with a key are more likely to be returned because people relate to suffering of others"
+        },
+        {
+          "label": "C",
+          "text": "Wallets used in experiments are more likely to be returned than wallets that are really lost",
+          "html": "Wallets used in experiments are more likely to be returned than wallets that are really lost"
+        },
+        {
+          "label": "D",
+          "text": "Money is always more important than keys",
+          "html": "Money is always more important than keys"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411773/gate-mechanical-2022-set-1-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411773/gate-mechanical-2022-set-1-ga-question-6"
+    },
+    {
+      "id": "go:411771",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3431,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A rhombus is formed by joining the midpoints of the sides of a unit square.</p>\n\n<p>What is the diameter of the largest circle that can be inscribed within the rhombus?</p>",
+      "rawQuestionHtml": "<a name=\"411771\"></a><div itemprop=\"text\"><p>A rhombus is formed by joining the midpoints of the sides of a unit square.</p>\n\n<p>What is the diameter of the largest circle that can be inscribed within the rhombus?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$\\dfrac{1}{\\sqrt{2}}$</li>\n\t<li>$\\dfrac{1}{2\\sqrt{2}}$</li>\n\t<li>$\\sqrt{2}$</li>\n\t<li>$2 \\sqrt{2}$</li>\n</ol></div>",
+      "options": [
+        "$\\dfrac{1}{\\sqrt{2}}$",
+        "$\\dfrac{1}{2\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$2 \\sqrt{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\dfrac{1}{\\sqrt{2}}$",
+          "html": "$\\dfrac{1}{\\sqrt{2}}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{1}{2\\sqrt{2}}$",
+          "html": "$\\dfrac{1}{2\\sqrt{2}}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\sqrt{2}$",
+          "html": "$\\sqrt{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$2 \\sqrt{2}$",
+          "html": "$2 \\sqrt{2}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411771/gate-mechanical-2022-set-1-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411771/gate-mechanical-2022-set-1-ga-question-7"
+    },
+    {
+      "id": "go:411769",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3432,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>An equilateral triangle, a square and a circle have equal areas.</p>\n\n<p>What is the ratio of the perimeters of the equilateral triangle to square to circle?</p>",
+      "rawQuestionHtml": "<a name=\"411769\"></a><div itemprop=\"text\"><p>An equilateral triangle, a square and a circle have equal areas.</p>\n\n<p>What is the ratio of the perimeters of the equilateral triangle to square to circle?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$3\\sqrt{3} : 2 : \\sqrt{\\pi}$</li>\n\t<li>$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : \\sqrt{\\pi}$</li>\n\t<li>$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 4 : 2\\sqrt{\\pi}$</li>\n\t<li>$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : 2\\sqrt{\\pi}$</li>\n</ol></div>",
+      "options": [
+        "$3\\sqrt{3} : 2 : \\sqrt{\\pi}$",
+        "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : \\sqrt{\\pi}$",
+        "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 4 : 2\\sqrt{\\pi}$",
+        "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : 2\\sqrt{\\pi}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3\\sqrt{3} : 2 : \\sqrt{\\pi}$",
+          "html": "$3\\sqrt{3} : 2 : \\sqrt{\\pi}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : \\sqrt{\\pi}$",
+          "html": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : \\sqrt{\\pi}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 4 : 2\\sqrt{\\pi}$",
+          "html": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 4 : 2\\sqrt{\\pi}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : 2\\sqrt{\\pi}$",
+          "html": "$\\sqrt{\\left ( 3 \\sqrt{3} \\right )} : 2 : 2\\sqrt{\\pi}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411769/gate-mechanical-2022-set-1-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411769/gate-mechanical-2022-set-1-ga-question-8"
+    },
+    {
+      "id": "go:411767",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 1,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3433,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 1 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>​​​​​​Given below are three conclusions drawn based on the following three statements.</p>\n\n<p>Statement $1$ : All teachers are professors.<br>\nStatement $2$ : No professor is a male.<br>\nStatement $3$ : Some males are engineers.</p>\n\n<p>Conclusion $\\text{I}$: No engineer is a professor.<br>\nConclusion $\\text{II}$: Some engineers are professors.<br>\nConclusion $\\text{III}$: No male is a teacher.</p>\n\n<p>Which one of the following options can be logically inferred?</p>",
+      "rawQuestionHtml": "<a name=\"411767\"></a><div itemprop=\"text\"><p>​​​​​​Given below are three conclusions drawn based on the following three statements.</p>\n\n<p>Statement $1$ : All teachers are professors.<br>\nStatement $2$ : No professor is a male.<br>\nStatement $3$ : Some males are engineers.</p>\n\n<p>Conclusion $\\text{I}$: No engineer is a professor.<br>\nConclusion $\\text{II}$: Some engineers are professors.<br>\nConclusion $\\text{III}$: No male is a teacher.</p>\n\n<p>Which one of the following options can be logically inferred?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Only conclusion $\\text{III}$ is correct</li>\n\t<li>Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct</li>\n\t<li>Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct</li>\n\t<li>Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct</li>\n</ol></div>",
+      "options": [
+        "Only conclusion $\\text{III}$ is correct",
+        "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct",
+        "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+        "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only conclusion $\\text{III}$ is correct",
+          "html": "Only conclusion $\\text{III}$ is correct"
+        },
+        {
+          "label": "B",
+          "text": "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct",
+          "html": "Only conclusion $\\text{I}$ and conclusion $\\text{II}$ are correct"
+        },
+        {
+          "label": "C",
+          "text": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{II}$ and conclusion $\\text{III}$ are correct"
+        },
+        {
+          "label": "D",
+          "text": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct",
+          "html": "Only conclusion $\\text{I}$ and conclusion $\\text{III}$ are correct"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411767/gate-mechanical-2022-set-1-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411767/gate-mechanical-2022-set-1-ga-question-9"
+    },
+    {
+      "id": "go:411805",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3434,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Writing too many things on the ___________ while teaching could make the students get _____________.</p>",
+      "rawQuestionHtml": "<a name=\"411805\"></a><div itemprop=\"text\"><p>Writing too many things on the ___________ while teaching could make the students get _____________.</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>bored / board</li>\n\t<li>board / bored</li>\n\t<li>board / board</li>\n\t<li>bored / bored</li>\n</ol></div>",
+      "options": [
+        "bored / board",
+        "board / bored",
+        "board / board",
+        "bored / bored"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "bored / board",
+          "html": "bored / board"
+        },
+        {
+          "label": "B",
+          "text": "board / bored",
+          "html": "board / bored"
+        },
+        {
+          "label": "C",
+          "text": "board / board",
+          "html": "board / board"
+        },
+        {
+          "label": "D",
+          "text": "bored / bored",
+          "html": "bored / bored"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411805/gate-mechanical-2022-set-2-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411805/gate-mechanical-2022-set-2-ga-question-1"
+    },
+    {
+      "id": "go:411803",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3435,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Which one of the following is a representation (not to scale and in bold) of all values of $x$ satisfying the inequality $2 - 5x \\leq - \\dfrac{6x - 5}{3}$ on the real number line?</p>\n\n<p>&nbsp; &nbsp; &nbsp; A.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/13992150555206964373.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; B.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/12965672242986215435.png\" width=\"300\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; C.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/5757750614951725535.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; D.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/5328536460206053591.png\" width=\"300\"></p>",
+      "rawQuestionHtml": "<a name=\"411803\"></a><div itemprop=\"text\"><p>Which one of the following is a representation (not to scale and in bold) of all values of $x$ satisfying the inequality $2 - 5x \\leq - \\dfrac{6x - 5}{3}$ on the real number line?</p>\n\n<p>&nbsp; &nbsp; &nbsp; A.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/13992150555206964373.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; B.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/12965672242986215435.png\" width=\"300\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; C.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/5757750614951725535.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; D.&nbsp;<img alt=\"\" src=\"/Gate_QA/question-images/5328536460206053591.png\" width=\"300\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411803/gate-mechanical-2022-set-2-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411803/gate-mechanical-2022-set-2-ga-question-2"
+    },
+    {
+      "id": "go:411799",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3436,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A person was born on the fifth Monday of February in a particular year.</p><p>Which one of the following statements is correct based on the above information?</p>",
+      "rawQuestionHtml": "<a name=\"411799\"></a><div itemprop=\"text\"><p>A person was born on the fifth Monday of February in a particular year.</p><p>Which one of the following statements is correct based on the above information?</p><ol style=\"list-style-type:upper-alpha\" type=\"A\"><li>The $2^{\\text{nd}}$ February of that year is a Tuesday</li><li>There will be five Sundays in the month of February in that year</li><li>The $1^{\\text{st}}$ February of that year is a Sunday</li><li>All Mondays of February in that year have even dates</li></ol></div>",
+      "options": [
+        "The $2^{\\text{nd}}$ February of that year is a Tuesday",
+        "There will be five Sundays in the month of February in that year",
+        "The $1^{\\text{st}}$ February of that year is a Sunday",
+        "All Mondays of February in that year have even dates"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The $2^{\\text{nd}}$ February of that year is a Tuesday",
+          "html": "The $2^{\\text{nd}}$ February of that year is a Tuesday"
+        },
+        {
+          "label": "B",
+          "text": "There will be five Sundays in the month of February in that year",
+          "html": "There will be five Sundays in the month of February in that year"
+        },
+        {
+          "label": "C",
+          "text": "The $1^{\\text{st}}$ February of that year is a Sunday",
+          "html": "The $1^{\\text{st}}$ February of that year is a Sunday"
+        },
+        {
+          "label": "D",
+          "text": "All Mondays of February in that year have even dates",
+          "html": "All Mondays of February in that year have even dates"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411799/gate-mechanical-2022-set-2-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411799/gate-mechanical-2022-set-2-ga-question-4"
+    },
+    {
+      "id": "go:411795",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3437,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Fish belonging to species $\\text{S}$ in the deep sea have skins that are extremely black (ultra-black skin). This helps them not only to avoid predators but also sneakily attack their prey. However, having this extra layer of black pigment results in lower collagen on their skin, making their skin more fragile.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information in the above passage?</p>",
+      "rawQuestionHtml": "<a name=\"411795\"></a><div itemprop=\"text\"><p>Fish belonging to species $\\text{S}$ in the deep sea have skins that are extremely black (ultra-black skin). This helps them not only to avoid predators but also sneakily attack their prey. However, having this extra layer of black pigment results in lower collagen on their skin, making their skin more fragile.</p>\n\n<p>Which one of the following is the $\\text{CORRECT}$ logical inference based on the information in the above passage?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>Having ultra-black skin is only advantageous to species $\\text{S}$</li>\n\t<li>Species $\\text{S}$ with lower collagen in their skin are at an advantage because it helps them avoid predators</li>\n\t<li>Having ultra-black skin has both advantages and disadvantages to species $\\text{S}$</li>\n\t<li>Having ultra-black skin is only disadvantageous to species $\\text{S}$ but advantageous only to their predators</li>\n</ol></div>",
+      "options": [
+        "Having ultra-black skin is only advantageous to species $\\text{S}$",
+        "Species $\\text{S}$ with lower collagen in their skin are at an advantage because it helps them avoid predators",
+        "Having ultra-black skin has both advantages and disadvantages to species $\\text{S}$",
+        "Having ultra-black skin is only disadvantageous to species $\\text{S}$ but advantageous only to their predators"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Having ultra-black skin is only advantageous to species $\\text{S}$",
+          "html": "Having ultra-black skin is only advantageous to species $\\text{S}$"
+        },
+        {
+          "label": "B",
+          "text": "Species $\\text{S}$ with lower collagen in their skin are at an advantage because it helps them avoid predators",
+          "html": "Species $\\text{S}$ with lower collagen in their skin are at an advantage because it helps them avoid predators"
+        },
+        {
+          "label": "C",
+          "text": "Having ultra-black skin has both advantages and disadvantages to species $\\text{S}$",
+          "html": "Having ultra-black skin has both advantages and disadvantages to species $\\text{S}$"
+        },
+        {
+          "label": "D",
+          "text": "Having ultra-black skin is only disadvantageous to species $\\text{S}$ but advantageous only to their predators",
+          "html": "Having ultra-black skin is only disadvantageous to species $\\text{S}$ but advantageous only to their predators"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411795/gate-mechanical-2022-set-2-ga-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411795/gate-mechanical-2022-set-2-ga-question-6"
+    },
+    {
+      "id": "go:411793",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3438,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>For the past $m$ days, the average daily production at a company was $100$ units per day.</p>\n\n<p>If today’s production of $180$ units changes the average to $110$ units per day, What is the value of $m$?</p>",
+      "rawQuestionHtml": "<a name=\"411793\"></a><div itemprop=\"text\"><p>For the past $m$ days, the average daily production at a company was $100$ units per day.</p>\n\n<p>If today’s production of $180$ units changes the average to $110$ units per day, What is the value of $m$?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$18$</li>\n\t<li>$10$</li>\n\t<li>$7$</li>\n\t<li>$5$</li>\n</ol></div>",
+      "options": [
+        "$18$",
+        "$10$",
+        "$7$",
+        "$5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$18$",
+          "html": "$18$"
+        },
+        {
+          "label": "B",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "C",
+          "text": "$7$",
+          "html": "$7$"
+        },
+        {
+          "label": "D",
+          "text": "$5$",
+          "html": "$5$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411793/gate-mechanical-2022-set-2-ga-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411793/gate-mechanical-2022-set-2-ga-question-7"
+    },
+    {
+      "id": "go:411789",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3439,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Consider the following for non-zero positive integers, $p$ and $q$.</p>\n\n<p>$f\\left ( p, q \\right ) = \\frac{p\\times p\\times p\\times \\cdots\\: \\cdots\\: \\cdots \\times p \\:= \\:p^{q}}{q\\:{terms}}; f\\left ( p, 1 \\right )=p$</p>\n\n<p>$g\\left ( p, q \\right ) = p^{p^{p^{p^{p^\\text{( up to q terms)}}}}}$;&nbsp;$g\\left ( p, 1 \\right ) = p$</p>\n\n<p>Which one of the following options is correct based on the above?</p>",
+      "rawQuestionHtml": "<a name=\"411789\"></a><div itemprop=\"text\"><p>Consider the following for non-zero positive integers, $p$ and $q$.</p>\n\n<p>$f\\left ( p, q \\right ) = \\frac{p\\times p\\times p\\times \\cdots\\: \\cdots\\: \\cdots \\times p \\:= \\:p^{q}}{q\\:{terms}}; f\\left ( p, 1 \\right )=p$</p>\n\n<p>$g\\left ( p, q \\right ) = p^{p^{p^{p^{p^\\text{( up to q terms)}}}}}$;&nbsp;$g\\left ( p, 1 \\right ) = p$</p>\n\n<p>Which one of the following options is correct based on the above?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$f\\left ( 2,2 \\right ) = g\\left ( 2,2 \\right )$</li>\n\t<li>$f\\left ( g\\left ( 2,2 \\right ) ,2\\right ) &lt; f\\left ( 2,g\\left ( 2,2 \\right ) \\right )$</li>\n\t<li>$g\\left ( 2,1 \\right ) \\neq f\\left ( 2,1 \\right )$</li>\n\t<li>$f\\left ( 3,2 \\right )&gt; g\\left ( 3,2 \\right )$</li>\n</ol></div>",
+      "options": [
+        "$f\\left ( 2,2 \\right ) = g\\left ( 2,2 \\right )$",
+        "$f\\left ( g\\left ( 2,2 \\right ) ,2\\right ) &lt; f\\left ( 2,g\\left ( 2,2 \\right ) \\right )$",
+        "$g\\left ( 2,1 \\right ) \\neq f\\left ( 2,1 \\right )$",
+        "$f\\left ( 3,2 \\right )&gt; g\\left ( 3,2 \\right )$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f\\left ( 2,2 \\right ) = g\\left ( 2,2 \\right )$",
+          "html": "$f\\left ( 2,2 \\right ) = g\\left ( 2,2 \\right )$"
+        },
+        {
+          "label": "B",
+          "text": "$f\\left ( g\\left ( 2,2 \\right ) ,2\\right ) &lt; f\\left ( 2,g\\left ( 2,2 \\right ) \\right )$",
+          "html": "$f\\left ( g\\left ( 2,2 \\right ) ,2\\right ) &lt; f\\left ( 2,g\\left ( 2,2 \\right ) \\right )$"
+        },
+        {
+          "label": "C",
+          "text": "$g\\left ( 2,1 \\right ) \\neq f\\left ( 2,1 \\right )$",
+          "html": "$g\\left ( 2,1 \\right ) \\neq f\\left ( 2,1 \\right )$"
+        },
+        {
+          "label": "D",
+          "text": "$f\\left ( 3,2 \\right )&gt; g\\left ( 3,2 \\right )$",
+          "html": "$f\\left ( 3,2 \\right )&gt; g\\left ( 3,2 \\right )$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411789/gate-mechanical-2022-set-2-ga-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411789/gate-mechanical-2022-set-2-ga-question-8"
+    },
+    {
+      "id": "go:411787",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3440,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Four cities $\\text{P, Q, R}$ and $\\text{S}$ are connected through one-way routes as shown in the figure. The travel time between any two connected cities is one hour. The boxes beside each city name describe the starting time of first train of the day and their frequency of operation. For example, from city $\\text{P}$, the first trains of the day start at $8\\;\\text{AM}$ with a frequency of $90$ minutes to each of $\\text{R}$ and $\\text{S}$. A person does not spend additional time at any city other than the waiting time for the next connecting train.</p>\n\n<p>If the person starts from $\\text{R}$ at $7\\;\\text{AM}$ and is required to visit $\\text{S}$ and return to $\\text{R}$, what is the minimum time required?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8862131774498746164.jpg\" width=\"300\"></p>\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"411787\"></a><div itemprop=\"text\"><p>Four cities $\\text{P, Q, R}$ and $\\text{S}$ are connected through one-way routes as shown in the figure. The travel time between any two connected cities is one hour. The boxes beside each city name describe the starting time of first train of the day and their frequency of operation. For example, from city $\\text{P}$, the first trains of the day start at $8\\;\\text{AM}$ with a frequency of $90$ minutes to each of $\\text{R}$ and $\\text{S}$. A person does not spend additional time at any city other than the waiting time for the next connecting train.</p>\n\n<p>If the person starts from $\\text{R}$ at $7\\;\\text{AM}$ and is required to visit $\\text{S}$ and return to $\\text{R}$, what is the minimum time required?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8862131774498746164.jpg\" width=\"300\"></p>\n\n<p>&nbsp;</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$6$ hours $30$ minutes</li>\n\t<li>$3$ hours $45$ minutes</li>\n\t<li>$4$ hours $30$ minutes</li>\n\t<li>$5$ hours $15$ minutes</li>\n</ol></div>",
+      "options": [
+        "$6$ hours $30$ minutes",
+        "$3$ hours $45$ minutes",
+        "$4$ hours $30$ minutes",
+        "$5$ hours $15$ minutes"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$6$ hours $30$ minutes",
+          "html": "$6$ hours $30$ minutes"
+        },
+        {
+          "label": "B",
+          "text": "$3$ hours $45$ minutes",
+          "html": "$3$ hours $45$ minutes"
+        },
+        {
+          "label": "C",
+          "text": "$4$ hours $30$ minutes",
+          "html": "$4$ hours $30$ minutes"
+        },
+        {
+          "label": "D",
+          "text": "$5$ hours $15$ minutes",
+          "html": "$5$ hours $15$ minutes"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411787/gate-mechanical-2022-set-2-ga-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411787/gate-mechanical-2022-set-2-ga-question-9"
+    },
+    {
+      "id": "go:411785",
+      "testId": "gate-2022-additional",
+      "year": 2022,
+      "set": 2,
+      "yearSetKey": "2022-additional",
+      "orderIndex": 3441,
+      "section": "GA",
+      "title": "GATE Mechanical 2022 Set 2 | General Aptitude Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Equal sized circular regions are shaded in a square sheet of paper of $1$ cm side length. Two cases, case $\\text{M}$ and case $\\text{N}$, are considered as shown in the figures below. In the case $\\text{M}$, four circles are shaded in the square sheet and in the case $\\text{N}$, nine circles are shaded in the square sheet as shown.</p>\n\n<p>What is the ratio of the areas of unshaded regions of case $\\text{M}$ to that of case $\\text{N}$?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16199992157071682641.jpg\" width=\"300\"></p>\n\n<p>&nbsp;</p>",
+      "rawQuestionHtml": "<a name=\"411785\"></a><div itemprop=\"text\"><p>Equal sized circular regions are shaded in a square sheet of paper of $1$ cm side length. Two cases, case $\\text{M}$ and case $\\text{N}$, are considered as shown in the figures below. In the case $\\text{M}$, four circles are shaded in the square sheet and in the case $\\text{N}$, nine circles are shaded in the square sheet as shown.</p>\n\n<p>What is the ratio of the areas of unshaded regions of case $\\text{M}$ to that of case $\\text{N}$?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16199992157071682641.jpg\" width=\"300\"></p>\n\n<p>&nbsp;</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2 : 3$</li>\n\t<li>$1 : 1$</li>\n\t<li>$3 : 2$</li>\n\t<li>$2 : 1$</li>\n</ol></div>",
+      "options": [
+        "$2 : 3$",
+        "$1 : 1$",
+        "$3 : 2$",
+        "$2 : 1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2 : 3$",
+          "html": "$2 : 3$"
+        },
+        {
+          "label": "B",
+          "text": "$1 : 1$",
+          "html": "$1 : 1$"
+        },
+        {
+          "label": "C",
+          "text": "$3 : 2$",
+          "html": "$3 : 2$"
+        },
+        {
+          "label": "D",
+          "text": "$2 : 1$",
+          "html": "$2 : 1$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/411785/gate-mechanical-2022-set-2-ga-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/411785/gate-mechanical-2022-set-2-ga-question-10"
+    }
+  ]
+}

@@ -4,7 +4,13 @@
       "id": "relational-model",
       "subjectId": "dbms",
       "name": "ER Model & Relational Algebra",
-      "description": "Entity-Relationship schemas, candidate keys, selection, projection, join operations.",
+      "description": "Entity-Relationship schemas, candidate keys, selection, projection, join operations, relational calculus.",
+      "topics": [
+        "ER Diagrams",
+        "Candidate Keys",
+        "Relational Algebra",
+        "Relational Calculus"
+      ],
       "tests": [
         {
           "id": "dbms-01",
@@ -12,6 +18,13 @@
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
+        },
+        {
+          "id": "dbms-rel-02",
+          "title": "Relational Algebra & Join Operations",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
         }
       ]
     },
@@ -20,9 +33,15 @@
       "subjectId": "dbms",
       "name": "Normalization & Functional Dependencies",
       "description": "1NF, 2NF, 3NF, BCNF, closure of attributes, lossless decomposition, dependency preservation.",
+      "topics": [
+        "Attribute Closure",
+        "Functional Dependencies",
+        "Normal Forms (3NF/BCNF)",
+        "Lossless Join & Dependency Preservation"
+      ],
       "tests": [
         {
-          "id": "dbms-01",
+          "id": "dbms-norm-01",
           "title": "Functional Dependencies & Normal Forms",
           "duration": "15 min",
           "questionsCount": 10,
@@ -35,9 +54,15 @@
       "subjectId": "dbms",
       "name": "Transactions & Concurrency Control",
       "description": "ACID properties, serializability (conflict and view), 2-phase locking (2PL), deadlock recovery.",
+      "topics": [
+        "ACID Properties",
+        "Conflict Serializability",
+        "Two-Phase Locking (2PL)",
+        "Deadlocks & Recovery"
+      ],
       "tests": [
         {
-          "id": "dbms-01",
+          "id": "dbms-txn-01",
           "title": "Concurrency & Recovery Protocols",
           "duration": "15 min",
           "questionsCount": 10,
@@ -50,10 +75,16 @@
       "subjectId": "dbms",
       "name": "SQL & Indexing (B/B+ Trees)",
       "description": "SQL nested queries, aggregates, group by, dense and sparse indexing, B-Trees and B+ Trees.",
+      "topics": [
+        "SQL Nested & Aggregate Queries",
+        "B-Trees",
+        "B+ Trees",
+        "Dense & Sparse Indexing"
+      ],
       "tests": [
         {
-          "id": "dbms-01",
-          "title": "SQL Queries & File Organization",
+          "id": "dbms-sql-01",
+          "title": "SQL Queries & File Indexing",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -67,6 +98,12 @@
       "subjectId": "os",
       "name": "Process & CPU Scheduling",
       "description": "FCFS, SJF, SRTF, Round Robin, Priority scheduling, turnaround & waiting time calculations.",
+      "topics": [
+        "Process States",
+        "FCFS & SJF Scheduling",
+        "Round Robin Scheduling",
+        "Priority & Multilevel Scheduling"
+      ],
       "tests": [
         {
           "id": "os-01",
@@ -82,9 +119,15 @@
       "subjectId": "os",
       "name": "Synchronization & Deadlocks",
       "description": "Critical section problem, Peterson's algorithm, semaphores, Banker's algorithm, resource graph.",
+      "topics": [
+        "Critical Section Problem",
+        "Semaphores",
+        "Peterson's Solution",
+        "Banker's Algorithm & Deadlocks"
+      ],
       "tests": [
         {
-          "id": "os-01",
+          "id": "os-sync-01",
           "title": "Deadlock & Semaphores Practice",
           "duration": "15 min",
           "questionsCount": 10,
@@ -97,10 +140,16 @@
       "subjectId": "os",
       "name": "Memory Management & Virtual Memory",
       "description": "Contiguous allocation, paging, segmentation, TLB hit ratios, page replacement (FIFO, LRU, Optimal).",
+      "topics": [
+        "Paging & Segmentation",
+        "TLB & Address Translation",
+        "Page Replacement Algorithms (LRU, FIFO)",
+        "Thrashing & Virtual Memory"
+      ],
       "tests": [
         {
-          "id": "os-01",
-          "title": "Paging, TLB & Page Replacement",
+          "id": "os-mem-01",
+          "title": "Paging & Page Replacement",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Hard"
@@ -110,12 +159,17 @@
     {
       "id": "storage-file-systems",
       "subjectId": "os",
-      "name": "Disk Scheduling & File Systems",
-      "description": "SCAN, C-SCAN, LOOK, SSTF disk arm scheduling, inode structure, and allocation methods.",
+      "name": "Storage & Disk Scheduling",
+      "description": "Disk access time, SSTF, SCAN, C-SCAN, LOOK, C-LOOK algorithms, file allocation methods.",
+      "topics": [
+        "Disk Scheduling Algorithms (SCAN, C-LOOK)",
+        "Disk Latency & Seek Time",
+        "File Allocation Methods"
+      ],
       "tests": [
         {
-          "id": "os-01",
-          "title": "Disk Arm Algorithms & File Systems",
+          "id": "os-disk-01",
+          "title": "Disk Scheduling & File Systems",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Easy"
@@ -127,12 +181,18 @@
     {
       "id": "osi-datalink",
       "subjectId": "cn",
-      "name": "OSI Layers & Data Link Layer",
-      "description": "Framing, CRC error detection, Flow Control (Stop & Wait, Go-Back-N, Selective Repeat), CSMA/CD.",
+      "name": "OSI Model & Data Link Layer",
+      "description": "OSI & TCP/IP layers, framing, error detection/correction (CRC), sliding window protocols, CSMA/CD.",
+      "topics": [
+        "OSI Layer Functions",
+        "CRC & Error Detection",
+        "Sliding Window Protocols (Go-Back-N, Selective Repeat)",
+        "CSMA/CD & Ethernet"
+      ],
       "tests": [
         {
           "id": "cn-01",
-          "title": "Flow Control & Framing",
+          "title": "Data Link & Flow Control",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -142,11 +202,17 @@
     {
       "id": "network-layer",
       "subjectId": "cn",
-      "name": "Network Layer & IPv4 Subnetting",
-      "description": "CIDR, classless IP addressing, subnet masking, supernetting, fragmentation, Distance Vector & Link State.",
+      "name": "Network Layer & IP Addressing",
+      "description": "IPv4 addressing, subnetting, CIDR notation, routing algorithms (DVR, LSR), IP packet fragmentation.",
+      "topics": [
+        "IPv4 Subnetting & CIDR",
+        "Routing Protocols (DVR & LSR)",
+        "IP Packet Fragmentation",
+        "ARP & ICMP"
+      ],
       "tests": [
         {
-          "id": "cn-01",
+          "id": "cn-net-01",
           "title": "IP Subnetting & Routing Algorithms",
           "duration": "15 min",
           "questionsCount": 10,
@@ -157,12 +223,17 @@
     {
       "id": "transport-layer",
       "subjectId": "cn",
-      "name": "Transport Layer (TCP / UDP)",
-      "description": "TCP 3-way handshake, connection termination, flow control (sliding window), TCP congestion control (AIMD).",
+      "name": "Transport Layer (TCP/UDP)",
+      "description": "TCP 3-way handshake, TCP congestion control (slow start, congestion avoidance), UDP vs TCP, sockets.",
+      "topics": [
+        "TCP 3-Way Handshake",
+        "TCP Congestion Control Window",
+        "UDP Header & Sockets"
+      ],
       "tests": [
         {
-          "id": "cn-01",
-          "title": "TCP Congestion & Connection Setup",
+          "id": "cn-trans-01",
+          "title": "TCP & UDP Protocol Analysis",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -172,12 +243,18 @@
     {
       "id": "application-layer",
       "subjectId": "cn",
-      "name": "Application Layer & Security",
-      "description": "DNS resolution, HTTP, SMTP, FTP, RSA public key cryptography, symmetric key basics.",
+      "name": "Application Layer Protocols",
+      "description": "DNS domain hierarchy, HTTP persistent vs non-persistent, SMTP, FTP, Network Security basics.",
+      "topics": [
+        "DNS Resolution",
+        "HTTP & Web Architecture",
+        "Email & File Protocols",
+        "Network Security & RSA"
+      ],
       "tests": [
         {
-          "id": "cn-01",
-          "title": "Application Protocols & Cryptography",
+          "id": "cn-app-01",
+          "title": "Application Layer & Network Security",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Easy"
@@ -190,26 +267,37 @@
       "id": "linear-ds",
       "subjectId": "dsa",
       "name": "Linear Data Structures",
-      "description": "Arrays, Singly & Doubly Linked Lists, Stacks, Queues, Circular Queues, Infix/Postfix conversions.",
+      "description": "Arrays, Stacks, Queues, Circular Queues, Singly & Doubly Linked Lists, expression evaluation.",
+      "topics": [
+        "Stack Operations & Infix/Postfix",
+        "Queue & Circular Queue",
+        "Linked List Manipulations"
+      ],
       "tests": [
         {
           "id": "dsa-01",
-          "title": "Linear Structures & Stack Applications",
+          "title": "Stacks, Queues & Arrays",
           "duration": "15 min",
           "questionsCount": 10,
-          "difficulty": "Easy"
+          "difficulty": "Medium"
         }
       ]
     },
     {
       "id": "trees-heaps",
       "subjectId": "dsa",
-      "name": "Trees & Priority Queues",
-      "description": "Binary Trees, BST, AVL Trees, Red-Black Trees, Binary Heaps, Heapify operations, Priority Queues.",
+      "name": "Trees, BST & Heaps",
+      "description": "Binary Trees traversals, Binary Search Trees, AVL Trees, Min/Max Heap operations and priority queues.",
+      "topics": [
+        "Tree Traversals (Inorder/Preorder/Postorder)",
+        "BST Insertion & Deletion",
+        "AVL Rotations",
+        "Heap Operations & Priority Queue"
+      ],
       "tests": [
         {
-          "id": "dsa-01",
-          "title": "Trees, Traversals & Balanced BSTs",
+          "id": "dsa-tree-01",
+          "title": "Binary Trees & Balanced BSTs",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -220,11 +308,17 @@
       "id": "graph-algorithms",
       "subjectId": "dsa",
       "name": "Graph Algorithms",
-      "description": "BFS, DFS, Dijkstra's algorithm, Bellman-Ford, Prim's & Kruskal's MST, Topological Sorting.",
+      "description": "BFS, DFS, Topological Sorting, Minimum Spanning Trees (Kruskal, Prim), Single-Source Shortest Paths.",
+      "topics": [
+        "BFS & DFS Traversals",
+        "Topological Sort",
+        "Prim's & Kruskal's MST",
+        "Dijkstra & Bellman-Ford Shortest Path"
+      ],
       "tests": [
         {
           "id": "dsa-graph-01",
-          "title": "Graph Traversals & MST",
+          "title": "Graph Traversals & Shortest Paths",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Hard"
@@ -234,12 +328,18 @@
     {
       "id": "sorting-searching",
       "subjectId": "dsa",
-      "name": "Sorting & Searching Techniques",
-      "description": "Binary search, Merge Sort, Quick Sort, Counting Sort, Radix Sort, Lower bounds on comparison sorts.",
+      "name": "Sorting, Searching & Complexity",
+      "description": "Quick Sort, Merge Sort, Heap Sort, Binary Search, asymptotic notations (O, Omega, Theta), recurrences.",
+      "topics": [
+        "Sorting Algorithms Comparison",
+        "Binary Search Variants",
+        "Asymptotic Complexity Analysis",
+        "Recurrence Relations & Master Theorem"
+      ],
       "tests": [
         {
-          "id": "dsa-01",
-          "title": "Sorting Algorithms & Recurrence Relations",
+          "id": "dsa-sort-01",
+          "title": "Sorting & Asymptotic Analysis",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -251,12 +351,18 @@
     {
       "id": "regular-languages",
       "subjectId": "toc",
-      "name": "Regular Expressions & Finite Automata",
-      "description": "DFA construction, NFA to DFA conversion, minimization of DFA, Pumping Lemma for Regular Languages.",
+      "name": "Regular Languages & Finite Automata",
+      "description": "DFA, NFA, NFA-to-DFA conversion, DFA minimization, Regular Expressions, Pumping Lemma for Regular Languages.",
+      "topics": [
+        "DFA State Minimization",
+        "NFA to DFA Conversion",
+        "Regular Expressions",
+        "Pumping Lemma for Regular Languages"
+      ],
       "tests": [
         {
           "id": "gate-toc-01",
-          "title": "DFA, NFA & Regular Expressions",
+          "title": "Finite Automata & Regular Expressions",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
@@ -266,15 +372,42 @@
     {
       "id": "cfg-pda",
       "subjectId": "toc",
-      "name": "Context-Free Grammars & PDA",
-      "description": "Ambiguity in CFG, Chomsky Normal Form, Deterministic and Non-deterministic Pushdown Automata.",
+      "name": "Context Free Grammars & PDA",
+      "description": "Context-Free Grammars (CFG), Derivation Trees, Ambiguity, Pushdown Automata (PDA), Deterministic CFLs.",
+      "topics": [
+        "Grammar Ambiguity",
+        "Context Free Languages",
+        "Pushdown Automata (PDA)",
+        "Closure Properties of CFLs"
+      ],
       "tests": [
         {
-          "id": "gate-toc-01",
-          "title": "Context Free Languages & Automata",
+          "id": "toc-cfg-01",
+          "title": "CFGs & Pushdown Automata",
           "duration": "15 min",
           "questionsCount": 10,
-          "difficulty": "Medium"
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "turing-decidability",
+      "subjectId": "toc",
+      "name": "Turing Machines & Decidability",
+      "description": "Turing Machines, Recursively Enumerable Languages, Undecidability, Halting Problem, Rice's Theorem.",
+      "topics": [
+        "Turing Machine Models",
+        "Decidability & Undecidability",
+        "Halting Problem",
+        "Chomsky Hierarchy"
+      ],
+      "tests": [
+        {
+          "id": "toc-tm-01",
+          "title": "Decidability & Turing Machines",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
         }
       ]
     }
@@ -284,11 +417,16 @@
       "id": "pipelining",
       "subjectId": "coa",
       "name": "Instruction Pipelining & Hazards",
-      "description": "Structural hazards, data hazards (RAW, WAR, WAW), control hazards, branch prediction, speedup factor.",
+      "description": "Pipeline stages, instruction execution speedup, structural hazards, data hazards, branch prediction.",
+      "topics": [
+        "Pipeline Speedup & Throughput",
+        "Data Hazards & Forwarding",
+        "Branch Hazards & Control Unit"
+      ],
       "tests": [
         {
           "id": "gate-coa-01",
-          "title": "Pipelining, Throughput & Hazards",
+          "title": "Pipelining & Hazard Resolution",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Hard"
@@ -298,15 +436,279 @@
     {
       "id": "cache-memory",
       "subjectId": "coa",
-      "name": "Cache Memory Organization",
-      "description": "Direct mapped, fully associative, set-associative cache, hit latency, write-through vs write-back.",
+      "name": "Cache & Memory Hierarchy",
+      "description": "Direct mapped cache, set associative cache, cache hit/miss latency, write-through vs write-back policies.",
+      "topics": [
+        "Cache Mapping Schemes",
+        "Cache Miss Penalty & Hit Time",
+        "Virtual Memory & Interfacing"
+      ],
       "tests": [
         {
-          "id": "gate-coa-01",
-          "title": "Cache Mapping & Hit Rate Calculation",
+          "id": "coa-cache-01",
+          "title": "Cache Organization & Hit Ratio",
           "duration": "15 min",
           "questionsCount": 10,
           "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "arithmetic-io",
+      "subjectId": "coa",
+      "name": "Computer Arithmetic & I/O",
+      "description": "IEEE 754 Floating point format, Booth's multiplication, Interrupt handling, DMA transfer.",
+      "topics": [
+        "IEEE 754 Floating Point Standard",
+        "Booth's Multiplication Algorithm",
+        "Interrupt Driven I/O & DMA"
+      ],
+      "tests": [
+        {
+          "id": "coa-arith-01",
+          "title": "IEEE 754 & I/O Interrupts",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ],
+  "compiler": [
+    {
+      "id": "lexical-parsing",
+      "subjectId": "compiler",
+      "name": "Lexical Analysis & Parsing",
+      "description": "Lexical tokens, LL(1) parsing tables, LR(0), SLR(1), LALR(1), CLR(1) parser items and conflicts.",
+      "topics": [
+        "Lexical Analysis & Tokens",
+        "LL(1) First & Follow Sets",
+        "LR Parsing Tables & Conflicts",
+        "LALR vs CLR Parsers"
+      ],
+      "tests": [
+        {
+          "id": "compiler-01",
+          "title": "Lexical & Syntax Analysis",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "sdt-intermediate",
+      "subjectId": "compiler",
+      "name": "Syntax Directed Translation & Code Gen",
+      "description": "S-attributed and L-attributed definitions, 3-address code, quadruples, triples, activation records.",
+      "topics": [
+        "S-Attributed vs L-Attributed SDT",
+        "Three-Address Code (TAC)",
+        "Runtime Environments & Stack Frames"
+      ],
+      "tests": [
+        {
+          "id": "compiler-sdt-01",
+          "title": "SDT & Intermediate Code Generation",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ],
+  "digital": [
+    {
+      "id": "boolean-combinational",
+      "subjectId": "digital",
+      "name": "Boolean Algebra & Combinational Logic",
+      "description": "Karnaugh Maps, SOP/POS minimization, Multiplexers, Decoders, Encoders, Half/Full Adders.",
+      "topics": [
+        "K-Map Minimization",
+        "Multiplexers & Logic Realization",
+        "Decoders & Encoders",
+        "Adder & Subtractor Circuits"
+      ],
+      "tests": [
+        {
+          "id": "digital-01",
+          "title": "K-Maps & Combinational Circuits",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "sequential-circuits",
+      "subjectId": "digital",
+      "name": "Sequential Circuits & Counters",
+      "description": "Flip-Flops (SR, JK, D, T), Excitation tables, Asynchronous & Synchronous Counters, Mealy & Moore machines.",
+      "topics": [
+        "Flip-Flop Conversions",
+        "Synchronous Counter Design",
+        "Mod-N Counters",
+        "Mealy vs Moore FSM"
+      ],
+      "tests": [
+        {
+          "id": "digital-seq-01",
+          "title": "Flip-Flops & Counter Design",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ],
+  "discrete-math": [
+    {
+      "id": "logic-sets",
+      "subjectId": "discrete-math",
+      "name": "Mathematical Logic & Set Theory",
+      "description": "Propositional logic equivalences, Predicate quantifiers, Equivalence relations, Partial order sets (Hasse diagrams).",
+      "topics": [
+        "Propositional Logic & Tautologies",
+        "Predicates & Quantifiers",
+        "Equivalence Relations & Functions",
+        "Posets & Hasse Diagrams"
+      ],
+      "tests": [
+        {
+          "id": "discrete-01",
+          "title": "Logic, Relations & Set Theory",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "graph-theory",
+      "subjectId": "discrete-math",
+      "name": "Graph Theory",
+      "description": "Graph connectivity, Isomorphism, Eulerian & Hamiltonian paths, Planar graphs, Graph coloring, Handshaking lemma.",
+      "topics": [
+        "Handshaking Lemma & Degree Sum",
+        "Eulerian & Hamiltonian Graphs",
+        "Planar Graphs & Euler's Formula",
+        "Graph Coloring & Chromatic Number"
+      ],
+      "tests": [
+        {
+          "id": "discrete-graph-01",
+          "title": "Graph Connectivity & Planarity",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "id": "combinatorics-groups",
+      "subjectId": "discrete-math",
+      "name": "Combinatorics & Group Theory",
+      "description": "Permutations, Combinations, Generating functions, Recurrence relations, Group theory fundamentals.",
+      "topics": [
+        "Pigeonhole Principle",
+        "Permutations & Combinations",
+        "Recurrence Relations Solving",
+        "Groups & Subgroups"
+      ],
+      "tests": [
+        {
+          "id": "discrete-comb-01",
+          "title": "Combinatorics & Recurrence Relations",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ],
+  "engg-math": [
+    {
+      "id": "linear-algebra",
+      "subjectId": "engg-math",
+      "name": "Linear Algebra",
+      "description": "Matrices, Determinants, Systems of linear equations, Eigenvalues & Eigenvectors, Cayley-Hamilton theorem.",
+      "topics": [
+        "Matrix Rank & Linear Systems",
+        "Eigenvalues & Eigenvectors Properties",
+        "Cayley-Hamilton Theorem"
+      ],
+      "tests": [
+        {
+          "id": "math-la-01",
+          "title": "Eigenvalues & Linear Systems",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "calculus-probability",
+      "subjectId": "engg-math",
+      "name": "Calculus & Probability",
+      "description": "Limits, Continuity, Mean Value Theorem, Definite Integrals, Bayes' Theorem, Normal & Poisson Distributions.",
+      "topics": [
+        "Limits & Mean Value Theorem",
+        "Definite & Improper Integrals",
+        "Conditional Probability & Bayes' Theorem",
+        "Random Variables & Probability Distributions"
+      ],
+      "tests": [
+        {
+          "id": "math-prob-01",
+          "title": "Calculus & Probability Practice",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ],
+  "aptitude": [
+    {
+      "id": "numerical-ability",
+      "subjectId": "aptitude",
+      "name": "Quantitative & Numerical Ability",
+      "description": "Time & Work, Speed & Distance, Percentages, Profit-Loss, Ratios, Data Interpretation graphs.",
+      "topics": [
+        "Time & Work Problems",
+        "Speed, Distance & Time",
+        "Percentages & Profit Loss",
+        "Data Interpretation"
+      ],
+      "tests": [
+        {
+          "id": "placement-aptitude-01",
+          "title": "Quantitative Aptitude Test 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "verbal-analytical",
+      "subjectId": "aptitude",
+      "name": "Verbal & Analytical Reasoning",
+      "description": "English grammar, sentence completion, reading comprehension, syllogisms, blood relations, spatial reasoning.",
+      "topics": [
+        "Grammar & Sentence Completion",
+        "Reading Comprehension",
+        "Syllogisms & Logical Sequences",
+        "Spatial & Analytical Patterns"
+      ],
+      "tests": [
+        {
+          "id": "placement-reasoning-01",
+          "title": "Verbal & Logical Reasoning 01",
+          "duration": "15 min",
+          "questionsCount": 10,
+          "difficulty": "Easy"
         }
       ]
     }

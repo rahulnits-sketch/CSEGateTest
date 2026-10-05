@@ -8,9 +8,9 @@ export default function Home() {
       <Navbar />
       <section className="relative mx-auto flex min-h-[calc(100svh-4rem)] w-full max-w-5xl flex-col items-center justify-center gap-10 px-6 py-12 text-center md:gap-12 md:py-16">
         <h1 className="-translate-y-3 text-5xl font-extrabold leading-[0.95] tracking-tight md:text-7xl lg:text-8xl">
-          <span className="block">Prepare Smarter.</span>
+          <span className="block">Prepare Smarter</span>
           <span className="mt-3 block bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
-            Test Faster.
+            Test Faster
           </span>
         </h1>
 

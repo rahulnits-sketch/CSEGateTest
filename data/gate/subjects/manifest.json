@@ -1,0 +1,112 @@
+[
+  {
+    "id": "os",
+    "name": "Operating Systems",
+    "shortName": "OS",
+    "icon": "⚙️",
+    "color": "from-emerald-500/20 to-teal-500/20",
+    "borderColor": "border-emerald-500/30",
+    "totalQuestions": 288,
+    "topicsCount": 6
+  },
+  {
+    "id": "dbms",
+    "name": "Database Management Systems",
+    "shortName": "DBMS",
+    "icon": "🗄️",
+    "color": "from-blue-500/20 to-indigo-500/20",
+    "borderColor": "border-blue-500/30",
+    "totalQuestions": 227,
+    "topicsCount": 5
+  },
+  {
+    "id": "cn",
+    "name": "Computer Networks",
+    "shortName": "CN",
+    "icon": "🌐",
+    "color": "from-cyan-500/20 to-blue-500/20",
+    "borderColor": "border-cyan-500/30",
+    "totalQuestions": 240,
+    "topicsCount": 7
+  },
+  {
+    "id": "dsa",
+    "name": "Data Structures & Algorithms",
+    "shortName": "DSA",
+    "icon": "⚡",
+    "color": "from-purple-500/20 to-pink-500/20",
+    "borderColor": "border-purple-500/30",
+    "totalQuestions": 649,
+    "topicsCount": 7
+  },
+  {
+    "id": "toc",
+    "name": "Theory of Computation",
+    "shortName": "TOC",
+    "icon": "🔄",
+    "color": "from-amber-500/20 to-orange-500/20",
+    "borderColor": "border-amber-500/30",
+    "totalQuestions": 273,
+    "topicsCount": 3
+  },
+  {
+    "id": "coa",
+    "name": "Computer Organization & Architecture",
+    "shortName": "COA",
+    "icon": "💻",
+    "color": "from-rose-500/20 to-red-500/20",
+    "borderColor": "border-rose-500/30",
+    "totalQuestions": 248,
+    "topicsCount": 4
+  },
+  {
+    "id": "compiler",
+    "name": "Compiler Design",
+    "shortName": "CD",
+    "icon": "🛠️",
+    "color": "from-violet-500/20 to-purple-500/20",
+    "borderColor": "border-violet-500/30",
+    "totalQuestions": 177,
+    "topicsCount": 4
+  },
+  {
+    "id": "digital",
+    "name": "Digital Logic",
+    "shortName": "DL",
+    "icon": "🔢",
+    "color": "from-fuchsia-500/20 to-pink-500/20",
+    "borderColor": "border-fuchsia-500/30",
+    "totalQuestions": 257,
+    "topicsCount": 4
+  },
+  {
+    "id": "discrete-math",
+    "name": "Discrete Mathematics",
+    "shortName": "DM",
+    "icon": "📐",
+    "color": "from-sky-500/20 to-indigo-500/20",
+    "borderColor": "border-sky-500/30",
+    "totalQuestions": 303,
+    "topicsCount": 4
+  },
+  {
+    "id": "engg-math",
+    "name": "Engineering Mathematics",
+    "shortName": "EM",
+    "icon": "📊",
+    "color": "from-yellow-500/20 to-amber-500/20",
+    "borderColor": "border-yellow-500/30",
+    "totalQuestions": 347,
+    "topicsCount": 3
+  },
+  {
+    "id": "aptitude",
+    "name": "General Aptitude",
+    "shortName": "GA",
+    "icon": "🧠",
+    "color": "from-green-500/20 to-emerald-500/20",
+    "borderColor": "border-green-500/30",
+    "totalQuestions": 673,
+    "topicsCount": 4
+  }
+]

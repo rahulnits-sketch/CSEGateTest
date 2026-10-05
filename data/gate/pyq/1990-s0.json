@@ -1,0 +1,786 @@
+{
+  "id": "gate-1990-s0",
+  "yearSetKey": "1990-s0",
+  "year": 1990,
+  "set": 1,
+  "title": "GATE CSE 1990",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 17,
+  "totalQuestions": 17,
+  "gaQuestions": 0,
+  "csQuestions": 17,
+  "questions": [
+    {
+      "id": "go:83988",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 2-vi",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Match the pairs in the following questions:</p>\n\n<table border=\"0\" cellpadding=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>(a) Small talk</td>\n\t\t\t<td>(p) Logic programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(b) LISP</td>\n\t\t\t<td>(q) Data flow programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(c) Prolog</td>\n\t\t\t<td>(r) Functional programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(d) VAL</td>\n\t\t\t<td>(s) Object-oriented programming</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>$$\\begin{array}{|ll|ll|}\\hline (a) &amp; \\text{Small talk} &amp; (p) &amp; \\text{Logic programming} \\\\\\hline &nbsp;(b) &amp; \\text{LISP} &amp; (q) &amp; \\text{ Data flow programming} \\\\\\hline &nbsp;&nbsp;(c) &amp; \\text{ Prolog} &amp; (r) &nbsp;&amp; \\text{Functional programming} \\\\\\hline (d) &amp; \\text{ VAL} &amp; (s) &nbsp;&amp; \\text{Object-oriented programming} &nbsp;\\\\\\hline \\end{array}$$</p>",
+      "rawQuestionHtml": "<a name=\"83988\"></a><div itemprop=\"text\"><p>Match the pairs in the following questions:</p>\n\n<table border=\"0\" cellpadding=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>(a) Small talk</td>\n\t\t\t<td>(p) Logic programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(b) LISP</td>\n\t\t\t<td>(q) Data flow programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(c) Prolog</td>\n\t\t\t<td>(r) Functional programming</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(d) VAL</td>\n\t\t\t<td>(s) Object-oriented programming</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>$$\\begin{array}{|ll|ll|}\\hline (a) &amp; \\text{Small talk} &amp; (p) &amp; \\text{Logic programming} \\\\\\hline &nbsp;(b) &amp; \\text{LISP} &amp; (q) &amp; \\text{ Data flow programming} \\\\\\hline &nbsp;&nbsp;(c) &amp; \\text{ Prolog} &amp; (r) &nbsp;&amp; \\text{Functional programming} \\\\\\hline (d) &amp; \\text{ VAL} &amp; (s) &nbsp;&amp; \\text{Object-oriented programming} &nbsp;\\\\\\hline \\end{array}$$</p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/83988/gate-cse-1990-question-2-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/83988/gate-cse-1990-question-2-vi"
+    },
+    {
+      "id": "go:83991",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 2-vii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "Match the pairs in the following questions:$$\\begin{array}{|ll|ll|}\\hline (a) &amp; \\text{Strassen's matrix multiplication algorithm} &amp; (p) &amp; \\text{Greedy method} \\\\\\hline  (b) &amp; \\text{Kruskal's minimum spanning tree algorithm} &amp; (q) &amp; \\text{Dynamic programming} \\\\\\hline   (c) &amp; \\text{Biconnected components algorithm} &amp; (r)  &amp; \\text{Divide and Conquer} \\\\\\hline (d) &amp; \\text{Floyd's shortest path algorithm} &amp; (s)  &amp;\\text{Depth-first search}  \\\\\\hline \\end{array}$$",
+      "rawQuestionHtml": "Match the pairs in the following questions:$$\\begin{array}{|ll|ll|}\\hline (a) &amp; \\text{Strassen's matrix multiplication algorithm} &amp; (p) &amp; \\text{Greedy method} \\\\\\hline  (b) &amp; \\text{Kruskal's minimum spanning tree algorithm} &amp; (q) &amp; \\text{Dynamic programming} \\\\\\hline   (c) &amp; \\text{Biconnected components algorithm} &amp; (r)  &amp; \\text{Divide and Conquer} \\\\\\hline (d) &amp; \\text{Floyd's shortest path algorithm} &amp; (s)  &amp;\\text{Depth-first search}  \\\\\\hline \\end{array}$$",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/83991/gate-cse-1990-question-2-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/83991/gate-cse-1990-question-2-vii"
+    },
+    {
+      "id": "go:84051",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-i",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Y=ABC + DE$</li>\n<li>$Y=\\overline{ABC + DE}$</li>\n<li>$Y=ABC.DE$</li>\n<li>$Y=\\overline{ABC.DE}$</li>\n</ol>",
+      "options": [
+        "$Y=ABC + DE$",
+        "$Y=\\overline{ABC + DE}$",
+        "$Y=ABC.DE$",
+        "$Y=\\overline{ABC.DE}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$Y=ABC + DE$",
+          "html": "$Y=ABC + DE$"
+        },
+        {
+          "label": "B",
+          "text": "$Y=\\overline{ABC + DE}$",
+          "html": "$Y=\\overline{ABC + DE}$"
+        },
+        {
+          "label": "C",
+          "text": "$Y=ABC.DE$",
+          "html": "$Y=ABC.DE$"
+        },
+        {
+          "label": "D",
+          "text": "$Y=\\overline{ABC.DE}$",
+          "html": "$Y=\\overline{ABC.DE}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84051/gate-cse-1990-question-3-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84051/gate-cse-1990-question-3-i"
+    },
+    {
+      "id": "go:84054",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-ii",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MSQ",
+      "question": "<p>Indicate which of the following statements are true:</p>\n<p>A relational database which is in $3$NF may still have undesirable data redundancy because there may exist:</p>",
+      "rawQuestionHtml": "<p>Indicate which of the following statements are true:</p>\n<p>A relational database which is in $3$NF may still have undesirable data redundancy because there may exist:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Transitive functional dependencies</li>\n<li>Non-trivial functional dependencies involving prime attributes on the right-side.</li>\n<li>Non-trivial functional dependencies involving prime attributes only on the left-side.</li>\n<li>Non-trivial functional dependencies involving only prime attributes.</li>\n</ol>",
+      "options": [
+        "Transitive functional dependencies",
+        "Non-trivial functional dependencies involving prime attributes on the right-side.",
+        "Non-trivial functional dependencies involving prime attributes only on the left-side.",
+        "Non-trivial functional dependencies involving only prime attributes."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Transitive functional dependencies",
+          "html": "Transitive functional dependencies"
+        },
+        {
+          "label": "B",
+          "text": "Non-trivial functional dependencies involving prime attributes on the right-side.",
+          "html": "Non-trivial functional dependencies involving prime attributes on the right-side."
+        },
+        {
+          "label": "C",
+          "text": "Non-trivial functional dependencies involving prime attributes only on the left-side.",
+          "html": "Non-trivial functional dependencies involving prime attributes only on the left-side."
+        },
+        {
+          "label": "D",
+          "text": "Non-trivial functional dependencies involving only prime attributes.",
+          "html": "Non-trivial functional dependencies involving only prime attributes."
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84054/gate-cse-1990-question-3-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84054/gate-cse-1990-question-3-ii"
+    },
+    {
+      "id": "go:84060",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-iii",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MSQ",
+      "question": "<p>The number of rooted binary trees with $n$ nodes is,</p>",
+      "rawQuestionHtml": "<p>The number of rooted binary trees with $n$ nodes is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Equal to the number of ways of multiplying $(n+1)$ matrices.</li>\n<li>Equal to the number of ways of arranging $n$ out of $2 n$ distinct elements.</li>\n<li>Equal to $\\frac{1}{(n+1)}\\binom{2n}{n}$.</li>\n<li>Equal to $n!$.</li>\n</ol>",
+      "options": [
+        "Equal to the number of ways of multiplying $(n+1)$ matrices.",
+        "Equal to the number of ways of arranging $n$ out of $2 n$ distinct elements.",
+        "Equal to $\\frac{1}{(n+1)}\\binom{2n}{n}$.",
+        "Equal to $n!$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Equal to the number of ways of multiplying $(n+1)$ matrices.",
+          "html": "Equal to the number of ways of multiplying $(n+1)$ matrices."
+        },
+        {
+          "label": "B",
+          "text": "Equal to the number of ways of arranging $n$ out of $2 n$ distinct elements.",
+          "html": "Equal to the number of ways of arranging $n$ out of $2 n$ distinct elements."
+        },
+        {
+          "label": "C",
+          "text": "Equal to $\\frac{1}{(n+1)}\\binom{2n}{n}$.",
+          "html": "Equal to $\\frac{1}{(n+1)}\\binom{2n}{n}$."
+        },
+        {
+          "label": "D",
+          "text": "Equal to $n!$.",
+          "html": "Equal to $n!$."
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84060/gate-cse-1990-question-3-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84060/gate-cse-1990-question-3-iii"
+    },
+    {
+      "id": "go:84828",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-iv",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>The total external path length, $\\text{EPL},$ of a binary tree with $n$ external nodes is, $\\text{EPL}= \\displaystyle \\sum_{w} I_w$, where $I_{w}$ is the path length of external node $w$),</p>",
+      "rawQuestionHtml": "<p>The total external path length, $\\text{EPL},$ of a binary tree with $n$ external nodes is, $\\text{EPL}= \\displaystyle \\sum_{w} I_w$, where $I_{w}$ is the path length of external node $w$),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\leq n^{2}$ always.</li>\n<li>$\\geq n \\log_{2} n$ always.</li>\n<li>Equal to $n^{2}$ always.</li>\n<li>$O(n)$ for some special trees.</li>\n</ol>",
+      "options": [
+        "$\\leq n^{2}$ always.",
+        "$\\geq n \\log_{2} n$ always.",
+        "Equal to $n^{2}$ always.",
+        "$O(n)$ for some special trees."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\leq n^{2}$ always.",
+          "html": "$\\leq n^{2}$ always."
+        },
+        {
+          "label": "B",
+          "text": "$\\geq n \\log_{2} n$ always.",
+          "html": "$\\geq n \\log_{2} n$ always."
+        },
+        {
+          "label": "C",
+          "text": "Equal to $n^{2}$ always.",
+          "html": "Equal to $n^{2}$ always."
+        },
+        {
+          "label": "D",
+          "text": "$O(n)$ for some special trees.",
+          "html": "$O(n)$ for some special trees."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84828/gate-cse-1990-question-3-iv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84828/gate-cse-1990-question-3-iv"
+    },
+    {
+      "id": "go:84830",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-v",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>The complexity of comparison based sorting algorithms is:</p>",
+      "rawQuestionHtml": "<p>The complexity of comparison based sorting algorithms is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta (n \\log n)$</li>\n<li>$\\Theta (n)$</li>\n<li>$\\Theta \\left(n^2\\right)$</li>\n<li>$\\Theta (n\\sqrt n)$</li>\n</ol>",
+      "options": [
+        "$\\Theta (n \\log n)$",
+        "$\\Theta (n)$",
+        "$\\Theta \\left(n^2\\right)$",
+        "$\\Theta (n\\sqrt n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\Theta (n \\log n)$",
+          "html": "$\\Theta (n \\log n)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\Theta (n)$",
+          "html": "$\\Theta (n)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Theta \\left(n^2\\right)$",
+          "html": "$\\Theta \\left(n^2\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\Theta (n\\sqrt n)$",
+          "html": "$\\Theta (n\\sqrt n)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84830/gate-cse-1990-question-3-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84830/gate-cse-1990-question-3-v"
+    },
+    {
+      "id": "go:84833",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-vi",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MSQ",
+      "question": "<p>Recursive languages are:</p>",
+      "rawQuestionHtml": "<p>Recursive languages are:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>A proper superset of context free languages.</li>\n<li>Always recognizable by pushdown automata.</li>\n<li>Also called type $0$ languages.</li>\n<li>Recognizable by Turing machines.</li>\n</ol>",
+      "options": [
+        "A proper superset of context free languages.",
+        "Always recognizable by pushdown automata.",
+        "Also called type $0$ languages.",
+        "Recognizable by Turing machines."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "A proper superset of context free languages.",
+          "html": "A proper superset of context free languages."
+        },
+        {
+          "label": "B",
+          "text": "Always recognizable by pushdown automata.",
+          "html": "Always recognizable by pushdown automata."
+        },
+        {
+          "label": "C",
+          "text": "Also called type $0$ languages.",
+          "html": "Also called type $0$ languages."
+        },
+        {
+          "label": "D",
+          "text": "Recognizable by Turing machines.",
+          "html": "Recognizable by Turing machines."
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84833/gate-cse-1990-question-3-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84833/gate-cse-1990-question-3-vi"
+    },
+    {
+      "id": "go:84835",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-vii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MSQ",
+      "question": "<p>It is undecidable whether:</p>",
+      "rawQuestionHtml": "<p>It is undecidable whether:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>An arbitrary Turing machine halts after $100$ steps.</li>\n<li>A Turing machine prints a specific letter.</li>\n<li>A Turing machine computes the products of two numbers</li>\n<li>None of the above.</li>\n</ol>",
+      "options": [
+        "An arbitrary Turing machine halts after $100$ steps.",
+        "A Turing machine prints a specific letter.",
+        "A Turing machine computes the products of two numbers",
+        "None of the above."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "An arbitrary Turing machine halts after $100$ steps.",
+          "html": "An arbitrary Turing machine halts after $100$ steps."
+        },
+        {
+          "label": "B",
+          "text": "A Turing machine prints a specific letter.",
+          "html": "A Turing machine prints a specific letter."
+        },
+        {
+          "label": "C",
+          "text": "A Turing machine computes the products of two numbers",
+          "html": "A Turing machine computes the products of two numbers"
+        },
+        {
+          "label": "D",
+          "text": "None of the above.",
+          "html": "None of the above."
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84835/gate-cse-1990-question-3-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84835/gate-cse-1990-question-3-vii"
+    },
+    {
+      "id": "go:84837",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-viii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Let $R_{1}$ and $R_{2}$ be regular sets defined over the alphabet $\\Sigma$ Then:</p>",
+      "rawQuestionHtml": "<p>Let $R_{1}$ and $R_{2}$ be regular sets defined over the alphabet $\\Sigma$ Then:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$R_{1} \\cap R_{2}$ is not regular.</li>\n<li>$R_{1} \\cup R_{2}$ is regular.</li>\n<li>$\\Sigma^{*}-R_{1}$ is regular.</li>\n<li>$R_{1}^{*}$ is not regular.</li>\n</ol>",
+      "options": [
+        "$R_{1} \\cap R_{2}$ is not regular.",
+        "$R_{1} \\cup R_{2}$ is regular.",
+        "$\\Sigma^{*}-R_{1}$ is regular.",
+        "$R_{1}^{*}$ is not regular."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$R_{1} \\cap R_{2}$ is not regular.",
+          "html": "$R_{1} \\cap R_{2}$ is not regular."
+        },
+        {
+          "label": "B",
+          "text": "$R_{1} \\cup R_{2}$ is regular.",
+          "html": "$R_{1} \\cup R_{2}$ is regular."
+        },
+        {
+          "label": "C",
+          "text": "$\\Sigma^{*}-R_{1}$ is regular.",
+          "html": "$\\Sigma^{*}-R_{1}$ is regular."
+        },
+        {
+          "label": "D",
+          "text": "$R_{1}^{*}$ is not regular.",
+          "html": "$R_{1}^{*}$ is not regular."
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84837/gate-cse-1990-question-3-viii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84837/gate-cse-1990-question-3-viii"
+    },
+    {
+      "id": "go:84841",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-ix",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>The number of ways in which $5\\; A's, 5\\; B's$ and $5\\; C's$ can be arranged in a row is:</p>",
+      "rawQuestionHtml": "<p>The number of ways in which $5\\; A's, 5\\; B's$ and $5\\; C's$ can be arranged in a row is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$15!/(5!)^{3}$</li>\n<li>$15!$</li>\n<li>$\\left(\\frac{15}{5}\\right)$</li>\n<li>$15!(5!3!)$.</li>\n</ol>",
+      "options": [
+        "$15!/(5!)^{3}$",
+        "$15!$",
+        "$\\left(\\frac{15}{5}\\right)$",
+        "$15!(5!3!)$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$15!/(5!)^{3}$",
+          "html": "$15!/(5!)^{3}$"
+        },
+        {
+          "label": "B",
+          "text": "$15!$",
+          "html": "$15!$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(\\frac{15}{5}\\right)$",
+          "html": "$\\left(\\frac{15}{5}\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$15!(5!3!)$.",
+          "html": "$15!(5!3!)$."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84841/gate-cse-1990-question-3-ix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84841/gate-cse-1990-question-3-ix"
+    },
+    {
+      "id": "go:84861",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-x",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Indicate which of the following well-formed formulae are valid:</p>",
+      "rawQuestionHtml": "<p>Indicate which of the following well-formed formulae are valid:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left(P\\Rightarrow Q\\right) {\\wedge} \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(P \\Rightarrow R\\right)$</li>\n<li>$\\left(P\\Rightarrow Q\\right) \\Rightarrow \\left( \\neg P \\Rightarrow \\neg Q\\right)$</li>\n<li>$\\left(P{\\wedge} \\left(\\neg P \\vee  \\neg Q\\right)\\right) \\Rightarrow Q$</li>\n<li>$\\left(P \\Rightarrow R\\right) \\vee \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(\\left(P \\vee Q \\right)  \\Rightarrow R\\right)$</li>\n</ol>",
+      "options": [
+        "$\\left(P\\Rightarrow Q\\right) {\\wedge} \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(P \\Rightarrow R\\right)$",
+        "$\\left(P\\Rightarrow Q\\right) \\Rightarrow \\left( \\neg P \\Rightarrow \\neg Q\\right)$",
+        "$\\left(P{\\wedge} \\left(\\neg P \\vee \\neg Q\\right)\\right) \\Rightarrow Q$",
+        "$\\left(P \\Rightarrow R\\right) \\vee \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(\\left(P \\vee Q \\right) \\Rightarrow R\\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\left(P\\Rightarrow Q\\right) {\\wedge} \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(P \\Rightarrow R\\right)$",
+          "html": "$\\left(P\\Rightarrow Q\\right) {\\wedge} \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(P \\Rightarrow R\\right)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left(P\\Rightarrow Q\\right) \\Rightarrow \\left( \\neg P \\Rightarrow \\neg Q\\right)$",
+          "html": "$\\left(P\\Rightarrow Q\\right) \\Rightarrow \\left( \\neg P \\Rightarrow \\neg Q\\right)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(P{\\wedge} \\left(\\neg P \\vee \\neg Q\\right)\\right) \\Rightarrow Q$",
+          "html": "$\\left(P{\\wedge} \\left(\\neg P \\vee  \\neg Q\\right)\\right) \\Rightarrow Q$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left(P \\Rightarrow R\\right) \\vee \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(\\left(P \\vee Q \\right) \\Rightarrow R\\right)$",
+          "html": "$\\left(P \\Rightarrow R\\right) \\vee \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(\\left(P \\vee Q \\right)  \\Rightarrow R\\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/84861/gate-cse-1990-question-3-x",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/84861/gate-cse-1990-question-3-x"
+    },
+    {
+      "id": "go:85384",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 3-xi",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>A graph is planar if and only if,</p>",
+      "rawQuestionHtml": "<p>A graph is planar if and only if,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>It does not contain a subgraph homeomorphic to $k_{5}$ and $k_{3, 3}$.</li>\n<li>It does not contain a subgraph isomorphic to $k_{5}$ and $k_{3, 3}$.</li>\n<li>It does not contain a subgraph isomorphic to $k_{5}$ or $k_{3, 3}$</li>\n<li>It does not contain a subgraph homeomorphic to $k_{5}$ or $k_{3, 3}$.</li>\n</ol>",
+      "options": [
+        "It does not contain a subgraph homeomorphic to $k_{5}$ and $k_{3, 3}$.",
+        "It does not contain a subgraph isomorphic to $k_{5}$ and $k_{3, 3}$.",
+        "It does not contain a subgraph isomorphic to $k_{5}$ or $k_{3, 3}$",
+        "It does not contain a subgraph homeomorphic to $k_{5}$ or $k_{3, 3}$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It does not contain a subgraph homeomorphic to $k_{5}$ and $k_{3, 3}$.",
+          "html": "It does not contain a subgraph homeomorphic to $k_{5}$ and $k_{3, 3}$."
+        },
+        {
+          "label": "B",
+          "text": "It does not contain a subgraph isomorphic to $k_{5}$ and $k_{3, 3}$.",
+          "html": "It does not contain a subgraph isomorphic to $k_{5}$ and $k_{3, 3}$."
+        },
+        {
+          "label": "C",
+          "text": "It does not contain a subgraph isomorphic to $k_{5}$ or $k_{3, 3}$",
+          "html": "It does not contain a subgraph isomorphic to $k_{5}$ or $k_{3, 3}$"
+        },
+        {
+          "label": "D",
+          "text": "It does not contain a subgraph homeomorphic to $k_{5}$ or $k_{3, 3}$.",
+          "html": "It does not contain a subgraph homeomorphic to $k_{5}$ or $k_{3, 3}$."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/85384/gate-cse-1990-question-3-xi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/85384/gate-cse-1990-question-3-xi"
+    },
+    {
+      "id": "go:85387",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 4-i",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nRAM is a combinational circuit and PLA is a sequential circuit.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nRAM is a combinational circuit and PLA is a sequential circuit.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/85387/gate-cse-1990-question-4-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/85387/gate-cse-1990-question-4-i"
+    },
+    {
+      "id": "go:85390",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 4-ii",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe data transfer between memory and I/O devices using programmed I/O is faster than interrupt-driven I/O.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe data transfer between memory and I/O devices using programmed I/O is faster than interrupt-driven I/O.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/85390/gate-cse-1990-question-4-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/85390/gate-cse-1990-question-4-ii"
+    },
+    {
+      "id": "go:85391",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 4-iii",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe flags are affected when conditional CALL or JUMP instructions are executed.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe flags are affected when conditional CALL or JUMP instructions are executed.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/85391/gate-cse-1990-question-4-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/85391/gate-cse-1990-question-4-iii"
+    },
+    {
+      "id": "go:85394",
+      "testId": "gate-1990-s0",
+      "year": 1990,
+      "set": 1,
+      "yearSetKey": "1990-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1990 | Question: 4-v",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "NAT",
+      "question": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe Link-load-and-go loading scheme required less storage space than the link-and-go loading scheme.",
+      "rawQuestionHtml": "State whether the following statements are TRUE or FALSE with reason:<br/>\n<br/>\nThe Link-load-and-go loading scheme required less storage space than the link-and-go loading scheme.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "1"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/85394/gate-cse-1990-question-4-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/85394/gate-cse-1990-question-4-v"
+    }
+  ]
+}

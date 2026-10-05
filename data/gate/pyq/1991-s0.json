@@ -1,0 +1,934 @@
+{
+  "id": "gate-1991-s0",
+  "yearSetKey": "1991-s0",
+  "year": 1991,
+  "set": 1,
+  "title": "GATE CSE 1991",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 19,
+  "totalQuestions": 19,
+  "gaQuestions": 0,
+  "csQuestions": 19,
+  "questions": [
+    {
+      "id": "go:500",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 01-iii",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "Consider the number given by the decimal expression:<br/>\n$$16^3*9 + 16^2*7 + 16*5+3$$<br/>\nThe number of $1’s$ in the unsigned binary representation of the number is ______",
+      "rawQuestionHtml": "Consider the number given by the decimal expression:<br/>\n$$16^3*9 + 16^2*7 + 16*5+3$$<br/>\nThe number of $1’s$ in the unsigned binary representation of the number is ______",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "9"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/500/gate-cse-1991-question-01-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/500/gate-cse-1991-question-01-iii"
+    },
+    {
+      "id": "go:511",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 02,i",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/6517257408547152419.webp\" style=\"height:169px; width:600px\"></p>",
+      "rawQuestionHtml": "<a name=\"511\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/6517257408547152419.webp\" style=\"height:169px; width:600px\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/511/gate-cse-1991-question-02-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/511/gate-cse-1991-question-02-i"
+    },
+    {
+      "id": "go:515",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.i",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>The advantages of CMOS technology over a MOS is:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>The advantages of CMOS technology over a MOS is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>lower power dissipation</p>\n</li>\n<li>\n<p>greater speed</p>\n</li>\n<li>\n<p>smaller chip size</p>\n</li>\n<li>\n<p>fewer masks for fabrication</p>\n</li>\n</ol>",
+      "options": [
+        "lower power dissipation",
+        "greater speed",
+        "smaller chip size",
+        "fewer masks for fabrication"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "lower power dissipation",
+          "html": "<p>lower power dissipation</p>"
+        },
+        {
+          "label": "B",
+          "text": "greater speed",
+          "html": "<p>greater speed</p>"
+        },
+        {
+          "label": "C",
+          "text": "smaller chip size",
+          "html": "<p>smaller chip size</p>"
+        },
+        {
+          "label": "D",
+          "text": "fewer masks for fabrication",
+          "html": "<p>fewer masks for fabrication</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/515/gate1991-03-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/515/gate1991-03-i"
+    },
+    {
+      "id": "go:516",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03-ii",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Advantage of synchronous sequential circuits over asynchronous ones is:</p>",
+      "rawQuestionHtml": "<p>Advantage of synchronous sequential circuits over asynchronous ones is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>faster operation</li>\n<li>ease of avoiding problems due to hazards</li>\n<li>lower hardware requirement</li>\n<li>better noise immunity</li>\n<li>none of the above</li>\n</ol>",
+      "options": [
+        "faster operation",
+        "ease of avoiding problems due to hazards",
+        "lower hardware requirement",
+        "better noise immunity",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "faster operation",
+          "html": "faster operation"
+        },
+        {
+          "label": "B",
+          "text": "ease of avoiding problems due to hazards",
+          "html": "ease of avoiding problems due to hazards"
+        },
+        {
+          "label": "C",
+          "text": "lower hardware requirement",
+          "html": "lower hardware requirement"
+        },
+        {
+          "label": "D",
+          "text": "better noise immunity",
+          "html": "better noise immunity"
+        },
+        {
+          "label": "E",
+          "text": "none of the above",
+          "html": "none of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/516/gate-cse-1991-question-03-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/516/gate-cse-1991-question-03-ii"
+    },
+    {
+      "id": "go:517",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.iii",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nThe total size of address space in a virtual memory system is limited by:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nThe total size of address space in a virtual memory system is limited by:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>the length of MAR</p>\n</li>\n<li>\n<p>the available secondary storage</p>\n</li>\n<li>\n<p>the available main memory</p>\n</li>\n<li>\n<p>all of the above</p>\n</li>\n</ol>",
+      "options": [
+        "the length of MAR",
+        "the available secondary storage",
+        "the available main memory",
+        "all of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "the length of MAR",
+          "html": "<p>the length of MAR</p>"
+        },
+        {
+          "label": "B",
+          "text": "the available secondary storage",
+          "html": "<p>the available secondary storage</p>"
+        },
+        {
+          "label": "C",
+          "text": "the available main memory",
+          "html": "<p>the available main memory</p>"
+        },
+        {
+          "label": "D",
+          "text": "all of the above",
+          "html": "<p>all of the above</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/517/gate1991-03-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/517/gate1991-03-iii"
+    },
+    {
+      "id": "go:518",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.iv",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nThe TRAP interrupts mechanism of the 8085 microprocessor:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nThe TRAP interrupts mechanism of the 8085 microprocessor:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>executes an RST by hardware</p>\n</li>\n<li>\n<p>executes an instruction supplied by an external device through the INTA signal</p>\n</li>\n<li>\n<p>executes an instruction from memory location 20H</p>\n</li>\n<li>\n<p>executes a NOP</p>\n</li>\n</ol>",
+      "options": [
+        "executes an RST by hardware",
+        "executes an instruction supplied by an external device through the INTA signal",
+        "executes an instruction from memory location 20H",
+        "executes a NOP"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "executes an RST by hardware",
+          "html": "<p>executes an RST by hardware</p>"
+        },
+        {
+          "label": "B",
+          "text": "executes an instruction supplied by an external device through the INTA signal",
+          "html": "<p>executes an instruction supplied by an external device through the INTA signal</p>"
+        },
+        {
+          "label": "C",
+          "text": "executes an instruction from memory location 20H",
+          "html": "<p>executes an instruction from memory location 20H</p>"
+        },
+        {
+          "label": "D",
+          "text": "executes a NOP",
+          "html": "<p>executes a NOP</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/518/gate1991-03-iv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/518/gate1991-03-iv"
+    },
+    {
+      "id": "go:520",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.v",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>The ALE line of  an 8085 microprocessor is used to:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>The ALE line of  an 8085 microprocessor is used to:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Latch the output of an I/O instruction into an external latch.</p>\n</li>\n<li>\n<p>Deactivate the chip-select signal from memory devices.</p>\n</li>\n<li>\n<p>Latch the 8 bits of address lines AD7-AD0 into  an external latch.</p>\n</li>\n<li>\n<p>Find the interrupt enable status of the TRAP interrupt.</p>\n</li>\n</ol>",
+      "options": [
+        "Latch the output of an I/O instruction into an external latch.",
+        "Deactivate the chip-select signal from memory devices.",
+        "Latch the 8 bits of address lines AD7-AD0 into an external latch.",
+        "Find the interrupt enable status of the TRAP interrupt."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Latch the output of an I/O instruction into an external latch.",
+          "html": "<p>Latch the output of an I/O instruction into an external latch.</p>"
+        },
+        {
+          "label": "B",
+          "text": "Deactivate the chip-select signal from memory devices.",
+          "html": "<p>Deactivate the chip-select signal from memory devices.</p>"
+        },
+        {
+          "label": "C",
+          "text": "Latch the 8 bits of address lines AD7-AD0 into an external latch.",
+          "html": "<p>Latch the 8 bits of address lines AD7-AD0 into  an external latch.</p>"
+        },
+        {
+          "label": "D",
+          "text": "Find the interrupt enable status of the TRAP interrupt.",
+          "html": "<p>Find the interrupt enable status of the TRAP interrupt.</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/520/gate1991-03-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/520/gate1991-03-v"
+    },
+    {
+      "id": "go:521",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.vi",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Kruskal's algorithm for finding a minimum spanning tree of a weighted graph G with n vertices and m edges has the time complexity of:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Kruskal's algorithm for finding a minimum spanning tree of a weighted graph G with n vertices and m edges has the time complexity of:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>[latex]O(n^{2})[/latex]</p>\n</li>\n<li>\n<p>O(mn)</p>\n</li>\n<li>\n<p>O(m+n)</p>\n</li>\n<li>\n<p>[latex]O(m \\log n)[/latex]</p>\n</li>\n</ol>",
+      "options": [
+        "[latex]O(n^{2})[/latex]",
+        "O(mn)",
+        "O(m+n)",
+        "[latex]O(m \\log n)[/latex]"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "[latex]O(n^{2})[/latex]",
+          "html": "<p>[latex]O(n^{2})[/latex]</p>"
+        },
+        {
+          "label": "B",
+          "text": "O(mn)",
+          "html": "<p>O(mn)</p>"
+        },
+        {
+          "label": "C",
+          "text": "O(m+n)",
+          "html": "<p>O(m+n)</p>"
+        },
+        {
+          "label": "D",
+          "text": "[latex]O(m \\log n)[/latex]",
+          "html": "<p>[latex]O(m \\log n)[/latex]</p>"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/521/gate1991-03-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/521/gate1991-03-vi"
+    },
+    {
+      "id": "go:522",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.vii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>The following sequence of operations is performed on a stack:</p><p>\nPUSH  (10), PUSH (20), POP, PUSH (10), PUSH (20), POP, POP, POP, PUSH (20), POP</p><p>\nThe sequence of values popped out is</p><p></p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>The following sequence of operations is performed on a stack:</p><p>\nPUSH  (10), PUSH (20), POP, PUSH (10), PUSH (20), POP, POP, POP, PUSH (20), POP</p><p>\nThe sequence of values popped out is</p><p></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>20,10,20,10,20</p>\n</li>\n<li>\n<p>20,20,10,10,20</p>\n</li>\n<li>\n<p>10,20,20,10,20</p>\n</li>\n<li>\n<p>20,20,10,20,10</p>\n</li>\n</ol>",
+      "options": [
+        "20,10,20,10,20",
+        "20,20,10,10,20",
+        "10,20,20,10,20",
+        "20,20,10,20,10"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "20,10,20,10,20",
+          "html": "<p>20,10,20,10,20</p>"
+        },
+        {
+          "label": "B",
+          "text": "20,20,10,10,20",
+          "html": "<p>20,20,10,10,20</p>"
+        },
+        {
+          "label": "C",
+          "text": "10,20,20,10,20",
+          "html": "<p>10,20,20,10,20</p>"
+        },
+        {
+          "label": "D",
+          "text": "20,20,10,20,10",
+          "html": "<p>20,20,10,20,10</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/522/gate1991-03-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/522/gate1991-03-vii"
+    },
+    {
+      "id": "go:523",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03-viii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Consider the following Pascal function:</p>\n<pre class=\"prettyprint lang-c_cpp\">Function X(M:integer):integer;\nVar i:integer;\nBegin\n    i := 0;\n    while i*i &lt; M\n    do i:= i+1\n    X := i\n end\n\n</pre>\n<p>The function call $X(N)$, if $N$ is positive, will return</p>",
+      "rawQuestionHtml": "<p>Consider the following Pascal function:</p>\n<pre class=\"prettyprint lang-c_cpp\">Function X(M:integer):integer;\nVar i:integer;\nBegin\n    i := 0;\n    while i*i &lt; M\n    do i:= i+1\n    X := i\n end\n\n</pre>\n<p>The function call $X(N)$, if $N$ is positive, will return</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\lfloor\\sqrt N \\rfloor$</li>\n<li>$\\lfloor\\sqrt N \\rfloor +1$</li>\n<li>$\\lceil \\sqrt N \\rceil$</li>\n<li>$\\lceil \\sqrt N \\rceil +1$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$\\lfloor\\sqrt N \\rfloor$",
+        "$\\lfloor\\sqrt N \\rfloor +1$",
+        "$\\lceil \\sqrt N \\rceil$",
+        "$\\lceil \\sqrt N \\rceil +1$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\lfloor\\sqrt N \\rfloor$",
+          "html": "$\\lfloor\\sqrt N \\rfloor$"
+        },
+        {
+          "label": "B",
+          "text": "$\\lfloor\\sqrt N \\rfloor +1$",
+          "html": "$\\lfloor\\sqrt N \\rfloor +1$"
+        },
+        {
+          "label": "C",
+          "text": "$\\lceil \\sqrt N \\rceil$",
+          "html": "$\\lceil \\sqrt N \\rceil$"
+        },
+        {
+          "label": "D",
+          "text": "$\\lceil \\sqrt N \\rceil +1$",
+          "html": "$\\lceil \\sqrt N \\rceil +1$"
+        },
+        {
+          "label": "E",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/523/gate-cse-1991-question-03-viii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/523/gate-cse-1991-question-03-viii"
+    },
+    {
+      "id": "go:519",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.ix",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only</p><p>A \"link editor\" is a program that:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only</p><p>A \"link editor\" is a program that:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>matches the parameters of the macro-definition with locations of the parameters of the macro call</p>\n</li>\n<li>\n<p>matches external names of one program with their location in other programs</p>\n</li>\n<li>\n<p>matches the parameters of subroutine definition with the location of parameters of subroutine call.</p>\n</li>\n<li>\n<p>acts as a link between text editor and the user</p>\n</li>\n</ol>",
+      "options": [
+        "matches the parameters of the macro-definition with locations of the parameters of the macro call",
+        "matches external names of one program with their location in other programs",
+        "matches the parameters of subroutine definition with the location of parameters of subroutine call.",
+        "acts as a link between text editor and the user"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "matches the parameters of the macro-definition with locations of the parameters of the macro call",
+          "html": "<p>matches the parameters of the macro-definition with locations of the parameters of the macro call</p>"
+        },
+        {
+          "label": "B",
+          "text": "matches external names of one program with their location in other programs",
+          "html": "<p>matches external names of one program with their location in other programs</p>"
+        },
+        {
+          "label": "C",
+          "text": "matches the parameters of subroutine definition with the location of parameters of subroutine call.",
+          "html": "<p>matches the parameters of subroutine definition with the location of parameters of subroutine call.</p>"
+        },
+        {
+          "label": "D",
+          "text": "acts as a link between text editor and the user",
+          "html": "<p>acts as a link between text editor and the user</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/519/gate1991-03-ix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/519/gate1991-03-ix"
+    },
+    {
+      "id": "go:524",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03,x",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MSQ",
+      "question": "<p>Indicate all the true statements from the following:</p>",
+      "rawQuestionHtml": "<p>Indicate all the true statements from the following:</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>Recursive descent parsing cannot be used for grammar with left recursion.</li>\n<li>The intermediate form for representing expressions which is best suited for code optimization is the postfix form.</li>\n<li>A programming language not supporting either recursion or pointer type does not need the support of dynamic memory allocation.</li>\n<li>Although C does not support call-by-name parameter passing, the effect can be correctly simulated in C</li>\n<li>No feature of Pascal typing violates strong typing in Pascal.</li>\n</ol>",
+      "options": [
+        "Recursive descent parsing cannot be used for grammar with left recursion.",
+        "The intermediate form for representing expressions which is best suited for code optimization is the postfix form.",
+        "A programming language not supporting either recursion or pointer type does not need the support of dynamic memory allocation.",
+        "Although C does not support call-by-name parameter passing, the effect can be correctly simulated in C",
+        "No feature of Pascal typing violates strong typing in Pascal."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Recursive descent parsing cannot be used for grammar with left recursion.",
+          "html": "Recursive descent parsing cannot be used for grammar with left recursion."
+        },
+        {
+          "label": "B",
+          "text": "The intermediate form for representing expressions which is best suited for code optimization is the postfix form.",
+          "html": "The intermediate form for representing expressions which is best suited for code optimization is the postfix form."
+        },
+        {
+          "label": "C",
+          "text": "A programming language not supporting either recursion or pointer type does not need the support of dynamic memory allocation.",
+          "html": "A programming language not supporting either recursion or pointer type does not need the support of dynamic memory allocation."
+        },
+        {
+          "label": "D",
+          "text": "Although C does not support call-by-name parameter passing, the effect can be correctly simulated in C",
+          "html": "Although C does not support call-by-name parameter passing, the effect can be correctly simulated in C"
+        },
+        {
+          "label": "E",
+          "text": "No feature of Pascal typing violates strong typing in Pascal.",
+          "html": "No feature of Pascal typing violates strong typing in Pascal."
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/524/gate-cse-1991-question-03-x",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/524/gate-cse-1991-question-03-x"
+    },
+    {
+      "id": "go:525",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.xi",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one can be correct) and write the corresponding letters only:</p><p>Indicate all the false statements from the statements given below:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one can be correct) and write the corresponding letters only:</p><p>Indicate all the false statements from the statements given below:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>The amount of virtual memory available is limited by the availability of the secondary memory</p>\n</li>\n<li>\n<p>Any implementation of a critical section requires the use of an indivisible machine- instruction ,such as test-and-set.</p>\n</li>\n<li>\n<p>The use of monitors ensure that no dead-locks will be caused .</p>\n</li>\n<li>\n<p>The LRU page-replacement policy may cause thrashing for some type of programs.</p>\n</li>\n</ol>",
+      "options": [
+        "The amount of virtual memory available is limited by the availability of the secondary memory",
+        "Any implementation of a critical section requires the use of an indivisible machine- instruction ,such as test-and-set.",
+        "The use of monitors ensure that no dead-locks will be caused .",
+        "The LRU page-replacement policy may cause thrashing for some type of programs."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The amount of virtual memory available is limited by the availability of the secondary memory",
+          "html": "<p>The amount of virtual memory available is limited by the availability of the secondary memory</p>"
+        },
+        {
+          "label": "B",
+          "text": "Any implementation of a critical section requires the use of an indivisible machine- instruction ,such as test-and-set.",
+          "html": "<p>Any implementation of a critical section requires the use of an indivisible machine- instruction ,such as test-and-set.</p>"
+        },
+        {
+          "label": "C",
+          "text": "The use of monitors ensure that no dead-locks will be caused .",
+          "html": "<p>The use of monitors ensure that no dead-locks will be caused .</p>"
+        },
+        {
+          "label": "D",
+          "text": "The LRU page-replacement policy may cause thrashing for some type of programs.",
+          "html": "<p>The LRU page-replacement policy may cause thrashing for some type of programs.</p>"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/525/gate1991-03-xi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/525/gate1991-03-xi"
+    },
+    {
+      "id": "go:526",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.xii",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nIf [latex]F_1[/latex], [latex]F_2[/latex] and [latex]F_3[/latex] are propositional formulae such that [latex]F_1 \\land F_2 \\rightarrow F_3[/latex] and [latex]F_1 \\land F_2 \\rightarrow \\sim F_3[/latex] are both tautologies, then which of the following is true:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:\n</p><p>\nIf [latex]F_1[/latex], [latex]F_2[/latex] and [latex]F_3[/latex] are propositional formulae such that [latex]F_1 \\land F_2 \\rightarrow F_3[/latex] and [latex]F_1 \\land F_2 \\rightarrow \\sim F_3[/latex] are both tautologies, then which of the following is true:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Both[latex]F_1[/latex] and [latex]F_2[/latex] are tautologies</p>\n</li>\n<li>\n<p>The conjunction [latex]F_1 \\land F_2[/latex] is not satisfiable</p>\n</li>\n<li>\n<p>Neither is tautologous</p>\n</li>\n<li>\n<p>Neither is satisfiable</p>\n</li>\n</ol>",
+      "options": [
+        "Both[latex]F_1[/latex] and [latex]F_2[/latex] are tautologies",
+        "The conjunction [latex]F_1 \\land F_2[/latex] is not satisfiable",
+        "Neither is tautologous",
+        "Neither is satisfiable"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both[latex]F_1[/latex] and [latex]F_2[/latex] are tautologies",
+          "html": "<p>Both[latex]F_1[/latex] and [latex]F_2[/latex] are tautologies</p>"
+        },
+        {
+          "label": "B",
+          "text": "The conjunction [latex]F_1 \\land F_2[/latex] is not satisfiable",
+          "html": "<p>The conjunction [latex]F_1 \\land F_2[/latex] is not satisfiable</p>"
+        },
+        {
+          "label": "C",
+          "text": "Neither is tautologous",
+          "html": "<p>Neither is tautologous</p>"
+        },
+        {
+          "label": "D",
+          "text": "Neither is satisfiable",
+          "html": "<p>Neither is satisfiable</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/526/gate1991-03-xii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/526/gate1991-03-xii"
+    },
+    {
+      "id": "go:527",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.xiii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only.</p><p>Let $r=1(1+0)^*, s=11^*0 \\text{ and } t=1^*0$ be three regular expressions. Which one of the following is true?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only.</p><p>Let $r=1(1+0)^*, s=11^*0 \\text{ and } t=1^*0$ be three regular expressions. Which one of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$L(s) \\subseteq L(r) \\text{ and } L(s) \\subseteq L(t)$</p>\n</li>\n<li>\n<p>$L(r) \\subseteq L(s) \\text{ and }  L(s) \\subseteq L(t)$</p>\n</li>\n<li>\n<p>$L(s) \\subseteq L(t) \\text{ and }  L(s) \\subseteq L(r)$</p>\n</li>\n<li>\n<p>$L(t) \\subseteq L(s) \\text{ and }  L(s) \\subseteq L(r)$</p>\n</li>\n</ol>",
+      "options": [
+        "$L(s) \\subseteq L(r) \\text{ and } L(s) \\subseteq L(t)$",
+        "$L(r) \\subseteq L(s) \\text{ and } L(s) \\subseteq L(t)$",
+        "$L(s) \\subseteq L(t) \\text{ and } L(s) \\subseteq L(r)$",
+        "$L(t) \\subseteq L(s) \\text{ and } L(s) \\subseteq L(r)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$L(s) \\subseteq L(r) \\text{ and } L(s) \\subseteq L(t)$",
+          "html": "<p>$L(s) \\subseteq L(r) \\text{ and } L(s) \\subseteq L(t)$</p>"
+        },
+        {
+          "label": "B",
+          "text": "$L(r) \\subseteq L(s) \\text{ and } L(s) \\subseteq L(t)$",
+          "html": "<p>$L(r) \\subseteq L(s) \\text{ and }  L(s) \\subseteq L(t)$</p>"
+        },
+        {
+          "label": "C",
+          "text": "$L(s) \\subseteq L(t) \\text{ and } L(s) \\subseteq L(r)$",
+          "html": "<p>$L(s) \\subseteq L(t) \\text{ and }  L(s) \\subseteq L(r)$</p>"
+        },
+        {
+          "label": "D",
+          "text": "$L(t) \\subseteq L(s) \\text{ and } L(s) \\subseteq L(r)$",
+          "html": "<p>$L(t) \\subseteq L(s) \\text{ and }  L(s) \\subseteq L(r)$</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/527/gate1991-03-xiii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/527/gate1991-03-xiii"
+    },
+    {
+      "id": "go:528",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 03.xiv",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following is the strongest correct statement about a finite language over some finite alphabet [latex]\\Sigma[/latex]?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following is the strongest correct statement about a finite language over some finite alphabet [latex]\\Sigma[/latex]?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>It could be undecidable</p>\n</li>\n<li>\n<p>It is Turing-machine recognizable</p>\n</li>\n<li>\n<p>It is a context sensitive language.</p>\n</li>\n<li>\n<p>It is a regular language.</p>\n</li>\n</ol>",
+      "options": [
+        "It could be undecidable",
+        "It is Turing-machine recognizable",
+        "It is a context sensitive language.",
+        "It is a regular language."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It could be undecidable",
+          "html": "<p>It could be undecidable</p>"
+        },
+        {
+          "label": "B",
+          "text": "It is Turing-machine recognizable",
+          "html": "<p>It is Turing-machine recognizable</p>"
+        },
+        {
+          "label": "C",
+          "text": "It is a context sensitive language.",
+          "html": "<p>It is a context sensitive language.</p>"
+        },
+        {
+          "label": "D",
+          "text": "It is a regular language.",
+          "html": "<p>It is a regular language.</p>"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/528/gate1991-03-xiv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/528/gate1991-03-xiv"
+    },
+    {
+      "id": "go:529",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 04,i,ii,iii,iv",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/15865617899540648763.webp\" style=\"height:208px; width:600px\"></p>",
+      "rawQuestionHtml": "<a name=\"529\"></a><div itemprop=\"text\"><p><img alt=\"\" src=\"/Gate_QA/question-images/15865617899540648763.webp\" style=\"height:208px; width:600px\"></p></div>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/529/gate-cse-1991-question-04-i-ii-iii-iv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/529/gate-cse-1991-question-04-i-ii-iii-iv"
+    },
+    {
+      "id": "go:26442",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 5-c",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Sequential Circuits, Flip-Flops & Counters",
+      "type": "NAT",
+      "question": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
+      "rawQuestionHtml": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "33.33"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/26442/gate-cse-1991-question-5-c",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/26442/gate-cse-1991-question-5-c"
+    },
+    {
+      "id": "go:540",
+      "testId": "gate-1991-s0",
+      "year": 1991,
+      "set": 1,
+      "yearSetKey": "1991-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1991 | Question: 13",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "Give an optimal algorithm in pseudo-code for sorting a sequence of $n$ numbers which has only $k$ distinct numbers ($k$ is not known a Priori). Give a brief analysis for the time-complexity of your algorithm.",
+      "rawQuestionHtml": "Give an optimal algorithm in pseudo-code for sorting a sequence of $n$ numbers which has only $k$ distinct numbers ($k$ is not known a Priori). Give a brief analysis for the time-complexity of your algorithm.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/540/gate-cse-1991-question-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/540/gate-cse-1991-question-13"
+    }
+  ]
+}

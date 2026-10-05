@@ -7,6 +7,21 @@ import subjectsData from "@/data/subjects.json";
 import chaptersData from "@/data/chapters.json";
 import BackButton from "@/components/BackButton";
 
+type PracticeTest = {
+  id: string;
+  title: string;
+  duration: string;
+  difficulty: string;
+  questionsCount: number;
+};
+
+type Chapter = {
+  id: string;
+  name: string;
+  description: string;
+  tests: PracticeTest[];
+};
+
 type PageProps = {
   params: Promise<{ subject: string }>;
 };
@@ -19,7 +34,7 @@ export default async function SubjectChaptersPage({ params }: PageProps) {
     notFound();
   }
 
-  const chapters = (chaptersData as Record<string, any[]>)[subject] || [];
+  const chapters = (chaptersData as Record<string, Chapter[]>)[subject] || [];
 
   return (
     <main className="min-h-screen bg-[#08090b] text-white flex flex-col justify-between">

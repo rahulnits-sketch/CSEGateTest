@@ -1,0 +1,485 @@
+{
+  "id": "gate-1989-s0",
+  "yearSetKey": "1989-s0",
+  "year": 1989,
+  "set": 1,
+  "title": "GATE CSE 1989",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 9,
+  "totalQuestions": 9,
+  "gaQuestions": 0,
+  "csQuestions": 9,
+  "questions": [
+    {
+      "id": "go:10905",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 1-vii, ISRO2015-14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/Gate_QA/question-images/13587038966801485214.webp\" width=\"68\"/></p>",
+      "rawQuestionHtml": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/Gate_QA/question-images/13587038966801485214.webp\" width=\"68\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n<li>$3$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$3$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$3$",
+          "html": "$3$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/10905/gate-cse-1989-question-1-vii-isro2015-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/10905/gate-cse-1989-question-1-vii-isro2015-14"
+    },
+    {
+      "id": "go:87095",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-i",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>An unrestricted use of the \"go to\" statement is harmful because of which of the following reason (s):</p>",
+      "rawQuestionHtml": "<p>An unrestricted use of the \"go to\" statement is harmful because of which of the following reason (s):</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>It makes it more difficult to verify programs.</li>\n<li>It makes programs more inefficient.</li>\n<li>It makes it more difficult to modify existing programs.</li>\n<li>It results in the compiler generating longer machine code.</li>\n</ol>",
+      "options": [
+        "It makes it more difficult to verify programs.",
+        "It makes programs more inefficient.",
+        "It makes it more difficult to modify existing programs.",
+        "It results in the compiler generating longer machine code."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "It makes it more difficult to verify programs.",
+          "html": "It makes it more difficult to verify programs."
+        },
+        {
+          "label": "B",
+          "text": "It makes programs more inefficient.",
+          "html": "It makes programs more inefficient."
+        },
+        {
+          "label": "C",
+          "text": "It makes it more difficult to modify existing programs.",
+          "html": "It makes it more difficult to modify existing programs."
+        },
+        {
+          "label": "D",
+          "text": "It results in the compiler generating longer machine code.",
+          "html": "It results in the compiler generating longer machine code."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87095/gate-cse-1989-question-3-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87095/gate-cse-1989-question-3-i"
+    },
+    {
+      "id": "go:87117",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-ii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MSQ",
+      "question": "<p>Context-free languages and regular languages are both closed under the operation (s) of :</p>",
+      "rawQuestionHtml": "<p>Context-free languages and regular languages are both closed under the operation (s) of :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Union</li>\n<li>Intersection</li>\n<li>Concatenation</li>\n<li>Complementation</li>\n</ol>",
+      "options": [
+        "Union",
+        "Intersection",
+        "Concatenation",
+        "Complementation"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Union",
+          "html": "Union"
+        },
+        {
+          "label": "B",
+          "text": "Intersection",
+          "html": "Intersection"
+        },
+        {
+          "label": "C",
+          "text": "Concatenation",
+          "html": "Concatenation"
+        },
+        {
+          "label": "D",
+          "text": "Complementation",
+          "html": "Complementation"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87117/gate-cse-1989-question-3-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87117/gate-cse-1989-question-3-ii"
+    },
+    {
+      "id": "go:87123",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-iii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MSQ",
+      "question": "<p>Which of the following problems are undecidable?</p>",
+      "rawQuestionHtml": "<p>Which of the following problems are undecidable?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Membership problem in context-free languages.</li>\n<li>Whether a given context-free language is regular.</li>\n<li>Whether a finite state automation halts on all inputs.</li>\n<li>Membership problem for type $0$ languages.</li>\n</ol>",
+      "options": [
+        "Membership problem in context-free languages.",
+        "Whether a given context-free language is regular.",
+        "Whether a finite state automation halts on all inputs.",
+        "Membership problem for type $0$ languages."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Membership problem in context-free languages.",
+          "html": "Membership problem in context-free languages."
+        },
+        {
+          "label": "B",
+          "text": "Whether a given context-free language is regular.",
+          "html": "Whether a given context-free language is regular."
+        },
+        {
+          "label": "C",
+          "text": "Whether a finite state automation halts on all inputs.",
+          "html": "Whether a finite state automation halts on all inputs."
+        },
+        {
+          "label": "D",
+          "text": "Membership problem for type $0$ languages.",
+          "html": "Membership problem for type $0$ languages."
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87123/gate-cse-1989-question-3-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87123/gate-cse-1989-question-3-iii"
+    },
+    {
+      "id": "go:87126",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-v",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MSQ",
+      "question": "<p>Which of the following well-formed formulas are equivalent?</p>",
+      "rawQuestionHtml": "<p>Which of the following well-formed formulas are equivalent?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P \\rightarrow Q$</li>\n<li>$\\neg Q \\rightarrow \\neg P$</li>\n<li>$\\neg P \\vee Q$</li>\n<li>$\\neg Q \\rightarrow P$</li>\n</ol>",
+      "options": [
+        "$P \\rightarrow Q$",
+        "$\\neg Q \\rightarrow \\neg P$",
+        "$\\neg P \\vee Q$",
+        "$\\neg Q \\rightarrow P$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P \\rightarrow Q$",
+          "html": "$P \\rightarrow Q$"
+        },
+        {
+          "label": "B",
+          "text": "$\\neg Q \\rightarrow \\neg P$",
+          "html": "$\\neg Q \\rightarrow \\neg P$"
+        },
+        {
+          "label": "C",
+          "text": "$\\neg P \\vee Q$",
+          "html": "$\\neg P \\vee Q$"
+        },
+        {
+          "label": "D",
+          "text": "$\\neg Q \\rightarrow P$",
+          "html": "$\\neg Q \\rightarrow P$"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87126/gate-cse-1989-question-3-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87126/gate-cse-1989-question-3-v"
+    },
+    {
+      "id": "go:87141",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-vii",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MSQ",
+      "question": "<p>Answer the following:</p><p>Which of the following statements are FALSE?</p>",
+      "rawQuestionHtml": "<p>Answer the following:</p><p>Which of the following statements are FALSE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>For poisson distribution, the mean is twice the variance.</p>\n</li>\n<li>\n<p>In queuing theory, if arrivals occur according to poisson distribution, then the inter-arrival time is exponentially distributed.</p>\n</li>\n<li>\n<p>The distribution of waiting time is independent of the service discipline used in selecting the waiting customers for service.</p>\n</li>\n<li>\n<p>If the time between successive arrivals is exponential, then the time between the occurences of every third arrival is also exponential.</p>\n</li>\n</ol>",
+      "options": [
+        "For poisson distribution, the mean is twice the variance.",
+        "In queuing theory, if arrivals occur according to poisson distribution, then the inter-arrival time is exponentially distributed.",
+        "The distribution of waiting time is independent of the service discipline used in selecting the waiting customers for service.",
+        "If the time between successive arrivals is exponential, then the time between the occurences of every third arrival is also exponential."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "For poisson distribution, the mean is twice the variance.",
+          "html": "<p>For poisson distribution, the mean is twice the variance.</p>"
+        },
+        {
+          "label": "B",
+          "text": "In queuing theory, if arrivals occur according to poisson distribution, then the inter-arrival time is exponentially distributed.",
+          "html": "<p>In queuing theory, if arrivals occur according to poisson distribution, then the inter-arrival time is exponentially distributed.</p>"
+        },
+        {
+          "label": "C",
+          "text": "The distribution of waiting time is independent of the service discipline used in selecting the waiting customers for service.",
+          "html": "<p>The distribution of waiting time is independent of the service discipline used in selecting the waiting customers for service.</p>"
+        },
+        {
+          "label": "D",
+          "text": "If the time between successive arrivals is exponential, then the time between the occurences of every third arrival is also exponential.",
+          "html": "<p>If the time between successive arrivals is exponential, then the time between the occurences of every third arrival is also exponential.</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87141/gate1989-3-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87141/gate1989-3-vii"
+    },
+    {
+      "id": "go:37264",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-viii",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MSQ",
+      "question": "<p>In which of the following case(s) is it possible to obtain different results for call-by-reference and call-by-name parameter passing?</p>",
+      "rawQuestionHtml": "<p>In which of the following case(s) is it possible to obtain different results for call-by-reference and call-by-name parameter passing?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Passing an expression as a parameter</li>\n<li>Passing an array as a parameter</li>\n<li>Passing a pointer as a parameter</li>\n<li>Passing as array element as a parameter</li>\n</ol>",
+      "options": [
+        "Passing an expression as a parameter",
+        "Passing an array as a parameter",
+        "Passing a pointer as a parameter",
+        "Passing as array element as a parameter"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Passing an expression as a parameter",
+          "html": "Passing an expression as a parameter"
+        },
+        {
+          "label": "B",
+          "text": "Passing an array as a parameter",
+          "html": "Passing an array as a parameter"
+        },
+        {
+          "label": "C",
+          "text": "Passing a pointer as a parameter",
+          "html": "Passing a pointer as a parameter"
+        },
+        {
+          "label": "D",
+          "text": "Passing as array element as a parameter",
+          "html": "Passing as array element as a parameter"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/37264/gate-cse-1989-question-3-viii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/37264/gate-cse-1989-question-3-viii"
+    },
+    {
+      "id": "go:87143",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 3-ixa",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MSQ",
+      "question": "<p>Which one of the following statements (s) is/are FALSE?</p>",
+      "rawQuestionHtml": "<p>Which one of the following statements (s) is/are FALSE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Overlaying is used to run a program, which is longer than the address space of the computer.</li>\n<li>Optimal binary search tree construction can be performed efficiently by using dynamic programming.</li>\n<li>Depth first search cannot be used to find connected components of a graph.</li>\n<li>Given the prefix and postfix walls over a binary tree, the binary tree can be uniquely constructed.</li>\n</ol>",
+      "options": [
+        "Overlaying is used to run a program, which is longer than the address space of the computer.",
+        "Optimal binary search tree construction can be performed efficiently by using dynamic programming.",
+        "Depth first search cannot be used to find connected components of a graph.",
+        "Given the prefix and postfix walls over a binary tree, the binary tree can be uniquely constructed."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Overlaying is used to run a program, which is longer than the address space of the computer.",
+          "html": "Overlaying is used to run a program, which is longer than the address space of the computer."
+        },
+        {
+          "label": "B",
+          "text": "Optimal binary search tree construction can be performed efficiently by using dynamic programming.",
+          "html": "Optimal binary search tree construction can be performed efficiently by using dynamic programming."
+        },
+        {
+          "label": "C",
+          "text": "Depth first search cannot be used to find connected components of a graph.",
+          "html": "Depth first search cannot be used to find connected components of a graph."
+        },
+        {
+          "label": "D",
+          "text": "Given the prefix and postfix walls over a binary tree, the binary tree can be uniquely constructed.",
+          "html": "Given the prefix and postfix walls over a binary tree, the binary tree can be uniquely constructed."
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/87143/gate-cse-1989-question-3-ixa",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/87143/gate-cse-1989-question-3-ixa"
+    },
+    {
+      "id": "go:93172",
+      "testId": "gate-1989-s0",
+      "year": 1989,
+      "set": 1,
+      "yearSetKey": "1989-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1989 | Question: 13a",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "A language uses an alphabet of six letters, $\\left\\{a, b, c, d, e, f\\right\\}$. The relative frequency of use of each letter of the alphabet in the language is as given below: $$\\begin{array}{c|c}\\hline \\text{LETTER} &amp; \\text{RELATIVE FREQUENCY OF USE}\\\\\\hline a &amp; 0.19  \\\\ b &amp; 0.05  \\\\ c &amp; 0.17  \\\\ d &amp; 0.08  \\\\ e &amp; 0.40 \\\\ f &amp; 0.11  \\\\\\hline \\end{array}$$Design a prefix binary code for the language which would minimize the average length of the encoded words of the language.",
+      "rawQuestionHtml": "A language uses an alphabet of six letters, $\\left\\{a, b, c, d, e, f\\right\\}$. The relative frequency of use of each letter of the alphabet in the language is as given below: $$\\begin{array}{c|c}\\hline \\text{LETTER} &amp; \\text{RELATIVE FREQUENCY OF USE}\\\\\\hline a &amp; 0.19  \\\\ b &amp; 0.05  \\\\ c &amp; 0.17  \\\\ d &amp; 0.08  \\\\ e &amp; 0.40 \\\\ f &amp; 0.11  \\\\\\hline \\end{array}$$Design a prefix binary code for the language which would minimize the average length of the encoded words of the language.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2.33"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/93172/gate-cse-1989-question-13a",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/93172/gate-cse-1989-question-13a"
+    }
+  ]
+}

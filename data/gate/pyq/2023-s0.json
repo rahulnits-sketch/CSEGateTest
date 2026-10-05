@@ -1,0 +1,3162 @@
+{
+  "id": "gate-2023-s0",
+  "yearSetKey": "2023-s0",
+  "year": 2023,
+  "set": 1,
+  "title": "GATE CSE 2023",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "gaQuestions": 10,
+  "csQuestions": 55,
+  "questions": [
+    {
+      "id": "go:399255",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 1,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 1",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>We reached the station late, and _______ missed the train.</p>",
+      "rawQuestionHtml": "<p>We reached the station late, and _______ missed the train.</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>near</li>\n<li>nearly</li>\n<li>utterly</li>\n<li>mostly</li>\n</ol>",
+      "options": [
+        "near",
+        "nearly",
+        "utterly",
+        "mostly"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "near",
+          "html": "near"
+        },
+        {
+          "label": "B",
+          "text": "nearly",
+          "html": "nearly"
+        },
+        {
+          "label": "C",
+          "text": "utterly",
+          "html": "utterly"
+        },
+        {
+          "label": "D",
+          "text": "mostly",
+          "html": "mostly"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399255/gate-cse-2023-ga-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399255/gate-cse-2023-ga-question-1"
+    },
+    {
+      "id": "go:399311",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 11",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>Consider the following statements regarding the front-end and back-end of a compiler.</p>\n<p><strong>S1: </strong>The front-end includes phases that are independent of the target hardware.<br/>\n<strong>S2: </strong>The back-end includes phases that are specific to the target hardware.<br/>\n<strong>S3: </strong>The back-end includes phases that are specific to the programming language used in the source code.</p>\n<p>Identify the CORRECT option.</p>",
+      "rawQuestionHtml": "<p>Consider the following statements regarding the front-end and back-end of a compiler.</p>\n<p><strong>S1: </strong>The front-end includes phases that are independent of the target hardware.<br/>\n<strong>S2: </strong>The back-end includes phases that are specific to the target hardware.<br/>\n<strong>S3: </strong>The back-end includes phases that are specific to the programming language used in the source code.</p>\n<p>Identify the CORRECT option.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only $\\mathbf{S 1}$ is TRUE.</li>\n<li>Only $\\mathbf{S 1}$ and $\\mathbf{S 2}$ are TRUE.</li>\n<li>$\\mathbf{S 1}, \\mathbf{S 2}$, and $\\mathbf{S 3}$ are all TRUE.</li>\n<li>Only $\\mathbf{S 1}$ and $\\mathbf{S 3}$ are TRUE.</li>\n</ol>",
+      "options": [
+        "Only $\\mathbf{S 1}$ is TRUE.",
+        "Only $\\mathbf{S 1}$ and $\\mathbf{S 2}$ are TRUE.",
+        "$\\mathbf{S 1}, \\mathbf{S 2}$, and $\\mathbf{S 3}$ are all TRUE.",
+        "Only $\\mathbf{S 1}$ and $\\mathbf{S 3}$ are TRUE."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only $\\mathbf{S 1}$ is TRUE.",
+          "html": "Only $\\mathbf{S 1}$ is TRUE."
+        },
+        {
+          "label": "B",
+          "text": "Only $\\mathbf{S 1}$ and $\\mathbf{S 2}$ are TRUE.",
+          "html": "Only $\\mathbf{S 1}$ and $\\mathbf{S 2}$ are TRUE."
+        },
+        {
+          "label": "C",
+          "text": "$\\mathbf{S 1}, \\mathbf{S 2}$, and $\\mathbf{S 3}$ are all TRUE.",
+          "html": "$\\mathbf{S 1}, \\mathbf{S 2}$, and $\\mathbf{S 3}$ are all TRUE."
+        },
+        {
+          "label": "D",
+          "text": "Only $\\mathbf{S 1}$ and $\\mathbf{S 3}$ are TRUE.",
+          "html": "Only $\\mathbf{S 1}$ and $\\mathbf{S 3}$ are TRUE."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399311/gate-cse-2023-question-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399311/gate-cse-2023-question-1"
+    },
+    {
+      "id": "go:399254",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 2,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 2",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MTA",
+      "question": "<p>Kind : _______ : : Often : Frequently (By word meaning)</p>",
+      "rawQuestionHtml": "<p>Kind : _______ : : Often : Frequently (By word meaning)</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>Mean</li>\n<li>Type</li>\n<li>Cruel</li>\n<li>Kindly</li>\n</ol>",
+      "options": [
+        "Mean",
+        "Type",
+        "Cruel",
+        "Kindly"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "html": "Mean"
+        },
+        {
+          "label": "B",
+          "text": "Type",
+          "html": "Type"
+        },
+        {
+          "label": "C",
+          "text": "Cruel",
+          "html": "Cruel"
+        },
+        {
+          "label": "D",
+          "text": "Kindly",
+          "html": "Kindly"
+        }
+      ],
+      "answer": [
+        "MTA"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399254/gate-cse-2023-ga-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399254/gate-cse-2023-ga-question-2"
+    },
+    {
+      "id": "go:399310",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 12",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Which one of the following sequences when stored in an array at locations $A[1], \\ldots, A[10]$ forms a max-heap?</p>",
+      "rawQuestionHtml": "<p>Which one of the following sequences when stored in an array at locations $A[1], \\ldots, A[10]$ forms a max-heap?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$23,17,10,6,13,14,1,5,7,12$</li>\n<li>$23,17,14,7,13,10,1,5,6,12$</li>\n<li>$23,17,14,6,13,10,1,5,7,15$</li>\n<li>$23,14,17,1,10,13,16,12,7,5$</li>\n</ol>",
+      "options": [
+        "$23,17,10,6,13,14,1,5,7,12$",
+        "$23,17,14,7,13,10,1,5,6,12$",
+        "$23,17,14,6,13,10,1,5,7,15$",
+        "$23,14,17,1,10,13,16,12,7,5$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$23,17,10,6,13,14,1,5,7,12$",
+          "html": "$23,17,10,6,13,14,1,5,7,12$"
+        },
+        {
+          "label": "B",
+          "text": "$23,17,14,7,13,10,1,5,6,12$",
+          "html": "$23,17,14,7,13,10,1,5,6,12$"
+        },
+        {
+          "label": "C",
+          "text": "$23,17,14,6,13,10,1,5,7,15$",
+          "html": "$23,17,14,6,13,10,1,5,7,15$"
+        },
+        {
+          "label": "D",
+          "text": "$23,14,17,1,10,13,16,12,7,5$",
+          "html": "$23,14,17,1,10,13,16,12,7,5$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399310/gate-cse-2023-question-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399310/gate-cse-2023-question-2"
+    },
+    {
+      "id": "go:399253",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 3,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 3",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>A series of natural numbers $F_1, F_2, F_3, F_4, F_5, F_6, F_7, \\ldots$ obeys $F_{n+1}=F_n+F_{n-1}$ for all integers $n \\geq 2$.</p>\n<p>If $F_6=37,$ and $F_7=60,$ then what is $F_1 ?$</p>",
+      "rawQuestionHtml": "<p>A series of natural numbers $F_1, F_2, F_3, F_4, F_5, F_6, F_7, \\ldots$ obeys $F_{n+1}=F_n+F_{n-1}$ for all integers $n \\geq 2$.</p>\n<p>If $F_6=37,$ and $F_7=60,$ then what is $F_1 ?$</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$8$</li>\n<li>$9$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$5$",
+        "$8$",
+        "$9$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$5$",
+          "html": "$5$"
+        },
+        {
+          "label": "C",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "D",
+          "text": "$9$",
+          "html": "$9$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399253/gate-cse-2023-ga-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399253/gate-cse-2023-ga-question-3"
+    },
+    {
+      "id": "go:399309",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 13",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>Let $\\textsf{SLLdel}$ be a function that deletes a node in a singly-linked list given a pointer to the node and a pointer to the head of the list. Similarly, let $\\textsf{DLLdel}$ be another function that deletes a node in a doubly-linked list given a pointer to the node and a pointer to the head of the list.<br/>\nLet $n$ denote the number of nodes in each of the linked lists. Which one of the following choices is $\\text{TRUE}$ about the worst-case time complexity of $\\textsf{SLLdel}$ and $\\textsf{DLLdel}?$</p>",
+      "rawQuestionHtml": "<p>Let $\\textsf{SLLdel}$ be a function that deletes a node in a singly-linked list given a pointer to the node and a pointer to the head of the list. Similarly, let $\\textsf{DLLdel}$ be another function that deletes a node in a doubly-linked list given a pointer to the node and a pointer to the head of the list.<br/>\nLet $n$ denote the number of nodes in each of the linked lists. Which one of the following choices is $\\text{TRUE}$ about the worst-case time complexity of $\\textsf{SLLdel}$ and $\\textsf{DLLdel}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\textsf{SLLdel}$ is $O(1)$ and $\\textsf{DLLdel}$ is $O(n)$</li>\n<li>Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(\\log (n))$</li>\n<li>Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(1)$</li>\n<li>$\\textsf{SLLdel}$ is $O(n)$ and $\\textsf{DLLdel}$ is $O(1)$</li>\n</ol>",
+      "options": [
+        "$\\textsf{SLLdel}$ is $O(1)$ and $\\textsf{DLLdel}$ is $O(n)$",
+        "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(\\log (n))$",
+        "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(1)$",
+        "$\\textsf{SLLdel}$ is $O(n)$ and $\\textsf{DLLdel}$ is $O(1)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\textsf{SLLdel}$ is $O(1)$ and $\\textsf{DLLdel}$ is $O(n)$",
+          "html": "$\\textsf{SLLdel}$ is $O(1)$ and $\\textsf{DLLdel}$ is $O(n)$"
+        },
+        {
+          "label": "B",
+          "text": "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(\\log (n))$",
+          "html": "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(\\log (n))$"
+        },
+        {
+          "label": "C",
+          "text": "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(1)$",
+          "html": "Both $\\textsf{SLLdel}$ and $\\textsf{DLLdel}$ are $O(1)$"
+        },
+        {
+          "label": "D",
+          "text": "$\\textsf{SLLdel}$ is $O(n)$ and $\\textsf{DLLdel}$ is $O(1)$",
+          "html": "$\\textsf{SLLdel}$ is $O(n)$ and $\\textsf{DLLdel}$ is $O(1)$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399309/gate-cse-2023-question-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399309/gate-cse-2023-question-3"
+    },
+    {
+      "id": "go:399252",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 4,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 4",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Analytical & Logical Reasoning",
+      "type": "MCQ",
+      "question": "<p>A survey for a certain year found that $90\\%$ of pregnant women received medical care at least once before giving birth. Of these women, $60\\%$ received medical care from doctors, while $40\\%$ received medical care from other healthcare providers.</p>\n<p>Given this information, which one of the following statements can be inferred with<em> certainty</em>?</p>",
+      "rawQuestionHtml": "<p>A survey for a certain year found that $90\\%$ of pregnant women received medical care at least once before giving birth. Of these women, $60\\%$ received medical care from doctors, while $40\\%$ received medical care from other healthcare providers.</p>\n<p>Given this information, which one of the following statements can be inferred with<em> certainty</em>?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>More than half of the pregnant women received medical care at least once from a doctor.</li>\n<li>Less than half of the pregnant women received medical care at least once from a doctor.</li>\n<li>More than half of the pregnant women received medical care at most once from a doctor.</li>\n<li>Less than half of the pregnant women received medical care at most once from a doctor.</li>\n</ol>",
+      "options": [
+        "More than half of the pregnant women received medical care at least once from a doctor.",
+        "Less than half of the pregnant women received medical care at least once from a doctor.",
+        "More than half of the pregnant women received medical care at most once from a doctor.",
+        "Less than half of the pregnant women received medical care at most once from a doctor."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "More than half of the pregnant women received medical care at least once from a doctor.",
+          "html": "More than half of the pregnant women received medical care at least once from a doctor."
+        },
+        {
+          "label": "B",
+          "text": "Less than half of the pregnant women received medical care at least once from a doctor.",
+          "html": "Less than half of the pregnant women received medical care at least once from a doctor."
+        },
+        {
+          "label": "C",
+          "text": "More than half of the pregnant women received medical care at most once from a doctor.",
+          "html": "More than half of the pregnant women received medical care at most once from a doctor."
+        },
+        {
+          "label": "D",
+          "text": "Less than half of the pregnant women received medical care at most once from a doctor.",
+          "html": "Less than half of the pregnant women received medical care at most once from a doctor."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399252/gate-cse-2023-ga-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399252/gate-cse-2023-ga-question-4"
+    },
+    {
+      "id": "go:399308",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 14",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>",
+      "rawQuestionHtml": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1\\left(0^{*} 11\\right)^{*}$</li>\n<li>$0(0+1)^{*}$</li>\n<li>$1(0+11)^{*}$</li>\n<li>$1\\left(110^{*}\\right)^{*}$</li>\n</ol>",
+      "options": [
+        "$1\\left(0^{*} 11\\right)^{*}$",
+        "$0(0+1)^{*}$",
+        "$1(0+11)^{*}$",
+        "$1\\left(110^{*}\\right)^{*}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1\\left(0^{*} 11\\right)^{*}$",
+          "html": "$1\\left(0^{*} 11\\right)^{*}$"
+        },
+        {
+          "label": "B",
+          "text": "$0(0+1)^{*}$",
+          "html": "$0(0+1)^{*}$"
+        },
+        {
+          "label": "C",
+          "text": "$1(0+11)^{*}$",
+          "html": "$1(0+11)^{*}$"
+        },
+        {
+          "label": "D",
+          "text": "$1\\left(110^{*}\\right)^{*}$",
+          "html": "$1\\left(110^{*}\\right)^{*}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399308/gate-cse-2023-question-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399308/gate-cse-2023-question-4"
+    },
+    {
+      "id": "go:399251",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 5,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 5",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p> Looking at the surface of a smooth $3$-dimensional object from the outside, which one of the following options is $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p> Looking at the surface of a smooth $3$-dimensional object from the outside, which one of the following options is $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The surface of the object must be concave everywhere.</li>\n<li>The surface of the object must be convex everywhere.</li>\n<li>The surface of the object may be concave in some places and convex in other places.</li>\n<li>The object can have edges, but no corners.</li>\n</ol>",
+      "options": [
+        "The surface of the object must be concave everywhere.",
+        "The surface of the object must be convex everywhere.",
+        "The surface of the object may be concave in some places and convex in other places.",
+        "The object can have edges, but no corners."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The surface of the object must be concave everywhere.",
+          "html": "The surface of the object must be concave everywhere."
+        },
+        {
+          "label": "B",
+          "text": "The surface of the object must be convex everywhere.",
+          "html": "The surface of the object must be convex everywhere."
+        },
+        {
+          "label": "C",
+          "text": "The surface of the object may be concave in some places and convex in other places.",
+          "html": "The surface of the object may be concave in some places and convex in other places."
+        },
+        {
+          "label": "D",
+          "text": "The object can have edges, but no corners.",
+          "html": "The object can have edges, but no corners."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399251/gate-cse-2023-ga-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399251/gate-cse-2023-ga-question-5"
+    },
+    {
+      "id": "go:399307",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>The Lucas sequence $L_{n}$ is defined by the recurrence relation:<br/>\n\\[<br/>\nL_{n}=L_{n-1}+L_{n-2}, \\quad \\text { for } \\quad n \\geq 3,<br/>\n\\]<br/>\nwith $L_{1}=1$ and $L_{2}=3$.</p>\n<p>Which one of the options given is TRUE?</p>",
+      "rawQuestionHtml": "<p>The Lucas sequence $L_{n}$ is defined by the recurrence relation:<br/>\n\\[<br/>\nL_{n}=L_{n-1}+L_{n-2}, \\quad \\text { for } \\quad n \\geq 3,<br/>\n\\]<br/>\nwith $L_{1}=1$ and $L_{2}=3$.</p>\n<p>Which one of the options given is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$</li>\n<li>$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$</li>\n<li>$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$</li>\n<li>$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$</li>\n</ol>",
+      "options": [
+        "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$",
+        "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$",
+        "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$",
+        "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$",
+          "html": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$"
+        },
+        {
+          "label": "B",
+          "text": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$",
+          "html": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$"
+        },
+        {
+          "label": "C",
+          "text": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$",
+          "html": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}+\\left(\\frac{1-\\sqrt{5}}{3}\\right)^{n}$"
+        },
+        {
+          "label": "D",
+          "text": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$",
+          "html": "$L_{n}=\\left(\\frac{1+\\sqrt{5}}{2}\\right)^{n}-\\left(\\frac{1-\\sqrt{5}}{2}\\right)^{n}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399307/gate-cse-2023-question-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399307/gate-cse-2023-question-5"
+    },
+    {
+      "id": "go:399250",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 6,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 6",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>The country of Zombieland is in distress since more than $75 \\%$ of its working population is suffering from serious health issues. Studies conducted by competent health experts concluded that a complete lack of physical exercise among its working population was one of the leading causes of their health issues. As one of the measures to address the problem, the Government of Zombieland has decided to provide monetary incentives to those who ride bicycles to work.<br/>\n<br/>\nBased only on the information provided above, which one of the following statements can be logically inferred with <em>certainty</em>?</p>",
+      "rawQuestionHtml": "<p>The country of Zombieland is in distress since more than $75 \\%$ of its working population is suffering from serious health issues. Studies conducted by competent health experts concluded that a complete lack of physical exercise among its working population was one of the leading causes of their health issues. As one of the measures to address the problem, the Government of Zombieland has decided to provide monetary incentives to those who ride bicycles to work.<br/>\n<br/>\nBased only on the information provided above, which one of the following statements can be logically inferred with <em>certainty</em>?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>All the working population of Zombieland will henceforth ride bicycles to work.</li>\n<li>Riding bicycles will ensure that all of the working population of Zombieland is free of health issues.</li>\n<li>The health experts suggested to the Government of Zombieland to declare riding bicycles as mandatory.</li>\n<li>The Government of Zombieland believes that riding bicycles is a form of physical exercise.</li>\n</ol>",
+      "options": [
+        "All the working population of Zombieland will henceforth ride bicycles to work.",
+        "Riding bicycles will ensure that all of the working population of Zombieland is free of health issues.",
+        "The health experts suggested to the Government of Zombieland to declare riding bicycles as mandatory.",
+        "The Government of Zombieland believes that riding bicycles is a form of physical exercise."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "All the working population of Zombieland will henceforth ride bicycles to work.",
+          "html": "All the working population of Zombieland will henceforth ride bicycles to work."
+        },
+        {
+          "label": "B",
+          "text": "Riding bicycles will ensure that all of the working population of Zombieland is free of health issues.",
+          "html": "Riding bicycles will ensure that all of the working population of Zombieland is free of health issues."
+        },
+        {
+          "label": "C",
+          "text": "The health experts suggested to the Government of Zombieland to declare riding bicycles as mandatory.",
+          "html": "The health experts suggested to the Government of Zombieland to declare riding bicycles as mandatory."
+        },
+        {
+          "label": "D",
+          "text": "The Government of Zombieland believes that riding bicycles is a form of physical exercise.",
+          "html": "The Government of Zombieland believes that riding bicycles is a form of physical exercise."
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399250/gate-cse-2023-ga-question-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399250/gate-cse-2023-ga-question-6"
+    },
+    {
+      "id": "go:399306",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 16",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Which one of the options given below refers to the degree (or arity) of a relation in relational database systems?</p>",
+      "rawQuestionHtml": "<p>Which one of the options given below refers to the degree (or arity) of a relation in relational database systems?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Number of attributes of its relation schema.</li>\n<li>Number of tuples stored in the relation.</li>\n<li>Number of entries in the relation.</li>\n<li>Number of distinct domains of its relation schema.</li>\n</ol>",
+      "options": [
+        "Number of attributes of its relation schema.",
+        "Number of tuples stored in the relation.",
+        "Number of entries in the relation.",
+        "Number of distinct domains of its relation schema."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Number of attributes of its relation schema.",
+          "html": "Number of attributes of its relation schema."
+        },
+        {
+          "label": "B",
+          "text": "Number of tuples stored in the relation.",
+          "html": "Number of tuples stored in the relation."
+        },
+        {
+          "label": "C",
+          "text": "Number of entries in the relation.",
+          "html": "Number of entries in the relation."
+        },
+        {
+          "label": "D",
+          "text": "Number of distinct domains of its relation schema.",
+          "html": "Number of distinct domains of its relation schema."
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399306/gate-cse-2023-question-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399306/gate-cse-2023-question-6"
+    },
+    {
+      "id": "go:399249",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 7,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 7",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>Consider two functions of time $(t),$<br/>\n$$<br/>\n\\begin{gathered}<br/>\nf(t)=0.01 t^2 \\\\<br/>\ng(t)=4 t<br/>\n\\end{gathered}<br/>\n$$<br/>\nwhere $0&lt;t&lt;\\infty.$</p>\n<p>Now consider the following two statements:</p>\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n<li>For some $t&gt;0, g(t)&gt;f(t)$.</li>\n<li>There exists a $T,$ such that $f(t)&gt;g(t)$ for all $t&gt;T$.</li>\n</ol>\n<p>Which one of the following options is $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Consider two functions of time $(t),$<br/>\n$$<br/>\n\\begin{gathered}<br/>\nf(t)=0.01 t^2 \\\\<br/>\ng(t)=4 t<br/>\n\\end{gathered}<br/>\n$$<br/>\nwhere $0&lt;t&lt;\\infty.$</p>\n<p>Now consider the following two statements:</p>\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n<li>For some $t&gt;0, g(t)&gt;f(t)$.</li>\n<li>There exists a $T,$ such that $f(t)&gt;g(t)$ for all $t&gt;T$.</li>\n</ol>\n<p>Which one of the following options is $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>only (i) is correct</li>\n<li>only (ii) is correct</li>\n<li>both (i) and (ii) are correct</li>\n<li>neither (i) nor (ii) is correct</li>\n</ol>",
+      "options": [
+        "only (i) is correct",
+        "only (ii) is correct",
+        "both (i) and (ii) are correct",
+        "neither (i) nor (ii) is correct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "only (i) is correct",
+          "html": "only (i) is correct"
+        },
+        {
+          "label": "B",
+          "text": "only (ii) is correct",
+          "html": "only (ii) is correct"
+        },
+        {
+          "label": "C",
+          "text": "both (i) and (ii) are correct",
+          "html": "both (i) and (ii) are correct"
+        },
+        {
+          "label": "D",
+          "text": "neither (i) nor (ii) is correct",
+          "html": "neither (i) nor (ii) is correct"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399249/gate-cse-2023-ga-question-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399249/gate-cse-2023-ga-question-7"
+    },
+    {
+      "id": "go:399305",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 17",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Data Link Layer & Flow Control",
+      "type": "MCQ",
+      "question": "<p>Suppose two hosts are connected by a point-to-point link and they are configured to use $\\textsf{Stop-and-Wait}$ protocol for reliable data transfer. Identify in which one of the following scenarios, the utilization of the link is the lowest.</p>",
+      "rawQuestionHtml": "<p>Suppose two hosts are connected by a point-to-point link and they are configured to use $\\textsf{Stop-and-Wait}$ protocol for reliable data transfer. Identify in which one of the following scenarios, the utilization of the link is the lowest.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Longer link length and lower transmission rate</li>\n<li>Longer link length and higher transmission rate</li>\n<li>Shorter link length and lower transmission rate</li>\n<li>Shorter link length and higher transmission rate</li>\n</ol>",
+      "options": [
+        "Longer link length and lower transmission rate",
+        "Longer link length and higher transmission rate",
+        "Shorter link length and lower transmission rate",
+        "Shorter link length and higher transmission rate"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Longer link length and lower transmission rate",
+          "html": "Longer link length and lower transmission rate"
+        },
+        {
+          "label": "B",
+          "text": "Longer link length and higher transmission rate",
+          "html": "Longer link length and higher transmission rate"
+        },
+        {
+          "label": "C",
+          "text": "Shorter link length and lower transmission rate",
+          "html": "Shorter link length and lower transmission rate"
+        },
+        {
+          "label": "D",
+          "text": "Shorter link length and higher transmission rate",
+          "html": "Shorter link length and higher transmission rate"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399305/gate-cse-2023-question-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399305/gate-cse-2023-question-7"
+    },
+    {
+      "id": "go:399248",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 8,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 8",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Verbal Aptitude & Grammar",
+      "type": "MCQ",
+      "question": "<p>Which one of the following sentence sequences creates a coherent narrative?</p>\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n<li>Once on the terrace, on her way to her small room in the corner, she notices the man right away.</li>\n<li>She begins to pant by the time she has climbed all the stairs.</li>\n<li>Mina has bought vegetables and rice at the market, so her bags are heavy.</li>\n<li>He was leaning against the parapet, watching the traffic below.</li>\n</ol>\n<p> </p>",
+      "rawQuestionHtml": "<p>Which one of the following sentence sequences creates a coherent narrative?</p>\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n<li>Once on the terrace, on her way to her small room in the corner, she notices the man right away.</li>\n<li>She begins to pant by the time she has climbed all the stairs.</li>\n<li>Mina has bought vegetables and rice at the market, so her bags are heavy.</li>\n<li>He was leaning against the parapet, watching the traffic below.</li>\n</ol>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(i), (ii), (iv), (iii)</li>\n<li>(ii), (iii), (i), (iv)</li>\n<li>(iv), (ii), (i), (iii)</li>\n<li>(iii), (ii), (i), (iv)</li>\n</ol>",
+      "options": [
+        "(i), (ii), (iv), (iii)",
+        "(ii), (iii), (i), (iv)",
+        "(iv), (ii), (i), (iii)",
+        "(iii), (ii), (i), (iv)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "(i), (ii), (iv), (iii)",
+          "html": "(i), (ii), (iv), (iii)"
+        },
+        {
+          "label": "B",
+          "text": "(ii), (iii), (i), (iv)",
+          "html": "(ii), (iii), (i), (iv)"
+        },
+        {
+          "label": "C",
+          "text": "(iv), (ii), (i), (iii)",
+          "html": "(iv), (ii), (i), (iii)"
+        },
+        {
+          "label": "D",
+          "text": "(iii), (ii), (i), (iv)",
+          "html": "(iii), (ii), (i), (iv)"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399248/gate-cse-2023-ga-question-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399248/gate-cse-2023-ga-question-8"
+    },
+    {
+      "id": "go:399304",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 18",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Let<br/>\n\\[<br/>\nA=\\left[\\begin{array}{llll}<br/>\n1 &amp; 2 &amp; 3 &amp; 4 \\\\<br/>\n4 &amp; 1 &amp; 2 &amp; 3 \\\\<br/>\n3 &amp; 4 &amp; 1 &amp; 2 \\\\<br/>\n2 &amp; 3 &amp; 4 &amp; 1<br/>\n\\end{array}\\right]<br/>\n\\]<br/>\nand<br/>\n\\[<br/>\nB=\\left[\\begin{array}{llll}<br/>\n3 &amp; 4 &amp; 1 &amp; 2 \\\\<br/>\n4 &amp; 1 &amp; 2 &amp; 3 \\\\<br/>\n1 &amp; 2 &amp; 3 &amp; 4 \\\\<br/>\n2 &amp; 3 &amp; 4 &amp; 1<br/>\n\\end{array}\\right]<br/>\n\\]<br/>\nLet $\\operatorname{det}(A)$ and $\\operatorname{det}(B)$ denote the determinants of the matrices $A$ and $B,$ respectively.</p>\n<p>Which one of the options given below is $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Let<br/>\n\\[<br/>\nA=\\left[\\begin{array}{llll}<br/>\n1 &amp; 2 &amp; 3 &amp; 4 \\\\<br/>\n4 &amp; 1 &amp; 2 &amp; 3 \\\\<br/>\n3 &amp; 4 &amp; 1 &amp; 2 \\\\<br/>\n2 &amp; 3 &amp; 4 &amp; 1<br/>\n\\end{array}\\right]<br/>\n\\]<br/>\nand<br/>\n\\[<br/>\nB=\\left[\\begin{array}{llll}<br/>\n3 &amp; 4 &amp; 1 &amp; 2 \\\\<br/>\n4 &amp; 1 &amp; 2 &amp; 3 \\\\<br/>\n1 &amp; 2 &amp; 3 &amp; 4 \\\\<br/>\n2 &amp; 3 &amp; 4 &amp; 1<br/>\n\\end{array}\\right]<br/>\n\\]<br/>\nLet $\\operatorname{det}(A)$ and $\\operatorname{det}(B)$ denote the determinants of the matrices $A$ and $B,$ respectively.</p>\n<p>Which one of the options given below is $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\operatorname{det}(A)=\\operatorname{det}(B)$</li>\n<li>$\\operatorname{det}(B)=-\\operatorname{det}(A)$</li>\n<li>$\\operatorname{det}(A)=0$</li>\n<li>$\\operatorname{det}(A B)=\\operatorname{det}(A)+\\operatorname{det}(B)$</li>\n</ol>",
+      "options": [
+        "$\\operatorname{det}(A)=\\operatorname{det}(B)$",
+        "$\\operatorname{det}(B)=-\\operatorname{det}(A)$",
+        "$\\operatorname{det}(A)=0$",
+        "$\\operatorname{det}(A B)=\\operatorname{det}(A)+\\operatorname{det}(B)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\operatorname{det}(A)=\\operatorname{det}(B)$",
+          "html": "$\\operatorname{det}(A)=\\operatorname{det}(B)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\operatorname{det}(B)=-\\operatorname{det}(A)$",
+          "html": "$\\operatorname{det}(B)=-\\operatorname{det}(A)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\operatorname{det}(A)=0$",
+          "html": "$\\operatorname{det}(A)=0$"
+        },
+        {
+          "label": "D",
+          "text": "$\\operatorname{det}(A B)=\\operatorname{det}(A)+\\operatorname{det}(B)$",
+          "html": "$\\operatorname{det}(A B)=\\operatorname{det}(A)+\\operatorname{det}(B)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399304/gate-cse-2023-question-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399304/gate-cse-2023-question-8"
+    },
+    {
+      "id": "go:399247",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 9,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 9",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Quantitative Aptitude",
+      "type": "MCQ",
+      "question": "<p>$f(x)$ and $g(y)$ are functions of $x$ and $y$, respectively, and $f(x)=g(y)$ for all re \\end{tabular} values of $x$ and $y$. Which one of the following options is necessarily $\\text{TRUE}$ for a $x$ and $y?$ </p>",
+      "rawQuestionHtml": "<p>$f(x)$ and $g(y)$ are functions of $x$ and $y$, respectively, and $f(x)=g(y)$ for all re \\end{tabular} values of $x$ and $y$. Which one of the following options is necessarily $\\text{TRUE}$ for a $x$ and $y?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$ f(x)=0$ and $g(y)=0$</li>\n<li>$ f(x)=g(y)=$ constant</li>\n<li>$ f(x) \\neq$ constant and $g(y) \\neq$ constant</li>\n<li>$ f(x)+g(y)=f(x)-g(y)$</li>\n</ol>",
+      "options": [
+        "$ f(x)=0$ and $g(y)=0$",
+        "$ f(x)=g(y)=$ constant",
+        "$ f(x) \\neq$ constant and $g(y) \\neq$ constant",
+        "$ f(x)+g(y)=f(x)-g(y)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$ f(x)=0$ and $g(y)=0$",
+          "html": "$ f(x)=0$ and $g(y)=0$"
+        },
+        {
+          "label": "B",
+          "text": "$ f(x)=g(y)=$ constant",
+          "html": "$ f(x)=g(y)=$ constant"
+        },
+        {
+          "label": "C",
+          "text": "$ f(x) \\neq$ constant and $g(y) \\neq$ constant",
+          "html": "$ f(x) \\neq$ constant and $g(y) \\neq$ constant"
+        },
+        {
+          "label": "D",
+          "text": "$ f(x)+g(y)=f(x)-g(y)$",
+          "html": "$ f(x)+g(y)=f(x)-g(y)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399247/gate-cse-2023-ga-question-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399247/gate-cse-2023-ga-question-9"
+    },
+    {
+      "id": "go:399303",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 19",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Consider the following definition of a lexical token $\\textbf{id}$ for an identifier in a programming language, using extended regular expressions:<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\n\\textbf{ letter } &amp; \\rightarrow[\\mathrm{A}-\\mathrm{Za}-\\mathrm{z}] \\\\<br/>\n\\textbf{ digit } &amp; \\rightarrow[0-9] \\\\<br/>\n\\textbf{ id } &amp; \\rightarrow \\textbf{ letter }(\\textbf{ letter } \\mid \\textbf{ digit })^{*}<br/>\n\\end{array}<br/>\n\\]<br/>\nWhich one of the following Non-deterministic Finite-state Automata with $\\epsilon$-transitions accepts the set of valid identifiers? (A double-circle denotes a final state)</p>",
+      "rawQuestionHtml": "<p>Consider the following definition of a lexical token $\\textbf{id}$ for an identifier in a programming language, using extended regular expressions:<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\n\\textbf{ letter } &amp; \\rightarrow[\\mathrm{A}-\\mathrm{Za}-\\mathrm{z}] \\\\<br/>\n\\textbf{ digit } &amp; \\rightarrow[0-9] \\\\<br/>\n\\textbf{ id } &amp; \\rightarrow \\textbf{ letter }(\\textbf{ letter } \\mid \\textbf{ digit })^{*}<br/>\n\\end{array}<br/>\n\\]<br/>\nWhich one of the following Non-deterministic Finite-state Automata with $\\epsilon$-transitions accepts the set of valid identifiers? (A double-circle denotes a final state)</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/></li>\n<li>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>\n</li>\n</ol>",
+      "options": [
+        "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>",
+        "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>",
+          "html": "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399303/gate-cse-2023-question-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399303/gate-cse-2023-question-9"
+    },
+    {
+      "id": "go:399246",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 10,
+      "section": "GA",
+      "title": "GATE CSE 2023 | GA Question: 10",
+      "subject": "General Aptitude",
+      "subjectSlug": "aptitude",
+      "topic": "Spatial Aptitude & Data Interpretation",
+      "type": "MCQ",
+      "question": "<p>Which one of the options best describes the transformation of the $2$-dimensional figure $\\mathbf{P}$ to $\\mathbf{Q}$, and then to $\\mathbf{R}$, as shown?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"156\" src=\"/Gate_QA/question-images/17272327444920186146.webp\" width=\"526\"/></p>",
+      "rawQuestionHtml": "<p>Which one of the options best describes the transformation of the $2$-dimensional figure $\\mathbf{P}$ to $\\mathbf{Q}$, and then to $\\mathbf{R}$, as shown?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"156\" src=\"/Gate_QA/question-images/17272327444920186146.webp\" width=\"526\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a horizontal line</li>\n<li>$\\text{Operation 1:}$ A counter clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a horizontal line</li>\n<li>$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a vertical line</li>\n<li>$\\text{Operation 1:}$ A counter clockwise rotation by $180^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a vertical line</li>\n</ol>",
+      "options": [
+        "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a horizontal line",
+        "$\\text{Operation 1:}$ A counter clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a horizontal line",
+        "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a vertical line",
+        "$\\text{Operation 1:}$ A counter clockwise rotation by $180^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a vertical line"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a horizontal line",
+          "html": "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a horizontal line"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{Operation 1:}$ A counter clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a horizontal line",
+          "html": "$\\text{Operation 1:}$ A counter clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a horizontal line"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a vertical line",
+          "html": "$\\text{Operation 1:}$ A clockwise rotation by $90^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a vertical line"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{Operation 1:}$ A counter clockwise rotation by $180^{\\circ}$ about an axis perpendicular to the plane of the figure $\\text{Operation 2:}$ A reflection along a vertical line",
+          "html": "$\\text{Operation 1:}$ A counter clockwise rotation by $180^{\\circ}$ about an axis perpendicular to the plane of the figure<br/>\n$\\text{Operation 2:}$ A reflection along a vertical line"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399246/gate-cse-2023-ga-question-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399246/gate-cse-2023-ga-question-10"
+    },
+    {
+      "id": "go:399302",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 20",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>An algorithm has to store several keys generated by an adversary in a hash table. The adversary is malicious who tries to maximize the number of collisions. Let $k$ be the number of keys, $m$ be the number of slots in the hash table, and $k&gt;m$.</p>\n<p>Which one of the following is the best hashing strategy to counteract the adversary?</p>",
+      "rawQuestionHtml": "<p>An algorithm has to store several keys generated by an adversary in a hash table. The adversary is malicious who tries to maximize the number of collisions. Let $k$ be the number of keys, $m$ be the number of slots in the hash table, and $k&gt;m$.</p>\n<p>Which one of the following is the best hashing strategy to counteract the adversary?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Division method, i.e., use the hash function $h(k)=k \\bmod m$.</li>\n<li>Multiplication method, i.e., use the hash function $h(k)=\\lfloor m(k A-\\lfloor k A\\rfloor)\\rfloor$, where $A$ is a carefully chosen constant.</li>\n<li>Universal hashing method.</li>\n<li>If $k$ is a prime number, use Division method. Otherwise, use Multiplication method.</li>\n</ol>",
+      "options": [
+        "Division method, i.e., use the hash function $h(k)=k \\bmod m$.",
+        "Multiplication method, i.e., use the hash function $h(k)=\\lfloor m(k A-\\lfloor k A\\rfloor)\\rfloor$, where $A$ is a carefully chosen constant.",
+        "Universal hashing method.",
+        "If $k$ is a prime number, use Division method. Otherwise, use Multiplication method."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Division method, i.e., use the hash function $h(k)=k \\bmod m$.",
+          "html": "Division method, i.e., use the hash function $h(k)=k \\bmod m$."
+        },
+        {
+          "label": "B",
+          "text": "Multiplication method, i.e., use the hash function $h(k)=\\lfloor m(k A-\\lfloor k A\\rfloor)\\rfloor$, where $A$ is a carefully chosen constant.",
+          "html": "Multiplication method, i.e., use the hash function $h(k)=\\lfloor m(k A-\\lfloor k A\\rfloor)\\rfloor$, where $A$ is a carefully chosen constant."
+        },
+        {
+          "label": "C",
+          "text": "Universal hashing method.",
+          "html": "Universal hashing method."
+        },
+        {
+          "label": "D",
+          "text": "If $k$ is a prime number, use Division method. Otherwise, use Multiplication method.",
+          "html": "If $k$ is a prime number, use Division method. Otherwise, use Multiplication method."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399302/gate-cse-2023-question-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399302/gate-cse-2023-question-10"
+    },
+    {
+      "id": "go:399301",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 21",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MCQ",
+      "question": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>",
+      "rawQuestionHtml": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{D}$ Flip-flop</li>\n<li>$\\text{D}$ Latch</li>\n<li>Half-adder</li>\n<li>Demultiplexer</li>\n</ol>",
+      "options": [
+        "$\\text{D}$ Flip-flop",
+        "$\\text{D}$ Latch",
+        "Half-adder",
+        "Demultiplexer"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{D}$ Flip-flop",
+          "html": "$\\text{D}$ Flip-flop"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{D}$ Latch",
+          "html": "$\\text{D}$ Latch"
+        },
+        {
+          "label": "C",
+          "text": "Half-adder",
+          "html": "Half-adder"
+        },
+        {
+          "label": "D",
+          "text": "Demultiplexer",
+          "html": "Demultiplexer"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399301/gate-cse-2023-question-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399301/gate-cse-2023-question-11"
+    },
+    {
+      "id": "go:399300",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MSQ",
+      "question": "<p>Which one or more of the following need to be saved on a context switch from one thread $\\text{(T1)}$ of a process to another thread $\\text{(T2)}$ of the same process?</p>",
+      "rawQuestionHtml": "<p>Which one or more of the following need to be saved on a context switch from one thread $\\text{(T1)}$ of a process to another thread $\\text{(T2)}$ of the same process?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Page table base register</li>\n<li>Stack pointer</li>\n<li>Program counter</li>\n<li>General purpose registers</li>\n</ol>",
+      "options": [
+        "Page table base register",
+        "Stack pointer",
+        "Program counter",
+        "General purpose registers"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Page table base register",
+          "html": "Page table base register"
+        },
+        {
+          "label": "B",
+          "text": "Stack pointer",
+          "html": "Stack pointer"
+        },
+        {
+          "label": "C",
+          "text": "Program counter",
+          "html": "Program counter"
+        },
+        {
+          "label": "D",
+          "text": "General purpose registers",
+          "html": "General purpose registers"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399300/gate-cse-2023-question-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399300/gate-cse-2023-question-12"
+    },
+    {
+      "id": "go:399299",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 23",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "System Calls & OS Protection",
+      "type": "MSQ",
+      "question": "<p>Which one or more of the following options guarantee that a computer system will transition from user mode to kernel mode?</p>",
+      "rawQuestionHtml": "<p>Which one or more of the following options guarantee that a computer system will transition from user mode to kernel mode?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Function Call</li>\n<li>malloc Call</li>\n<li>Page Fault</li>\n<li>System Call</li>\n</ol>",
+      "options": [
+        "Function Call",
+        "malloc Call",
+        "Page Fault",
+        "System Call"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Function Call",
+          "html": "Function Call"
+        },
+        {
+          "label": "B",
+          "text": "malloc Call",
+          "html": "malloc Call"
+        },
+        {
+          "label": "C",
+          "text": "Page Fault",
+          "html": "Page Fault"
+        },
+        {
+          "label": "D",
+          "text": "System Call",
+          "html": "System Call"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399299/gate-cse-2023-question-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399299/gate-cse-2023-question-13"
+    },
+    {
+      "id": "go:399298",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 24",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Which of the following statements is/are $\\text{CORRECT}?$</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is/are $\\text{CORRECT}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The intersection of two regular languages is regular.</li>\n<li>The intersection of two context-free languages is context-free.</li>\n<li>The intersection of two recursive languages is recursive.</li>\n<li>The intersection of two recursively enumerable languages is recursively enumerable.</li>\n</ol>",
+      "options": [
+        "The intersection of two regular languages is regular.",
+        "The intersection of two context-free languages is context-free.",
+        "The intersection of two recursive languages is recursive.",
+        "The intersection of two recursively enumerable languages is recursively enumerable."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The intersection of two regular languages is regular.",
+          "html": "The intersection of two regular languages is regular."
+        },
+        {
+          "label": "B",
+          "text": "The intersection of two context-free languages is context-free.",
+          "html": "The intersection of two context-free languages is context-free."
+        },
+        {
+          "label": "C",
+          "text": "The intersection of two recursive languages is recursive.",
+          "html": "The intersection of two recursive languages is recursive."
+        },
+        {
+          "label": "D",
+          "text": "The intersection of two recursively enumerable languages is recursively enumerable.",
+          "html": "The intersection of two recursively enumerable languages is recursively enumerable."
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399298/gate-cse-2023-question-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399298/gate-cse-2023-question-14"
+    },
+    {
+      "id": "go:399297",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 25",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Routing Algorithms & Protocols",
+      "type": "MSQ",
+      "question": "<p>Which of the following statements is/are $\\text{INCORRECT}$ about the $\\textsf{OSPF (Open Shortest Path First)}$ routing protocol used in the Internet?</p>",
+      "rawQuestionHtml": "<p>Which of the following statements is/are $\\text{INCORRECT}$ about the $\\textsf{OSPF (Open Shortest Path First)}$ routing protocol used in the Internet?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\textsf{OSPF}$ implements Bellman-Ford algorithm to find shortest paths.</li>\n<li>$\\textsf{OSPF}$ uses Dijkstra's shortest path algorithm to implement least-cost path routing.</li>\n<li>$\\textsf{OSPF}$ is used as an inter-domain routing protocol.</li>\n<li>$\\textsf{OSPF}$ implements hierarchical routing.</li>\n</ol>",
+      "options": [
+        "$\\textsf{OSPF}$ implements Bellman-Ford algorithm to find shortest paths.",
+        "$\\textsf{OSPF}$ uses Dijkstra's shortest path algorithm to implement least-cost path routing.",
+        "$\\textsf{OSPF}$ is used as an inter-domain routing protocol.",
+        "$\\textsf{OSPF}$ implements hierarchical routing."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\textsf{OSPF}$ implements Bellman-Ford algorithm to find shortest paths.",
+          "html": "$\\textsf{OSPF}$ implements Bellman-Ford algorithm to find shortest paths."
+        },
+        {
+          "label": "B",
+          "text": "$\\textsf{OSPF}$ uses Dijkstra's shortest path algorithm to implement least-cost path routing.",
+          "html": "$\\textsf{OSPF}$ uses Dijkstra's shortest path algorithm to implement least-cost path routing."
+        },
+        {
+          "label": "C",
+          "text": "$\\textsf{OSPF}$ is used as an inter-domain routing protocol.",
+          "html": "$\\textsf{OSPF}$ is used as an inter-domain routing protocol."
+        },
+        {
+          "label": "D",
+          "text": "$\\textsf{OSPF}$ implements hierarchical routing.",
+          "html": "$\\textsf{OSPF}$ implements hierarchical routing."
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399297/gate-cse-2023-question-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399297/gate-cse-2023-question-15"
+    },
+    {
+      "id": "go:399295",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 26",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MSQ",
+      "question": "<p>Geetha has a conjecture about integers, which is of the form<br/>\n\\[<br/>\n\\forall x(P(x) \\Longrightarrow \\exists y Q(x, y)),<br/>\n\\]<br/>\nwhere $P$ is a statement about integers, and $Q$ is a statement about pairs of integers. Which of the following (one or more) option(s) would <em>imply </em>Geetha's conjecture?</p>",
+      "rawQuestionHtml": "<p>Geetha has a conjecture about integers, which is of the form<br/>\n\\[<br/>\n\\forall x(P(x) \\Longrightarrow \\exists y Q(x, y)),<br/>\n\\]<br/>\nwhere $P$ is a statement about integers, and $Q$ is a statement about pairs of integers. Which of the following (one or more) option(s) would <em>imply </em>Geetha's conjecture?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\exists x(P(x) \\wedge \\forall y Q(x, y))$</li>\n<li>$\\forall x \\forall y Q(x, y)$</li>\n<li>$\\exists y \\forall x(P(x) \\Longrightarrow Q(x, y))$</li>\n<li>$\\exists x(P(x) \\wedge \\exists y Q(x, y))$</li>\n</ol>",
+      "options": [
+        "$\\exists x(P(x) \\wedge \\forall y Q(x, y))$",
+        "$\\forall x \\forall y Q(x, y)$",
+        "$\\exists y \\forall x(P(x) \\Longrightarrow Q(x, y))$",
+        "$\\exists x(P(x) \\wedge \\exists y Q(x, y))$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\exists x(P(x) \\wedge \\forall y Q(x, y))$",
+          "html": "$\\exists x(P(x) \\wedge \\forall y Q(x, y))$"
+        },
+        {
+          "label": "B",
+          "text": "$\\forall x \\forall y Q(x, y)$",
+          "html": "$\\forall x \\forall y Q(x, y)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\exists y \\forall x(P(x) \\Longrightarrow Q(x, y))$",
+          "html": "$\\exists y \\forall x(P(x) \\Longrightarrow Q(x, y))$"
+        },
+        {
+          "label": "D",
+          "text": "$\\exists x(P(x) \\wedge \\exists y Q(x, y))$",
+          "html": "$\\exists x(P(x) \\wedge \\exists y Q(x, y))$"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399295/gate-cse-2023-question-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399295/gate-cse-2023-question-16"
+    },
+    {
+      "id": "go:399294",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 27",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MSQ",
+      "question": "<p>Which one or more of the following $\\text{CPU}$ scheduling algorithms can potentially cause starvation?</p>",
+      "rawQuestionHtml": "<p>Which one or more of the following $\\text{CPU}$ scheduling algorithms can potentially cause starvation?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>First-in First-Out</li>\n<li>Round Robin</li>\n<li>Priority Scheduling</li>\n<li>Shortest Job First</li>\n</ol>",
+      "options": [
+        "First-in First-Out",
+        "Round Robin",
+        "Priority Scheduling",
+        "Shortest Job First"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "First-in First-Out",
+          "html": "First-in First-Out"
+        },
+        {
+          "label": "B",
+          "text": "Round Robin",
+          "html": "Round Robin"
+        },
+        {
+          "label": "C",
+          "text": "Priority Scheduling",
+          "html": "Priority Scheduling"
+        },
+        {
+          "label": "D",
+          "text": "Shortest Job First",
+          "html": "Shortest Job First"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399294/gate-cse-2023-question-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399294/gate-cse-2023-question-17"
+    },
+    {
+      "id": "go:399293",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 28",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "MSQ",
+      "question": "<p> Let $$\\qquad f(x)=x^{3}+15 x^{2}-33 x-36$$<br/>\nbe a real-valued function.</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p> Let $$\\qquad f(x)=x^{3}+15 x^{2}-33 x-36$$<br/>\nbe a real-valued function.</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f(x)$ does not have a local maximum.</li>\n<li>$f(x)$ has a local maximum.</li>\n<li>$f(x)$ does not have a local minimum.</li>\n<li>$f(x)$ has a local minimum.</li>\n</ol>",
+      "options": [
+        "$f(x)$ does not have a local maximum.",
+        "$f(x)$ has a local maximum.",
+        "$f(x)$ does not have a local minimum.",
+        "$f(x)$ has a local minimum."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f(x)$ does not have a local maximum.",
+          "html": "$f(x)$ does not have a local maximum."
+        },
+        {
+          "label": "B",
+          "text": "$f(x)$ has a local maximum.",
+          "html": "$f(x)$ has a local maximum."
+        },
+        {
+          "label": "C",
+          "text": "$f(x)$ does not have a local minimum.",
+          "html": "$f(x)$ does not have a local minimum."
+        },
+        {
+          "label": "D",
+          "text": "$f(x)$ has a local minimum.",
+          "html": "$f(x)$ has a local minimum."
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399293/gate-cse-2023-question-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399293/gate-cse-2023-question-18"
+    },
+    {
+      "id": "go:399292",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 29",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MSQ",
+      "question": "<p>Let $f$ and $g$ be functions of natural numbers given by $f(n)=n$ and $g(n)=n^{2}.$ Which of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Let $f$ and $g$ be functions of natural numbers given by $f(n)=n$ and $g(n)=n^{2}.$ Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f \\in O(g)$</li>\n<li>$f \\in \\Omega(g)$</li>\n<li>$f \\in o(g)$</li>\n<li>$f \\in \\Theta(g)$</li>\n</ol>",
+      "options": [
+        "$f \\in O(g)$",
+        "$f \\in \\Omega(g)$",
+        "$f \\in o(g)$",
+        "$f \\in \\Theta(g)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f \\in O(g)$",
+          "html": "$f \\in O(g)$"
+        },
+        {
+          "label": "B",
+          "text": "$f \\in \\Omega(g)$",
+          "html": "$f \\in \\Omega(g)$"
+        },
+        {
+          "label": "C",
+          "text": "$f \\in o(g)$",
+          "html": "$f \\in o(g)$"
+        },
+        {
+          "label": "D",
+          "text": "$f \\in \\Theta(g)$",
+          "html": "$f \\in \\Theta(g)$"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399292/gate-cse-2023-question-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399292/gate-cse-2023-question-19"
+    },
+    {
+      "id": "go:399291",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 30",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "NAT",
+      "question": "<p>Let $A$ be the adjacency matrix of the graph with vertices $\\{1,2,3,4,5\\}.$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"292\" src=\"/Gate_QA/question-images/15634729101437719641.webp\" width=\"234\"/></p>\n<p>Let $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}, \\lambda_{4}$, and $\\lambda_{5}$ be the five eigenvalues of $A$. Note that these eigenvalues need not be distinct.</p>\n<p>The value of $\\lambda_{1}+\\lambda_{2}+\\lambda_{3}+\\lambda_{4}+\\lambda_{5}=$____________</p>",
+      "rawQuestionHtml": "<p>Let $A$ be the adjacency matrix of the graph with vertices $\\{1,2,3,4,5\\}.$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"292\" src=\"/Gate_QA/question-images/15634729101437719641.webp\" width=\"234\"/></p>\n<p>Let $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}, \\lambda_{4}$, and $\\lambda_{5}$ be the five eigenvalues of $A$. Note that these eigenvalues need not be distinct.</p>\n<p>The value of $\\lambda_{1}+\\lambda_{2}+\\lambda_{3}+\\lambda_{4}+\\lambda_{5}=$____________</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399291/gate-cse-2023-question-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399291/gate-cse-2023-question-20"
+    },
+    {
+      "id": "go:399290",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 31",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Calculus",
+      "type": "NAT",
+      "question": "The value of the definite integral <br/>\n\\[<br/>\n\\int_{-3}^{3} \\int_{-2}^{2} \\int_{-1}^{1}\\left(4 x^{2} y-z^{3}\\right) \\mathrm{d} z \\mathrm{~d} y \\mathrm{~d} x<br/>\n\\]<br/>\nis _________. (Rounded off to the nearest integer)",
+      "rawQuestionHtml": "The value of the definite integral <br/>\n\\[<br/>\n\\int_{-3}^{3} \\int_{-2}^{2} \\int_{-1}^{1}\\left(4 x^{2} y-z^{3}\\right) \\mathrm{d} z \\mathrm{~d} y \\mathrm{~d} x<br/>\n\\]<br/>\nis _________. (Rounded off to the nearest integer)",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "0"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399290/gate-cse-2023-question-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399290/gate-cse-2023-question-21"
+    },
+    {
+      "id": "go:399289",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 32",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "NAT",
+      "question": "A particular number is written as $132$ in radix-$4$ representation. The same number in radix-$5$ representation is _____________.",
+      "rawQuestionHtml": "A particular number is written as $132$ in radix-$4$ representation. The same number in radix-$5$ representation is _____________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "110"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399289/gate-cse-2023-question-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399289/gate-cse-2023-question-22"
+    },
+    {
+      "id": "go:399288",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 33",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "NAT",
+      "question": "Consider a $3$-stage pipelined processor having a delay of $10 \\mathrm{~ns}$ (nanoseconds), $20 \\mathrm{~ns}$, and $14 \\mathrm{~ns},$ for the first, second, and the third stages, respectively. Assume that there is no other delay and the processor does not suffer from any pipeline hazards. Also assume that one instruction is fetched every cycle.<br/>\n<br/>\nThe total execution time for executing $100$ instructions on this processor is _____________ $\\mathrm{ns}.$",
+      "rawQuestionHtml": "Consider a $3$-stage pipelined processor having a delay of $10 \\mathrm{~ns}$ (nanoseconds), $20 \\mathrm{~ns}$, and $14 \\mathrm{~ns},$ for the first, second, and the third stages, respectively. Assume that there is no other delay and the processor does not suffer from any pipeline hazards. Also assume that one instruction is fetched every cycle.<br/>\n<br/>\nThe total execution time for executing $100$ instructions on this processor is _____________ $\\mathrm{ns}.$",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2040"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399288/gate-cse-2023-question-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399288/gate-cse-2023-question-23"
+    },
+    {
+      "id": "go:399287",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 34",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "NAT",
+      "question": "A keyboard connected to a computer is used at a rate of $1$ keystroke per second. The computer system polls the keyboard every $10 \\mathrm{~ms}$ (milli seconds) to check for a keystroke and consumes $100\\; \\mu \\mathrm{s}$ (micro seconds) for each poll. If it is determined after polling that a key has been pressed, the system consumes an additional $200\\; \\mu \\mathrm{s}$ to process the keystroke. Let $T_{1}$ denote the fraction of a second spent in polling and processing a keystroke.<br/>\n<br/>\nIn an alternative implementation, the system uses interrupts instead of polling. An interrupt is raised for every keystroke. It takes a total of $1 \\mathrm{~ms}$ for servicing an interrupt and processing a keystroke. Let $T_{2}$ denote the fraction of a second spent in servicing the interrupt and processing a keystroke.<br/>\n<br/>\nThe ratio $\\dfrac{T_{1}}{T_{2}}$ is _____________. (Rounded off to one decimal place)",
+      "rawQuestionHtml": "A keyboard connected to a computer is used at a rate of $1$ keystroke per second. The computer system polls the keyboard every $10 \\mathrm{~ms}$ (milli seconds) to check for a keystroke and consumes $100\\; \\mu \\mathrm{s}$ (micro seconds) for each poll. If it is determined after polling that a key has been pressed, the system consumes an additional $200\\; \\mu \\mathrm{s}$ to process the keystroke. Let $T_{1}$ denote the fraction of a second spent in polling and processing a keystroke.<br/>\n<br/>\nIn an alternative implementation, the system uses interrupts instead of polling. An interrupt is raised for every keystroke. It takes a total of $1 \\mathrm{~ms}$ for servicing an interrupt and processing a keystroke. Let $T_{2}$ denote the fraction of a second spent in servicing the interrupt and processing a keystroke.<br/>\n<br/>\nThe ratio $\\dfrac{T_{1}}{T_{2}}$ is _____________. (Rounded off to one decimal place)",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "10.2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399287/gate-cse-2023-question-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399287/gate-cse-2023-question-24"
+    },
+    {
+      "id": "go:399286",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 35",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "NAT",
+      "question": "<p>The integer value printed by the $\\textsf{ANSI-C}$ program given below is _______________</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include&lt;stdio.h&gt;\n\nint funcp{\n    static int x = 1;\n    x++;\n    return x;\n}\n\nint main{\n    int x,y;\n    x = funcp;\n    y = funcp+x;\n    printf(\"%d\\n\", (x+y));\n    return 0;\n}\n</pre>",
+      "rawQuestionHtml": "<p>The integer value printed by the $\\textsf{ANSI-C}$ program given below is _______________</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">#include&lt;stdio.h&gt;\n\nint funcp{\n    static int x = 1;\n    x++;\n    return x;\n}\n\nint main{\n    int x,y;\n    x = funcp;\n    y = funcp+x;\n    printf(\"%d\\n\", (x+y));\n    return 0;\n}\n</pre>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "7"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399286/gate-cse-2023-question-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399286/gate-cse-2023-question-25"
+    },
+    {
+      "id": "go:399285",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 36",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Consider the following program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main()      int f1()        int f2(int X)               int f3()\n{               {               {                           {\n    f1();           return(1);      f3();                       return(5);\n    f2(2);      }                   if(X==1)                }\n    f3();                               return f1();    \n    return(0);                      else    \n}                                       return (X*f2(X-1));\n                                }    \n</pre>\n<p>Which one of the following options represents the activation tree corresponding to the main function?</p>",
+      "rawQuestionHtml": "<p>Consider the following program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main()      int f1()        int f2(int X)               int f3()\n{               {               {                           {\n    f1();           return(1);      f3();                       return(5);\n    f2(2);      }                   if(X==1)                }\n    f3();                               return f1();    \n    return(0);                      else    \n}                                       return (X*f2(X-1));\n                                }    \n</pre>\n<p>Which one of the following options represents the activation tree corresponding to the main function?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/></li>\n<li>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>\n</li>\n</ol>",
+      "options": [
+        "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>",
+        "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>",
+        "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>"
+        },
+        {
+          "label": "B",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>"
+        },
+        {
+          "label": "C",
+          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>"
+        },
+        {
+          "label": "D",
+          "text": "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>",
+          "html": "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399285/gate-cse-2023-question-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399285/gate-cse-2023-question-26"
+    },
+    {
+      "id": "go:399284",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 37",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "MCQ",
+      "question": "<p>Consider the control flow graph shown.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"390\" src=\"/Gate_QA/question-images/2564240368512300347.webp\" width=\"317\"/></p>\n<p>Which one of the following choices correctly lists the set of <em>live</em> variables at the exit point of each basic block?</p>",
+      "rawQuestionHtml": "<p>Consider the control flow graph shown.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"390\" src=\"/Gate_QA/question-images/2564240368512300347.webp\" width=\"317\"/></p>\n<p>Which one of the following choices correctly lists the set of <em>live</em> variables at the exit point of each basic block?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\text{B1: { }, B2: {a}, B3: {a}, B4: {a}}$</li>\n<li>$\\text{B1: {i, j}, B2: {a}, B3: {a}, B4: {i}}$</li>\n<li>$\\text{B1: {a, i, j}, B2: {a, i, j}, B3: {a, i}, B4: {a}}$</li>\n<li>$\\text{B1: {a, i, j}, B2: {a, j}, B3: {a, j}, B4: {a, i, j}}$</li>\n</ol>",
+      "options": [
+        "$\\text{B1: { }, B2: {a}, B3: {a}, B4: {a}}$",
+        "$\\text{B1: {i, j}, B2: {a}, B3: {a}, B4: {i}}$",
+        "$\\text{B1: {a, i, j}, B2: {a, i, j}, B3: {a, i}, B4: {a}}$",
+        "$\\text{B1: {a, i, j}, B2: {a, j}, B3: {a, j}, B4: {a, i, j}}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{B1: { }, B2: {a}, B3: {a}, B4: {a}}$",
+          "html": "$\\text{B1: { }, B2: {a}, B3: {a}, B4: {a}}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{B1: {i, j}, B2: {a}, B3: {a}, B4: {i}}$",
+          "html": "$\\text{B1: {i, j}, B2: {a}, B3: {a}, B4: {i}}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{B1: {a, i, j}, B2: {a, i, j}, B3: {a, i}, B4: {a}}$",
+          "html": "$\\text{B1: {a, i, j}, B2: {a, i, j}, B3: {a, i}, B4: {a}}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{B1: {a, i, j}, B2: {a, j}, B3: {a, j}, B4: {a, i, j}}$",
+          "html": "$\\text{B1: {a, i, j}, B2: {a, j}, B3: {a, j}, B4: {a, i, j}}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399284/gate-cse-2023-question-27",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399284/gate-cse-2023-question-27"
+    },
+    {
+      "id": "go:399283",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 38",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Process Synchronization & Semaphores",
+      "type": "MCQ",
+      "question": "<p>Consider the two functions $\\textsf{incr}$ and $\\textsf{decr}$ shown below. </p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">incr{             decr{\n    wait(s);            wait(s);\n    X = X+1;            X = X-1;\n    signal(s);          signal(s);\n}                   }    </pre>\n<p>There are $5$ threads each invoking $\\textsf{incr}$ once, and $3$ threads each invoking $\\textsf{decr}$ once, on the same shared variable $\\mathrm{X}$. The initial value of $\\mathrm{X}$ is $10.$</p>\n<p>Suppose there are two implementations of the semaphore $\\text{s},$ as follows:</p>\n<p>$\\textbf{I-1:} \\;\\mathrm{s}$ is a binary semaphore initialized to $1.$<br/>\n$\\textbf{I-2:}\\; \\mathrm{s}$ is a counting semaphore initialized to $2.$</p>\n<p>Let $\\text{V1, V2}$ be the values of $\\text{X}$ at the end of execution of all the threads with implementations $\\textbf{I-1, I-2},$ respectively.<br/>\n<br/>\nWhich one of the following choices corresponds to the minimum possible values of $\\text{V1, V2},$ respectively?</p>",
+      "rawQuestionHtml": "<p>Consider the two functions $\\textsf{incr}$ and $\\textsf{decr}$ shown below. </p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">incr{             decr{\n    wait(s);            wait(s);\n    X = X+1;            X = X-1;\n    signal(s);          signal(s);\n}                   }    </pre>\n<p>There are $5$ threads each invoking $\\textsf{incr}$ once, and $3$ threads each invoking $\\textsf{decr}$ once, on the same shared variable $\\mathrm{X}$. The initial value of $\\mathrm{X}$ is $10.$</p>\n<p>Suppose there are two implementations of the semaphore $\\text{s},$ as follows:</p>\n<p>$\\textbf{I-1:} \\;\\mathrm{s}$ is a binary semaphore initialized to $1.$<br/>\n$\\textbf{I-2:}\\; \\mathrm{s}$ is a counting semaphore initialized to $2.$</p>\n<p>Let $\\text{V1, V2}$ be the values of $\\text{X}$ at the end of execution of all the threads with implementations $\\textbf{I-1, I-2},$ respectively.<br/>\n<br/>\nWhich one of the following choices corresponds to the minimum possible values of $\\text{V1, V2},$ respectively?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$15,7$</li>\n<li>$7,7$</li>\n<li>$12,7$</li>\n<li>$12,8$</li>\n</ol>",
+      "options": [
+        "$15,7$",
+        "$7,7$",
+        "$12,7$",
+        "$12,8$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$15,7$",
+          "html": "$15,7$"
+        },
+        {
+          "label": "B",
+          "text": "$7,7$",
+          "html": "$7,7$"
+        },
+        {
+          "label": "C",
+          "text": "$12,7$",
+          "html": "$12,7$"
+        },
+        {
+          "label": "D",
+          "text": "$12,8$",
+          "html": "$12,8$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399283/gate-cse-2023-question-28",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399283/gate-cse-2023-question-28"
+    },
+    {
+      "id": "go:399282",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 39",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Consider the context-free grammar $G$ below<br/>\n\\[<br/>\n\\begin{array}{l}<br/>\nS \\rightarrow a S b \\mid X \\\\<br/>\nX \\rightarrow a X \\mid X b \\mid a \\mid b,<br/>\n\\end{array}<br/>\n\\]<br/>\nwhere $S$ and $X$ are non-terminals, and $a$ and $b$ are terminal symbols. The starting non-terminal is $S$.</p>\n<p>Which one of the following statements is $\\text{CORRECT}?$</p>",
+      "rawQuestionHtml": "<p>Consider the context-free grammar $G$ below<br/>\n\\[<br/>\n\\begin{array}{l}<br/>\nS \\rightarrow a S b \\mid X \\\\<br/>\nX \\rightarrow a X \\mid X b \\mid a \\mid b,<br/>\n\\end{array}<br/>\n\\]<br/>\nwhere $S$ and $X$ are non-terminals, and $a$ and $b$ are terminal symbols. The starting non-terminal is $S$.</p>\n<p>Which one of the following statements is $\\text{CORRECT}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The language generated by $G$ is $(a+b)^{\\ast}$</li>\n<li>The language generated by $G$ is $a^{\\ast}(a+b) b^{\\ast}$</li>\n<li>The language generated by $G$ is $a^{\\ast} b^{\\ast}(a+b)$</li>\n<li>The language generated by $G$ is not a regular language</li>\n</ol>",
+      "options": [
+        "The language generated by $G$ is $(a+b)^{\\ast}$",
+        "The language generated by $G$ is $a^{\\ast}(a+b) b^{\\ast}$",
+        "The language generated by $G$ is $a^{\\ast} b^{\\ast}(a+b)$",
+        "The language generated by $G$ is not a regular language"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The language generated by $G$ is $(a+b)^{\\ast}$",
+          "html": "The language generated by $G$ is $(a+b)^{\\ast}$"
+        },
+        {
+          "label": "B",
+          "text": "The language generated by $G$ is $a^{\\ast}(a+b) b^{\\ast}$",
+          "html": "The language generated by $G$ is $a^{\\ast}(a+b) b^{\\ast}$"
+        },
+        {
+          "label": "C",
+          "text": "The language generated by $G$ is $a^{\\ast} b^{\\ast}(a+b)$",
+          "html": "The language generated by $G$ is $a^{\\ast} b^{\\ast}(a+b)$"
+        },
+        {
+          "label": "D",
+          "text": "The language generated by $G$ is not a regular language",
+          "html": "The language generated by $G$ is not a regular language"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399282/gate-cse-2023-question-29",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399282/gate-cse-2023-question-29"
+    },
+    {
+      "id": "go:399281",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 40",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MCQ",
+      "question": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/Gate_QA/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>",
+      "rawQuestionHtml": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/Gate_QA/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$</li>\n<li>$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$</li>\n</ol>",
+      "options": [
+        "$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$",
+        "$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$",
+        "$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$",
+        "$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$",
+          "html": "$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$",
+          "html": "$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$",
+          "html": "$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$",
+          "html": "$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399281/gate-cse-2023-question-30",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399281/gate-cse-2023-question-30"
+    },
+    {
+      "id": "go:399280",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 41",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Consider the given $\\text{C}$-code and its corresponding assembly code, with a few operands $\\text{U1-U4}$ being unknown. Some useful information as well as the semantics of each unique assembly instruction is annotated as inline comments in the code. The memory is byte-addressable.<br/>\n<img alt=\"\" height=\"311\" src=\"/Gate_QA/question-images/5815395657837767661.webp\" width=\"619\"/><br/>\nWhich one of the following options is a $\\text{CORRECT}$ replacement for operands in the position $\\text{(U1, U2, U3, U4)}$ in the above assembly code?</p>",
+      "rawQuestionHtml": "<p>Consider the given $\\text{C}$-code and its corresponding assembly code, with a few operands $\\text{U1-U4}$ being unknown. Some useful information as well as the semantics of each unique assembly instruction is annotated as inline comments in the code. The memory is byte-addressable.<br/>\n<img alt=\"\" height=\"311\" src=\"/Gate_QA/question-images/5815395657837767661.webp\" width=\"619\"/><br/>\nWhich one of the following options is a $\\text{CORRECT}$ replacement for operands in the position $\\text{(U1, U2, U3, U4)}$ in the above assembly code?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(8,4,1, \\text{L02)}$</li>\n<li>$(3,4,4, \\text{L01)}$</li>\n<li>$(8,1,1, \\text{L02)}$</li>\n<li>$(3,1,1, \\text{L01)}$</li>\n</ol>",
+      "options": [
+        "$(8,4,1, \\text{L02)}$",
+        "$(3,4,4, \\text{L01)}$",
+        "$(8,1,1, \\text{L02)}$",
+        "$(3,1,1, \\text{L01)}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(8,4,1, \\text{L02)}$",
+          "html": "$(8,4,1, \\text{L02)}$"
+        },
+        {
+          "label": "B",
+          "text": "$(3,4,4, \\text{L01)}$",
+          "html": "$(3,4,4, \\text{L01)}$"
+        },
+        {
+          "label": "C",
+          "text": "$(8,1,1, \\text{L02)}$",
+          "html": "$(8,1,1, \\text{L02)}$"
+        },
+        {
+          "label": "D",
+          "text": "$(3,1,1, \\text{L01)}$",
+          "html": "$(3,1,1, \\text{L01)}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399280/gate-cse-2023-question-31",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399280/gate-cse-2023-question-31"
+    },
+    {
+      "id": "go:399279",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 42",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "MCQ",
+      "question": "<p>A $4$ kilobyte $\\text{(KB)}$ byte-addressable memory is realized using four $1 \\mathrm{~KB}$ memory blocks. Two input address lines $\\text{(IA4 and IA3)}$ are connected to the chip select $\\text{(CS)}$ port of these memory blocks through a decoder as shown in the figure. The remaining ten input address lines from $\\text{IA11-IA0}$ are connected to the address port of these blocks. The chip select $\\text{(CS)}$ is active high.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/6937541283864319120.webp\" width=\"557\"/></p>\n<p>The input memory addresses $\\text{(IA11-IA0)},$ in decimal, for the starting locations $\\text{(Addr = 0)}$ of each block (indicated as $\\text{X1, X2, X3, X4}$ in the figure) are among the options given below. Which one of the following options is $\\text{CORRECT}?$</p>",
+      "rawQuestionHtml": "<p>A $4$ kilobyte $\\text{(KB)}$ byte-addressable memory is realized using four $1 \\mathrm{~KB}$ memory blocks. Two input address lines $\\text{(IA4 and IA3)}$ are connected to the chip select $\\text{(CS)}$ port of these memory blocks through a decoder as shown in the figure. The remaining ten input address lines from $\\text{IA11-IA0}$ are connected to the address port of these blocks. The chip select $\\text{(CS)}$ is active high.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/6937541283864319120.webp\" width=\"557\"/></p>\n<p>The input memory addresses $\\text{(IA11-IA0)},$ in decimal, for the starting locations $\\text{(Addr = 0)}$ of each block (indicated as $\\text{X1, X2, X3, X4}$ in the figure) are among the options given below. Which one of the following options is $\\text{CORRECT}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(0,1,2,3)$</li>\n<li>$(0,1024,2048,3072)$</li>\n<li>$(0,8,16,24)$</li>\n<li>$(0,0,0,0)$</li>\n</ol>",
+      "options": [
+        "$(0,1,2,3)$",
+        "$(0,1024,2048,3072)$",
+        "$(0,8,16,24)$",
+        "$(0,0,0,0)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(0,1,2,3)$",
+          "html": "$(0,1,2,3)$"
+        },
+        {
+          "label": "B",
+          "text": "$(0,1024,2048,3072)$",
+          "html": "$(0,1024,2048,3072)$"
+        },
+        {
+          "label": "C",
+          "text": "$(0,8,16,24)$",
+          "html": "$(0,8,16,24)$"
+        },
+        {
+          "label": "D",
+          "text": "$(0,0,0,0)$",
+          "html": "$(0,0,0,0)$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399279/gate-cse-2023-question-32",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399279/gate-cse-2023-question-32"
+    },
+    {
+      "id": "go:399278",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 43",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Sequential Circuits, Flip-Flops & Counters",
+      "type": "MCQ",
+      "question": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>",
+      "rawQuestionHtml": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(0,0,1)$</li>\n<li>$(1,0,0)$</li>\n<li>$(1,0,1)$</li>\n<li>$(1,1,1)$</li>\n</ol>",
+      "options": [
+        "$(0,0,1)$",
+        "$(1,0,0)$",
+        "$(1,0,1)$",
+        "$(1,1,1)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(0,0,1)$",
+          "html": "$(0,0,1)$"
+        },
+        {
+          "label": "B",
+          "text": "$(1,0,0)$",
+          "html": "$(1,0,0)$"
+        },
+        {
+          "label": "C",
+          "text": "$(1,0,1)$",
+          "html": "$(1,0,1)$"
+        },
+        {
+          "label": "D",
+          "text": "$(1,1,1)$",
+          "html": "$(1,1,1)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399278/gate-cse-2023-question-33",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399278/gate-cse-2023-question-33"
+    },
+    {
+      "id": "go:399277",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 44",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Combinational Circuits",
+      "type": "MCQ",
+      "question": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>",
+      "rawQuestionHtml": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(1,1,0,0,1,1,1,0)$</li>\n<li>$(1,1,0,0,1,1,0,1)$</li>\n<li>$(1,1,0,1,1,1,0,0)$</li>\n<li>$(0,0,1,1,0,1,1,1)$</li>\n</ol>",
+      "options": [
+        "$(1,1,0,0,1,1,1,0)$",
+        "$(1,1,0,0,1,1,0,1)$",
+        "$(1,1,0,1,1,1,0,0)$",
+        "$(0,0,1,1,0,1,1,1)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(1,1,0,0,1,1,1,0)$",
+          "html": "$(1,1,0,0,1,1,1,0)$"
+        },
+        {
+          "label": "B",
+          "text": "$(1,1,0,0,1,1,0,1)$",
+          "html": "$(1,1,0,0,1,1,0,1)$"
+        },
+        {
+          "label": "C",
+          "text": "$(1,1,0,1,1,1,0,0)$",
+          "html": "$(1,1,0,1,1,1,0,0)$"
+        },
+        {
+          "label": "D",
+          "text": "$(0,0,1,1,0,1,1,1)$",
+          "html": "$(0,0,1,1,0,1,1,1)$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399277/gate-cse-2023-question-34",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399277/gate-cse-2023-question-34"
+    },
+    {
+      "id": "go:399276",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 45",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Consider the $\\textsf{IEEE-754}$ single precision floating point numbers $\\text{P} = \\textsf{0xC1800000}$ and $\\text{Q} = \\textsf{0x3F5C2EF4}.$</p>\n<p>Which one of the following corresponds to the product of these numbers $(\\text{i.e., P} \\times \\mathrm{Q} ),$ represented in the $\\textsf{IEEE-754}$ single precision format?</p>",
+      "rawQuestionHtml": "<p>Consider the $\\textsf{IEEE-754}$ single precision floating point numbers $\\text{P} = \\textsf{0xC1800000}$ and $\\text{Q} = \\textsf{0x3F5C2EF4}.$</p>\n<p>Which one of the following corresponds to the product of these numbers $(\\text{i.e., P} \\times \\mathrm{Q} ),$ represented in the $\\textsf{IEEE-754}$ single precision format?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\textsf{0x404C2EF4}$</li>\n<li>$\\textsf{0x405C2EF4}$</li>\n<li>$\\textsf{0xC15C2EF4}$</li>\n<li>$\\textsf{0xC14C2EF4}$</li>\n</ol>",
+      "options": [
+        "$\\textsf{0x404C2EF4}$",
+        "$\\textsf{0x405C2EF4}$",
+        "$\\textsf{0xC15C2EF4}$",
+        "$\\textsf{0xC14C2EF4}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\textsf{0x404C2EF4}$",
+          "html": "$\\textsf{0x404C2EF4}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\textsf{0x405C2EF4}$",
+          "html": "$\\textsf{0x405C2EF4}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\textsf{0xC15C2EF4}$",
+          "html": "$\\textsf{0xC15C2EF4}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\textsf{0xC14C2EF4}$",
+          "html": "$\\textsf{0xC14C2EF4}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399276/gate-cse-2023-question-35",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399276/gate-cse-2023-question-35"
+    },
+    {
+      "id": "go:399275",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 46",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Let $A$ be a priority queue for maintaining a set of elements. Suppose $A$ is implemented using a max-heap data structure. The operation $\\text{EXTRACT-MAX} (A)$ extracts and deletes the maximum element from $A$. The operation $\\operatorname{INSERT}(A, key )$ inserts a new element $key$ in $A$. The properties of a max-heap are preserved at the end of each of these operations.<br/>\n<br/>\nWhen $A$ contains $n$ elements, which one of the following statements about the worst case running time of these two operations is $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Let $A$ be a priority queue for maintaining a set of elements. Suppose $A$ is implemented using a max-heap data structure. The operation $\\text{EXTRACT-MAX} (A)$ extracts and deletes the maximum element from $A$. The operation $\\operatorname{INSERT}(A, key )$ inserts a new element $key$ in $A$. The properties of a max-heap are preserved at the end of each of these operations.<br/>\n<br/>\nWhen $A$ contains $n$ elements, which one of the following statements about the worst case running time of these two operations is $\\text{TRUE}?$</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(1)$.</li>\n<li>Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(\\log (n))$.</li>\n<li>$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(n)$.</li>\n<li>$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(\\log (n))$.</li>\n</ol>",
+      "options": [
+        "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(1)$.",
+        "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(\\log (n))$.",
+        "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(n)$.",
+        "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(\\log (n))$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(1)$.",
+          "html": "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(1)$."
+        },
+        {
+          "label": "B",
+          "text": "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(\\log (n))$.",
+          "html": "Both $\\text{EXTRACT-MAX} (A)$ and $\\operatorname{INSERT}(A, k e y)$ run in $O(\\log (n))$."
+        },
+        {
+          "label": "C",
+          "text": "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(n)$.",
+          "html": "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(n)$."
+        },
+        {
+          "label": "D",
+          "text": "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(\\log (n))$.",
+          "html": "$\\text{EXTRACT-MAX} (A)$ runs in $O(1)$ whereas $\\operatorname{INSERT}(A, k e y)$ runs in $O(\\log (n))$."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399275/gate-cse-2023-question-36",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399275/gate-cse-2023-question-36"
+    },
+    {
+      "id": "go:399274",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 47",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>",
+      "rawQuestionHtml": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$3 \\;8 \\;5 \\;13 \\;11\\; 10$</li>\n<li>$3 \\;5\\; 8\\; 10\\; 11\\; 13$</li>\n<li>$3 \\;8 \\;16 \\;13\\; 24\\; 50$</li>\n<li>$3\\; 16\\; 8\\; 50\\; 24\\; 13$</li>\n</ol>",
+      "options": [
+        "$3 \\;8 \\;5 \\;13 \\;11\\; 10$",
+        "$3 \\;5\\; 8\\; 10\\; 11\\; 13$",
+        "$3 \\;8 \\;16 \\;13\\; 24\\; 50$",
+        "$3\\; 16\\; 8\\; 50\\; 24\\; 13$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3 \\;8 \\;5 \\;13 \\;11\\; 10$",
+          "html": "$3 \\;8 \\;5 \\;13 \\;11\\; 10$"
+        },
+        {
+          "label": "B",
+          "text": "$3 \\;5\\; 8\\; 10\\; 11\\; 13$",
+          "html": "$3 \\;5\\; 8\\; 10\\; 11\\; 13$"
+        },
+        {
+          "label": "C",
+          "text": "$3 \\;8 \\;16 \\;13\\; 24\\; 50$",
+          "html": "$3 \\;8 \\;16 \\;13\\; 24\\; 50$"
+        },
+        {
+          "label": "D",
+          "text": "$3\\; 16\\; 8\\; 50\\; 24\\; 13$",
+          "html": "$3\\; 16\\; 8\\; 50\\; 24\\; 13$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399274/gate-cse-2023-question-37",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399274/gate-cse-2023-question-37"
+    },
+    {
+      "id": "go:399273",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 48",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>Let $U=\\{1,2, \\ldots, n\\},$ where $n$ is a large positive integer greater than $1000.$ Let $k$ be a positive integer less than $n$. Let $A, B$ be subsets of $U$ with $|A|=|B|=k$ and $A \\cap B=\\emptyset$. We say that a permutation of $U$ separates $A$ from $B$ if one of the following is true.</p>\n<ul style=\"list-style-type:disc\">\n<li>All members of $A$ appear in the permutation before any of the members of $B$.</li>\n<li>All members of $B$ appear in the permutation before any of the members of $A$.</li>\n</ul>\n<p>How many permutations of $U$ separate $A$ from $B?$ </p>",
+      "rawQuestionHtml": "<p>Let $U=\\{1,2, \\ldots, n\\},$ where $n$ is a large positive integer greater than $1000.$ Let $k$ be a positive integer less than $n$. Let $A, B$ be subsets of $U$ with $|A|=|B|=k$ and $A \\cap B=\\emptyset$. We say that a permutation of $U$ separates $A$ from $B$ if one of the following is true.</p>\n<ul style=\"list-style-type:disc\">\n<li>All members of $A$ appear in the permutation before any of the members of $B$.</li>\n<li>All members of $B$ appear in the permutation before any of the members of $A$.</li>\n</ul>\n<p>How many permutations of $U$ separate $A$ from $B?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$n!$ </li>\n<li>$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k)$ !</li>\n<li>$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$</li>\n<li>$2\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$</li>\n</ol>",
+      "options": [
+        "$n!$",
+        "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k)$ !",
+        "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$",
+        "$2\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$n!$",
+          "html": "$n!$"
+        },
+        {
+          "label": "B",
+          "text": "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k)$ !",
+          "html": "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k)$ !"
+        },
+        {
+          "label": "C",
+          "text": "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$",
+          "html": "$\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$2\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$",
+          "html": "$2\\left(\\begin{array}{c}n \\\\ 2 k\\end{array}\\right)(n-2 k) !(k !)^{2}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399273/gate-cse-2023-question-38",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399273/gate-cse-2023-question-38"
+    },
+    {
+      "id": "go:399272",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 49",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MSQ",
+      "question": "<p>Let $f: A \\rightarrow B$ be an onto (or surjective) function, where $A$ and $B$ are nonempty sets. Define an equivalence relation $\\sim$ on the set $A$ as<br/>\n\\[<br/>\na_{1} \\sim a_{2} \\text { if } f\\left(a_{1}\\right)=f\\left(a_{2}\\right),<br/>\n\\]<br/>\nwhere $a_{1}, a_{2} \\in A$. Let $\\mathcal{E}=\\{[x]: x \\in A\\}$ be the set of all the equivalence classes under $\\sim$. Define a new mapping $F: \\mathcal{E} \\rightarrow B$ as<br/>\n\\[<br/>\nF([x])=f(x), \\quad \\text { for all the equivalence classes }[x] \\text { in } \\mathcal{E} \\text {. }<br/>\n\\]<br/>\nWhich of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Let $f: A \\rightarrow B$ be an onto (or surjective) function, where $A$ and $B$ are nonempty sets. Define an equivalence relation $\\sim$ on the set $A$ as<br/>\n\\[<br/>\na_{1} \\sim a_{2} \\text { if } f\\left(a_{1}\\right)=f\\left(a_{2}\\right),<br/>\n\\]<br/>\nwhere $a_{1}, a_{2} \\in A$. Let $\\mathcal{E}=\\{[x]: x \\in A\\}$ be the set of all the equivalence classes under $\\sim$. Define a new mapping $F: \\mathcal{E} \\rightarrow B$ as<br/>\n\\[<br/>\nF([x])=f(x), \\quad \\text { for all the equivalence classes }[x] \\text { in } \\mathcal{E} \\text {. }<br/>\n\\]<br/>\nWhich of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$F$ is NOT well-defined.</li>\n<li>$F$ is an onto (or surjective) function.</li>\n<li>$F$ is a one-to-one (or injective) function.</li>\n<li>$F$ is a bijective function.</li>\n</ol>",
+      "options": [
+        "$F$ is NOT well-defined.",
+        "$F$ is an onto (or surjective) function.",
+        "$F$ is a one-to-one (or injective) function.",
+        "$F$ is a bijective function."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$F$ is NOT well-defined.",
+          "html": "$F$ is NOT well-defined."
+        },
+        {
+          "label": "B",
+          "text": "$F$ is an onto (or surjective) function.",
+          "html": "$F$ is an onto (or surjective) function."
+        },
+        {
+          "label": "C",
+          "text": "$F$ is a one-to-one (or injective) function.",
+          "html": "$F$ is a one-to-one (or injective) function."
+        },
+        {
+          "label": "D",
+          "text": "$F$ is a bijective function.",
+          "html": "$F$ is a bijective function."
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399272/gate-cse-2023-question-39",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399272/gate-cse-2023-question-39"
+    },
+    {
+      "id": "go:399271",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 50",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Transport Layer (TCP/UDP)",
+      "type": "MSQ",
+      "question": "<p>Suppose you are asked to design a new reliable byte-stream transport protocol like $\\text{TCP}.$ This protocol, named $\\textsf{myTCP}$, runs over a $100 \\mathrm{~Mbps}$ network with Round Trip Time of $150$ milliseconds and the maximum segment lifetime of $2$ minutes.</p>\n<p>Which of the following is/are valid lengths of the <strong>Sequence Number</strong> field in the $\\textsf{myTCP}$ header?</p>",
+      "rawQuestionHtml": "<p>Suppose you are asked to design a new reliable byte-stream transport protocol like $\\text{TCP}.$ This protocol, named $\\textsf{myTCP}$, runs over a $100 \\mathrm{~Mbps}$ network with Round Trip Time of $150$ milliseconds and the maximum segment lifetime of $2$ minutes.</p>\n<p>Which of the following is/are valid lengths of the <strong>Sequence Number</strong> field in the $\\textsf{myTCP}$ header?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$30$ bits</li>\n<li>$32$ bits</li>\n<li>$34$ bits</li>\n<li>$36$ bits</li>\n</ol>",
+      "options": [
+        "$30$ bits",
+        "$32$ bits",
+        "$34$ bits",
+        "$36$ bits"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$30$ bits",
+          "html": "$30$ bits"
+        },
+        {
+          "label": "B",
+          "text": "$32$ bits",
+          "html": "$32$ bits"
+        },
+        {
+          "label": "C",
+          "text": "$34$ bits",
+          "html": "$34$ bits"
+        },
+        {
+          "label": "D",
+          "text": "$36$ bits",
+          "html": "$36$ bits"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399271/gate-cse-2023-question-40",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399271/gate-cse-2023-question-40"
+    },
+    {
+      "id": "go:399270",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 51",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MSQ",
+      "question": "<p>Let $X$ be a set and $2^{X}$ denote the powerset of $X$.</p>\n<p>Define a binary operation $\\Delta$ on $2^{X}$ as follows:<br/>\n\\[<br/>\nA \\Delta B=(A-B) \\cup(B-A) \\text {. }<br/>\n\\]<br/>\nLet $H=\\left(2^{X}, \\Delta\\right)$. Which of the following statements about $H$ is/are correct?</p>",
+      "rawQuestionHtml": "<p>Let $X$ be a set and $2^{X}$ denote the powerset of $X$.</p>\n<p>Define a binary operation $\\Delta$ on $2^{X}$ as follows:<br/>\n\\[<br/>\nA \\Delta B=(A-B) \\cup(B-A) \\text {. }<br/>\n\\]<br/>\nLet $H=\\left(2^{X}, \\Delta\\right)$. Which of the following statements about $H$ is/are correct?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$H$ is a group.</li>\n<li>Every element in $H$ has an inverse, but $H$ is NOT a group.</li>\n<li>For every $A \\in 2^{X},$ the inverse of $A$ is the complement of $A$.</li>\n<li>For every $A \\in 2^{X},$ the inverse of $A$ is $A$.</li>\n</ol>",
+      "options": [
+        "$H$ is a group.",
+        "Every element in $H$ has an inverse, but $H$ is NOT a group.",
+        "For every $A \\in 2^{X},$ the inverse of $A$ is the complement of $A$.",
+        "For every $A \\in 2^{X},$ the inverse of $A$ is $A$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$H$ is a group.",
+          "html": "$H$ is a group."
+        },
+        {
+          "label": "B",
+          "text": "Every element in $H$ has an inverse, but $H$ is NOT a group.",
+          "html": "Every element in $H$ has an inverse, but $H$ is NOT a group."
+        },
+        {
+          "label": "C",
+          "text": "For every $A \\in 2^{X},$ the inverse of $A$ is the complement of $A$.",
+          "html": "For every $A \\in 2^{X},$ the inverse of $A$ is the complement of $A$."
+        },
+        {
+          "label": "D",
+          "text": "For every $A \\in 2^{X},$ the inverse of $A$ is $A$.",
+          "html": "For every $A \\in 2^{X},$ the inverse of $A$ is $A$."
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399270/gate-cse-2023-question-41",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399270/gate-cse-2023-question-41"
+    },
+    {
+      "id": "go:399269",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 52",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Network Layer & IP Addressing",
+      "type": "MSQ",
+      "question": "<p>Suppose in a web browser, you click on the $\\textsf{www. gate-2023.in}\\; \\text{URL}$. The browser cache is empty. The $\\text{IP address}$ for this $\\text{URL}$ is not cached in your local host, so a $\\text{DNS}$ lookup is triggered (by the local $\\text{DNS}$ server deployed on your local host) over the $3$-tier $\\text{DNS}$ hierarchy in an iterative mode. No resource records are cached anywhere across all $\\text{DNS}$ servers.<br/>\n<br/>\nLet $\\text{RTT}$ denote the round trip time between your local host and $\\text{DNS}$ servers in the $\\text{DNS}$ hierarchy. The round trip time between the local host and the web server hosting $\\textsf{www.gate-2023.in}$ is also equal to $\\text{RTT}$. The $\\text{HTML}$ file associated with the $\\text{URL}$ is small enough to have negligible transmission time and negligible rendering time by your web browser, which references $10$ equally small objects on the same web server.<br/>\n<br/>\nWhich of the following statements is/are $\\text{CORRECT}$ about the minimum elapsed time between clicking on the $\\text{URL}$ and your browser fully rendering it?</p>",
+      "rawQuestionHtml": "<p>Suppose in a web browser, you click on the $\\textsf{www. gate-2023.in}\\; \\text{URL}$. The browser cache is empty. The $\\text{IP address}$ for this $\\text{URL}$ is not cached in your local host, so a $\\text{DNS}$ lookup is triggered (by the local $\\text{DNS}$ server deployed on your local host) over the $3$-tier $\\text{DNS}$ hierarchy in an iterative mode. No resource records are cached anywhere across all $\\text{DNS}$ servers.<br/>\n<br/>\nLet $\\text{RTT}$ denote the round trip time between your local host and $\\text{DNS}$ servers in the $\\text{DNS}$ hierarchy. The round trip time between the local host and the web server hosting $\\textsf{www.gate-2023.in}$ is also equal to $\\text{RTT}$. The $\\text{HTML}$ file associated with the $\\text{URL}$ is small enough to have negligible transmission time and negligible rendering time by your web browser, which references $10$ equally small objects on the same web server.<br/>\n<br/>\nWhich of the following statements is/are $\\text{CORRECT}$ about the minimum elapsed time between clicking on the $\\text{URL}$ and your browser fully rendering it?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$7\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.</li>\n<li>$5\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining.</li>\n<li>$9\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.</li>\n<li>$6\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining.</li>\n</ol>",
+      "options": [
+        "$7\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.",
+        "$5\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining.",
+        "$9\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.",
+        "$6\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$7\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.",
+          "html": "$7\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections."
+        },
+        {
+          "label": "B",
+          "text": "$5\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining.",
+          "html": "$5\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining."
+        },
+        {
+          "label": "C",
+          "text": "$9\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections.",
+          "html": "$9\\; \\text{RTT}$s, in case of non-persistent $\\text{HTTP}$ with $5$ parallel $\\text{TCP}$ connections."
+        },
+        {
+          "label": "D",
+          "text": "$6\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining.",
+          "html": "$6\\; \\text{RTT}$s, in case of persistent $\\text{HTTP}$ with pipelining."
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399269/gate-cse-2023-question-42",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399269/gate-cse-2023-question-42"
+    },
+    {
+      "id": "go:399268",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 53",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "MSQ",
+      "question": "<p>Consider a random experiment where two fair coins are tossed. Let $A$ be the event that denotes $\\text{HEAD}$ on both the throws, $B$ be the event that denotes $\\text{HEAD}$ on the first throw, and $C$ be the event that denotes $\\text{HEAD}$ on the second throw. Which of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Consider a random experiment where two fair coins are tossed. Let $A$ be the event that denotes $\\text{HEAD}$ on both the throws, $B$ be the event that denotes $\\text{HEAD}$ on the first throw, and $C$ be the event that denotes $\\text{HEAD}$ on the second throw. Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A$ and $B$ are independent.</li>\n<li>$A$ and $C$ are independent.</li>\n<li>$B$ and $C$ are independent.</li>\n<li>$\\operatorname{Prob}(B \\mid C)=\\operatorname{Prob}(B)$</li>\n</ol>",
+      "options": [
+        "$A$ and $B$ are independent.",
+        "$A$ and $C$ are independent.",
+        "$B$ and $C$ are independent.",
+        "$\\operatorname{Prob}(B \\mid C)=\\operatorname{Prob}(B)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$A$ and $B$ are independent.",
+          "html": "$A$ and $B$ are independent."
+        },
+        {
+          "label": "B",
+          "text": "$A$ and $C$ are independent.",
+          "html": "$A$ and $C$ are independent."
+        },
+        {
+          "label": "C",
+          "text": "$B$ and $C$ are independent.",
+          "html": "$B$ and $C$ are independent."
+        },
+        {
+          "label": "D",
+          "text": "$\\operatorname{Prob}(B \\mid C)=\\operatorname{Prob}(B)$",
+          "html": "$\\operatorname{Prob}(B \\mid C)=\\operatorname{Prob}(B)$"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399268/gate-cse-2023-question-43",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399268/gate-cse-2023-question-43"
+    },
+    {
+      "id": "go:399267",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 54",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MSQ",
+      "question": "<p>Consider functions $\\textsf{Function_1}$ and $\\textsf{Function_2}$ expressed in pseudocode as follows:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">Function_1                    |  Function_2\n    while n &gt; 1 do            |     for i = 1 to 100 * n do   \n        for i = 1 to n do     |         x = x + 1;\n            x = x + 1;        |      end for        \n        end for               |    \n        n = ⌊n/2⌋;            |    \nend while                     |    </pre>\n<p>Let $f_{1}(n)$ and $f_{2}(n)$ denote the number of times the statement $\\textsf{“x = x + 1”}$ is executed in $\\textsf{Function_1}$ and $\\textsf{Function_2},$ respectively.</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Consider functions $\\textsf{Function_1}$ and $\\textsf{Function_2}$ expressed in pseudocode as follows:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">Function_1                    |  Function_2\n    while n &gt; 1 do            |     for i = 1 to 100 * n do   \n        for i = 1 to n do     |         x = x + 1;\n            x = x + 1;        |      end for        \n        end for               |    \n        n = ⌊n/2⌋;            |    \nend while                     |    </pre>\n<p>Let $f_{1}(n)$ and $f_{2}(n)$ denote the number of times the statement $\\textsf{“x = x + 1”}$ is executed in $\\textsf{Function_1}$ and $\\textsf{Function_2},$ respectively.</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f_{1}(n) \\in \\Theta\\left(f_{2}(n)\\right)$</li>\n<li>$f_{1}(n) \\in o\\left(f_{2}(n)\\right)$</li>\n<li>$f_{1}(n) \\in \\omega\\left(f_{2}(n)\\right)$</li>\n<li>$f_{1}(n) \\in O(n)$</li>\n</ol>",
+      "options": [
+        "$f_{1}(n) \\in \\Theta\\left(f_{2}(n)\\right)$",
+        "$f_{1}(n) \\in o\\left(f_{2}(n)\\right)$",
+        "$f_{1}(n) \\in \\omega\\left(f_{2}(n)\\right)$",
+        "$f_{1}(n) \\in O(n)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$f_{1}(n) \\in \\Theta\\left(f_{2}(n)\\right)$",
+          "html": "$f_{1}(n) \\in \\Theta\\left(f_{2}(n)\\right)$"
+        },
+        {
+          "label": "B",
+          "text": "$f_{1}(n) \\in o\\left(f_{2}(n)\\right)$",
+          "html": "$f_{1}(n) \\in o\\left(f_{2}(n)\\right)$"
+        },
+        {
+          "label": "C",
+          "text": "$f_{1}(n) \\in \\omega\\left(f_{2}(n)\\right)$",
+          "html": "$f_{1}(n) \\in \\omega\\left(f_{2}(n)\\right)$"
+        },
+        {
+          "label": "D",
+          "text": "$f_{1}(n) \\in O(n)$",
+          "html": "$f_{1}(n) \\in O(n)$"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399267/gate-cse-2023-question-44",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399267/gate-cse-2023-question-44"
+    },
+    {
+      "id": "go:399266",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 55",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MSQ",
+      "question": "<p>Let $G$ be a simple, finite, undirected graph with vertex set $\\left\\{v_{1}, \\ldots, v_{n}\\right\\}$. Let $\\Delta(G)$ denote the maximum degree of $G$ and let $\\mathbb{N}=\\{1,2, \\ldots\\}$ denote the set of all possible colors. Color the vertices of $G$ using the following greedy strategy: for $i=1, \\ldots, n$</p>\n<p>$\\operatorname{color}\\left(v_{i}\\right) \\leftarrow \\min \\left\\{j \\in \\mathbb{N}\\right.$ : no neighbour of $v_{i}$ is colored $\\left.j\\right\\}$</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>",
+      "rawQuestionHtml": "<p>Let $G$ be a simple, finite, undirected graph with vertex set $\\left\\{v_{1}, \\ldots, v_{n}\\right\\}$. Let $\\Delta(G)$ denote the maximum degree of $G$ and let $\\mathbb{N}=\\{1,2, \\ldots\\}$ denote the set of all possible colors. Color the vertices of $G$ using the following greedy strategy: for $i=1, \\ldots, n$</p>\n<p>$\\operatorname{color}\\left(v_{i}\\right) \\leftarrow \\min \\left\\{j \\in \\mathbb{N}\\right.$ : no neighbour of $v_{i}$ is colored $\\left.j\\right\\}$</p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>This procedure results in a proper vertex coloring of $G$.</li>\n<li>The number of colors used is at most $\\Delta(G)+1$.</li>\n<li>The number of colors used is at most $\\Delta(G)$.</li>\n<li>The number of colors used is equal to the chromatic number of $G$.</li>\n</ol>",
+      "options": [
+        "This procedure results in a proper vertex coloring of $G$.",
+        "The number of colors used is at most $\\Delta(G)+1$.",
+        "The number of colors used is at most $\\Delta(G)$.",
+        "The number of colors used is equal to the chromatic number of $G$."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "This procedure results in a proper vertex coloring of $G$.",
+          "html": "This procedure results in a proper vertex coloring of $G$."
+        },
+        {
+          "label": "B",
+          "text": "The number of colors used is at most $\\Delta(G)+1$.",
+          "html": "The number of colors used is at most $\\Delta(G)+1$."
+        },
+        {
+          "label": "C",
+          "text": "The number of colors used is at most $\\Delta(G)$.",
+          "html": "The number of colors used is at most $\\Delta(G)$."
+        },
+        {
+          "label": "D",
+          "text": "The number of colors used is equal to the chromatic number of $G$.",
+          "html": "The number of colors used is equal to the chromatic number of $G$."
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399266/gate-cse-2023-question-45",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399266/gate-cse-2023-question-45"
+    },
+    {
+      "id": "go:399265",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 56",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "NAT",
+      "question": "Let $U=\\{1,2,3\\}$. Let $2^{U}$ denote the powerset of $U$. Consider an undirected graph $G$ whose vertex set is $2^{U}$. For any $A, B \\in 2^{U},(A, B)$ is an edge in $G$ if and only if (i) $A \\neq B$, and (ii) either $A \\subsetneq B$ or $B \\subsetneq A$. For any vertex $A$ in $G$, the set of all possible orderings in which the vertices of $G$ can be visited in a Breadth First Search $\\text{(BFS)}$ starting from $A$ is denoted by $\\mathcal{B}(A)$.<br/>\n<br/>\nIf $\\emptyset$ denotes the empty set, then the cardinality of $\\mathcal{B}(\\emptyset)$ is ______________.",
+      "rawQuestionHtml": "Let $U=\\{1,2,3\\}$. Let $2^{U}$ denote the powerset of $U$. Consider an undirected graph $G$ whose vertex set is $2^{U}$. For any $A, B \\in 2^{U},(A, B)$ is an edge in $G$ if and only if (i) $A \\neq B$, and (ii) either $A \\subsetneq B$ or $B \\subsetneq A$. For any vertex $A$ in $G$, the set of all possible orderings in which the vertices of $G$ can be visited in a Breadth First Search $\\text{(BFS)}$ starting from $A$ is denoted by $\\mathcal{B}(A)$.<br/>\n<br/>\nIf $\\emptyset$ denotes the empty set, then the cardinality of $\\mathcal{B}(\\emptyset)$ is ______________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "5040"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399265/gate-cse-2023-question-46",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399265/gate-cse-2023-question-46"
+    },
+    {
+      "id": "go:399264",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 57",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "NAT",
+      "question": "<p>Consider the following two-dimensional array $\\text{D}$ in the $\\text{C}$ programming language, which is stored in row-major order:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int D[128][128];</pre>\n<p>Demand paging is used for allocating memory and each physical page frame holds $512$ elements of the array $\\text{D}.$ The Least Recently Used $\\text{(LRU)}$ page-replacement policy is used by the operating system. A total of $\\text{30}$ physical page frames are allocated to a process which executes the following code snippet:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">for (int i = 0; i &lt; 128; i++)\n    for (int j = 0; j &lt; 128; j++)\n        D[j][i] *= 10;</pre>\n<p>The number of page faults generated during the execution of this code snippet is _______________.</p>",
+      "rawQuestionHtml": "<p>Consider the following two-dimensional array $\\text{D}$ in the $\\text{C}$ programming language, which is stored in row-major order:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int D[128][128];</pre>\n<p>Demand paging is used for allocating memory and each physical page frame holds $512$ elements of the array $\\text{D}.$ The Least Recently Used $\\text{(LRU)}$ page-replacement policy is used by the operating system. A total of $\\text{30}$ physical page frames are allocated to a process which executes the following code snippet:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">for (int i = 0; i &lt; 128; i++)\n    for (int j = 0; j &lt; 128; j++)\n        D[j][i] *= 10;</pre>\n<p>The number of page faults generated during the execution of this code snippet is _______________.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4096"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399264/gate-cse-2023-question-47",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399264/gate-cse-2023-question-47"
+    },
+    {
+      "id": "go:399263",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 58",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "NAT",
+      "question": "Consider a computer system with $57$-bit virtual addressing using multi-level tree-structured page tables with $\\mathrm{L}$ levels for virtual to physical address translation. The page size is $4 \\mathrm{~KB}(1 \\mathrm{~KB}=1024 \\mathrm{~B})$ and a page table entry at any of the levels occupies $8$ bytes.<br/>\n<br/>\nThe value of $\\mathrm{L}$ is ______________.",
+      "rawQuestionHtml": "Consider a computer system with $57$-bit virtual addressing using multi-level tree-structured page tables with $\\mathrm{L}$ levels for virtual to physical address translation. The page size is $4 \\mathrm{~KB}(1 \\mathrm{~KB}=1024 \\mathrm{~B})$ and a page table entry at any of the levels occupies $8$ bytes.<br/>\n<br/>\nThe value of $\\mathrm{L}$ is ______________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "5"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399263/gate-cse-2023-question-48",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399263/gate-cse-2023-question-48"
+    },
+    {
+      "id": "go:399262",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 59",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "NAT",
+      "question": "<p>Consider a sequence $a$ of elements $a_{0}=1, a_{1}=5, a_{2}=7, a_{3}=8, a_{4}=9$, and $a_{5}=2$. The following operations are performed on a stack $S$ and a queue $Q,$ both of which are initially empty.</p>\n<ol start=\"1\" style=\"list-style-type:upper-roman\">\n<li>$\\textsf{push}$ the elements of $a$ from $a_{0}$ to $a_{5}$ in that order into $S$.</li>\n<li>$\\textsf{enqueue}$ the elements of $a$ from $a_{0}$ to $a_{5}$ in that order into $Q$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$ and push the same element into $S$.</li>\n<li>Repeat operation $\\text{VII}$ three times.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n</ol>\n<p>The top element of $S$ after executing the above operations is ______________.</p>",
+      "rawQuestionHtml": "<p>Consider a sequence $a$ of elements $a_{0}=1, a_{1}=5, a_{2}=7, a_{3}=8, a_{4}=9$, and $a_{5}=2$. The following operations are performed on a stack $S$ and a queue $Q,$ both of which are initially empty.</p>\n<ol start=\"1\" style=\"list-style-type:upper-roman\">\n<li>$\\textsf{push}$ the elements of $a$ from $a_{0}$ to $a_{5}$ in that order into $S$.</li>\n<li>$\\textsf{enqueue}$ the elements of $a$ from $a_{0}$ to $a_{5}$ in that order into $Q$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$.</li>\n<li>$\\textsf{dequeue}$ an element from $Q$ and push the same element into $S$.</li>\n<li>Repeat operation $\\text{VII}$ three times.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n<li>$\\textsf{pop}$ an element from $S$.</li>\n</ol>\n<p>The top element of $S$ after executing the above operations is ______________.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "8"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399262/gate-cse-2023-question-49",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399262/gate-cse-2023-question-49"
+    },
+    {
+      "id": "go:399261",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 60",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Syntax-Directed Translation & Intermediate Code",
+      "type": "NAT",
+      "question": "Consider the syntax directed translation given by the following grammar and semantic rules. Here $N, I, F$ and $B$ are non-terminals. $N$ is the starting non-terminal, and $\\#, \\mathbf{0}$ and $\\mathbf{1}$ are lexical tokens corresponding to input letters $\\text{“#\", “0\" and “1\"},$ respectively. $X.val$ denotes the synthesized attribute (a numeric value) associated with a non-terminal $X. \\;I_{1}$ and $F_{1}$ denote occurrences of $I$ and $F$ on the right hand side of a production, respectively. For the tokens $\\mathbf{0}$ and $\\mathbf{1}, \\mathbf{0} . v a l=0$ and $\\mathbf{1}.val =1$.<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\nN \\rightarrow I \\# F &amp;  N.val =I . v a l+F . v a l \\\\<br/>\nI\\rightarrow I_{1} B &amp;  I.val =\\left(2 I_{1} . v a l\\right)+B.val  \\\\<br/>\nI \\rightarrow  B &amp; I.val =\\text { B.val } \\\\<br/>\nF \\rightarrow B F_{1} &amp; F.val =\\frac{1}{2}\\left(B . v a l+F_{1} . v a l\\right) \\\\<br/>\nF \\rightarrow B &amp; \\text { F.val }=\\frac{1}{2} B.val  \\\\<br/>\nB \\rightarrow \\mathbf{0} &amp; B . v a l=\\mathbf{0} . v a l \\\\<br/>\nB \\rightarrow \\mathbf{1}  &amp; B . v a l=\\mathbf{1} . v a l \\\\<br/>\n\\end{array}<br/>\n\\]<br/>\nThe value computed by the translation scheme for the input string<br/>\n$$10\\#011$$<br/>\nis ____________. (Rounded off to three decimal places)",
+      "rawQuestionHtml": "Consider the syntax directed translation given by the following grammar and semantic rules. Here $N, I, F$ and $B$ are non-terminals. $N$ is the starting non-terminal, and $\\#, \\mathbf{0}$ and $\\mathbf{1}$ are lexical tokens corresponding to input letters $\\text{“#\", “0\" and “1\"},$ respectively. $X.val$ denotes the synthesized attribute (a numeric value) associated with a non-terminal $X. \\;I_{1}$ and $F_{1}$ denote occurrences of $I$ and $F$ on the right hand side of a production, respectively. For the tokens $\\mathbf{0}$ and $\\mathbf{1}, \\mathbf{0} . v a l=0$ and $\\mathbf{1}.val =1$.<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\nN \\rightarrow I \\# F &amp;  N.val =I . v a l+F . v a l \\\\<br/>\nI\\rightarrow I_{1} B &amp;  I.val =\\left(2 I_{1} . v a l\\right)+B.val  \\\\<br/>\nI \\rightarrow  B &amp; I.val =\\text { B.val } \\\\<br/>\nF \\rightarrow B F_{1} &amp; F.val =\\frac{1}{2}\\left(B . v a l+F_{1} . v a l\\right) \\\\<br/>\nF \\rightarrow B &amp; \\text { F.val }=\\frac{1}{2} B.val  \\\\<br/>\nB \\rightarrow \\mathbf{0} &amp; B . v a l=\\mathbf{0} . v a l \\\\<br/>\nB \\rightarrow \\mathbf{1}  &amp; B . v a l=\\mathbf{1} . v a l \\\\<br/>\n\\end{array}<br/>\n\\]<br/>\nThe value computed by the translation scheme for the input string<br/>\n$$10\\#011$$<br/>\nis ____________. (Rounded off to three decimal places)",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2.375"
+      ],
+      "tolerance": {
+        "lower": 2.374,
+        "upper": 2.376,
+        "abs": 0.001
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399261/gate-cse-2023-question-50",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399261/gate-cse-2023-question-50"
+    },
+    {
+      "id": "go:399260",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 61",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "NAT",
+      "question": "<p>Consider the following table named $\\text{Student}$ in a relational database. The primary key of this table is $\\text{rollNum}.$</p>\n<p>$\\text{Student}$<br/>\n$\\begin{array}{|c|l|c|c|}<br/>\n\\hline \\underline{\\text{rollNum}} &amp; \\text{name} &amp; \\text{gender} &amp; \\text{marks} \\\\<br/>\n\\hline \\hline 1 &amp; \\text{Naman} &amp; \\mathrm{M} &amp; 62 \\\\<br/>\n\\hline 2 &amp; \\text{Aliya} &amp; \\mathrm{F} &amp; 70 \\\\<br/>\n\\hline 3 &amp; \\text{Aliya} &amp; \\mathrm{F} &amp; 80 \\\\<br/>\n\\hline 4 &amp; \\text{James} &amp; \\mathrm{M} &amp; 82 \\\\<br/>\n\\hline 5 &amp; \\text{Swati} &amp; \\mathrm{F} &amp; 65 \\\\<br/>\n\\hline<br/>\n\\end{array}$</p>\n<p>The $\\text{SQL}$ query below is executed on this database.</p>\n<pre class=\"prettyprint linenums lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">SELECT *\nFROM Student\nWHERE gender = 'F' AND\n    marks  &gt; 65;</pre>\n<p>The number of rows returned by the query is ___________.</p>",
+      "rawQuestionHtml": "<p>Consider the following table named $\\text{Student}$ in a relational database. The primary key of this table is $\\text{rollNum}.$</p>\n<p>$\\text{Student}$<br/>\n$\\begin{array}{|c|l|c|c|}<br/>\n\\hline \\underline{\\text{rollNum}} &amp; \\text{name} &amp; \\text{gender} &amp; \\text{marks} \\\\<br/>\n\\hline \\hline 1 &amp; \\text{Naman} &amp; \\mathrm{M} &amp; 62 \\\\<br/>\n\\hline 2 &amp; \\text{Aliya} &amp; \\mathrm{F} &amp; 70 \\\\<br/>\n\\hline 3 &amp; \\text{Aliya} &amp; \\mathrm{F} &amp; 80 \\\\<br/>\n\\hline 4 &amp; \\text{James} &amp; \\mathrm{M} &amp; 82 \\\\<br/>\n\\hline 5 &amp; \\text{Swati} &amp; \\mathrm{F} &amp; 65 \\\\<br/>\n\\hline<br/>\n\\end{array}$</p>\n<p>The $\\text{SQL}$ query below is executed on this database.</p>\n<pre class=\"prettyprint linenums lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">SELECT *\nFROM Student\nWHERE gender = 'F' AND\n    marks  &gt; 65;</pre>\n<p>The number of rows returned by the query is ___________.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399260/gate-cse-2023-question-51",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399260/gate-cse-2023-question-51"
+    },
+    {
+      "id": "go:399259",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 52,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 62",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Indexing & B/B+ Trees",
+      "type": "NAT",
+      "question": "<p>Consider a database of fixed-length records, stored as an ordered file. The database has $25,000$ records, with each record being $100$ bytes, of which the primary key occupies $15$ bytes. The data file is block-aligned in that each data record is fully contained within a block. The database is indexed by a primary index file, which is also stored as a block-aligned ordered file. The figure below depicts this indexing scheme.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"479\" src=\"/Gate_QA/question-images/1308315137513461810.webp\" width=\"528\"/></p>\n<p>Suppose the block size of the file system is $1024$ bytes, and a pointer to a block occupies $5$ bytes. The system uses binary search on the index file to search for a record with a given key. You may assume that a binary search on an index file of $b$ blocks takes $\\left\\lceil\\log _{2} b\\right\\rceil$ block accesses in the worst case.</p>\n<p>Given a key, the number of block accesses required to identify the block in the data file that may contain a record with the key, in the worst case, is _____________.</p>",
+      "rawQuestionHtml": "<p>Consider a database of fixed-length records, stored as an ordered file. The database has $25,000$ records, with each record being $100$ bytes, of which the primary key occupies $15$ bytes. The data file is block-aligned in that each data record is fully contained within a block. The database is indexed by a primary index file, which is also stored as a block-aligned ordered file. The figure below depicts this indexing scheme.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"479\" src=\"/Gate_QA/question-images/1308315137513461810.webp\" width=\"528\"/></p>\n<p>Suppose the block size of the file system is $1024$ bytes, and a pointer to a block occupies $5$ bytes. The system uses binary search on the index file to search for a record with a given key. You may assume that a binary search on an index file of $b$ blocks takes $\\left\\lceil\\log _{2} b\\right\\rceil$ block accesses in the worst case.</p>\n<p>Given a key, the number of block accesses required to identify the block in the data file that may contain a record with the key, in the worst case, is _____________.</p>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "6"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399259/gate-cse-2023-question-52",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399259/gate-cse-2023-question-52"
+    },
+    {
+      "id": "go:399258",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 53,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 63",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "NAT",
+      "question": "Consider the language $L$ over the alphabet $\\{0,1\\}$, given below:<br/>\n\\[<br/>\nL=\\left\\{w \\in\\{0,1\\}^{*} \\mid w \\text { does not contain three or more consecutive } 1 \\text { 's }\\right\\} .<br/>\n\\]<br/>\nThe minimum number of states in a Deterministic Finite-State Automaton $\\text{(DFA)}$ for $L$ is ____________.",
+      "rawQuestionHtml": "Consider the language $L$ over the alphabet $\\{0,1\\}$, given below:<br/>\n\\[<br/>\nL=\\left\\{w \\in\\{0,1\\}^{*} \\mid w \\text { does not contain three or more consecutive } 1 \\text { 's }\\right\\} .<br/>\n\\]<br/>\nThe minimum number of states in a Deterministic Finite-State Automaton $\\text{(DFA)}$ for $L$ is ____________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399258/gate-cse-2023-question-53",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399258/gate-cse-2023-question-53"
+    },
+    {
+      "id": "go:399257",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 54,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 64",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "NAT",
+      "question": "An $8$-way set associative cache of size $64 \\mathrm{~KB} \\;(1 \\mathrm{~KB}=1024\\; \\text{bytes})$ is used in a system with $32$-bit address. The address is sub-divided into $\\text{TAG, INDEX},$ and $\\text{BLOCK OFFSET.}$<br/>\n<br/>\nThe number of bits in the $\\text{TAG}$ is ___________.",
+      "rawQuestionHtml": "An $8$-way set associative cache of size $64 \\mathrm{~KB} \\;(1 \\mathrm{~KB}=1024\\; \\text{bytes})$ is used in a system with $32$-bit address. The address is sub-divided into $\\text{TAG, INDEX},$ and $\\text{BLOCK OFFSET.}$<br/>\n<br/>\nThe number of bits in the $\\text{TAG}$ is ___________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "19"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399257/gate-cse-2023-question-54",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399257/gate-cse-2023-question-54"
+    },
+    {
+      "id": "go:399256",
+      "testId": "gate-2023-s0",
+      "year": 2023,
+      "set": 1,
+      "yearSetKey": "2023-s0",
+      "orderIndex": 55,
+      "section": "CS",
+      "title": "GATE CSE 2023 | Question: 65",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Network Layer & IP Addressing",
+      "type": "NAT",
+      "question": "The forwarding table of a router is shown below.<br/>\n$$\\begin{array}{|l|l|c|}<br/>\n\\hline \\textbf{Subnet Number} &amp; \\textbf{Subnet Mask} &amp; \\textbf{Interface ID} \\\\<br/>\n\\hline 200.150 .0 .0 &amp; 255.255 .0 .0 &amp; 1 \\\\<br/>\n\\hline 200.150 .64 .0 &amp; 255.255 .224 .0 &amp; 2 \\\\<br/>\n\\hline 200.150 .68 .0 &amp; 255.255 .255 .0 &amp; 3 \\\\<br/>\n\\hline 200.150 .68 .64 &amp; 255.255 .255 .224 &amp; 4 \\\\<br/>\n\\hline \\text{Default} &amp; &amp; 0 \\\\<br/>\n\\hline<br/>\n\\end{array}$$<br/>\nA packet addressed to a destination address $200.150 .68 .118$ arrives at the router. It will be forwarded to the interface with $\\text{ID}$ __________.",
+      "rawQuestionHtml": "The forwarding table of a router is shown below.<br/>\n$$\\begin{array}{|l|l|c|}<br/>\n\\hline \\textbf{Subnet Number} &amp; \\textbf{Subnet Mask} &amp; \\textbf{Interface ID} \\\\<br/>\n\\hline 200.150 .0 .0 &amp; 255.255 .0 .0 &amp; 1 \\\\<br/>\n\\hline 200.150 .64 .0 &amp; 255.255 .224 .0 &amp; 2 \\\\<br/>\n\\hline 200.150 .68 .0 &amp; 255.255 .255 .0 &amp; 3 \\\\<br/>\n\\hline 200.150 .68 .64 &amp; 255.255 .255 .224 &amp; 4 \\\\<br/>\n\\hline \\text{Default} &amp; &amp; 0 \\\\<br/>\n\\hline<br/>\n\\end{array}$$<br/>\nA packet addressed to a destination address $200.150 .68 .118$ arrives at the router. It will be forwarded to the interface with $\\text{ID}$ __________.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/399256/gate-cse-2023-question-55",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/399256/gate-cse-2023-question-55"
+    }
+  ]
+}

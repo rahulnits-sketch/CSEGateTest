@@ -1,0 +1,1465 @@
+{
+  "id": "gate-1992-s0",
+  "yearSetKey": "1992-s0",
+  "year": 1992,
+  "set": 1,
+  "title": "GATE CSE 1992",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 33,
+  "totalQuestions": 29,
+  "gaQuestions": 0,
+  "csQuestions": 29,
+  "questions": [
+    {
+      "id": "go:546",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 01,ii",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "Data Link Layer & Flow Control",
+      "type": "NAT",
+      "question": "Consider a $3$-bit error detection and $1$-bit error correction hamming code for $4$-bit data. The extra parity bits required would be _____ and the $3$-bit error detection is possible because the code has a minimum distance of _______.",
+      "rawQuestionHtml": "Consider a $3$-bit error detection and $1$-bit error correction hamming code for $4$-bit data. The extra parity bits required would be _____ and the $3$-bit error detection is possible because the code has a minimum distance of _______.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3",
+        "4"
+      ],
+      "tolerance": {
+        "abs": 0
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/546/gate-cse-1992-question-01-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/546/gate-cse-1992-question-01-ii"
+    },
+    {
+      "id": "go:551",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 01-vi",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "NAT",
+      "question": "In an $11$-bit computer instruction format, the size of address field is $4$-bits. The computer uses expanding OP code technique and has $5$ two-address instructions and $32$ one-address instructions. The number of zero-address instructions it can support is ________",
+      "rawQuestionHtml": "In an $11$-bit computer instruction format, the size of address field is $4$-bits. The computer uses expanding OP code technique and has $5$ two-address instructions and $32$ one-address instructions. The number of zero-address instructions it can support is ________",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "256"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/551/gate-cse-1992-question-01-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/551/gate-cse-1992-question-01-vi"
+    },
+    {
+      "id": "go:555",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02-i",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The operation which is commutative but not associative is:</p>",
+      "rawQuestionHtml": "<p>The operation which is commutative but not associative is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>AND</li>\n<li>OR</li>\n<li>EX-OR</li>\n<li>NAND</li>\n</ol>",
+      "options": [
+        "AND",
+        "OR",
+        "EX-OR",
+        "NAND"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "AND",
+          "html": "AND"
+        },
+        {
+          "label": "B",
+          "text": "OR",
+          "html": "OR"
+        },
+        {
+          "label": "C",
+          "text": "EX-OR",
+          "html": "EX-OR"
+        },
+        {
+          "label": "D",
+          "text": "NAND",
+          "html": "NAND"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/555/gate-cse-1992-question-02-i",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/555/gate-cse-1992-question-02-i"
+    },
+    {
+      "id": "go:556",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02-ii",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MSQ",
+      "question": "<p>All digital circuits can be realized using only</p>",
+      "rawQuestionHtml": "<p>All digital circuits can be realized using only</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Ex-OR gates</li>\n<li>Multiplexers</li>\n<li>Half adders</li>\n<li>OR gates</li>\n</ol>",
+      "options": [
+        "Ex-OR gates",
+        "Multiplexers",
+        "Half adders",
+        "OR gates"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Ex-OR gates",
+          "html": "Ex-OR gates"
+        },
+        {
+          "label": "B",
+          "text": "Multiplexers",
+          "html": "Multiplexers"
+        },
+        {
+          "label": "C",
+          "text": "Half adders",
+          "html": "Half adders"
+        },
+        {
+          "label": "D",
+          "text": "OR gates",
+          "html": "OR gates"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/556/gate-cse-1992-question-02-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/556/gate-cse-1992-question-02-ii"
+    },
+    {
+      "id": "go:557",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.iii",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nBit-slice processors</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nBit-slice processors</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>can be cascaded to get any desired word length processor</p>\n</li>\n<li>\n<p>speed of operation is independent of the word length configured</p>\n</li>\n<li>\n<p>do not contain anything equivalent of program counter in a 'normal' microprocessor</p>\n</li>\n<li>\n<p>Contain only the data path of a 'normal' CPU</p>\n</li>\n</ol>",
+      "options": [
+        "can be cascaded to get any desired word length processor",
+        "speed of operation is independent of the word length configured",
+        "do not contain anything equivalent of program counter in a 'normal' microprocessor",
+        "Contain only the data path of a 'normal' CPU"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "can be cascaded to get any desired word length processor",
+          "html": "<p>can be cascaded to get any desired word length processor</p>"
+        },
+        {
+          "label": "B",
+          "text": "speed of operation is independent of the word length configured",
+          "html": "<p>speed of operation is independent of the word length configured</p>"
+        },
+        {
+          "label": "C",
+          "text": "do not contain anything equivalent of program counter in a 'normal' microprocessor",
+          "html": "<p>do not contain anything equivalent of program counter in a 'normal' microprocessor</p>"
+        },
+        {
+          "label": "D",
+          "text": "Contain only the data path of a 'normal' CPU",
+          "html": "<p>Contain only the data path of a 'normal' CPU</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/557/gate1992-02-iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/557/gate1992-02-iii"
+    },
+    {
+      "id": "go:558",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.iv",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>PCHL is an instruction in 8085 which transfers the contents of the register\npair HL to PC. This is not a very commonly used instruction as it changes the\nflow of control in rather 'unstructured' fashion. This instruction can be useful\nin implementing.</p>",
+      "rawQuestionHtml": "<p>PCHL is an instruction in 8085 which transfers the contents of the register\npair HL to PC. This is not a very commonly used instruction as it changes the\nflow of control in rather 'unstructured' fashion. This instruction can be useful\nin implementing.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>if ... then ... else ... construct</p>\n</li>\n<li>\n<p>while .. construct</p>\n</li>\n<li>\n<p>case .. construct</p>\n</li>\n<li>\n<p>call ... construct</p>\n</li>\n</ol>",
+      "options": [
+        "if ... then ... else ... construct",
+        "while .. construct",
+        "case .. construct",
+        "call ... construct"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "if ... then ... else ... construct",
+          "html": "<p>if ... then ... else ... construct</p>"
+        },
+        {
+          "label": "B",
+          "text": "while .. construct",
+          "html": "<p>while .. construct</p>"
+        },
+        {
+          "label": "C",
+          "text": "case .. construct",
+          "html": "<p>case .. construct</p>"
+        },
+        {
+          "label": "D",
+          "text": "call ... construct",
+          "html": "<p>call ... construct</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/558/gate1992-02-iv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/558/gate1992-02-iv"
+    },
+    {
+      "id": "go:560",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.v",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nStart and stop bits do not contain any 'information' but are used in serial communication</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nStart and stop bits do not contain any 'information' but are used in serial communication</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Error detection</p>\n</li>\n<li>\n<p>Error correction</p>\n</li>\n<li>\n<p>Synchronization</p>\n</li>\n<li>\n<p>Slowing down the communications</p>\n</li>\n</ol>",
+      "options": [
+        "Error detection",
+        "Error correction",
+        "Synchronization",
+        "Slowing down the communications"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Error detection",
+          "html": "<p>Error detection</p>"
+        },
+        {
+          "label": "B",
+          "text": "Error correction",
+          "html": "<p>Error correction</p>"
+        },
+        {
+          "label": "C",
+          "text": "Synchronization",
+          "html": "<p>Synchronization</p>"
+        },
+        {
+          "label": "D",
+          "text": "Slowing down the communications",
+          "html": "<p>Slowing down the communications</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/560/gate1992-02-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/560/gate1992-02-v"
+    },
+    {
+      "id": "go:561",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.vi",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nWhich of the following problems is not NP-hard?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nWhich of the following problems is not NP-hard?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Hamiltonian circuit problem</p>\n</li>\n<li>\n<p>The 0/1 Knapsack problem</p>\n</li>\n<li>\n<p>Finding bi-connected components of a graph</p>\n</li>\n<li>\n<p>The graph coloring problem</p>\n</li>\n</ol>",
+      "options": [
+        "Hamiltonian circuit problem",
+        "The 0/1 Knapsack problem",
+        "Finding bi-connected components of a graph",
+        "The graph coloring problem"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Hamiltonian circuit problem",
+          "html": "<p>Hamiltonian circuit problem</p>"
+        },
+        {
+          "label": "B",
+          "text": "The 0/1 Knapsack problem",
+          "html": "<p>The 0/1 Knapsack problem</p>"
+        },
+        {
+          "label": "C",
+          "text": "Finding bi-connected components of a graph",
+          "html": "<p>Finding bi-connected components of a graph</p>"
+        },
+        {
+          "label": "D",
+          "text": "The graph coloring problem",
+          "html": "<p>The graph coloring problem</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/561/gate1992-02-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/561/gate1992-02-vi"
+    },
+    {
+      "id": "go:562",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.vii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p></p><p>\nA 2-3 tree is such that</p><p>\na. All internal nodes have either 2 or 3 children</p><p>\nb. All paths from root to the leaves have the same length.</p><p></p><p>The number of internal nodes of a 2-3 tree having 9 leaves could be</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p></p><p>\nA 2-3 tree is such that</p><p>\na. All internal nodes have either 2 or 3 children</p><p>\nb. All paths from root to the leaves have the same length.</p><p></p><p>The number of internal nodes of a 2-3 tree having 9 leaves could be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>4</p>\n</li>\n<li>\n<p>5</p>\n</li>\n<li>\n<p>6</p>\n</li>\n<li>\n<p>7</p>\n</li>\n</ol>",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "html": "<p>7</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/562/gate1992-02-vii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/562/gate1992-02-vii"
+    },
+    {
+      "id": "go:563",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.viii",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives ( more than one may be correct) and write the corresponding letters only:</p><p>A non-planar graph with minimum number of vertices has</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives ( more than one may be correct) and write the corresponding letters only:</p><p>A non-planar graph with minimum number of vertices has</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>9 edges, 6 vertices</p>\n</li>\n<li>\n<p>6 edges, 4 vertices</p>\n</li>\n<li>\n<p>10 edges, 5 vertices</p>\n</li>\n<li>\n<p>9 edges, 5 vertices</p>\n</li>\n</ol>",
+      "options": [
+        "9 edges, 6 vertices",
+        "6 edges, 4 vertices",
+        "10 edges, 5 vertices",
+        "9 edges, 5 vertices"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "9 edges, 6 vertices",
+          "html": "<p>9 edges, 6 vertices</p>"
+        },
+        {
+          "label": "B",
+          "text": "6 edges, 4 vertices",
+          "html": "<p>6 edges, 4 vertices</p>"
+        },
+        {
+          "label": "C",
+          "text": "10 edges, 5 vertices",
+          "html": "<p>10 edges, 5 vertices</p>"
+        },
+        {
+          "label": "D",
+          "text": "9 edges, 5 vertices",
+          "html": "<p>9 edges, 5 vertices</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/563/gate1992-02-viii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/563/gate1992-02-viii"
+    },
+    {
+      "id": "go:559",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.ix",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nFollowing algorithm(s) can be used to sort n in the range [latex][1\\ldots n^3][/latex] in O(n) time</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nFollowing algorithm(s) can be used to sort n in the range [latex][1\\ldots n^3][/latex] in O(n) time</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Heap sort</p>\n</li>\n<li>\n<p>Quick sort</p>\n</li>\n<li>\n<p>Merge sort</p>\n</li>\n<li>\n<p>Radix sort</p>\n</li>\n</ol>",
+      "options": [
+        "Heap sort",
+        "Quick sort",
+        "Merge sort",
+        "Radix sort"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Heap sort",
+          "html": "<p>Heap sort</p>"
+        },
+        {
+          "label": "B",
+          "text": "Quick sort",
+          "html": "<p>Quick sort</p>"
+        },
+        {
+          "label": "C",
+          "text": "Merge sort",
+          "html": "<p>Merge sort</p>"
+        },
+        {
+          "label": "D",
+          "text": "Radix sort",
+          "html": "<p>Radix sort</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/559/gate1992-02-ix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/559/gate1992-02-ix"
+    },
+    {
+      "id": "go:564",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.x",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nAt a particular time of computation, the value of a counting semaphore is 7. Then 20 P operations and 15 V operations were completed on this semaphore. The resulting value of the semaphore is :</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nAt a particular time of computation, the value of a counting semaphore is 7. Then 20 P operations and 15 V operations were completed on this semaphore. The resulting value of the semaphore is :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>42</p>\n</li>\n<li>\n<p>2</p>\n</li>\n<li>\n<p>7</p>\n</li>\n<li>\n<p>12</p>\n</li>\n</ol>",
+      "options": [
+        "42",
+        "2",
+        "7",
+        "12"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "42",
+          "html": "<p>42</p>"
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "label": "D",
+          "text": "12",
+          "html": "<p>12</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/564/gate1992-02-x-isro2015-35",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/564/gate1992-02-x-isro2015-35"
+    },
+    {
+      "id": "go:568",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02-xi",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Deadlocks & Resource Allocation",
+      "type": "MCQ",
+      "question": "<p>A computer system has $6$ tape devices, with n processes competing for them. Each process may need $3$ tape drives. The maximum value of n for which the system is guaranteed to be deadlock-free is:</p>",
+      "rawQuestionHtml": "<p>A computer system has $6$ tape devices, with n processes competing for them. Each process may need $3$ tape drives. The maximum value of n for which the system is guaranteed to be deadlock-free is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$1$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "D",
+          "text": "$1$",
+          "html": "$1$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/568/gate-cse-1992-question-02-xi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/568/gate-cse-1992-question-02-xi"
+    },
+    {
+      "id": "go:569",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02-xii",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which of the following is an example of a spooled device?</p>",
+      "rawQuestionHtml": "<a name=\"569\"></a><div itemprop=\"text\"><p>Which of the following is an example of a spooled device?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>The terminal used to input data for a program being executed.</li>\n\t<li>The secondary memory device in a virtual memory system</li>\n\t<li>A line printer used to print the output of a number of jobs.</li>\n\t<li>None of the above</li>\n</ol></div>",
+      "options": [
+        "The terminal used to input data for a program being executed.",
+        "The secondary memory device in a virtual memory system",
+        "A line printer used to print the output of a number of jobs.",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The terminal used to input data for a program being executed.",
+          "html": "The terminal used to input data for a program being executed."
+        },
+        {
+          "label": "B",
+          "text": "The secondary memory device in a virtual memory system",
+          "html": "The secondary memory device in a virtual memory system"
+        },
+        {
+          "label": "C",
+          "text": "A line printer used to print the output of a number of jobs.",
+          "html": "A line printer used to print the output of a number of jobs."
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/569/gate-cse-1992-question-02-xii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/569/gate-cse-1992-question-02-xii"
+    },
+    {
+      "id": "go:570",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02,xiii",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MSQ",
+      "question": "<p>For a context free grammar, FOLLOW(A) is the set of terminals that can appear immediately to the right of non-terminal $A$ in some \"sentential\" form. We define two sets LFOLLOW(A) and RFOLLOW(A) by replacing the word \"sentential\" by \"left sentential\" and \"right most sentential\" respectively in the definition of FOLLOW (A).</p>",
+      "rawQuestionHtml": "<p>For a context free grammar, FOLLOW(A) is the set of terminals that can appear immediately to the right of non-terminal $A$ in some \"sentential\" form. We define two sets LFOLLOW(A) and RFOLLOW(A) by replacing the word \"sentential\" by \"left sentential\" and \"right most sentential\" respectively in the definition of FOLLOW (A).</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>FOLLOW(A) and LFOLLOW(A) may be different.</li>\n<li>FOLLOW(A) and RFOLLOW(A) are always the same.</li>\n<li>All the three sets are identical.</li>\n<li>All the three sets are different.</li>\n</ol>",
+      "options": [
+        "FOLLOW(A) and LFOLLOW(A) may be different.",
+        "FOLLOW(A) and RFOLLOW(A) are always the same.",
+        "All the three sets are identical.",
+        "All the three sets are different."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "FOLLOW(A) and LFOLLOW(A) may be different.",
+          "html": "FOLLOW(A) and LFOLLOW(A) may be different."
+        },
+        {
+          "label": "B",
+          "text": "FOLLOW(A) and RFOLLOW(A) are always the same.",
+          "html": "FOLLOW(A) and RFOLLOW(A) are always the same."
+        },
+        {
+          "label": "C",
+          "text": "All the three sets are identical.",
+          "html": "All the three sets are identical."
+        },
+        {
+          "label": "D",
+          "text": "All the three sets are different.",
+          "html": "All the three sets are different."
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/570/gate-cse-1992-question-02-xiii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/570/gate-cse-1992-question-02-xiii"
+    },
+    {
+      "id": "go:571",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xiv",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only:</p><p>\nConsider the SLR(1) and LALR (1)  parsing tables for a context free grammar. Which of the following statement is/are true?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only:</p><p>\nConsider the SLR(1) and LALR (1)  parsing tables for a context free grammar. Which of the following statement is/are true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>The goto part of both tables may be different.</p>\n</li>\n<li>\n<p>The shift entries are identical in both the tables.</p>\n</li>\n<li>\n<p>The reduce entries in the tables may be different.</p>\n</li>\n<li>\n<p>The error entries in tables may be different</p>\n</li>\n</ol>",
+      "options": [
+        "The goto part of both tables may be different.",
+        "The shift entries are identical in both the tables.",
+        "The reduce entries in the tables may be different.",
+        "The error entries in tables may be different"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The goto part of both tables may be different.",
+          "html": "<p>The goto part of both tables may be different.</p>"
+        },
+        {
+          "label": "B",
+          "text": "The shift entries are identical in both the tables.",
+          "html": "<p>The shift entries are identical in both the tables.</p>"
+        },
+        {
+          "label": "C",
+          "text": "The reduce entries in the tables may be different.",
+          "html": "<p>The reduce entries in the tables may be different.</p>"
+        },
+        {
+          "label": "D",
+          "text": "The error entries in tables may be different",
+          "html": "<p>The error entries in tables may be different</p>"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/571/gate1992-02-xiv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/571/gate1992-02-xiv"
+    },
+    {
+      "id": "go:574",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xvi",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following is/are a tautology?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following is/are a tautology?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>[latex]a \\vee b \\to b \\wedge c[/latex]</p>\n</li>\n<li>\n<p>[latex]a \\wedge b \\to b \\vee c[/latex]</p>\n</li>\n<li>\n<p>[latex]a \\vee b \\to \\left(b \\to c \\right)[/latex]</p>\n</li>\n<li>\n<p>[latex]a \\to b \\to \\left(b \\to c \\right)[/latex]</p>\n</li>\n</ol>",
+      "options": [
+        "[latex]a \\vee b \\to b \\wedge c[/latex]",
+        "[latex]a \\wedge b \\to b \\vee c[/latex]",
+        "[latex]a \\vee b \\to \\left(b \\to c \\right)[/latex]",
+        "[latex]a \\to b \\to \\left(b \\to c \\right)[/latex]"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "[latex]a \\vee b \\to b \\wedge c[/latex]",
+          "html": "<p>[latex]a \\vee b \\to b \\wedge c[/latex]</p>"
+        },
+        {
+          "label": "B",
+          "text": "[latex]a \\wedge b \\to b \\vee c[/latex]",
+          "html": "<p>[latex]a \\wedge b \\to b \\vee c[/latex]</p>"
+        },
+        {
+          "label": "C",
+          "text": "[latex]a \\vee b \\to \\left(b \\to c \\right)[/latex]",
+          "html": "<p>[latex]a \\vee b \\to \\left(b \\to c \\right)[/latex]</p>"
+        },
+        {
+          "label": "D",
+          "text": "[latex]a \\to b \\to \\left(b \\to c \\right)[/latex]",
+          "html": "<p>[latex]a \\to b \\to \\left(b \\to c \\right)[/latex]</p>"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/574/gate1992-02-xvi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/574/gate1992-02-xvi"
+    },
+    {
+      "id": "go:575",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xvii",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following regular expression identities is/are TRUE?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>Which of the following regular expression identities is/are TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>[latex]r^{(^*)} =r^*[/latex]</p>\n</li>\n<li>\n<p>[latex](r^*s^*)=(r+s)^*[/latex]</p>\n</li>\n<li>\n<p>[latex](r+s)^* = r^* + s^*[/latex]</p>\n</li>\n<li>\n<p>[latex]r^*s^* = r^*+s^*[/latex]</p>\n</li>\n</ol>",
+      "options": [
+        "[latex]r^{(^*)} =r^*[/latex]",
+        "[latex](r^*s^*)=(r+s)^*[/latex]",
+        "[latex](r+s)^* = r^* + s^*[/latex]",
+        "[latex]r^*s^* = r^*+s^*[/latex]"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "[latex]r^{(^*)} =r^*[/latex]",
+          "html": "<p>[latex]r^{(^*)} =r^*[/latex]</p>"
+        },
+        {
+          "label": "B",
+          "text": "[latex](r^*s^*)=(r+s)^*[/latex]",
+          "html": "<p>[latex](r^*s^*)=(r+s)^*[/latex]</p>"
+        },
+        {
+          "label": "C",
+          "text": "[latex](r+s)^* = r^* + s^*[/latex]",
+          "html": "<p>[latex](r+s)^* = r^* + s^*[/latex]</p>"
+        },
+        {
+          "label": "D",
+          "text": "[latex]r^*s^* = r^*+s^*[/latex]",
+          "html": "<p>[latex]r^*s^* = r^*+s^*[/latex]</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/575/gate1992-02-xvii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/575/gate1992-02-xvii"
+    },
+    {
+      "id": "go:576",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xviii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nIf G is a context free grammar and w is a string of length l in L(G), how long is a derivation of w in G, if G is in Chomsky normal form?</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nIf G is a context free grammar and w is a string of length l in L(G), how long is a derivation of w in G, if G is in Chomsky normal form?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>2l</p>\n</li>\n<li>\n<p>2l+1</p>\n</li>\n<li>\n<p>2l-1</p>\n</li>\n<li>\n<p>l</p>\n</li>\n</ol>",
+      "options": [
+        "2l",
+        "2l+1",
+        "2l-1",
+        "l"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "2l",
+          "html": "<p>2l</p>"
+        },
+        {
+          "label": "B",
+          "text": "2l+1",
+          "html": "<p>2l+1</p>"
+        },
+        {
+          "label": "C",
+          "text": "2l-1",
+          "html": "<p>2l-1</p>"
+        },
+        {
+          "label": "D",
+          "text": "l",
+          "html": "<p>l</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/576/gate1992-02-xviii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/576/gate1992-02-xviii"
+    },
+    {
+      "id": "go:572",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xix",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Context-Free Languages & Pushdown Automata",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nContext-free languages are:</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only:</p><p>\nContext-free languages are:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>closed under union</p>\n</li>\n<li>\n<p>closed under complementation</p>\n</li>\n<li>\n<p>closed under intersection</p>\n</li>\n<li>\n<p>closed under Kleene closure</p>\n</li>\n</ol>",
+      "options": [
+        "closed under union",
+        "closed under complementation",
+        "closed under intersection",
+        "closed under Kleene closure"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "closed under union",
+          "html": "<p>closed under union</p>"
+        },
+        {
+          "label": "B",
+          "text": "closed under complementation",
+          "html": "<p>closed under complementation</p>"
+        },
+        {
+          "label": "C",
+          "text": "closed under intersection",
+          "html": "<p>closed under intersection</p>"
+        },
+        {
+          "label": "D",
+          "text": "closed under Kleene closure",
+          "html": "<p>closed under Kleene closure</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/572/gate1992-02-xix",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/572/gate1992-02-xix"
+    },
+    {
+      "id": "go:577",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 02.xx",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MSQ",
+      "question": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nIn which of the cases stated below is the following statement true?</p><p>\n\"For every non-deterministic machine [latex]M_{1}[/latex] there exists an equivalent deterministic machine [latex]M_{2}[/latex]recognizing the same language\".</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: </p><p>\nIn which of the cases stated below is the following statement true?</p><p>\n\"For every non-deterministic machine [latex]M_{1}[/latex] there exists an equivalent deterministic machine [latex]M_{2}[/latex]recognizing the same language\".</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>[latex]M_{1}[/latex] is non-deterministic finite automaton.</p>\n</li>\n<li>\n<p>[latex]M_{1}[/latex] is non-deterministic PDA.</p>\n</li>\n<li>\n<p>[latex]M_{1}[/latex] is a non-deterministic Turing machine.</p>\n</li>\n<li>\n<p>For no machines [latex]M_{1}[/latex] and [latex]M_{2}[/latex],  the above statement true.</p>\n</li>\n</ol>",
+      "options": [
+        "[latex]M_{1}[/latex] is non-deterministic finite automaton.",
+        "[latex]M_{1}[/latex] is non-deterministic PDA.",
+        "[latex]M_{1}[/latex] is a non-deterministic Turing machine.",
+        "For no machines [latex]M_{1}[/latex] and [latex]M_{2}[/latex], the above statement true."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "[latex]M_{1}[/latex] is non-deterministic finite automaton.",
+          "html": "<p>[latex]M_{1}[/latex] is non-deterministic finite automaton.</p>"
+        },
+        {
+          "label": "B",
+          "text": "[latex]M_{1}[/latex] is non-deterministic PDA.",
+          "html": "<p>[latex]M_{1}[/latex] is non-deterministic PDA.</p>"
+        },
+        {
+          "label": "C",
+          "text": "[latex]M_{1}[/latex] is a non-deterministic Turing machine.",
+          "html": "<p>[latex]M_{1}[/latex] is a non-deterministic Turing machine.</p>"
+        },
+        {
+          "label": "D",
+          "text": "For no machines [latex]M_{1}[/latex] and [latex]M_{2}[/latex], the above statement true.",
+          "html": "<p>For no machines [latex]M_{1}[/latex] and [latex]M_{2}[/latex],  the above statement true.</p>"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/577/gate1992-02-xx",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/577/gate1992-02-xx"
+    },
+    {
+      "id": "go:579",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 03.ii",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Syntax-Directed Translation & Intermediate Code",
+      "type": "MCQ",
+      "question": "<p>Mention the pass number for each of the following activities that occur in a two pass assembler:\n</p><p></p><p>A. object code generation\n</p><p>B. literals added to literal table\n</p><p>C. listing printed\n</p><p>D. address resolution of local symbols</p>",
+      "rawQuestionHtml": "<p>Mention the pass number for each of the following activities that occur in a two pass assembler:\n</p><p></p><p>A. object code generation\n</p><p>B. literals added to literal table\n</p><p>C. listing printed\n</p><p>D. address resolution of local symbols</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>2 1 2 1</p>\n</li>\n<li>\n<p>1 1 1 2</p>\n</li>\n<li>\n<p>1 2 2 2</p>\n</li>\n<li>\n<p>1 2 1 2</p>\n</li>\n</ol>",
+      "options": [
+        "2 1 2 1",
+        "1 1 1 2",
+        "1 2 2 2",
+        "1 2 1 2"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "2 1 2 1",
+          "html": "<p>2 1 2 1</p>"
+        },
+        {
+          "label": "B",
+          "text": "1 1 1 2",
+          "html": "<p>1 1 1 2</p>"
+        },
+        {
+          "label": "C",
+          "text": "1 2 2 2",
+          "html": "<p>1 2 2 2</p>"
+        },
+        {
+          "label": "D",
+          "text": "1 2 1 2",
+          "html": "<p>1 2 1 2</p>"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/579/gate1992-03-ii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/579/gate1992-03-ii"
+    },
+    {
+      "id": "go:582",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 03.v",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>Start and stop bits do not contain any \"information\" but are used in serial communication for</p>",
+      "rawQuestionHtml": "<p>Start and stop bits do not contain any \"information\" but are used in serial communication for</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Error detection</p>\n</li>\n<li>\n<p>Error correction</p>\n</li>\n<li>\n<p>Synchronization</p>\n</li>\n<li>\n<p>Slowing down the communications.</p>\n</li>\n</ol>",
+      "options": [
+        "Error detection",
+        "Error correction",
+        "Synchronization",
+        "Slowing down the communications."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Error detection",
+          "html": "<p>Error detection</p>"
+        },
+        {
+          "label": "B",
+          "text": "Error correction",
+          "html": "<p>Error correction</p>"
+        },
+        {
+          "label": "C",
+          "text": "Synchronization",
+          "html": "<p>Synchronization</p>"
+        },
+        {
+          "label": "D",
+          "text": "Slowing down the communications.",
+          "html": "<p>Slowing down the communications.</p>"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/582/gate1992-03-v",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/582/gate1992-03-v"
+    },
+    {
+      "id": "go:584",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 5-a",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Cache & Memory Hierarchy",
+      "type": "NAT",
+      "question": "The access times of the main memory and the Cache memory, in a computer system, are $500$ n sec and $50$ nsec, respectively. It is estimated that $80\\%$ of the main memory request are for read the rest for write. The hit ratio for the read access only is $0.9$ and a write-through policy (where both main and cache memories are updated simultaneously) is used. Determine the average time of the main memory (in ns).",
+      "rawQuestionHtml": "The access times of the main memory and the Cache memory, in a computer system, are $500$ n sec and $50$ nsec, respectively. It is estimated that $80\\%$ of the main memory request are for read the rest for write. The hit ratio for the read access only is $0.9$ and a write-through policy (where both main and cache memories are updated simultaneously) is used. Determine the average time of the main memory (in ns).",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "180"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/584/gate-cse-1992-question-5-a",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/584/gate-cse-1992-question-5-a"
+    },
+    {
+      "id": "go:589",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 10",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "C Programming Constructs & Pointers",
+      "type": "MCQ",
+      "question": "<p>What type of parameter passing mechanism (call-by-value, call-by-reference, call-by-name, or-by-value result) is the following sequence of actions trying to implement for a procedure call P(A[i]) where P (i:integer) is a procedure and A is an integer array? </p><p>Is the implementation correct? Explain and correct it if necessary. You are supposed to make only small changes\n</p><p></p><p>Create a new local variable, say z.</p><p>\nAssign to z the value of A[i].</p><p>\nExecute the body of P using z for A[i]</p><p>\nSet A[i] to z.?</p>",
+      "rawQuestionHtml": "<p>What type of parameter passing mechanism (call-by-value, call-by-reference, call-by-name, or-by-value result) is the following sequence of actions trying to implement for a procedure call P(A[i]) where P (i:integer) is a procedure and A is an integer array? </p><p>Is the implementation correct? Explain and correct it if necessary. You are supposed to make only small changes\n</p><p></p><p>Create a new local variable, say z.</p><p>\nAssign to z the value of A[i].</p><p>\nExecute the body of P using z for A[i]</p><p>\nSet A[i] to z.?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>call-by-value</p>\n</li>\n<li>\n<p>call-by-reference</p>\n</li>\n<li>\n<p>call-by-name</p>\n</li>\n<li>\n<p>call-by-value result</p>\n</li>\n</ol>",
+      "options": [
+        "call-by-value",
+        "call-by-reference",
+        "call-by-name",
+        "call-by-value result"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "call-by-value",
+          "html": "<p>call-by-value</p>"
+        },
+        {
+          "label": "B",
+          "text": "call-by-reference",
+          "html": "<p>call-by-reference</p>"
+        },
+        {
+          "label": "C",
+          "text": "call-by-name",
+          "html": "<p>call-by-name</p>"
+        },
+        {
+          "label": "D",
+          "text": "call-by-value result",
+          "html": "<p>call-by-value result</p>"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/589/gate1992-10a",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/589/gate1992-10a"
+    },
+    {
+      "id": "go:43582",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 12-b",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "NAT",
+      "question": "Let the page reference and the working set window be $c\\ c\\ d\\ b\\ c\\ e\\ c\\ e\\ a\\ d\\ $ and $4$, respectively. The initial working set at time $t=0$ contains the pages $\\{a,d,e\\}$, where $a$ was referenced at time $t=0$, $d$ was referenced at time $t=-1$, and $e$ was referenced at time $t=-2$. Determine the total number of page faults and the average number of page frames used by computing the working set at each reference.",
+      "rawQuestionHtml": "Let the page reference and the working set window be $c\\ c\\ d\\ b\\ c\\ e\\ c\\ e\\ a\\ d\\ $ and $4$, respectively. The initial working set at time $t=0$ contains the pages $\\{a,d,e\\}$, where $a$ was referenced at time $t=0$, $d$ was referenced at time $t=-1$, and $e$ was referenced at time $t=-2$. Determine the total number of page faults and the average number of page frames used by computing the working set at each reference.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "3.2"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 2,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43582/gate-cse-1992-question-12-b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43582/gate-cse-1992-question-12-b"
+    },
+    {
+      "id": "go:43580",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 14b",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Consider the set of integers $\\{1,2,3,4,6,8,12,24\\}$ together with the two binary operations LCM (lowest common multiple) and GCD (greatest common divisor). Which of the following algebraic structures does this represent?</p>",
+      "rawQuestionHtml": "<p>Consider the set of integers $\\{1,2,3,4,6,8,12,24\\}$ together with the two binary operations LCM (lowest common multiple) and GCD (greatest common divisor). Which of the following algebraic structures does this represent?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>group</li>\n<li>ring</li>\n<li>field</li>\n<li>lattice</li>\n</ol>",
+      "options": [
+        "group",
+        "ring",
+        "field",
+        "lattice"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "group",
+          "html": "group"
+        },
+        {
+          "label": "B",
+          "text": "ring",
+          "html": "ring"
+        },
+        {
+          "label": "C",
+          "text": "field",
+          "html": "field"
+        },
+        {
+          "label": "D",
+          "text": "lattice",
+          "html": "lattice"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/43580/gate-cse-1992-question-14b",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/43580/gate-cse-1992-question-14b"
+    },
+    {
+      "id": "go:595",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 16",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>Which of the following three statements are true? Prove your answer.</p>",
+      "rawQuestionHtml": "<p>Which of the following three statements are true? Prove your answer.</p>\n<ol style=\"list-style-type:lower-roman\">\n<li>The union of two recursive languages is recursive.</li>\n<li>The language $\\{O^n \\mid n\\text{ is a prime} \\}$ is not regular.</li>\n<li>Regular languages are closed under infinite union.</li>\n</ol>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/595/gate-cse-1992-question-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/595/gate-cse-1992-question-16"
+    },
+    {
+      "id": "go:256",
+      "testId": "gate-1992-s0",
+      "year": 1992,
+      "set": 1,
+      "yearSetKey": "1992-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 1992 | Question: 92,xv",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Which of the following predicate calculus statements is/are valid?</p>",
+      "rawQuestionHtml": "<p>Which of the following predicate calculus statements is/are valid?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$(\\forall (x)) P(x) \\vee (\\forall(x))Q(x) \\implies (\\forall (x)) (P(x) \\vee Q(x))$</li>\n<li>$(\\exists (x)) P(x) \\wedge (\\exists (x))Q(x) \\implies (\\exists (x)) (P(x) \\wedge Q(x))$</li>\n<li>$(\\forall (x)) (P(x) \\vee Q(x)) \\implies (\\forall (x)) P(x) \\vee (\\forall (x)) Q(x)$</li>\n<li>$(\\exists (x)) (P(x) \\vee Q(x)) \\implies \\sim (\\forall (x)) P(x) \\vee (\\exists (x)) Q(x)$</li>\n</ol>",
+      "options": [
+        "$(\\forall (x)) P(x) \\vee (\\forall(x))Q(x) \\implies (\\forall (x)) (P(x) \\vee Q(x))$",
+        "$(\\exists (x)) P(x) \\wedge (\\exists (x))Q(x) \\implies (\\exists (x)) (P(x) \\wedge Q(x))$",
+        "$(\\forall (x)) (P(x) \\vee Q(x)) \\implies (\\forall (x)) P(x) \\vee (\\forall (x)) Q(x)$",
+        "$(\\exists (x)) (P(x) \\vee Q(x)) \\implies \\sim (\\forall (x)) P(x) \\vee (\\exists (x)) Q(x)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(\\forall (x)) P(x) \\vee (\\forall(x))Q(x) \\implies (\\forall (x)) (P(x) \\vee Q(x))$",
+          "html": "$(\\forall (x)) P(x) \\vee (\\forall(x))Q(x) \\implies (\\forall (x)) (P(x) \\vee Q(x))$"
+        },
+        {
+          "label": "B",
+          "text": "$(\\exists (x)) P(x) \\wedge (\\exists (x))Q(x) \\implies (\\exists (x)) (P(x) \\wedge Q(x))$",
+          "html": "$(\\exists (x)) P(x) \\wedge (\\exists (x))Q(x) \\implies (\\exists (x)) (P(x) \\wedge Q(x))$"
+        },
+        {
+          "label": "C",
+          "text": "$(\\forall (x)) (P(x) \\vee Q(x)) \\implies (\\forall (x)) P(x) \\vee (\\forall (x)) Q(x)$",
+          "html": "$(\\forall (x)) (P(x) \\vee Q(x)) \\implies (\\forall (x)) P(x) \\vee (\\forall (x)) Q(x)$"
+        },
+        {
+          "label": "D",
+          "text": "$(\\exists (x)) (P(x) \\vee Q(x)) \\implies \\sim (\\forall (x)) P(x) \\vee (\\exists (x)) Q(x)$",
+          "html": "$(\\exists (x)) (P(x) \\vee Q(x)) \\implies \\sim (\\forall (x)) P(x) \\vee (\\exists (x)) Q(x)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/256/gate-cse-1992-question-92-xv",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/256/gate-cse-1992-question-92-xv"
+    }
+  ]
+}

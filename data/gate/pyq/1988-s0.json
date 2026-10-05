@@ -1,0 +1,101 @@
+{
+  "id": "gate-1988-s0",
+  "yearSetKey": "1988-s0",
+  "year": 1988,
+  "set": 1,
+  "title": "GATE CSE 1988",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 3,
+  "totalQuestions": 3,
+  "gaQuestions": 0,
+  "csQuestions": 3,
+  "questions": [
+    {
+      "id": "go:91338",
+      "testId": "gate-1988-s0",
+      "year": 1988,
+      "set": 1,
+      "yearSetKey": "1988-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 1988 | Question: 1iii",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "Quicksort is ________ efficient than heapsort in the worst case.",
+      "rawQuestionHtml": "Quicksort is ________ efficient than heapsort in the worst case.",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/91338/gate-cse-1988-question-1iii",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/91338/gate-cse-1988-question-1iii"
+    },
+    {
+      "id": "go:91687",
+      "testId": "gate-1988-s0",
+      "year": 1988,
+      "set": 1,
+      "yearSetKey": "1988-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 1988 | Question: 2-vi",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "NAT",
+      "question": "Define the value of $r$ in the following: $\\sqrt {(41)_{r}} = (7)_{10}$",
+      "rawQuestionHtml": "Define the value of $r$ in the following: $\\sqrt {(41)_{r}} = (7)_{10}$",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "12"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/91687/gate-cse-1988-question-2-vi",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/91687/gate-cse-1988-question-2-vi"
+    },
+    {
+      "id": "go:94333",
+      "testId": "gate-1988-s0",
+      "year": 1988,
+      "set": 1,
+      "yearSetKey": "1988-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 1988 | Question: 2xv",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Code Optimization & Runtime Environments",
+      "type": "NAT",
+      "question": "<p>What is printed by following program, assuming call-by reference method of passing parameters for all variables in the parameter list of procedure P?</p>\n<pre class=\"prettyprint lang-c_cpp\">program     Main(inout, output);\nvar     a, b:integer;\n        procedure P(x, y, z:integer);\n        begin\n            y:=y+1\n            z:=x+x\n        end P;\nbegin\n    a:=2; b:=3;\n    p(a+b, a, a);\n    Write(a)\nend.\n</pre>",
+      "rawQuestionHtml": "<p>What is printed by following program, assuming call-by reference method of passing parameters for all variables in the parameter list of procedure P?</p>\n<pre class=\"prettyprint lang-c_cpp\">program     Main(inout, output);\nvar     a, b:integer;\n        procedure P(x, y, z:integer);\n        begin\n            y:=y+1\n            z:=x+x\n        end P;\nbegin\n    a:=2; b:=3;\n    p(a+b, a, a);\n    Write(a)\nend.\n</pre>",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [
+        "10"
+      ],
+      "tolerance": {
+        "abs": 0.01
+      },
+      "marks": 1,
+      "negativeMarks": 0,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/94333/gate-cse-1988-question-2xv",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/94333/gate-cse-1988-question-2xv"
+    }
+  ]
+}

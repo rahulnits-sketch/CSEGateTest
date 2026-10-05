@@ -7,6 +7,21 @@ import subjectsData from "@/data/subjects.json";
 import chaptersData from "@/data/chapters.json";
 import BackButton from "@/components/BackButton";
 
+type PracticeTest = {
+  id: string;
+  title: string;
+  duration: string;
+  difficulty: string;
+  questionsCount: number;
+};
+
+type Chapter = {
+  id: string;
+  name: string;
+  description: string;
+  tests: PracticeTest[];
+};
+
 type PageProps = {
   params: Promise<{ subject: string; chapter: string }>;
 };
@@ -14,7 +29,7 @@ type PageProps = {
 export default async function ChapterTestsPage({ params }: PageProps) {
   const { subject, chapter } = await params;
   const subjectInfo = subjectsData.find((s) => s.id === subject);
-  const chapterList = (chaptersData as Record<string, any[]>)[subject] || [];
+  const chapterList = (chaptersData as Record<string, Chapter[]>)[subject] || [];
   const chapterInfo = chapterList.find((c) => c.id === chapter);
 
   if (!subjectInfo || !chapterInfo) {
@@ -70,7 +85,7 @@ export default async function ChapterTestsPage({ params }: PageProps) {
           </div>
 
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {tests.map((t: any) => (
+            {tests.map((t) => (
               <TestCard
                 key={t.id}
                 id={t.id}

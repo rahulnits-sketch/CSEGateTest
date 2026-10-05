@@ -4,20 +4,26 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import questionData from "@/data/questions.json";
+import { getGateQuestionsForTest } from "@/lib/gate";
+import MathContent from "@/components/MathContent";
 
 export type Question = {
-  id: number;
+  id: number | string;
   testId: string;
-  type: "MCQ" | "MSQ" | "NAT" | string;
+  type: "MCQ" | "MSQ" | "NAT" | "MTA" | string;
   question: string;
+  rawQuestionHtml?: string;
   options: string[];
+  structuredOptions?: { label: string; text: string; html?: string }[];
   answer: string[];
+  tolerance?: { min?: number; max?: number; lower?: number; upper?: number; abs?: number } | null;
   subject: string;
   topic?: string;
   difficulty: string;
   marks: number;
   negativeMarks: number;
   explanation?: string;
+  link?: string;
 };
 
 export default function TestPage() {
@@ -25,72 +31,155 @@ export default function TestPage() {
   const params = useParams();
   const testId = (params?.id as string) || "all";
 
-  // Support for dynamic live API (OpenTDB)
-  const [liveQuestions, setLiveQuestions] = useState<Question[] | null>(null);
-  const [loading, setLoading] = useState(testId === "opentdb");
+  // Dynamic state for loaded questions
+  const [loadedQuestions, setLoadedQuestions] = useState<Question[] | null>(null);
+  const [testTitle, setTestTitle] = useState<string>("");
+  const [testSubject, setTestSubject] = useState<string>("");
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  useEffect(() => {
-    if (testId === "opentdb") {
-      let isMounted = true;
-      let apiUrl = "/api/opentdb";
-      if (typeof window !== "undefined") {
-        const sp = new URLSearchParams(window.location.search);
-        const cat = sp.get("category");
-        const diff = sp.get("difficulty");
-        const qp = new URLSearchParams();
-        if (cat) qp.set("category", cat);
-        if (diff) qp.set("difficulty", diff);
-        const qs = qp.toString();
-        if (qs) apiUrl += `?${qs}`;
-      }
+  // Dynamic test duration in seconds (default 30 mins, 180 mins for Full GATE Mocks/PYQ)
+  const [totalDurationSeconds, setTotalDurationSeconds] = useState(30 * 60);
 
-      fetch(apiUrl)
-        .then((res) => res.json())
-        .then((data) => {
+  useEffect(() => {
+    let isMounted = true;
+
+    async function loadTest() {
+      setLoading(true);
+      setError(null);
+
+      // 1. Live API (OpenTDB)
+      if (testId === "opentdb") {
+        try {
+          let apiUrl = "/api/opentdb";
+          if (typeof window !== "undefined") {
+            const sp = new URLSearchParams(window.location.search);
+            const cat = sp.get("category");
+            const diff = sp.get("difficulty");
+            const qp = new URLSearchParams();
+            if (cat) qp.set("category", cat);
+            if (diff) qp.set("difficulty", diff);
+            const qs = qp.toString();
+            if (qs) apiUrl += `?${qs}`;
+          }
+
+          const res = await fetch(apiUrl);
+          const data = await res.json();
           if (isMounted) {
             if (data?.questions && data.questions.length > 0) {
-              setLiveQuestions(data.questions);
+              setLoadedQuestions(data.questions);
+              setTestTitle("Live Tech Quiz");
+              setTestSubject("General Computer Science");
+              setTotalDurationSeconds(15 * 60);
+              setTimeLeft(15 * 60);
             } else {
               setError("No questions received from Open Trivia DB.");
             }
             setLoading(false);
           }
-        })
-        .catch((err: unknown) => {
+        } catch (err) {
           if (isMounted) {
             setError(err instanceof Error ? err.message : "Error fetching from Open Trivia DB");
             setLoading(false);
           }
-        });
+        }
+        return;
+      }
 
-      return () => {
-        isMounted = false;
-      };
+      // 2. GATE Dataset Test (PYQ, Subject-wise, or Mock)
+      if (testId.startsWith("gate-")) {
+        try {
+          const gateData = await getGateQuestionsForTest(testId);
+          if (isMounted) {
+            if (gateData && gateData.questions && gateData.questions.length > 0) {
+              const mapped: Question[] = gateData.questions.map((q) => ({
+                id: q.id,
+                testId,
+                type: q.type,
+                question: q.question,
+                rawQuestionHtml: q.rawQuestionHtml,
+                options: q.options || [],
+                structuredOptions: q.structuredOptions,
+                answer: q.answer || [],
+                tolerance: q.tolerance,
+                subject: q.subject,
+                topic: q.topic,
+                difficulty: q.difficulty || "Medium",
+                marks: q.marks || 1,
+                negativeMarks: q.negativeMarks ?? (q.type === "MCQ" ? (q.marks === 2 ? 0.67 : 0.33) : 0),
+                explanation: q.explanation,
+                link: q.link
+              }));
+
+              setLoadedQuestions(mapped);
+              setTestTitle(gateData.title);
+              setTestSubject(gateData.subject);
+              const durationSec = (gateData.durationMinutes || 180) * 60;
+              setTotalDurationSeconds(durationSec);
+              setTimeLeft(durationSec);
+            } else {
+              setError(`No questions found for GATE test "${testId}".`);
+            }
+            setLoading(false);
+          }
+        } catch (err) {
+          if (isMounted) {
+            setError(err instanceof Error ? err.message : "Failed to load GATE test dataset.");
+            setLoading(false);
+          }
+        }
+        return;
+      }
+
+      // 3. Fallback / Existing Static Tests from questions.json
+      const list = questionData as Question[];
+      if (testId === "all") {
+        setLoadedQuestions(list);
+        setTestTitle("Full GATE Practice Test");
+        setTestSubject("All Core Subjects");
+        setTotalDurationSeconds(60 * 60);
+        setTimeLeft(60 * 60);
+      } else {
+        const filtered = list.filter((q) => q.testId === testId);
+        const qList = filtered.length > 0 ? filtered : list;
+        setLoadedQuestions(qList);
+        setTestTitle(qList[0]?.subject ? `${qList[0].subject} Test` : "GATE Practice Test");
+        setTestSubject(qList[0]?.subject || "GATE Core");
+        const dur = Math.max(15, qList.length * 2) * 60;
+        setTotalDurationSeconds(dur);
+        setTimeLeft(dur);
+      }
+      setLoading(false);
     }
+
+    loadTest();
+
+    return () => {
+      isMounted = false;
+    };
   }, [testId]);
 
-  // Filter questions according to testId or fallback
   const questions: Question[] = useMemo(() => {
-    if (testId === "opentdb") {
-      return liveQuestions || [];
-    }
-    const list = questionData as Question[];
-    if (testId === "all") return list;
-    const filtered = list.filter((q) => q.testId === testId);
-    return filtered.length > 0 ? filtered : list;
-  }, [testId, liveQuestions]);
+    return loadedQuestions || [];
+  }, [loadedQuestions]);
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
 
   // answers map: string for MCQ/NAT, string[] for MSQ
-  const [answers, setAnswers] = useState<Record<number, string | string[]>>({});
-  const [visited, setVisited] = useState<number[]>([questions[0]?.id ?? 1]);
-  const [marked, setMarked] = useState<number[]>([]);
+  const [answers, setAnswers] = useState<Record<string | number, string | string[]>>({});
+  const [visited, setVisited] = useState<(string | number)[]>([]);
+  const [marked, setMarked] = useState<(string | number)[]>([]);
   const [timeLeft, setTimeLeft] = useState(30 * 60);
   const [showSubmit, setShowSubmit] = useState(false);
   const [showCalc, setShowCalc] = useState(false);
   const [calcInput, setCalcInput] = useState("");
+
+  // Initialize visited on first question load
+  useEffect(() => {
+    if (questions.length > 0 && visited.length === 0) {
+      setVisited([questions[0].id]);
+    }
+  }, [questions, visited.length]);
 
   const question = questions[currentQuestion] || questions[0];
 
@@ -128,42 +217,68 @@ export default function TestPage() {
       let isAnswered = false;
       let isCorrect = false;
 
-      if (q.type === "MCQ") {
+      if (q.type === "MTA") {
+        // Marks to All in GATE
+        isAnswered = userAns !== undefined && userAns !== null && String(userAns).trim() !== "";
+        isCorrect = true;
+      } else if (q.type === "MCQ") {
         if (typeof userAns === "string" && userAns.trim() !== "") {
           isAnswered = true;
-          isCorrect = q.answer.includes(userAns);
+          const cleanUser = userAns.trim().toUpperCase();
+          // Check if answer matches option letter (e.g. "B") or text value
+          isCorrect = q.answer.some((ans) => {
+            const cleanAns = String(ans).trim().toUpperCase();
+            return cleanAns === cleanUser || ans === userAns;
+          });
         }
       } else if (q.type === "MSQ") {
         const arr = Array.isArray(userAns) ? userAns : [];
         if (arr.length > 0) {
           isAnswered = true;
+          const userNorm = arr.map((a) => String(a).trim().toUpperCase()).sort();
+          const targetNorm = q.answer.map((a) => String(a).trim().toUpperCase()).sort();
+
           isCorrect =
-            arr.length === q.answer.length &&
-            arr.every((opt) => q.answer.includes(opt)) &&
-            q.answer.every((opt) => arr.includes(opt));
+            userNorm.length === targetNorm.length &&
+            userNorm.every((val, i) => val === targetNorm[i]);
         }
       } else if (q.type === "NAT") {
         if (typeof userAns === "string" && userAns.trim() !== "") {
           isAnswered = true;
           const userNum = parseFloat(userAns.trim());
-          const targetNum = parseFloat(q.answer[0]?.trim() || "");
-          if (!isNaN(userNum) && !isNaN(targetNum)) {
-            isCorrect = Math.abs(userNum - targetNum) < 0.01;
+
+          // Check tolerance range if provided
+          if (q.tolerance && (q.tolerance.min !== undefined || q.tolerance.lower !== undefined)) {
+            const rMin = Number(q.tolerance.min ?? q.tolerance.lower);
+            const rMax = Number(q.tolerance.max ?? q.tolerance.upper);
+            if (!isNaN(rMin) && !isNaN(rMax) && !isNaN(userNum)) {
+              isCorrect = userNum >= Math.min(rMin, rMax) && userNum <= Math.max(rMin, rMax);
+            }
           } else {
-            isCorrect = userAns.trim().toLowerCase() === q.answer[0]?.trim().toLowerCase();
+            const targetNum = parseFloat(q.answer[0]?.trim() || "");
+            const absTol = q.tolerance?.abs ?? 0.05;
+            if (!isNaN(userNum) && !isNaN(targetNum)) {
+              isCorrect = Math.abs(userNum - targetNum) <= absTol;
+            } else {
+              isCorrect = userAns.trim().toLowerCase() === q.answer[0]?.trim().toLowerCase();
+            }
           }
         }
       }
 
       let marksAwarded = 0;
-      if (isAnswered) {
+      if (q.type === "MTA") {
+        correct++;
+        marksAwarded = q.marks;
+        score += q.marks;
+      } else if (isAnswered) {
         if (isCorrect) {
           correct++;
           marksAwarded = q.marks;
           score += q.marks;
         } else {
           incorrect++;
-          // Negative marking ONLY applies to MCQ questions
+          // Negative marking ONLY applies to MCQ questions in GATE
           if (q.type === "MCQ") {
             marksAwarded = -q.negativeMarks;
             score -= q.negativeMarks;
@@ -186,13 +301,15 @@ export default function TestPage() {
 
     const resultPayload = {
       testId,
+      testTitle: testTitle || "GATE Test",
+      testSubject: testSubject || "GATE Core",
       score: Number(score.toFixed(2)),
       totalMarks,
       correct,
       incorrect,
       unattempted,
       totalQuestions: questions.length,
-      timeSpentSeconds: 30 * 60 - timeLeft,
+      timeSpentSeconds: Math.max(0, totalDurationSeconds - timeLeft),
       answers,
       evaluated,
       submittedAt: new Date().toISOString(),
@@ -205,9 +322,9 @@ export default function TestPage() {
     }
 
     router.push(`/test/${testId}/result`);
-  }, [answers, questions, router, testId, timeLeft]);
+  }, [answers, questions, router, testId, testSubject, testTitle, timeLeft, totalDurationSeconds]);
 
-  // Keep ref up to date in useEffect to avoid render-time ref mutation
+  // Keep ref up to date in useEffect
   const handleSubmitRef = useRef(handleSubmit);
   useEffect(() => {
     handleSubmitRef.current = handleSubmit;
@@ -215,6 +332,7 @@ export default function TestPage() {
 
   // Timer interval with stable ref
   useEffect(() => {
+    if (loading) return;
     const timer = setInterval(() => {
       setTimeLeft((prev) => {
         if (prev <= 1) {
@@ -227,119 +345,123 @@ export default function TestPage() {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, []);
+  }, [loading]);
 
   // Format timer
   const formattedTime = useMemo(() => {
-    const minutes = Math.floor(timeLeft / 60)
+    const hours = Math.floor(timeLeft / 3600);
+    const minutes = Math.floor((timeLeft % 3600) / 60)
       .toString()
       .padStart(2, "0");
     const seconds = (timeLeft % 60).toString().padStart(2, "0");
+
+    if (hours > 0) {
+      return `${hours}:${minutes}:${seconds}`;
+    }
     return `${minutes}:${seconds}`;
   }, [timeLeft]);
 
   // MCQ Selection Handler
-  const handleSelectMCQ = (option: string) => {
+  const handleSelectMCQ = (optionValue: string) => {
     setAnswers((prev) => ({
       ...prev,
-      [question.id]: option,
+      [question.id]: optionValue,
     }));
   };
 
   // MSQ Selection Handler (Multiple checkboxes)
-  const handleToggleMSQ = (option: string) => {
+  const handleToggleMSQ = (optionValue: string) => {
     setAnswers((prev) => {
       const current = Array.isArray(prev[question.id])
         ? (prev[question.id] as string[])
         : [];
-      const updated = current.includes(option)
-        ? current.filter((item) => item !== option)
-        : [...current, option];
-      return {
-        ...prev,
-        [question.id]: updated,
-      };
+      if (current.includes(optionValue)) {
+        return {
+          ...prev,
+          [question.id]: current.filter((opt) => opt !== optionValue),
+        };
+      } else {
+        return {
+          ...prev,
+          [question.id]: [...current, optionValue],
+        };
+      }
     });
   };
 
-  // NAT Handler
-  const handleNATChange = (val: string) => {
+  // NAT Input Handler
+  const handleNATInput = (value: string) => {
     setAnswers((prev) => ({
       ...prev,
-      [question.id]: val,
+      [question.id]: value,
     }));
   };
 
-  // Clear Response
-  const handleClearResponse = () => {
+  // Clear Response for current question
+  const clearResponse = () => {
     setAnswers((prev) => {
-      const copy = { ...prev };
-      delete copy[question.id];
-      return copy;
+      const next = { ...prev };
+      delete next[question.id];
+      return next;
     });
   };
 
-  // Toggle Mark for review
+  // Mark for review toggle
   const toggleMark = () => {
-    setMarked((prev) =>
-      prev.includes(question.id)
-        ? prev.filter((id) => id !== question.id)
-        : [...prev, question.id]
-    );
+    if (marked.includes(question.id)) {
+      setMarked(marked.filter((id) => id !== question.id));
+    } else {
+      setMarked([...marked, question.id]);
+    }
   };
 
-  const isAnswered = (id: number) => {
-    const val = answers[id];
-    if (Array.isArray(val)) return val.length > 0;
-    return typeof val === "string" && val.trim() !== "";
+  // Simple calculator functions
+  const handleCalcBtn = (val: string) => {
+    if (val === "C") setCalcInput("");
+    else if (val === "DEL") setCalcInput((prev) => prev.slice(0, -1));
+    else if (val === "=") {
+      try {
+        const sanitized = calcInput.replace(/[^0-9+\-*/().Mathsincostanlogeprt]/g, "");
+        const res = Function(`"use strict"; return (${sanitized})`)();
+        setCalcInput(String(Number(res.toFixed(6))));
+      } catch {
+        setCalcInput("Error");
+      }
+    } else {
+      setCalcInput((prev) => prev + val);
+    }
   };
 
   if (loading) {
     return (
       <div className="flex min-h-screen flex-col items-center justify-center bg-[#08090b] text-white">
-        <div className="h-10 w-10 animate-spin rounded-full border-2 border-emerald-500 border-t-transparent mb-4" />
-        <p className="text-base font-semibold">Fetching Live Questions from Open Trivia DB...</p>
-        <p className="text-xs text-gray-500 mt-1">Category: Science & Computers</p>
+        <div className="h-10 w-10 animate-spin rounded-full border-2 border-blue-500 border-t-transparent mb-4" />
+        <p className="text-base font-semibold">Loading Test Series...</p>
+        <p className="text-xs text-gray-500 mt-1">CheckMate GATE Preparation Platform</p>
       </div>
     );
   }
 
-  if (error) {
+  if (error || questions.length === 0) {
     return (
       <div className="flex min-h-screen flex-col items-center justify-center bg-[#08090b] p-6 text-white">
         <div className="rounded-2xl border border-rose-500/20 bg-rose-500/5 p-8 text-center max-w-md w-full">
-          <p className="text-rose-400 font-semibold mb-2">Error Loading Live Test</p>
-          <p className="text-xs text-gray-400 mb-6">{error}</p>
+          <p className="text-rose-400 font-semibold mb-2">Test Not Found</p>
+          <p className="text-xs text-gray-400 mb-6">{error || "No questions found for this test."}</p>
           <div className="flex gap-3 justify-center">
-            <button
-              onClick={() => window.location.reload()}
-              className="rounded-xl bg-white px-5 py-2 text-xs font-semibold text-black transition hover:bg-gray-200"
+            <Link
+              href="/gate/pyq"
+              className="rounded-xl bg-blue-600 px-5 py-2 text-xs font-semibold text-white transition hover:bg-blue-500"
             >
-              Retry
-            </button>
+              Explore PYQs
+            </Link>
             <Link
               href="/tests"
               className="rounded-xl border border-white/10 px-5 py-2 text-xs font-semibold text-gray-300 transition hover:bg-white/5"
             >
-              Back to Tests
+              GATE Hub
             </Link>
           </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (!question) {
-    return (
-      <div className="flex min-h-screen items-center justify-center bg-[#08090b] text-white">
-        <div className="text-center">
-          <p className="text-xl">No questions found for this test.</p>
-          <Link
-            href="/tests"
-            className="mt-4 inline-block rounded-xl bg-blue-600 px-6 py-2.5 text-sm font-semibold"
-          >
-            Go back to Tests
-          </Link>
         </div>
       </div>
     );
@@ -351,17 +473,17 @@ export default function TestPage() {
       <header className="sticky top-0 z-40 border-b border-white/10 bg-[#08090b]/95 backdrop-blur">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-8">
           <div className="flex items-center gap-3">
-            <Link href="/tests" className="text-lg font-bold">
-              GATE<span className="text-blue-500">CSE</span>
+            <Link href="/" className="text-lg font-bold">
+              CheckMate <span className="text-blue-500">GATE</span>
             </Link>
             <span className="hidden text-xs text-gray-500 md:inline">|</span>
-            <span className="hidden text-xs font-medium text-gray-400 md:inline">
-              {question.subject}
+            <span className="hidden text-xs font-medium text-gray-400 md:inline truncate max-w-[280px]">
+              {testTitle || question.subject}
             </span>
           </div>
 
           {/* Virtual Calculator button & Timer */}
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3 md:gap-4">
             <button
               onClick={() => setShowCalc(!showCalc)}
               className="rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-medium text-gray-300 transition hover:bg-white/10"
@@ -371,7 +493,7 @@ export default function TestPage() {
             </button>
 
             <div
-              className={`rounded-xl border px-4 py-1.5 font-mono text-base font-bold transition ${
+              className={`rounded-xl border px-3.5 py-1.5 font-mono text-sm md:text-base font-bold transition ${
                 timeLeft <= 300
                   ? "border-red-500/40 bg-red-500/10 text-red-400 animate-pulse"
                   : "border-white/10 bg-white/5 text-blue-400"
@@ -382,7 +504,7 @@ export default function TestPage() {
 
             <button
               onClick={() => setShowSubmit(true)}
-              className="rounded-lg bg-blue-600 px-4 py-1.5 text-xs font-semibold text-white transition hover:bg-blue-500"
+              className="rounded-lg bg-blue-600 px-4 py-1.5 text-xs font-semibold text-white transition hover:bg-blue-500 shadow-md shadow-blue-600/20"
             >
               Submit Test
             </button>
@@ -393,12 +515,12 @@ export default function TestPage() {
       {/* Main Grid */}
       <div className="mx-auto grid w-full max-w-7xl flex-1 gap-6 p-4 md:grid-cols-[1fr_320px] md:p-6">
         {/* Left Question Box */}
-        <section className="flex flex-col justify-between rounded-2xl border border-white/10 bg-white/[0.02]">
+        <section className="flex flex-col justify-between rounded-2xl border border-white/10 bg-white/[0.02] overflow-hidden">
           <div>
             {/* Question Top Info Bar */}
-            <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 p-5">
-              <div className="flex items-center gap-3">
-                <span className="rounded-md bg-blue-500/10 px-2.5 py-1 text-xs font-bold text-blue-400">
+            <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 p-4 md:p-5 bg-white/[0.01]">
+              <div className="flex items-center gap-2.5 flex-wrap">
+                <span className="rounded-md bg-blue-500/10 border border-blue-500/20 px-2.5 py-1 text-xs font-bold text-blue-400">
                   Q{currentQuestion + 1} of {questions.length}
                 </span>
 
@@ -406,14 +528,20 @@ export default function TestPage() {
                   {question.type}
                 </span>
 
-                <span className="text-xs text-emerald-400">
+                <span className="text-xs text-emerald-400 font-medium">
                   +{question.marks} / -{question.type === "MCQ" ? question.negativeMarks : 0} Marks
                 </span>
+
+                {question.topic && (
+                  <span className="text-[11px] text-gray-400 bg-white/5 px-2 py-0.5 rounded border border-white/5">
+                    {question.topic}
+                  </span>
+                )}
               </div>
 
               <button
                 onClick={toggleMark}
-                className={`rounded-lg border px-3 py-1.5 text-xs font-medium transition ${
+                className={`rounded-lg border px-3 py-1 text-xs font-medium transition ${
                   marked.includes(question.id)
                     ? "border-amber-500/50 bg-amber-500/15 text-amber-300"
                     : "border-white/10 text-gray-400 hover:bg-white/5 hover:text-white"
@@ -425,42 +553,54 @@ export default function TestPage() {
 
             {/* Question Body */}
             <div className="p-5 md:p-8">
-              <div className="mb-2 text-xs font-medium uppercase tracking-wider text-gray-400">
-                {question.subject} {question.topic ? `• ${question.topic}` : ""}
+              <div className="mb-3 text-xs font-semibold uppercase tracking-wider text-blue-400">
+                {question.subject}
               </div>
 
-              <h2 className="text-lg font-medium leading-relaxed md:text-xl text-zinc-100">
-                {question.question}
-              </h2>
+              {/* Formatted Question Text / Math */}
+              <div className="text-base leading-relaxed md:text-lg text-zinc-100 font-normal">
+                <MathContent content={question.question} />
+              </div>
 
               {/* RENDER BY TYPE: MCQ, MSQ, NAT */}
               <div className="mt-8">
                 {/* 1. MCQ (Single Selection) */}
                 {question.type === "MCQ" && (
                   <div className="space-y-3">
-                    {question.options.map((option, index) => {
-                      const selected = answers[question.id] === option;
+                    {(question.structuredOptions && question.structuredOptions.length > 0
+                      ? question.structuredOptions
+                      : question.options.map((opt, i) => ({
+                          label: String.fromCharCode(65 + i),
+                          text: opt,
+                          html: opt,
+                        }))
+                    ).map((opt) => {
+                      const isSelected =
+                        answers[question.id] === opt.label ||
+                        answers[question.id] === opt.text;
                       return (
                         <button
-                          key={option}
+                          key={opt.label}
                           type="button"
-                          onClick={() => handleSelectMCQ(option)}
-                          className={`flex w-full items-center gap-4 rounded-xl border p-4 text-left transition ${
-                            selected
+                          onClick={() => handleSelectMCQ(opt.label)}
+                          className={`flex w-full items-start gap-4 rounded-xl border p-4 text-left transition ${
+                            isSelected
                               ? "border-blue-500 bg-blue-500/15 text-white"
                               : "border-white/10 bg-white/[0.02] text-gray-300 hover:border-white/20 hover:bg-white/[0.04]"
                           }`}
                         >
                           <span
-                            className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-full border text-xs font-bold ${
-                              selected
+                            className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-full border text-xs font-bold mt-0.5 ${
+                              isSelected
                                 ? "border-blue-500 bg-blue-500 text-white"
                                 : "border-white/20 text-gray-400"
                             }`}
                           >
-                            {String.fromCharCode(65 + index)}
+                            {opt.label}
                           </span>
-                          <span className="text-sm md:text-base">{option}</span>
+                          <div className="text-sm md:text-base flex-1">
+                            <MathContent content={opt.html || opt.text} inline />
+                          </div>
                         </button>
                       );
                     })}
@@ -470,36 +610,47 @@ export default function TestPage() {
                 {/* 2. MSQ (Multiple Choice / Multiple Select) */}
                 {question.type === "MSQ" && (
                   <div>
-                    <p className="mb-3 text-xs text-amber-400">
-                      ℹ Note: This is an MSQ. One or more than one option may be correct. No negative marks.
+                    <p className="mb-3 text-xs text-amber-400 bg-amber-500/10 border border-amber-500/20 p-2.5 rounded-lg">
+                      ℹ <strong>GATE MSQ Rule:</strong> One or more options can be correct. Full marks for exact combination. No negative marking.
                     </p>
                     <div className="space-y-3">
-                      {question.options.map((option, index) => {
+                      {(question.structuredOptions && question.structuredOptions.length > 0
+                        ? question.structuredOptions
+                        : question.options.map((opt, i) => ({
+                            label: String.fromCharCode(65 + i),
+                            text: opt,
+                            html: opt,
+                          }))
+                      ).map((opt) => {
                         const currentArr = Array.isArray(answers[question.id])
                           ? (answers[question.id] as string[])
                           : [];
-                        const selected = currentArr.includes(option);
+                        const isSelected =
+                          currentArr.includes(opt.label) ||
+                          currentArr.includes(opt.text);
                         return (
                           <button
-                            key={option}
+                            key={opt.label}
                             type="button"
-                            onClick={() => handleToggleMSQ(option)}
-                            className={`flex w-full items-center gap-4 rounded-xl border p-4 text-left transition ${
-                              selected
+                            onClick={() => handleToggleMSQ(opt.label)}
+                            className={`flex w-full items-start gap-4 rounded-xl border p-4 text-left transition ${
+                              isSelected
                                 ? "border-blue-500 bg-blue-500/15 text-white"
                                 : "border-white/10 bg-white/[0.02] text-gray-300 hover:border-white/20 hover:bg-white/[0.04]"
                             }`}
                           >
                             <span
-                              className={`flex h-6 w-6 shrink-0 items-center justify-center rounded border text-xs font-bold ${
-                                selected
+                              className={`flex h-6 w-6 shrink-0 items-center justify-center rounded border text-xs font-bold mt-0.5 ${
+                                isSelected
                                   ? "border-blue-500 bg-blue-500 text-white"
                                   : "border-white/20 text-gray-400"
                               }`}
                             >
-                              {selected ? "✓" : String.fromCharCode(65 + index)}
+                              {isSelected ? "✓" : opt.label}
                             </span>
-                            <span className="text-sm md:text-base">{option}</span>
+                            <div className="text-sm md:text-base flex-1">
+                              <MathContent content={opt.html || opt.text} inline />
+                            </div>
                           </button>
                         );
                       })}
@@ -509,44 +660,54 @@ export default function TestPage() {
 
                 {/* 3. NAT (Numerical Answer Type) */}
                 {question.type === "NAT" && (
-                  <div className="max-w-md rounded-xl border border-white/10 bg-white/[0.02] p-5">
-                    <p className="text-xs text-gray-400 mb-3">
-                      Enter the numerical value. No negative marks.
+                  <div className="rounded-xl border border-white/10 bg-white/[0.02] p-6 max-w-lg">
+                    <p className="mb-2 text-xs text-blue-400 font-semibold">
+                      Numerical Answer Type (NAT)
+                    </p>
+                    <p className="mb-4 text-xs text-gray-400">
+                      Enter the numerical value. No negative marks for NAT in GATE.
                     </p>
                     <div className="flex items-center gap-3">
                       <input
-                        type="text"
-                        placeholder="Enter numerical answer"
-                        value={
-                          typeof answers[question.id] === "string"
-                            ? (answers[question.id] as string)
-                            : ""
-                        }
-                        onChange={(e) => handleNATChange(e.target.value)}
-                        className="w-full rounded-lg border border-white/20 bg-black/40 px-4 py-2.5 text-base font-mono text-white placeholder-gray-500 focus:border-blue-500 focus:outline-none"
+                        type="number"
+                        step="any"
+                        placeholder="Enter numerical answer..."
+                        value={(answers[question.id] as string) || ""}
+                        onChange={(e) => handleNATInput(e.target.value)}
+                        className="w-full rounded-xl border border-white/20 bg-white/5 px-4 py-3 text-base text-white outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 font-mono"
                       />
+                      <button
+                        type="button"
+                        onClick={clearResponse}
+                        className="shrink-0 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-xs font-semibold text-gray-400 hover:bg-white/10 hover:text-white transition"
+                      >
+                        Clear
+                      </button>
                     </div>
+                  </div>
+                )}
+
+                {/* 4. MTA (Marks To All) */}
+                {question.type === "MTA" && (
+                  <div className="rounded-xl border border-emerald-500/20 bg-emerald-500/10 p-5">
+                    <p className="text-xs font-bold text-emerald-400 uppercase">
+                      Official GATE Marks-To-All (MTA)
+                    </p>
+                    <p className="text-xs text-gray-300 mt-1">
+                      This question was awarded marks to all candidates in the official GATE answer key.
+                    </p>
                   </div>
                 )}
               </div>
             </div>
           </div>
 
-          {/* Bottom Action Bar */}
-          <div className="flex flex-wrap items-center justify-between gap-3 border-t border-white/10 p-5">
+          {/* Question Bottom Action Bar */}
+          <div className="flex flex-wrap items-center justify-between gap-3 border-t border-white/10 p-4 md:p-5 bg-white/[0.01]">
             <div className="flex items-center gap-3">
               <button
-                onClick={previousQuestion}
-                disabled={currentQuestion === 0}
-                className="rounded-lg border border-white/10 px-4 py-2 text-xs font-semibold transition hover:bg-white/5 disabled:cursor-not-allowed disabled:opacity-30"
-              >
-                ← Previous
-              </button>
-
-              <button
-                onClick={handleClearResponse}
-                disabled={!isAnswered(question.id)}
-                className="rounded-lg border border-white/10 px-4 py-2 text-xs font-medium text-gray-400 transition hover:bg-white/5 hover:text-white disabled:cursor-not-allowed disabled:opacity-30"
+                onClick={clearResponse}
+                className="rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs font-semibold text-gray-400 hover:bg-white/10 hover:text-white transition"
               >
                 Clear Response
               </button>
@@ -554,187 +715,212 @@ export default function TestPage() {
 
             <div className="flex items-center gap-3">
               <button
+                onClick={previousQuestion}
+                disabled={currentQuestion === 0}
+                className="rounded-xl border border-white/10 bg-white/5 px-5 py-2.5 text-xs font-semibold text-white transition hover:bg-white/10 disabled:opacity-30 disabled:cursor-not-allowed"
+              >
+                ← Previous
+              </button>
+
+              <button
                 onClick={nextQuestion}
                 disabled={currentQuestion === questions.length - 1}
-                className="rounded-lg bg-blue-600 px-5 py-2 text-xs font-semibold text-white transition hover:bg-blue-500 disabled:cursor-not-allowed disabled:opacity-40"
+                className="rounded-xl bg-blue-600 px-6 py-2.5 text-xs font-semibold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500 disabled:opacity-30 disabled:cursor-not-allowed"
               >
-                Save & Next →
+                Next →
               </button>
             </div>
           </div>
         </section>
 
-        {/* Right Palette */}
-        <aside className="flex flex-col rounded-2xl border border-white/10 bg-white/[0.02] p-5">
-          <div className="flex items-center justify-between border-b border-white/10 pb-4">
-            <h3 className="text-sm font-semibold text-white">Question Palette</h3>
-            <span className="text-xs text-blue-400">
-              {Object.keys(answers).length}/{questions.length} Attempted
-            </span>
+        {/* Right Side: Question Navigation Palette */}
+        <aside className="flex flex-col gap-6">
+          <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-5">
+            <h3 className="mb-4 text-xs font-bold uppercase tracking-wider text-gray-400">
+              Question Palette ({questions.length})
+            </h3>
+
+            {/* Status Legend */}
+            <div className="mb-4 grid grid-cols-2 gap-2 text-[11px] text-gray-400 border-b border-white/10 pb-4">
+              <div className="flex items-center gap-2">
+                <span className="h-3 w-3 rounded-full bg-emerald-500" />
+                <span>Answered</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="h-3 w-3 rounded-full bg-amber-500" />
+                <span>Marked</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="h-3 w-3 rounded-full bg-white/20" />
+                <span>Not Visited</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="h-3 w-3 rounded-full bg-blue-500 ring-2 ring-white/50" />
+                <span>Current</span>
+              </div>
+            </div>
+
+            {/* Grid Palette */}
+            <div className="grid grid-cols-5 gap-2 max-h-[380px] overflow-y-auto pr-1">
+              {questions.map((q, idx) => {
+                const isCurrent = idx === currentQuestion;
+                const isAnswered =
+                  answers[q.id] !== undefined &&
+                  (Array.isArray(answers[q.id])
+                    ? (answers[q.id] as string[]).length > 0
+                    : String(answers[q.id]).trim() !== "");
+                const isMarked = marked.includes(q.id);
+                const isVisited = visited.includes(q.id);
+
+                let bgClass = "bg-white/5 text-gray-400 border-white/10";
+                if (isCurrent) {
+                  bgClass = "bg-blue-600 text-white font-bold border-blue-400 ring-2 ring-blue-500/50";
+                } else if (isMarked) {
+                  bgClass = "bg-amber-500 text-black font-bold border-amber-400";
+                } else if (isAnswered) {
+                  bgClass = "bg-emerald-600 text-white font-bold border-emerald-500";
+                } else if (isVisited) {
+                  bgClass = "bg-white/15 text-gray-200 border-white/20";
+                }
+
+                return (
+                  <button
+                    key={q.id}
+                    onClick={() => goToQuestion(idx)}
+                    className={`flex h-9 w-full items-center justify-center rounded-lg border text-xs transition hover:scale-105 ${bgClass}`}
+                  >
+                    {idx + 1}
+                  </button>
+                );
+              })}
+            </div>
           </div>
 
-          {/* Number Grid */}
-          <div className="mt-5 grid grid-cols-5 gap-2">
-            {questions.map((q, index) => {
-              const active = currentQuestion === index;
-              const answered = isAnswered(q.id);
-              const isMarked = marked.includes(q.id);
-              const wasVisited = visited.includes(q.id);
+          {/* Test Overview Summary Card */}
+          <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-5">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+              Section Statistics
+            </h4>
+            <div className="space-y-2 text-xs">
+              <div className="flex justify-between py-1 border-b border-white/5">
+                <span className="text-gray-400">Total Questions</span>
+                <span className="font-semibold text-white">{questions.length}</span>
+              </div>
+              <div className="flex justify-between py-1 border-b border-white/5">
+                <span className="text-gray-400">Attempted</span>
+                <span className="font-semibold text-emerald-400">
+                  {Object.keys(answers).filter((k) => {
+                    const ans = answers[k];
+                    return Array.isArray(ans) ? ans.length > 0 : String(ans).trim() !== "";
+                  }).length}
+                </span>
+              </div>
+              <div className="flex justify-between py-1 border-b border-white/5">
+                <span className="text-gray-400">Marked for Review</span>
+                <span className="font-semibold text-amber-400">{marked.length}</span>
+              </div>
+              <div className="flex justify-between py-1">
+                <span className="text-gray-400">Time Left</span>
+                <span className="font-semibold text-blue-400 font-mono">{formattedTime}</span>
+              </div>
+            </div>
 
-              let bgClass = "bg-white/5 text-gray-400 border border-transparent";
-              if (answered && isMarked) {
-                bgClass = "bg-amber-600 text-white font-bold border border-amber-400";
-              } else if (isMarked) {
-                bgClass = "bg-purple-600 text-white font-semibold";
-              } else if (answered) {
-                bgClass = "bg-emerald-600 text-white font-bold";
-              } else if (wasVisited) {
-                bgClass = "bg-rose-600/70 text-white font-medium";
-              }
-
-              return (
-                <button
-                  key={q.id}
-                  onClick={() => goToQuestion(index)}
-                  className={`relative flex h-10 w-full items-center justify-center rounded-lg text-xs transition ${bgClass} ${
-                    active ? "ring-2 ring-blue-400 ring-offset-2 ring-offset-[#08090b]" : ""
-                  }`}
-                >
-                  {index + 1}
-                  {isMarked && (
-                    <span className="absolute -top-1 -right-1 text-[10px] text-amber-300">
-                      ★
-                    </span>
-                  )}
-                </button>
-              );
-            })}
-          </div>
-
-          {/* Status Legends */}
-          <div className="mt-6 space-y-2.5 border-t border-white/10 pt-5 text-xs text-gray-400">
-            <div className="flex items-center gap-2.5">
-              <span className="h-3 w-3 rounded bg-emerald-600" />
-              <span>Answered</span>
-            </div>
-            <div className="flex items-center gap-2.5">
-              <span className="h-3 w-3 rounded bg-rose-600/70" />
-              <span>Not Answered</span>
-            </div>
-            <div className="flex items-center gap-2.5">
-              <span className="h-3 w-3 rounded bg-purple-600" />
-              <span>Marked for Review</span>
-            </div>
-            <div className="flex items-center gap-2.5">
-              <span className="h-3 w-3 rounded bg-white/5" />
-              <span>Not Visited</span>
-            </div>
+            <button
+              onClick={() => setShowSubmit(true)}
+              className="mt-5 w-full rounded-xl bg-blue-600 py-2.5 text-xs font-bold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500"
+            >
+              Submit Test Series
+            </button>
           </div>
         </aside>
       </div>
 
-      {/* Virtual Calculator Modal */}
+      {/* Floating Scientific Calculator Modal */}
       {showCalc && (
-        <div className="fixed bottom-6 right-6 z-50 w-72 rounded-2xl border border-white/10 bg-[#16181f] p-4 shadow-2xl backdrop-blur-lg">
-          <div className="flex items-center justify-between border-b border-white/10 pb-2">
-            <p className="text-xs font-bold text-gray-300">GATE Calculator</p>
+        <div className="fixed bottom-6 right-6 z-50 w-72 rounded-2xl border border-white/20 bg-[#12141a]/95 p-4 shadow-2xl backdrop-blur-md">
+          <div className="mb-3 flex items-center justify-between border-b border-white/10 pb-2">
+            <span className="text-xs font-bold uppercase tracking-wider text-blue-400">
+              Virtual Calculator
+            </span>
             <button
               onClick={() => setShowCalc(false)}
-              className="text-xs text-gray-400 hover:text-white"
+              className="text-gray-400 hover:text-white"
             >
               ✕
             </button>
           </div>
-          <div className="mt-3">
-            <div className="mb-3 rounded-lg bg-black/60 p-2.5 text-right font-mono text-lg text-emerald-400 overflow-x-auto">
-              {calcInput || "0"}
-            </div>
-            <div className="grid grid-cols-4 gap-1.5 text-xs font-semibold">
-              {["C", "(", ")", "/", "7", "8", "9", "*", "4", "5", "6", "-", "1", "2", "3", "+", "0", ".", "^", "="].map(
-                (btn) => (
-                  <button
-                    key={btn}
-                    onClick={() => {
-                      if (btn === "C") {
-                        setCalcInput("");
-                      } else if (btn === "=") {
-                        try {
-                          const sanitized = calcInput.replace(/[^0-9+\-*/.()]/g, "");
-                          const fn = new Function(`"use strict"; return (${sanitized});`);
-                          const val = fn();
-                          setCalcInput(Number.isFinite(val) ? String(val) : "Error");
-                        } catch {
-                          setCalcInput("Error");
-                        }
-                      } else {
-                        setCalcInput((prev) => prev + btn);
-                      }
-                    }}
-                    className={`rounded-md p-2 transition ${
-                      btn === "="
-                        ? "bg-blue-600 text-white hover:bg-blue-500"
-                        : btn === "C"
-                        ? "bg-rose-600/50 text-white hover:bg-rose-500"
-                        : "bg-white/5 text-gray-200 hover:bg-white/10"
-                    }`}
-                  >
-                    {btn}
-                  </button>
-                )
-              )}
-            </div>
+          <div className="mb-3 rounded-lg border border-white/10 bg-black/50 p-2.5 text-right font-mono text-lg text-emerald-400">
+            {calcInput || "0"}
+          </div>
+          <div className="grid grid-cols-4 gap-1.5 text-xs font-semibold">
+            {["C", "DEL", "(", ")", "7", "8", "9", "/", "4", "5", "6", "*", "1", "2", "3", "-", "0", ".", "=", "+"].map(
+              (btn) => (
+                <button
+                  key={btn}
+                  onClick={() => handleCalcBtn(btn)}
+                  className={`rounded-lg p-2.5 transition active:scale-95 ${
+                    btn === "="
+                      ? "col-span-1 bg-blue-600 text-white hover:bg-blue-500"
+                      : btn === "C" || btn === "DEL"
+                      ? "bg-rose-500/20 text-rose-300 hover:bg-rose-500/30"
+                      : "border border-white/10 bg-white/5 text-gray-200 hover:bg-white/10"
+                  }`}
+                >
+                  {btn}
+                </button>
+              )
+            )}
           </div>
         </div>
       )}
 
-      {/* Confirmation Modal */}
+      {/* Submit Confirmation Modal */}
       {showSubmit && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4 backdrop-blur-sm">
-          <div className="w-full max-w-md rounded-2xl border border-white/10 bg-[#12141a] p-6 shadow-2xl">
-            <h2 className="text-xl font-bold text-white">Submit Test?</h2>
-            <p className="mt-2 text-xs text-gray-400">
-              Are you sure you want to end this test session? Your responses will be evaluated instantly.
+          <div className="w-full max-w-md rounded-2xl border border-white/20 bg-[#0d0f14] p-6 shadow-2xl">
+            <h3 className="text-lg font-bold text-white">Submit GATE Test?</h3>
+            <p className="mt-2 text-xs text-gray-400 leading-relaxed">
+              Are you sure you want to end this test? You will receive instant GATE-standard analysis, marks breakdown, and solutions.
             </p>
 
-            <div className="mt-5 grid grid-cols-3 gap-3">
-              <div className="rounded-xl border border-white/5 bg-white/[0.03] p-3 text-center">
-                <p className="text-xl font-bold text-emerald-400">
-                  {Object.keys(answers).length}
+            <div className="mt-4 grid grid-cols-3 gap-2 rounded-xl border border-white/10 bg-white/[0.02] p-3 text-center text-xs">
+              <div>
+                <p className="text-gray-500">Attempted</p>
+                <p className="font-bold text-emerald-400">
+                  {Object.keys(answers).filter((k) => {
+                    const ans = answers[k];
+                    return Array.isArray(ans) ? ans.length > 0 : String(ans).trim() !== "";
+                  }).length}
                 </p>
-                <p className="text-[10px] uppercase text-gray-400">Answered</p>
               </div>
-
-              <div className="rounded-xl border border-white/5 bg-white/[0.03] p-3 text-center">
-                <p className="text-xl font-bold text-rose-400">
-                  {questions.length - Object.keys(answers).length}
-                </p>
-                <p className="text-[10px] uppercase text-gray-400">Unanswered</p>
+              <div>
+                <p className="text-gray-500">Marked</p>
+                <p className="font-bold text-amber-400">{marked.length}</p>
               </div>
-
-              <div className="rounded-xl border border-white/5 bg-white/[0.03] p-3 text-center">
-                <p className="text-xl font-bold text-purple-400">
-                  {marked.length}
+              <div>
+                <p className="text-gray-500">Unattempted</p>
+                <p className="font-bold text-gray-300">
+                  {questions.length -
+                    Object.keys(answers).filter((k) => {
+                      const ans = answers[k];
+                      return Array.isArray(ans) ? ans.length > 0 : String(ans).trim() !== "";
+                    }).length}
                 </p>
-                <p className="text-[10px] uppercase text-gray-400">Marked</p>
               </div>
             </div>
 
-            <div className="mt-6 flex gap-3">
+            <div className="mt-6 flex justify-end gap-3">
               <button
                 onClick={() => setShowSubmit(false)}
-                className="flex-1 rounded-xl border border-white/10 py-2.5 text-xs font-semibold text-gray-300 transition hover:bg-white/5"
+                className="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-xs font-semibold text-gray-300 transition hover:bg-white/10"
               >
                 Continue Test
               </button>
-
               <button
-                onClick={() => {
-                  setShowSubmit(false);
-                  handleSubmit();
-                }}
-                className="flex-1 rounded-xl bg-blue-600 py-2.5 text-xs font-semibold text-white transition hover:bg-blue-500"
+                onClick={handleSubmit}
+                className="rounded-xl bg-blue-600 px-5 py-2 text-xs font-bold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500"
               >
-                Confirm & Submit
+                Yes, Submit Now
               </button>
             </div>
           </div>

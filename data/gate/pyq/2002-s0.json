@@ -1,0 +1,2741 @@
+{
+  "id": "gate-2002-s0",
+  "yearSetKey": "2002-s0",
+  "year": 2002,
+  "set": 1,
+  "title": "GATE CSE 2002",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 77,
+  "totalQuestions": 51,
+  "gaQuestions": 0,
+  "csQuestions": 51,
+  "questions": [
+    {
+      "id": "go:805",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.1",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The rank of the matrix $\\begin{bmatrix} 1 &amp; 1 \\\\ 0 &amp; 0 \\end{bmatrix}$ is</p>",
+      "rawQuestionHtml": "<p>The rank of the matrix $\\begin{bmatrix} 1 &amp; 1 \\\\ 0 &amp; 0 \\end{bmatrix}$ is</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$4$</li>\n<li>$2$</li>\n<li>$1$</li>\n<li>$0$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$2$",
+        "$1$",
+        "$0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "D",
+          "text": "$0$",
+          "html": "$0$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/805/gate-cse-2002-question-1-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/805/gate-cse-2002-question-1-1"
+    },
+    {
+      "id": "go:806",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The trapezoidal rule for integration gives exact result when the integrand is a polynomial of degree</p>",
+      "rawQuestionHtml": "<a name=\"806\"></a><div itemprop=\"text\"><p>The trapezoidal rule for integration gives exact result when the integrand is a polynomial of degree</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>0 but not 1</li>\n\t<li>1 but not 0</li>\n\t<li>0 or 1</li>\n\t<li>2</li>\n</ol></div>",
+      "options": [
+        "0 but not 1",
+        "1 but not 0",
+        "0 or 1",
+        "2"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "0 but not 1",
+          "html": "0 but not 1"
+        },
+        {
+          "label": "B",
+          "text": "1 but not 0",
+          "html": "1 but not 0"
+        },
+        {
+          "label": "C",
+          "text": "0 or 1",
+          "html": "0 or 1"
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/806/gate-cse-2002-question-1-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/806/gate-cse-2002-question-1-2"
+    },
+    {
+      "id": "go:807",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.3",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>The solution to the recurrence equation $T(2^k) = 3T(2^{k-1})+1, T(1) =1$ is</p>",
+      "rawQuestionHtml": "<p>The solution to the recurrence equation $T(2^k) = 3T(2^{k-1})+1, T(1) =1$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2^k$</li>\n<li>$\\frac{(3^{k+1}-1)}{2}$</li>\n<li>$3^{\\log_2 k}$</li>\n<li>$2^{\\log_3 k}$</li>\n</ol>",
+      "options": [
+        "$2^k$",
+        "$\\frac{(3^{k+1}-1)}{2}$",
+        "$3^{\\log_2 k}$",
+        "$2^{\\log_3 k}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2^k$",
+          "html": "$2^k$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{(3^{k+1}-1)}{2}$",
+          "html": "$\\frac{(3^{k+1}-1)}{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$3^{\\log_2 k}$",
+          "html": "$3^{\\log_2 k}$"
+        },
+        {
+          "label": "D",
+          "text": "$2^{\\log_3 k}$",
+          "html": "$2^{\\log_3 k}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/807/gate-cse-2002-question-1-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/807/gate-cse-2002-question-1-3"
+    },
+    {
+      "id": "go:808",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.4",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>The minimum number of colours required to colour the vertices of a cycle with $n$ nodes in such a way that no two adjacent nodes have the same colour is</p>",
+      "rawQuestionHtml": "<p>The minimum number of colours required to colour the vertices of a cycle with $n$ nodes in such a way that no two adjacent nodes have the same colour is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$n-2 \\left \\lfloor \\frac{n}{2} \\right \\rfloor+2$</li>\n</ol>",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$n-2 \\left \\lfloor \\frac{n}{2} \\right \\rfloor+2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "B",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "C",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "D",
+          "text": "$n-2 \\left \\lfloor \\frac{n}{2} \\right \\rfloor+2$",
+          "html": "$n-2 \\left \\lfloor \\frac{n}{2} \\right \\rfloor+2$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/808/gate-cse-2002-question-1-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/808/gate-cse-2002-question-1-4"
+    },
+    {
+      "id": "go:809",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.5",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>In the worst case, the number of comparisons needed to search a single linked list of length $n$ for a given element is</p>",
+      "rawQuestionHtml": "<p>In the worst case, the number of comparisons needed to search a single linked list of length $n$ for a given element is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\log n$</li>\n<li>$\\frac{n}{2}$</li>\n<li>$\\log_2 {n} - 1$</li>\n<li>$n$</li>\n</ol>",
+      "options": [
+        "$\\log n$",
+        "$\\frac{n}{2}$",
+        "$\\log_2 {n} - 1$",
+        "$n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\log n$",
+          "html": "$\\log n$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{n}{2}$",
+          "html": "$\\frac{n}{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\log_2 {n} - 1$",
+          "html": "$\\log_2 {n} - 1$"
+        },
+        {
+          "label": "D",
+          "text": "$n$",
+          "html": "$n$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/809/gate-cse-2002-question-1-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/809/gate-cse-2002-question-1-5"
+    },
+    {
+      "id": "go:810",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.6",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The set of all rational negative numbers forms a group under multiplication.</li>\n<li>The set of all non-singular matrices forms a group under multiplication.</li>\n<li>The set of all matrices forms a group under multiplication.</li>\n<li>Both B and C are true.</li>\n</ol>",
+      "options": [
+        "The set of all rational negative numbers forms a group under multiplication.",
+        "The set of all non-singular matrices forms a group under multiplication.",
+        "The set of all matrices forms a group under multiplication.",
+        "Both B and C are true."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The set of all rational negative numbers forms a group under multiplication.",
+          "html": "The set of all rational negative numbers forms a group under multiplication."
+        },
+        {
+          "label": "B",
+          "text": "The set of all non-singular matrices forms a group under multiplication.",
+          "html": "The set of all non-singular matrices forms a group under multiplication."
+        },
+        {
+          "label": "C",
+          "text": "The set of all matrices forms a group under multiplication.",
+          "html": "The set of all matrices forms a group under multiplication."
+        },
+        {
+          "label": "D",
+          "text": "Both B and C are true.",
+          "html": "Both B and C are true."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/810/gate-cse-2002-question-1-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/810/gate-cse-2002-question-1-6"
+    },
+    {
+      "id": "go:811",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.7",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>The language accepted by a Pushdown Automaton in which the stack is limited to $10$ items is best described as</p>",
+      "rawQuestionHtml": "<p>The language accepted by a Pushdown Automaton in which the stack is limited to $10$ items is best described as</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Context free</li>\n<li>Regular</li>\n<li>Deterministic Context free</li>\n<li>Recursive</li>\n</ol>",
+      "options": [
+        "Context free",
+        "Regular",
+        "Deterministic Context free",
+        "Recursive"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Context free",
+          "html": "Context free"
+        },
+        {
+          "label": "B",
+          "text": "Regular",
+          "html": "Regular"
+        },
+        {
+          "label": "C",
+          "text": "Deterministic Context free",
+          "html": "Deterministic Context free"
+        },
+        {
+          "label": "D",
+          "text": "Recursive",
+          "html": "Recursive"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/811/gate-cse-2002-question-1-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/811/gate-cse-2002-question-1-7"
+    },
+    {
+      "id": "go:812",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.8",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>\"If $X$ then $Y$ unless $Z$\" is represented by which of the following formulas in propositional logic? (\"$\\neg$\" is negation, \"$\\land$\" is conjunction, and \"$\\rightarrow$\" is implication)</p>",
+      "rawQuestionHtml": "<p>\"If $X$ then $Y$ unless $Z$\" is represented by which of the following formulas in propositional logic? (\"$\\neg$\" is negation, \"$\\land$\" is conjunction, and \"$\\rightarrow$\" is implication)</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(X\\land \\neg Z) \\rightarrow Y$</li>\n<li>$(X \\land Y) \\rightarrow \\neg Z$</li>\n<li>$X \\rightarrow(Y\\land \\neg Z)$</li>\n<li>$(X \\rightarrow Y)\\land \\neg Z$</li>\n</ol>",
+      "options": [
+        "$(X\\land \\neg Z) \\rightarrow Y$",
+        "$(X \\land Y) \\rightarrow \\neg Z$",
+        "$X \\rightarrow(Y\\land \\neg Z)$",
+        "$(X \\rightarrow Y)\\land \\neg Z$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(X\\land \\neg Z) \\rightarrow Y$",
+          "html": "$(X\\land \\neg Z) \\rightarrow Y$"
+        },
+        {
+          "label": "B",
+          "text": "$(X \\land Y) \\rightarrow \\neg Z$",
+          "html": "$(X \\land Y) \\rightarrow \\neg Z$"
+        },
+        {
+          "label": "C",
+          "text": "$X \\rightarrow(Y\\land \\neg Z)$",
+          "html": "$X \\rightarrow(Y\\land \\neg Z)$"
+        },
+        {
+          "label": "D",
+          "text": "$(X \\rightarrow Y)\\land \\neg Z$",
+          "html": "$(X \\rightarrow Y)\\land \\neg Z$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/812/gate-cse-2002-question-1-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/812/gate-cse-2002-question-1-8"
+    },
+    {
+      "id": "go:813",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.9",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>A device employing INTR line for device interrupt puts the CALL instruction on the data bus while:</p>",
+      "rawQuestionHtml": "<p>A device employing INTR line for device interrupt puts the CALL instruction on the data bus while:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline{INTA}$ is active</li>\n<li>HOLD is active</li>\n<li>READY is inactive</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$\\overline{INTA}$ is active",
+        "HOLD is active",
+        "READY is inactive",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\overline{INTA}$ is active",
+          "html": "$\\overline{INTA}$ is active"
+        },
+        {
+          "label": "B",
+          "text": "HOLD is active",
+          "html": "HOLD is active"
+        },
+        {
+          "label": "C",
+          "text": "READY is inactive",
+          "html": "READY is inactive"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/813/gate-cse-2002-question-1-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/813/gate-cse-2002-question-1-9"
+    },
+    {
+      "id": "go:814",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.10",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>In 8085 which of the following modifies the program counter?</p>",
+      "rawQuestionHtml": "<p>In 8085 which of the following modifies the program counter?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Only PCHL instruction</li>\n<li>Only ADD instructions</li>\n<li>Only JMP and CALL instructions</li>\n<li>All instructions</li>\n</ol>",
+      "options": [
+        "Only PCHL instruction",
+        "Only ADD instructions",
+        "Only JMP and CALL instructions",
+        "All instructions"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Only PCHL instruction",
+          "html": "Only PCHL instruction"
+        },
+        {
+          "label": "B",
+          "text": "Only ADD instructions",
+          "html": "Only ADD instructions"
+        },
+        {
+          "label": "C",
+          "text": "Only JMP and CALL instructions",
+          "html": "Only JMP and CALL instructions"
+        },
+        {
+          "label": "D",
+          "text": "All instructions",
+          "html": "All instructions"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/814/gate2002-1-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/814/gate2002-1-10"
+    },
+    {
+      "id": "go:815",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.11",
+      "subject": "Computer Networks",
+      "subjectSlug": "cn",
+      "topic": "OSI Layering & Physical Layer",
+      "type": "MCQ",
+      "question": "<p>In serial data transmission, every byte of data is padded with a '0' in the beginning and one or two '1's at the end of byte because</p>",
+      "rawQuestionHtml": "<p>In serial data transmission, every byte of data is padded with a '0' in the beginning and one or two '1's at the end of byte because</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Receiver is to be synchronized for byte reception</li>\n<li>Receiver recovers lost '0's and '1' from these padded bits</li>\n<li>Padded bits are useful in parity computation</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Receiver is to be synchronized for byte reception",
+        "Receiver recovers lost '0's and '1' from these padded bits",
+        "Padded bits are useful in parity computation",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Receiver is to be synchronized for byte reception",
+          "html": "Receiver is to be synchronized for byte reception"
+        },
+        {
+          "label": "B",
+          "text": "Receiver recovers lost '0's and '1' from these padded bits",
+          "html": "Receiver recovers lost '0's and '1' from these padded bits"
+        },
+        {
+          "label": "C",
+          "text": "Padded bits are useful in parity computation",
+          "html": "Padded bits are useful in parity computation"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/815/gate2002-1-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/815/gate2002-1-11"
+    },
+    {
+      "id": "go:816",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.12",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/2629978306346336146.webp\" width=\"239\"/></p>",
+      "rawQuestionHtml": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/2629978306346336146.webp\" width=\"239\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xz + y'z$</li>\n<li>$xz' + zx'$</li>\n<li>$x'y + zx'$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$xz + y'z$",
+        "$xz' + zx'$",
+        "$x'y + zx'$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$xz + y'z$",
+          "html": "$xz + y'z$"
+        },
+        {
+          "label": "B",
+          "text": "$xz' + zx'$",
+          "html": "$xz' + zx'$"
+        },
+        {
+          "label": "C",
+          "text": "$x'y + zx'$",
+          "html": "$x'y + zx'$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/816/gate-cse-2002-question-1-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/816/gate-cse-2002-question-1-12"
+    },
+    {
+      "id": "go:817",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.13",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "MCQ",
+      "question": "<p>Which of the following is not a form of memory</p>",
+      "rawQuestionHtml": "<p>Which of the following is not a form of memory</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>instruction cache</li>\n<li>instruction register</li>\n<li>instruction opcode</li>\n<li>translation look-a-side buffer</li>\n</ol>",
+      "options": [
+        "instruction cache",
+        "instruction register",
+        "instruction opcode",
+        "translation look-a-side buffer"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "instruction cache",
+          "html": "instruction cache"
+        },
+        {
+          "label": "B",
+          "text": "instruction register",
+          "html": "instruction register"
+        },
+        {
+          "label": "C",
+          "text": "instruction opcode",
+          "html": "instruction opcode"
+        },
+        {
+          "label": "D",
+          "text": "translation look-a-side buffer",
+          "html": "translation look-a-side buffer"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/817/gate-cse-2002-question-1-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/817/gate-cse-2002-question-1-13"
+    },
+    {
+      "id": "go:818",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.14",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The decimal value $0.25$</p>",
+      "rawQuestionHtml": "<p>The decimal value $0.25$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>is equivalent to the binary value $0.1$</li>\n<li>is equivalent to the binary value $0.01$</li>\n<li>is equivalent to the binary value $0.00111$</li>\n<li>cannot be represented precisely in binary</li>\n</ol>",
+      "options": [
+        "is equivalent to the binary value $0.1$",
+        "is equivalent to the binary value $0.01$",
+        "is equivalent to the binary value $0.00111$",
+        "cannot be represented precisely in binary"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "is equivalent to the binary value $0.1$",
+          "html": "is equivalent to the binary value $0.1$"
+        },
+        {
+          "label": "B",
+          "text": "is equivalent to the binary value $0.01$",
+          "html": "is equivalent to the binary value $0.01$"
+        },
+        {
+          "label": "C",
+          "text": "is equivalent to the binary value $0.00111$",
+          "html": "is equivalent to the binary value $0.00111$"
+        },
+        {
+          "label": "D",
+          "text": "cannot be represented precisely in binary",
+          "html": "cannot be represented precisely in binary"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/818/gate-cse-2002-question-1-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/818/gate-cse-2002-question-1-14"
+    },
+    {
+      "id": "go:819",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.15",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The $2's$ complement representation of the decimal value $-15$ is</p>",
+      "rawQuestionHtml": "<p>The $2's$ complement representation of the decimal value $-15$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111$</li>\n<li>$11111$</li>\n<li>$111111$</li>\n<li>$10001$</li>\n</ol>",
+      "options": [
+        "$1111$",
+        "$11111$",
+        "$111111$",
+        "$10001$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1111$",
+          "html": "$1111$"
+        },
+        {
+          "label": "B",
+          "text": "$11111$",
+          "html": "$11111$"
+        },
+        {
+          "label": "C",
+          "text": "$111111$",
+          "html": "$111111$"
+        },
+        {
+          "label": "D",
+          "text": "$10001$",
+          "html": "$10001$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/819/gate-cse-2002-question-1-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/819/gate-cse-2002-question-1-15"
+    },
+    {
+      "id": "go:821",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.16",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>Sign extension is a step in </p>",
+      "rawQuestionHtml": "<p>Sign extension is a step in </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>floating point multiplication</li>\n<li>signed $16$ bit integer addition</li>\n<li>arithmetic left shift</li>\n<li>converting a signed integer from one size to another</li>\n</ol>",
+      "options": [
+        "floating point multiplication",
+        "signed $16$ bit integer addition",
+        "arithmetic left shift",
+        "converting a signed integer from one size to another"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "floating point multiplication",
+          "html": "floating point multiplication"
+        },
+        {
+          "label": "B",
+          "text": "signed $16$ bit integer addition",
+          "html": "signed $16$ bit integer addition"
+        },
+        {
+          "label": "C",
+          "text": "arithmetic left shift",
+          "html": "arithmetic left shift"
+        },
+        {
+          "label": "D",
+          "text": "converting a signed integer from one size to another",
+          "html": "converting a signed integer from one size to another"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/821/gate-cse-2002-question-1-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/821/gate-cse-2002-question-1-16"
+    },
+    {
+      "id": "go:822",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.17",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>In the C language:</p>",
+      "rawQuestionHtml": "<p>In the C language:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>At most one activation record exists between the current activation record and the activation record for the main</li>\n<li>The number of activation records between the current activation record and the activation records from the main depends on the actual function calling sequence.</li>\n<li>The visibility of global variables depends on the actual function calling sequence</li>\n<li>Recursion requires the activation record for the recursive function to be saved in a different stack before the recursive function can be called.</li>\n</ol>",
+      "options": [
+        "At most one activation record exists between the current activation record and the activation record for the main",
+        "The number of activation records between the current activation record and the activation records from the main depends on the actual function calling sequence.",
+        "The visibility of global variables depends on the actual function calling sequence",
+        "Recursion requires the activation record for the recursive function to be saved in a different stack before the recursive function can be called."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "At most one activation record exists between the current activation record and the activation record for the main",
+          "html": "At most one activation record exists between the current activation record and the activation record for the main"
+        },
+        {
+          "label": "B",
+          "text": "The number of activation records between the current activation record and the activation records from the main depends on the actual function calling sequence.",
+          "html": "The number of activation records between the current activation record and the activation records from the main depends on the actual function calling sequence."
+        },
+        {
+          "label": "C",
+          "text": "The visibility of global variables depends on the actual function calling sequence",
+          "html": "The visibility of global variables depends on the actual function calling sequence"
+        },
+        {
+          "label": "D",
+          "text": "Recursion requires the activation record for the recursive function to be saved in a different stack before the recursive function can be called.",
+          "html": "Recursion requires the activation record for the recursive function to be saved in a different stack before the recursive function can be called."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/822/gate-cse-2002-question-1-17",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/822/gate-cse-2002-question-1-17"
+    },
+    {
+      "id": "go:823",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.18",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "C Programming Constructs & Pointers",
+      "type": "MCQ",
+      "question": "<p>The results returned by function under value-result and reference parameter passing conventions</p>",
+      "rawQuestionHtml": "<p>The results returned by function under value-result and reference parameter passing conventions</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Do not differ</li>\n<li>Differ in the presence of loops</li>\n<li>Differ in all cases</li>\n<li>May differ in the presence of exception</li>\n</ol>",
+      "options": [
+        "Do not differ",
+        "Differ in the presence of loops",
+        "Differ in all cases",
+        "May differ in the presence of exception"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Do not differ",
+          "html": "Do not differ"
+        },
+        {
+          "label": "B",
+          "text": "Differ in the presence of loops",
+          "html": "Differ in the presence of loops"
+        },
+        {
+          "label": "C",
+          "text": "Differ in all cases",
+          "html": "Differ in all cases"
+        },
+        {
+          "label": "D",
+          "text": "May differ in the presence of exception",
+          "html": "May differ in the presence of exception"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/823/gate2002-1-18",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/823/gate2002-1-18"
+    },
+    {
+      "id": "go:824",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.19",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Relation $R$ with an associated set of functional dependencies, $F$, is decomposed into $\\text{BCNF}$. The redundancy (arising out of functional dependencies) in the resulting set of relations is</p>",
+      "rawQuestionHtml": "<p>Relation $R$ with an associated set of functional dependencies, $F$, is decomposed into $\\text{BCNF}$. The redundancy (arising out of functional dependencies) in the resulting set of relations is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Zero</li>\n<li>More than zero but less than that of an equivalent $3NF$ decomposition</li>\n<li>Proportional to the size of F<sup>+ </sup></li>\n<li>Indeterminate</li>\n</ol>",
+      "options": [
+        "Zero",
+        "More than zero but less than that of an equivalent $3NF$ decomposition",
+        "Proportional to the size of F +",
+        "Indeterminate"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Zero",
+          "html": "Zero"
+        },
+        {
+          "label": "B",
+          "text": "More than zero but less than that of an equivalent $3NF$ decomposition",
+          "html": "More than zero but less than that of an equivalent $3NF$ decomposition"
+        },
+        {
+          "label": "C",
+          "text": "Proportional to the size of F +",
+          "html": "Proportional to the size of F<sup>+ </sup>"
+        },
+        {
+          "label": "D",
+          "text": "Indeterminate",
+          "html": "Indeterminate"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/824/gate-cse-2002-question-1-19",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/824/gate-cse-2002-question-1-19"
+    },
+    {
+      "id": "go:825",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.20",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>With regards to the expressive power of the formal relational query languages, which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>With regards to the expressive power of the formal relational query languages, which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Relational algebra is more powerful than relational calculus</li>\n<li>Relational algebra has the same power as relational calculus</li>\n<li>Relational algebra has the same power as safe relational calculus</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Relational algebra is more powerful than relational calculus",
+        "Relational algebra has the same power as relational calculus",
+        "Relational algebra has the same power as safe relational calculus",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Relational algebra is more powerful than relational calculus",
+          "html": "Relational algebra is more powerful than relational calculus"
+        },
+        {
+          "label": "B",
+          "text": "Relational algebra has the same power as relational calculus",
+          "html": "Relational algebra has the same power as relational calculus"
+        },
+        {
+          "label": "C",
+          "text": "Relational algebra has the same power as safe relational calculus",
+          "html": "Relational algebra has the same power as safe relational calculus"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/825/gate-cse-2002-question-1-20",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/825/gate-cse-2002-question-1-20"
+    },
+    {
+      "id": "go:826",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.21",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>In $2's$ complement addition, overflow</p>",
+      "rawQuestionHtml": "<p>In $2's$ complement addition, overflow</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>is flagged whenever there is carry from sign bit addition</li>\n<li>cannot occur when a positive value is added to a negative value</li>\n<li>is flagged when the carries from sign bit and previous bit match</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "is flagged whenever there is carry from sign bit addition",
+        "cannot occur when a positive value is added to a negative value",
+        "is flagged when the carries from sign bit and previous bit match",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "is flagged whenever there is carry from sign bit addition",
+          "html": "is flagged whenever there is carry from sign bit addition"
+        },
+        {
+          "label": "B",
+          "text": "cannot occur when a positive value is added to a negative value",
+          "html": "cannot occur when a positive value is added to a negative value"
+        },
+        {
+          "label": "C",
+          "text": "is flagged when the carries from sign bit and previous bit match",
+          "html": "is flagged when the carries from sign bit and previous bit match"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/826/gate-cse-2002-question-1-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/826/gate-cse-2002-question-1-21"
+    },
+    {
+      "id": "go:827",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which of the following scheduling algorithms is non-preemptive?</p>",
+      "rawQuestionHtml": "<p>Which of the following scheduling algorithms is non-preemptive?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Round Robin</li>\n<li>First-In First-Out</li>\n<li>Multilevel Queue Scheduling</li>\n<li>Multilevel Queue Scheduling with Feedback</li>\n</ol>",
+      "options": [
+        "Round Robin",
+        "First-In First-Out",
+        "Multilevel Queue Scheduling",
+        "Multilevel Queue Scheduling with Feedback"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Round Robin",
+          "html": "Round Robin"
+        },
+        {
+          "label": "B",
+          "text": "First-In First-Out",
+          "html": "First-In First-Out"
+        },
+        {
+          "label": "C",
+          "text": "Multilevel Queue Scheduling",
+          "html": "Multilevel Queue Scheduling"
+        },
+        {
+          "label": "D",
+          "text": "Multilevel Queue Scheduling with Feedback",
+          "html": "Multilevel Queue Scheduling with Feedback"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/827/gate-cse-2002-question-1-22",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/827/gate-cse-2002-question-1-22"
+    },
+    {
+      "id": "go:828",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.23",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>The optimal page replacement algorithm will select the page that</p>",
+      "rawQuestionHtml": "<p>The optimal page replacement algorithm will select the page that</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Has not been used for the longest time in the past</li>\n<li>Will not be used for the longest time in the future</li>\n<li>Has been used least number of times</li>\n<li>Has been used most number of times</li>\n</ol>",
+      "options": [
+        "Has not been used for the longest time in the past",
+        "Will not be used for the longest time in the future",
+        "Has been used least number of times",
+        "Has been used most number of times"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Has not been used for the longest time in the past",
+          "html": "Has not been used for the longest time in the past"
+        },
+        {
+          "label": "B",
+          "text": "Will not be used for the longest time in the future",
+          "html": "Will not be used for the longest time in the future"
+        },
+        {
+          "label": "C",
+          "text": "Has been used least number of times",
+          "html": "Has been used least number of times"
+        },
+        {
+          "label": "D",
+          "text": "Has been used most number of times",
+          "html": "Has been used most number of times"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/828/gate-cse-2002-question-1-23",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/828/gate-cse-2002-question-1-23"
+    },
+    {
+      "id": "go:829",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.24",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>In the absolute addressing mode:</p>",
+      "rawQuestionHtml": "<p>In the absolute addressing mode:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>the operand is inside the instruction</li>\n<li>the address of the operand in inside the instruction</li>\n<li>the register containing the address of the operand is specified inside the instruction</li>\n<li>the location of the operand is implicit</li>\n</ol>",
+      "options": [
+        "the operand is inside the instruction",
+        "the address of the operand in inside the instruction",
+        "the register containing the address of the operand is specified inside the instruction",
+        "the location of the operand is implicit"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "the operand is inside the instruction",
+          "html": "the operand is inside the instruction"
+        },
+        {
+          "label": "B",
+          "text": "the address of the operand in inside the instruction",
+          "html": "the address of the operand in inside the instruction"
+        },
+        {
+          "label": "C",
+          "text": "the register containing the address of the operand is specified inside the instruction",
+          "html": "the register containing the address of the operand is specified inside the instruction"
+        },
+        {
+          "label": "D",
+          "text": "the location of the operand is implicit",
+          "html": "the location of the operand is implicit"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/829/gate-cse-2002-question-1-24",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/829/gate-cse-2002-question-1-24"
+    },
+    {
+      "id": "go:830",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 1.25, ISRO2008-30, ISRO2016-6",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "question": "<p>The maximum number of edges in a $n$-node undirected graph without self loops is</p>",
+      "rawQuestionHtml": "<p>The maximum number of edges in a $n$-node undirected graph without self loops is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$n^2$</li>\n<li>$\\frac{n(n-1)}{2}$</li>\n<li>$n-1$</li>\n<li>$\\frac{(n+1)(n)}{2}$</li>\n</ol>",
+      "options": [
+        "$n^2$",
+        "$\\frac{n(n-1)}{2}$",
+        "$n-1$",
+        "$\\frac{(n+1)(n)}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$n^2$",
+          "html": "$n^2$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{n(n-1)}{2}$",
+          "html": "$\\frac{n(n-1)}{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$n-1$",
+          "html": "$n-1$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{(n+1)(n)}{2}$",
+          "html": "$\\frac{(n+1)(n)}{2}$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/830/gate-cse-2002-question-1-25-isro2008-30-isro2016-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/830/gate-cse-2002-question-1-25-isro2008-30-isro2016-6"
+    },
+    {
+      "id": "go:831",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2-1",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>",
+      "rawQuestionHtml": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Sigma (1,4,5)$</li>\n<li>$\\Sigma (6,7)$</li>\n<li>$\\Sigma (0,1,3,5)$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$\\Sigma (1,4,5)$",
+        "$\\Sigma (6,7)$",
+        "$\\Sigma (0,1,3,5)$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\Sigma (1,4,5)$",
+          "html": "$\\Sigma (1,4,5)$"
+        },
+        {
+          "label": "B",
+          "text": "$\\Sigma (6,7)$",
+          "html": "$\\Sigma (6,7)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\Sigma (0,1,3,5)$",
+          "html": "$\\Sigma (0,1,3,5)$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/831/gate-cse-2002-question-2-1",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/831/gate-cse-2002-question-2-1"
+    },
+    {
+      "id": "go:832",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.2",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>",
+      "rawQuestionHtml": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xyz'$</li>\n<li>$xy + z$</li>\n<li>$x + y$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$xyz'$",
+        "$xy + z$",
+        "$x + y$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$xyz'$",
+          "html": "$xyz'$"
+        },
+        {
+          "label": "B",
+          "text": "$xy + z$",
+          "html": "$xy + z$"
+        },
+        {
+          "label": "C",
+          "text": "$x + y$",
+          "html": "$x + y$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/832/gate-cse-2002-question-2-2",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/832/gate-cse-2002-question-2-2"
+    },
+    {
+      "id": "go:833",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2-3",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Let $f(A,B) = A'+B$. Simplified expression for function $f(f(x+y, y), z)$ is</p>",
+      "rawQuestionHtml": "<p>Let $f(A,B) = A'+B$. Simplified expression for function $f(f(x+y, y), z)$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$x' + z$</li>\n<li>$xyz$</li>\n<li>$xy' + z$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$x' + z$",
+        "$xyz$",
+        "$xy' + z$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$x' + z$",
+          "html": "$x' + z$"
+        },
+        {
+          "label": "B",
+          "text": "$xyz$",
+          "html": "$xyz$"
+        },
+        {
+          "label": "C",
+          "text": "$xy' + z$",
+          "html": "$xy' + z$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/833/gate-cse-2002-question-2-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/833/gate-cse-2002-question-2-3"
+    },
+    {
+      "id": "go:834",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.4",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>What are the states of the Auxillary Carry (AC) and Carry Flag (CY) after executing the following 8085 program?</p>\n\n<table border=\"0\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MVI</td>\n\t\t\t<td style=\"text-align:justify\">H,</td>\n\t\t\t<td style=\"text-align:justify\">5DH</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MIV</td>\n\t\t\t<td style=\"text-align:justify\">L,</td>\n\t\t\t<td style=\"text-align:justify\">6BH</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MOV</td>\n\t\t\t<td style=\"text-align:justify\">A,</td>\n\t\t\t<td style=\"text-align:justify\">H</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">ADD</td>\n\t\t\t<td style=\"text-align:justify\">L</td>\n\t\t\t<td style=\"text-align:justify\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+      "rawQuestionHtml": "<a name=\"834\"></a><div itemprop=\"text\"><p>What are the states of the Auxillary Carry (AC) and Carry Flag (CY) after executing the following 8085 program?</p>\n\n<table border=\"0\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MVI</td>\n\t\t\t<td style=\"text-align:justify\">H,</td>\n\t\t\t<td style=\"text-align:justify\">5DH</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MIV</td>\n\t\t\t<td style=\"text-align:justify\">L,</td>\n\t\t\t<td style=\"text-align:justify\">6BH</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">MOV</td>\n\t\t\t<td style=\"text-align:justify\">A,</td>\n\t\t\t<td style=\"text-align:justify\">H</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:justify\">ADD</td>\n\t\t\t<td style=\"text-align:justify\">L</td>\n\t\t\t<td style=\"text-align:justify\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>AC = 0 and CY = 0</li>\n\t<li>AC = 1 and CY = 1</li>\n\t<li>AC = 1 and CY = 0</li>\n\t<li>AC = 0 and CY = 1</li>\n</ol></div>",
+      "options": [
+        "AC = 0 and CY = 0",
+        "AC = 1 and CY = 1",
+        "AC = 1 and CY = 0",
+        "AC = 0 and CY = 1"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "AC = 0 and CY = 0",
+          "html": "AC = 0 and CY = 0"
+        },
+        {
+          "label": "B",
+          "text": "AC = 1 and CY = 1",
+          "html": "AC = 1 and CY = 1"
+        },
+        {
+          "label": "C",
+          "text": "AC = 1 and CY = 0",
+          "html": "AC = 1 and CY = 0"
+        },
+        {
+          "label": "D",
+          "text": "AC = 0 and CY = 1",
+          "html": "AC = 0 and CY = 1"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/834/gate-cse-2002-question-2-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/834/gate-cse-2002-question-2-4"
+    },
+    {
+      "id": "go:835",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.5",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/Gate_QA/question-images/15414905133934466426.webp\" width=\"530\"/></p>",
+      "rawQuestionHtml": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/Gate_QA/question-images/15414905133934466426.webp\" width=\"530\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>outputs the sum of the present and the previous bits of the input</li>\n<li>outputs $01$ whenever the input sequence contains $11$</li>\n<li>outputs $00$ whenever the input sequence contains $10$</li>\n<li>none of the above</li>\n</ol>",
+      "options": [
+        "outputs the sum of the present and the previous bits of the input",
+        "outputs $01$ whenever the input sequence contains $11$",
+        "outputs $00$ whenever the input sequence contains $10$",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "outputs the sum of the present and the previous bits of the input",
+          "html": "outputs the sum of the present and the previous bits of the input"
+        },
+        {
+          "label": "B",
+          "text": "outputs $01$ whenever the input sequence contains $11$",
+          "html": "outputs $01$ whenever the input sequence contains $11$"
+        },
+        {
+          "label": "C",
+          "text": "outputs $00$ whenever the input sequence contains $10$",
+          "html": "outputs $00$ whenever the input sequence contains $10$"
+        },
+        {
+          "label": "D",
+          "text": "none of the above",
+          "html": "none of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/835/gate-cse-2002-question-2-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/835/gate-cse-2002-question-2-5"
+    },
+    {
+      "id": "go:836",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.6, ISRO2008-19",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "MCQ",
+      "question": "<p>The performance of a pipelined processor suffers if:</p>",
+      "rawQuestionHtml": "<p>The performance of a pipelined processor suffers if:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>the pipeline stages have different delays</li>\n<li>consecutive instructions are dependent on each other</li>\n<li>the pipeline stages share hardware resources</li>\n<li>All of the above</li>\n</ol>",
+      "options": [
+        "the pipeline stages have different delays",
+        "consecutive instructions are dependent on each other",
+        "the pipeline stages share hardware resources",
+        "All of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "the pipeline stages have different delays",
+          "html": "the pipeline stages have different delays"
+        },
+        {
+          "label": "B",
+          "text": "consecutive instructions are dependent on each other",
+          "html": "consecutive instructions are dependent on each other"
+        },
+        {
+          "label": "C",
+          "text": "the pipeline stages share hardware resources",
+          "html": "the pipeline stages share hardware resources"
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "html": "All of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/836/gate-cse-2002-question-2-6-isro2008-19",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/836/gate-cse-2002-question-2-6-isro2008-19"
+    },
+    {
+      "id": "go:837",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.7",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "I/O Organization & Interrupts",
+      "type": "MCQ",
+      "question": "<p>Horizontal microprogramming:</p>",
+      "rawQuestionHtml": "<p>Horizontal microprogramming:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>does not require use of signal decoders</li>\n<li>results in larger sized microinstructions than vertical  microprogramming</li>\n<li>uses one bit for each control signal</li>\n<li>all of the above</li>\n</ol>",
+      "options": [
+        "does not require use of signal decoders",
+        "results in larger sized microinstructions than vertical microprogramming",
+        "uses one bit for each control signal",
+        "all of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "does not require use of signal decoders",
+          "html": "does not require use of signal decoders"
+        },
+        {
+          "label": "B",
+          "text": "results in larger sized microinstructions than vertical microprogramming",
+          "html": "results in larger sized microinstructions than vertical  microprogramming"
+        },
+        {
+          "label": "C",
+          "text": "uses one bit for each control signal",
+          "html": "uses one bit for each control signal"
+        },
+        {
+          "label": "D",
+          "text": "all of the above",
+          "html": "all of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/837/gate-cse-2002-question-2-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/837/gate-cse-2002-question-2-7"
+    },
+    {
+      "id": "go:838",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.8",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following declaration of a two-dimensional array in C:</p>\n<p>char $a[100][100]$;</p>\n<p>Assuming that the main memory is byte-addressable and that the array is stored starting from memory address $0$, the address of $a [40][50]$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the following declaration of a two-dimensional array in C:</p>\n<p>char $a[100][100]$;</p>\n<p>Assuming that the main memory is byte-addressable and that the array is stored starting from memory address $0$, the address of $a [40][50]$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4040$</li>\n<li>$4050$</li>\n<li>$5040$</li>\n<li>$5050$</li>\n</ol>",
+      "options": [
+        "$4040$",
+        "$4050$",
+        "$5040$",
+        "$5050$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4040$",
+          "html": "$4040$"
+        },
+        {
+          "label": "B",
+          "text": "$4050$",
+          "html": "$4050$"
+        },
+        {
+          "label": "C",
+          "text": "$5040$",
+          "html": "$5040$"
+        },
+        {
+          "label": "D",
+          "text": "$5050$",
+          "html": "$5050$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/838/gate-cse-2002-question-2-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/838/gate-cse-2002-question-2-8"
+    },
+    {
+      "id": "go:839",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.9",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>The number of leaf nodes in a rooted tree of n nodes, with each node having $0$ or $3$ children is:</p>",
+      "rawQuestionHtml": "<p>The number of leaf nodes in a rooted tree of n nodes, with each node having $0$ or $3$ children is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{n}{2}$</li>\n<li>$\\frac{(n-1)}{3}$</li>\n<li>$\\frac{(n-1)}{2}$</li>\n<li>$\\frac{(2n+1)}{3}$</li>\n</ol>",
+      "options": [
+        "$\\frac{n}{2}$",
+        "$\\frac{(n-1)}{3}$",
+        "$\\frac{(n-1)}{2}$",
+        "$\\frac{(2n+1)}{3}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{n}{2}$",
+          "html": "$\\frac{n}{2}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{(n-1)}{3}$",
+          "html": "$\\frac{(n-1)}{3}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{(n-1)}{2}$",
+          "html": "$\\frac{(n-1)}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{(2n+1)}{3}$",
+          "html": "$\\frac{(2n+1)}{3}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/839/gate-cse-2002-question-2-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/839/gate-cse-2002-question-2-9"
+    },
+    {
+      "id": "go:840",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.10",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>Consider the following algorithm for searching for a given number $x$ in an unsorted array $A[1..n]$ having $n$ distinct values:</p>\n<ol>\n<li>Choose an $i$ at random from $1..n$</li>\n<li>If $A[i] = x$, then Stop else Goto 1;</li>\n</ol>\n<p>Assuming that $x$ is present in $A$, what is the expected number of comparisons made by the algorithm before it terminates?</p>",
+      "rawQuestionHtml": "<p>Consider the following algorithm for searching for a given number $x$ in an unsorted array $A[1..n]$ having $n$ distinct values:</p>\n<ol>\n<li>Choose an $i$ at random from $1..n$</li>\n<li>If $A[i] = x$, then Stop else Goto 1;</li>\n</ol>\n<p>Assuming that $x$ is present in $A$, what is the expected number of comparisons made by the algorithm before it terminates?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$n$</li>\n<li>$n-1$</li>\n<li>$2n$</li>\n<li>$\\frac{n}{2}$</li>\n</ol>",
+      "options": [
+        "$n$",
+        "$n-1$",
+        "$2n$",
+        "$\\frac{n}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$n$",
+          "html": "$n$"
+        },
+        {
+          "label": "B",
+          "text": "$n-1$",
+          "html": "$n-1$"
+        },
+        {
+          "label": "C",
+          "text": "$2n$",
+          "html": "$2n$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{n}{2}$",
+          "html": "$\\frac{n}{2}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/840/gate-cse-2002-question-2-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/840/gate-cse-2002-question-2-10"
+    },
+    {
+      "id": "go:841",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.11",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>The running time of the following algorithm</p>\n<p><strong>Procedure </strong>$A(n)$</p>\n<p>If $n \\leqslant 2$ return ($1$) else return $(A( \\lceil  \\sqrt{n}  \\rceil))$;</p>\n<p>is best described by</p>",
+      "rawQuestionHtml": "<p>The running time of the following algorithm</p>\n<p><strong>Procedure </strong>$A(n)$</p>\n<p>If $n \\leqslant 2$ return ($1$) else return $(A( \\lceil  \\sqrt{n}  \\rceil))$;</p>\n<p>is best described by</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$O(n)$</li>\n<li>$O(\\log n)$</li>\n<li>$O(\\log \\log n)$</li>\n<li>$O(1)$</li>\n</ol>",
+      "options": [
+        "$O(n)$",
+        "$O(\\log n)$",
+        "$O(\\log \\log n)$",
+        "$O(1)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$O(n)$",
+          "html": "$O(n)$"
+        },
+        {
+          "label": "B",
+          "text": "$O(\\log n)$",
+          "html": "$O(\\log n)$"
+        },
+        {
+          "label": "C",
+          "text": "$O(\\log \\log n)$",
+          "html": "$O(\\log \\log n)$"
+        },
+        {
+          "label": "D",
+          "text": "$O(1)$",
+          "html": "$O(1)$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/841/gate-cse-2002-question-2-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/841/gate-cse-2002-question-2-11"
+    },
+    {
+      "id": "go:842",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.12",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>A weight-balanced tree is a binary tree in which for each node, the number of nodes in the left sub tree is at least half and at most twice the number of nodes in the right sub tree. The maximum possible height (number of nodes on the path from the root to the furthest leaf) of such a tree on n nodes is best described by which of the following?</p>",
+      "rawQuestionHtml": "<p>A weight-balanced tree is a binary tree in which for each node, the number of nodes in the left sub tree is at least half and at most twice the number of nodes in the right sub tree. The maximum possible height (number of nodes on the path from the root to the furthest leaf) of such a tree on n nodes is best described by which of the following?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\log_2 n$</li>\n<li>$\\log_{\\frac{4}{3}} n$</li>\n<li>$\\log_3 n$</li>\n<li>$\\log_{\\frac{3}{2}} n$</li>\n</ol>",
+      "options": [
+        "$\\log_2 n$",
+        "$\\log_{\\frac{4}{3}} n$",
+        "$\\log_3 n$",
+        "$\\log_{\\frac{3}{2}} n$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\log_2 n$",
+          "html": "$\\log_2 n$"
+        },
+        {
+          "label": "B",
+          "text": "$\\log_{\\frac{4}{3}} n$",
+          "html": "$\\log_{\\frac{4}{3}} n$"
+        },
+        {
+          "label": "C",
+          "text": "$\\log_3 n$",
+          "html": "$\\log_3 n$"
+        },
+        {
+          "label": "D",
+          "text": "$\\log_{\\frac{3}{2}} n$",
+          "html": "$\\log_{\\frac{3}{2}} n$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/842/gate-cse-2002-question-2-12",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/842/gate-cse-2002-question-2-12"
+    },
+    {
+      "id": "go:843",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.13",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>The smallest finite automaton which accepts the language $\\{x \\mid$ length of $x$ is divisible by $3\\}$ has</p>",
+      "rawQuestionHtml": "<p>The smallest finite automaton which accepts the language $\\{x \\mid$ length of $x$ is divisible by $3\\}$ has</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$ states</li>\n<li>$3$ states</li>\n<li>$4$ states</li>\n<li>$5$ states</li>\n</ol>",
+      "options": [
+        "$2$ states",
+        "$3$ states",
+        "$4$ states",
+        "$5$ states"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$2$ states",
+          "html": "$2$ states"
+        },
+        {
+          "label": "B",
+          "text": "$3$ states",
+          "html": "$3$ states"
+        },
+        {
+          "label": "C",
+          "text": "$4$ states",
+          "html": "$4$ states"
+        },
+        {
+          "label": "D",
+          "text": "$5$ states",
+          "html": "$5$ states"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/843/gate-cse-2002-question-2-13",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/843/gate-cse-2002-question-2-13"
+    },
+    {
+      "id": "go:844",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.14",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The complement of a recursive language is recursive</li>\n<li>The complement of a recursively enumerable language is recursively enumerable</li>\n<li>The complement of a recursive language is either recursive or recursively enumerable</li>\n<li>The complement of a context-free language is context-free</li>\n</ol>",
+      "options": [
+        "The complement of a recursive language is recursive",
+        "The complement of a recursively enumerable language is recursively enumerable",
+        "The complement of a recursive language is either recursive or recursively enumerable",
+        "The complement of a context-free language is context-free"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "The complement of a recursive language is recursive",
+          "html": "The complement of a recursive language is recursive"
+        },
+        {
+          "label": "B",
+          "text": "The complement of a recursively enumerable language is recursively enumerable",
+          "html": "The complement of a recursively enumerable language is recursively enumerable"
+        },
+        {
+          "label": "C",
+          "text": "The complement of a recursive language is either recursive or recursively enumerable",
+          "html": "The complement of a recursive language is either recursive or recursively enumerable"
+        },
+        {
+          "label": "D",
+          "text": "The complement of a context-free language is context-free",
+          "html": "The complement of a context-free language is context-free"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/844/gate-cse-2002-question-2-14",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/844/gate-cse-2002-question-2-14"
+    },
+    {
+      "id": "go:845",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.15",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The Newton-Raphson iteration $X_{n+1} = (\\frac{X_n}{2}) + \\frac{3}{(2X_n)}$ can be used to solve the equation</p>",
+      "rawQuestionHtml": "<a name=\"845\"></a><div itemprop=\"text\"><p>The Newton-Raphson iteration $X_{n+1} = (\\frac{X_n}{2}) + \\frac{3}{(2X_n)}$ can be used to solve the equation</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>$X^2 =3$</li>\n\t<li>$X^3 =3$</li>\n\t<li>$X^2 =2$</li>\n\t<li>$X^3 =2$</li>\n</ol></div>",
+      "options": [
+        "$X^2 =3$",
+        "$X^3 =3$",
+        "$X^2 =2$",
+        "$X^3 =2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$X^2 =3$",
+          "html": "$X^2 =3$"
+        },
+        {
+          "label": "B",
+          "text": "$X^3 =3$",
+          "html": "$X^3 =3$"
+        },
+        {
+          "label": "C",
+          "text": "$X^2 =2$",
+          "html": "$X^2 =2$"
+        },
+        {
+          "label": "D",
+          "text": "$X^3 =2$",
+          "html": "$X^3 =2$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/845/gate-cse-2002-question-2-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/845/gate-cse-2002-question-2-15"
+    },
+    {
+      "id": "go:846",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.16",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "MCQ",
+      "question": "<p>Four fair coins are tossed simultaneously. The probability that at least one head and one tail turn up is</p>",
+      "rawQuestionHtml": "<p>Four fair coins are tossed simultaneously. The probability that at least one head and one tail turn up is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{16}$</li>\n<li>$\\frac{1}{8}$</li>\n<li>$\\frac{7}{8}$</li>\n<li>$\\frac{15}{16}$</li>\n</ol>",
+      "options": [
+        "$\\frac{1}{16}$",
+        "$\\frac{1}{8}$",
+        "$\\frac{7}{8}$",
+        "$\\frac{15}{16}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{16}$",
+          "html": "$\\frac{1}{16}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{8}$",
+          "html": "$\\frac{1}{8}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{7}{8}$",
+          "html": "$\\frac{7}{8}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{15}{16}$",
+          "html": "$\\frac{15}{16}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/846/gate-cse-2002-question-2-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/846/gate-cse-2002-question-2-16"
+    },
+    {
+      "id": "go:847",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.17",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>The binary relation $S= \\phi \\text{(empty set)}$ on a set $A = \\left \\{ 1,2,3 \\right \\}$ is </p>",
+      "rawQuestionHtml": "<p>The binary relation $S= \\phi \\text{(empty set)}$ on a set $A = \\left \\{ 1,2,3 \\right \\}$ is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Neither reflexive nor symmetric</li>\n<li>Symmetric and reflexive</li>\n<li>Transitive and reflexive</li>\n<li>Transitive and symmetric</li>\n</ol>",
+      "options": [
+        "Neither reflexive nor symmetric",
+        "Symmetric and reflexive",
+        "Transitive and reflexive",
+        "Transitive and symmetric"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Neither reflexive nor symmetric",
+          "html": "Neither reflexive nor symmetric"
+        },
+        {
+          "label": "B",
+          "text": "Symmetric and reflexive",
+          "html": "Symmetric and reflexive"
+        },
+        {
+          "label": "C",
+          "text": "Transitive and reflexive",
+          "html": "Transitive and reflexive"
+        },
+        {
+          "label": "D",
+          "text": "Transitive and symmetric",
+          "html": "Transitive and symmetric"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/847/gate-cse-2002-question-2-17",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/847/gate-cse-2002-question-2-17"
+    },
+    {
+      "id": "go:848",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.18",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>The C language is:</p>",
+      "rawQuestionHtml": "<p>The C language is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>A context free language</li>\n<li>A context sensitive language</li>\n<li>A regular language</li>\n<li>Parsable fully only by a Turing machine</li>\n</ol>",
+      "options": [
+        "A context free language",
+        "A context sensitive language",
+        "A regular language",
+        "Parsable fully only by a Turing machine"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "A context free language",
+          "html": "A context free language"
+        },
+        {
+          "label": "B",
+          "text": "A context sensitive language",
+          "html": "A context sensitive language"
+        },
+        {
+          "label": "C",
+          "text": "A regular language",
+          "html": "A regular language"
+        },
+        {
+          "label": "D",
+          "text": "Parsable fully only by a Turing machine",
+          "html": "Parsable fully only by a Turing machine"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/848/gate-cse-2002-question-2-18",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/848/gate-cse-2002-question-2-18"
+    },
+    {
+      "id": "go:849",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.19",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Syntax-Directed Translation & Intermediate Code",
+      "type": "MCQ",
+      "question": "<p>To evaluate an expression without any embedded function calls</p>",
+      "rawQuestionHtml": "<p>To evaluate an expression without any embedded function calls</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>One stack is enough</li>\n<li>Two stacks are needed</li>\n<li>As many stacks as the height of the expression tree are needed</li>\n<li>A Turing machine is needed in the general case</li>\n</ol>",
+      "options": [
+        "One stack is enough",
+        "Two stacks are needed",
+        "As many stacks as the height of the expression tree are needed",
+        "A Turing machine is needed in the general case"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "One stack is enough",
+          "html": "One stack is enough"
+        },
+        {
+          "label": "B",
+          "text": "Two stacks are needed",
+          "html": "Two stacks are needed"
+        },
+        {
+          "label": "C",
+          "text": "As many stacks as the height of the expression tree are needed",
+          "html": "As many stacks as the height of the expression tree are needed"
+        },
+        {
+          "label": "D",
+          "text": "A Turing machine is needed in the general case",
+          "html": "A Turing machine is needed in the general case"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/849/gate-cse-2002-question-2-19",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/849/gate-cse-2002-question-2-19"
+    },
+    {
+      "id": "go:850",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.20",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Dynamic linking can cause security concerns because</p>",
+      "rawQuestionHtml": "<p>Dynamic linking can cause security concerns because</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Security is dynamic</li>\n<li>The path for searching dynamic libraries is not known till runtime</li>\n<li>Linking is insecure</li>\n<li>Cryptographic procedures are not available for dynamic linking</li>\n</ol>",
+      "options": [
+        "Security is dynamic",
+        "The path for searching dynamic libraries is not known till runtime",
+        "Linking is insecure",
+        "Cryptographic procedures are not available for dynamic linking"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Security is dynamic",
+          "html": "Security is dynamic"
+        },
+        {
+          "label": "B",
+          "text": "The path for searching dynamic libraries is not known till runtime",
+          "html": "The path for searching dynamic libraries is not known till runtime"
+        },
+        {
+          "label": "C",
+          "text": "Linking is insecure",
+          "html": "Linking is insecure"
+        },
+        {
+          "label": "D",
+          "text": "Cryptographic procedures are not available for dynamic linking",
+          "html": "Cryptographic procedures are not available for dynamic linking"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/850/gate-cse-2002-question-2-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/850/gate-cse-2002-question-2-20"
+    },
+    {
+      "id": "go:851",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.21",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which combination of the following features will suffice to characterize an OS as a multi-programmed OS?</p>",
+      "rawQuestionHtml": "<p>Which combination of the following features will suffice to characterize an OS as a multi-programmed OS?</p>\n<ol class=\"noshrink-inline-options\" style=\"list-style-type:lower-alpha\">\n<li>More than one program may be loaded into main memory at the same time for execution</li>\n<li>If a program waits for certain events such as I/O, another program is immediately scheduled for execution</li>\n<li>If the execution of a program terminates, another program is immediately scheduled for execution.</li>\n</ol>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li>(a)</li>\n<li>(a) and (b)</li>\n<li>(a) and (c)</li>\n<li>(a), (b) and (c)</li>\n</ol>",
+      "options": [
+        "More than one program may be loaded into main memory at the same time for execution",
+        "If a program waits for certain events such as I/O, another program is immediately scheduled for execution",
+        "If the execution of a program terminates, another program is immediately scheduled for execution.",
+        "(a), (b) and (c)"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "More than one program may be loaded into main memory at the same time for execution",
+          "html": "More than one program may be loaded into main memory at the same time for execution"
+        },
+        {
+          "label": "B",
+          "text": "If a program waits for certain events such as I/O, another program is immediately scheduled for execution",
+          "html": "If a program waits for certain events such as I/O, another program is immediately scheduled for execution"
+        },
+        {
+          "label": "C",
+          "text": "If the execution of a program terminates, another program is immediately scheduled for execution.",
+          "html": "If the execution of a program terminates, another program is immediately scheduled for execution."
+        },
+        {
+          "label": "D",
+          "text": "(a), (b) and (c)",
+          "html": "(a), (b) and (c)"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/851/gate-cse-2002-question-2-21",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/851/gate-cse-2002-question-2-21"
+    },
+    {
+      "id": "go:852",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "File Systems & Disk Scheduling",
+      "type": "MCQ",
+      "question": "<p>In the index allocation scheme of blocks to a file, the maximum possible size of the file depends on</p>",
+      "rawQuestionHtml": "<p>In the index allocation scheme of blocks to a file, the maximum possible size of the file depends on</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>the size of the blocks, and the size of the address of the blocks.</li>\n<li>the number of blocks used for the index, and the size of the blocks.</li>\n<li>the size of the blocks, the number of blocks used for the index, and the size of the address of the blocks.</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "the size of the blocks, and the size of the address of the blocks.",
+        "the number of blocks used for the index, and the size of the blocks.",
+        "the size of the blocks, the number of blocks used for the index, and the size of the address of the blocks.",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "the size of the blocks, and the size of the address of the blocks.",
+          "html": "the size of the blocks, and the size of the address of the blocks."
+        },
+        {
+          "label": "B",
+          "text": "the number of blocks used for the index, and the size of the blocks.",
+          "html": "the number of blocks used for the index, and the size of the blocks."
+        },
+        {
+          "label": "C",
+          "text": "the size of the blocks, the number of blocks used for the index, and the size of the address of the blocks.",
+          "html": "the size of the blocks, the number of blocks used for the index, and the size of the address of the blocks."
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/852/gate-cse-2002-question-2-22",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/852/gate-cse-2002-question-2-22"
+    },
+    {
+      "id": "go:853",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.23, UGCNET-June2012-II: 26",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>A $B^+$ - tree index is to be built on the <em>Name</em> attribute of the relation <em>STUDENT. </em>Assume that all the student names are of length $8$ bytes, disk blocks are of size $512$ bytes, and index pointers are of size $4$ bytes. Given the scenario, what would be the best choice of the degree (i.e. number of pointers per node) of the $B^+$ - tree?</p>",
+      "rawQuestionHtml": "<p>A $B^+$ - tree index is to be built on the <em>Name</em> attribute of the relation <em>STUDENT. </em>Assume that all the student names are of length $8$ bytes, disk blocks are of size $512$ bytes, and index pointers are of size $4$ bytes. Given the scenario, what would be the best choice of the degree (i.e. number of pointers per node) of the $B^+$ - tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$16$</li>\n<li>$42$</li>\n<li>$43$</li>\n<li>$44$</li>\n</ol>",
+      "options": [
+        "$16$",
+        "$42$",
+        "$43$",
+        "$44$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$16$",
+          "html": "$16$"
+        },
+        {
+          "label": "B",
+          "text": "$42$",
+          "html": "$42$"
+        },
+        {
+          "label": "C",
+          "text": "$43$",
+          "html": "$43$"
+        },
+        {
+          "label": "D",
+          "text": "$44$",
+          "html": "$44$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/853/gate-cse-2002-question-2-23-ugcnet-june2012-ii-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/853/gate-cse-2002-question-2-23-ugcnet-june2012-ii-26"
+    },
+    {
+      "id": "go:854",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.24",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Relation $R$ is decomposed using a set of functional dependencies, $F$, and relation $S$ is decomposed using another set of functional dependencies, $G$. One decomposition is definitely $\\text{BCNF}$, the other is definitely $3NF$, but it is not known which is which. To make a guaranteed identification, which one of the following tests should be used on the decompositions? (Assume that the closures of $F$ and $G$ are available).</p>",
+      "rawQuestionHtml": "<p>Relation $R$ is decomposed using a set of functional dependencies, $F$, and relation $S$ is decomposed using another set of functional dependencies, $G$. One decomposition is definitely $\\text{BCNF}$, the other is definitely $3NF$, but it is not known which is which. To make a guaranteed identification, which one of the following tests should be used on the decompositions? (Assume that the closures of $F$ and $G$ are available).</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Dependency-preservation</li>\n<li>Lossless-join</li>\n<li>$\\text{BCNF}$ definition</li>\n<li>$3NF$ definition</li>\n</ol>",
+      "options": [
+        "Dependency-preservation",
+        "Lossless-join",
+        "$\\text{BCNF}$ definition",
+        "$3NF$ definition"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Dependency-preservation",
+          "html": "Dependency-preservation"
+        },
+        {
+          "label": "B",
+          "text": "Lossless-join",
+          "html": "Lossless-join"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{BCNF}$ definition",
+          "html": "$\\text{BCNF}$ definition"
+        },
+        {
+          "label": "D",
+          "text": "$3NF$ definition",
+          "html": "$3NF$ definition"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/854/gate-cse-2002-question-2-24",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/854/gate-cse-2002-question-2-24"
+    },
+    {
+      "id": "go:855",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 2.25",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>From the following instance of a relation schema $R(A,B,C)$, we can conclude that:</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\textbf{A} &amp; \\textbf{B} &amp; \\textbf{C} \\\\\\hline  \\text{1} &amp; \\text{1} &amp; \\text{1} \\\\   \\text{1} &amp; \\text{1} &amp; \\text{0} \\\\ \\text{2} &amp; \\text{3} &amp; \\text{2} \\\\ \\text{2} &amp; \\text{3} &amp; \\text{2} \\\\\\hline \\end{array}$$</p>",
+      "rawQuestionHtml": "<p>From the following instance of a relation schema $R(A,B,C)$, we can conclude that:</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\textbf{A} &amp; \\textbf{B} &amp; \\textbf{C} \\\\\\hline  \\text{1} &amp; \\text{1} &amp; \\text{1} \\\\   \\text{1} &amp; \\text{1} &amp; \\text{0} \\\\ \\text{2} &amp; \\text{3} &amp; \\text{2} \\\\ \\text{2} &amp; \\text{3} &amp; \\text{2} \\\\\\hline \\end{array}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A$ functionally determines $B$ and $B$ functionally determines $C$</li>\n<li>$A$ functionally determines $B$ and $B$ does not functionally determine $C$</li>\n<li>$B$ does not functionally determine $C$</li>\n<li>$A$ does not functionally determine $B$ and $B$ does not functionally determine $C$</li>\n</ol>",
+      "options": [
+        "$A$ functionally determines $B$ and $B$ functionally determines $C$",
+        "$A$ functionally determines $B$ and $B$ does not functionally determine $C$",
+        "$B$ does not functionally determine $C$",
+        "$A$ does not functionally determine $B$ and $B$ does not functionally determine $C$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$A$ functionally determines $B$ and $B$ functionally determines $C$",
+          "html": "$A$ functionally determines $B$ and $B$ functionally determines $C$"
+        },
+        {
+          "label": "B",
+          "text": "$A$ functionally determines $B$ and $B$ does not functionally determine $C$",
+          "html": "$A$ functionally determines $B$ and $B$ does not functionally determine $C$"
+        },
+        {
+          "label": "C",
+          "text": "$B$ does not functionally determine $C$",
+          "html": "$B$ does not functionally determine $C$"
+        },
+        {
+          "label": "D",
+          "text": "$A$ does not functionally determine $B$ and $B$ does not functionally determine $C$",
+          "html": "$A$ does not functionally determine $B$ and $B$ does not functionally determine $C$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/855/gate-cse-2002-question-2-25",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/855/gate-cse-2002-question-2-25"
+    },
+    {
+      "id": "go:865",
+      "testId": "gate-2002-s0",
+      "year": 2002,
+      "set": 1,
+      "yearSetKey": "2002-s0",
+      "orderIndex": 51,
+      "section": "CS",
+      "title": "GATE CSE 2002 | Question: 12",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Fill in the blanks in the following template of an algorithm to compute all pairs shortest path lengths in a directed graph $G$ with $n*n$ adjacency matrix $A$. $A[i,j]$ equals $1$ if there is an edge in $G$ from $i$ to $j$, and $0$ otherwise. Your aim in filling in the blanks is to ensure that the algorithm is correct.</p>\n<pre class=\"prettyprint lang-c_cpp\" style=\"text-align: justify;\">INITIALIZATION: For i = 1 ... n\n    {For j = 1 ... n\n        { if a[i,j] = 0 then P[i,j] =_______ else P[i,j] =_______;}\n    }\n    \nALGORITHM: For i = 1 ... n\n    {For j = 1 ... n\n        {For k = 1 ... n\n            {P[__,__] = min{_______,______}; }\n        }\n    }    </pre>\n\n<p>- Copy the complete line containing the blanks in the Initialization step and fill in the blanks.</p>\n<p>- Copy the complete line containing the blanks in the Algorithm step and fill in the blanks.</p>\n<p>- Fill in the blank: The running time of the Algorithm is $O$(___).</p>",
+      "rawQuestionHtml": "<p>Fill in the blanks in the following template of an algorithm to compute all pairs shortest path lengths in a directed graph $G$ with $n*n$ adjacency matrix $A$. $A[i,j]$ equals $1$ if there is an edge in $G$ from $i$ to $j$, and $0$ otherwise. Your aim in filling in the blanks is to ensure that the algorithm is correct.</p>\n<pre class=\"prettyprint lang-c_cpp\" style=\"text-align: justify;\">INITIALIZATION: For i = 1 ... n\n    {For j = 1 ... n\n        { if a[i,j] = 0 then P[i,j] =_______ else P[i,j] =_______;}\n    }\n    \nALGORITHM: For i = 1 ... n\n    {For j = 1 ... n\n        {For k = 1 ... n\n            {P[__,__] = min{_______,______}; }\n        }\n    }    </pre>\n\n<p>- Copy the complete line containing the blanks in the Initialization step and fill in the blanks.</p>\n<p>- Copy the complete line containing the blanks in the Algorithm step and fill in the blanks.</p>\n<p>- Fill in the blank: The running time of the Algorithm is $O$(___).</p>\n",
+      "options": [],
+      "structuredOptions": [],
+      "answer": [],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/865/gate-cse-2002-question-12",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/865/gate-cse-2002-question-12"
+    }
+  ]
+}

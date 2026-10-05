@@ -1,0 +1,2703 @@
+{
+  "id": "gate-2000-s0",
+  "yearSetKey": "2000-s0",
+  "year": 2000,
+  "set": 1,
+  "title": "GATE CSE 2000",
+  "duration": "180 min",
+  "durationMinutes": 180,
+  "totalMarks": 75,
+  "totalQuestions": 50,
+  "gaQuestions": 0,
+  "csQuestions": 50,
+  "questions": [
+    {
+      "id": "go:624",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 1,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.1",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Combinatorics & Counting",
+      "type": "MCQ",
+      "question": "<p>The minimum number of cards to be dealt from an arbitrarily shuffled deck of $52$ cards to guarantee that three cards are from same suit is</p>",
+      "rawQuestionHtml": "<p>The minimum number of cards to be dealt from an arbitrarily shuffled deck of $52$ cards to guarantee that three cards are from same suit is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$8$</li>\n<li>$9$</li>\n<li>$12$</li>\n</ol>",
+      "options": [
+        "$3$",
+        "$8$",
+        "$9$",
+        "$12$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "B",
+          "text": "$8$",
+          "html": "$8$"
+        },
+        {
+          "label": "C",
+          "text": "$9$",
+          "html": "$9$"
+        },
+        {
+          "label": "D",
+          "text": "$12$",
+          "html": "$12$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/624/gate-cse-2000-question-1-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/624/gate-cse-2000-question-1-1"
+    },
+    {
+      "id": "go:625",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 2,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.2",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
+      "type": "MCQ",
+      "question": "<p>An $n \\times n$ array $v$ is defined as follows:</p>\n<p>$v\\left[i,j\\right] = i - j$ for all $i, j, i \\leq n, 1 \\leq j \\leq n$</p>\n<p>The sum of the elements of the array $v$ is</p>",
+      "rawQuestionHtml": "<p>An $n \\times n$ array $v$ is defined as follows:</p>\n<p>$v\\left[i,j\\right] = i - j$ for all $i, j, i \\leq n, 1 \\leq j \\leq n$</p>\n<p>The sum of the elements of the array $v$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$n-1$</li>\n<li>$n^2 - 3n +2$</li>\n<li>$n^2 \\frac{\\left(n+1\\right)}{2}$</li>\n</ol>",
+      "options": [
+        "$0$",
+        "$n-1$",
+        "$n^2 - 3n +2$",
+        "$n^2 \\frac{\\left(n+1\\right)}{2}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$n-1$",
+          "html": "$n-1$"
+        },
+        {
+          "label": "C",
+          "text": "$n^2 - 3n +2$",
+          "html": "$n^2 - 3n +2$"
+        },
+        {
+          "label": "D",
+          "text": "$n^2 \\frac{\\left(n+1\\right)}{2}$",
+          "html": "$n^2 \\frac{\\left(n+1\\right)}{2}$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/625/gate-cse-2000-question-1-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/625/gate-cse-2000-question-1-2"
+    },
+    {
+      "id": "go:626",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 3,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The determinant of the matrix $$\\begin{bmatrix}2 &amp;0  &amp;0  &amp;0 \\\\  8&amp;  1&amp;  7&amp; 2\\\\  2&amp;  0&amp;2  &amp;0 \\\\  9&amp;0  &amp; 6 &amp; 1 \\end{bmatrix}$$</p>",
+      "rawQuestionHtml": "<p>The determinant of the matrix $$\\begin{bmatrix}2 &amp;0  &amp;0  &amp;0 \\\\  8&amp;  1&amp;  7&amp; 2\\\\  2&amp;  0&amp;2  &amp;0 \\\\  9&amp;0  &amp; 6 &amp; 1 \\end{bmatrix}$$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$0$</li>\n<li>$15$</li>\n<li>$20$</li>\n</ol>",
+      "options": [
+        "$4$",
+        "$0$",
+        "$15$",
+        "$20$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "B",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "C",
+          "text": "$15$",
+          "html": "$15$"
+        },
+        {
+          "label": "D",
+          "text": "$20$",
+          "html": "$20$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/626/gate-cse-2000-question-1-3",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/626/gate-cse-2000-question-1-3"
+    },
+    {
+      "id": "go:627",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 4,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.4",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $S$ and $T$ be languages over $\\Sigma=\\{a,b\\}$ represented by the regular expressions $(a+b^*)^*$ and $(a+b)^*$, respectively. Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Let $S$ and $T$ be languages over $\\Sigma=\\{a,b\\}$ represented by the regular expressions $(a+b^*)^*$ and $(a+b)^*$, respectively. Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S \\subset T$</li>\n<li>$T \\subset S$</li>\n<li>$S = T$</li>\n<li>$S \\cap T = \\phi$</li>\n</ol>",
+      "options": [
+        "$S \\subset T$",
+        "$T \\subset S$",
+        "$S = T$",
+        "$S \\cap T = \\phi$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$S \\subset T$",
+          "html": "$S \\subset T$"
+        },
+        {
+          "label": "B",
+          "text": "$T \\subset S$",
+          "html": "$T \\subset S$"
+        },
+        {
+          "label": "C",
+          "text": "$S = T$",
+          "html": "$S = T$"
+        },
+        {
+          "label": "D",
+          "text": "$S \\cap T = \\phi$",
+          "html": "$S \\cap T = \\phi$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/627/gate-cse-2000-question-1-4",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/627/gate-cse-2000-question-1-4"
+    },
+    {
+      "id": "go:628",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 5,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.5",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>Let $L$ denote the languages generated by the grammar $S \\to 0S0 \\mid 00$.<br/>\nWhich of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>Let $L$ denote the languages generated by the grammar $S \\to 0S0 \\mid 00$.<br/>\nWhich of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L = 0^+$</li>\n<li>$L$ is regular but not $0^+$</li>\n<li>$L$ is context free but not regular</li>\n<li>$L$ is not context free</li>\n</ol>",
+      "options": [
+        "$L = 0^+$",
+        "$L$ is regular but not $0^+$",
+        "$L$ is context free but not regular",
+        "$L$ is not context free"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$L = 0^+$",
+          "html": "$L = 0^+$"
+        },
+        {
+          "label": "B",
+          "text": "$L$ is regular but not $0^+$",
+          "html": "$L$ is regular but not $0^+$"
+        },
+        {
+          "label": "C",
+          "text": "$L$ is context free but not regular",
+          "html": "$L$ is context free but not regular"
+        },
+        {
+          "label": "D",
+          "text": "$L$ is not context free",
+          "html": "$L$ is not context free"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/628/gate-cse-2000-question-1-5",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/628/gate-cse-2000-question-1-5"
+    },
+    {
+      "id": "go:629",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 6,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.6",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Number Representations & Computer Arithmetic",
+      "type": "MCQ",
+      "question": "<p>The number $43$ in $2's$ complement representation is</p>",
+      "rawQuestionHtml": "<p>The number $43$ in $2's$ complement representation is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$01010101$</li>\n<li>$11010101$</li>\n<li>$00101011$</li>\n<li>$10101011$</li>\n</ol>",
+      "options": [
+        "$01010101$",
+        "$11010101$",
+        "$00101011$",
+        "$10101011$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$01010101$",
+          "html": "$01010101$"
+        },
+        {
+          "label": "B",
+          "text": "$11010101$",
+          "html": "$11010101$"
+        },
+        {
+          "label": "C",
+          "text": "$00101011$",
+          "html": "$00101011$"
+        },
+        {
+          "label": "D",
+          "text": "$10101011$",
+          "html": "$10101011$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/629/gate-cse-2000-question-1-6",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/629/gate-cse-2000-question-1-6"
+    },
+    {
+      "id": "go:630",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 7,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.7",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>To put the 8085 microprocessor in the wait state</p>",
+      "rawQuestionHtml": "<p>To put the 8085 microprocessor in the wait state</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>lower the HOLD input</li>\n<li>lower the READY input</li>\n<li>raise the HOLD input</li>\n<li>raise the READY input</li>\n</ol>",
+      "options": [
+        "lower the HOLD input",
+        "lower the READY input",
+        "raise the HOLD input",
+        "raise the READY input"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "lower the HOLD input",
+          "html": "lower the HOLD input"
+        },
+        {
+          "label": "B",
+          "text": "lower the READY input",
+          "html": "lower the READY input"
+        },
+        {
+          "label": "C",
+          "text": "raise the HOLD input",
+          "html": "raise the HOLD input"
+        },
+        {
+          "label": "D",
+          "text": "raise the READY input",
+          "html": "raise the READY input"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/630/gate2000-1-7",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/630/gate2000-1-7"
+    },
+    {
+      "id": "go:631",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 8,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.8",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Pipelining & Hazards",
+      "type": "MCQ",
+      "question": "<p>Comparing the time T1 taken for a single instruction on a pipelined CPU with time T2 taken on a non-pipelined but identical CPU, we can say that</p>",
+      "rawQuestionHtml": "<p>Comparing the time T1 taken for a single instruction on a pipelined CPU with time T2 taken on a non-pipelined but identical CPU, we can say that</p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>T1 ≤ T2</li>\n<li>T1 ≥ T2</li>\n<li>T1 &lt; T2</li>\n<li>T1 and T2 plus the time taken for one instruction fetch cycle</li>\n</ol>",
+      "options": [
+        "T1 ≤ T2",
+        "T1 ≥ T2",
+        "T1 &lt; T2",
+        "T1 and T2 plus the time taken for one instruction fetch cycle"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "T1 ≤ T2",
+          "html": "T1 ≤ T2"
+        },
+        {
+          "label": "B",
+          "text": "T1 ≥ T2",
+          "html": "T1 ≥ T2"
+        },
+        {
+          "label": "C",
+          "text": "T1 &lt; T2",
+          "html": "T1 &lt; T2"
+        },
+        {
+          "label": "D",
+          "text": "T1 and T2 plus the time taken for one instruction fetch cycle",
+          "html": "T1 and T2 plus the time taken for one instruction fetch cycle"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/631/gate-cse-2000-question-1-8",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/631/gate-cse-2000-question-1-8"
+    },
+    {
+      "id": "go:632",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 9,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.9",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>The 8085 microprocessor responds to the presence of an interrupt</p>",
+      "rawQuestionHtml": "<p>The 8085 microprocessor responds to the presence of an interrupt</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>as soon as the TRAP pin becomes 'high'</li>\n<li>by checking the TRAP pin for 'high' status at the end of each instruction</li>\n<li>by checking the TRAP pin for 'high' status at the end of the execution of each instruction.</li>\n<li>by checking the TRAP pin for 'high' status at regular intervals.</li>\n</ol>",
+      "options": [
+        "as soon as the TRAP pin becomes 'high'",
+        "by checking the TRAP pin for 'high' status at the end of each instruction",
+        "by checking the TRAP pin for 'high' status at the end of the execution of each instruction.",
+        "by checking the TRAP pin for 'high' status at regular intervals."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "as soon as the TRAP pin becomes 'high'",
+          "html": "as soon as the TRAP pin becomes 'high'"
+        },
+        {
+          "label": "B",
+          "text": "by checking the TRAP pin for 'high' status at the end of each instruction",
+          "html": "by checking the TRAP pin for 'high' status at the end of each instruction"
+        },
+        {
+          "label": "C",
+          "text": "by checking the TRAP pin for 'high' status at the end of the execution of each instruction.",
+          "html": "by checking the TRAP pin for 'high' status at the end of the execution of each instruction."
+        },
+        {
+          "label": "D",
+          "text": "by checking the TRAP pin for 'high' status at regular intervals.",
+          "html": "by checking the TRAP pin for 'high' status at regular intervals."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/632/gate2000-1-9",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/632/gate2000-1-9"
+    },
+    {
+      "id": "go:633",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 10,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.10",
+      "subject": "Computer Organization & Architecture",
+      "subjectSlug": "coa",
+      "topic": "Instruction Set Architecture & Addressing Modes",
+      "type": "MCQ",
+      "question": "<p>The most appropriate matching for the following pairs$$\\begin{array}{ll} \\text{X: Indirect addressing} &amp; \\text{1: Loops } \\\\  \\text{Y: Immediate addressing } &amp; \\text{2: Pointers} \\\\   \\text{Z: Auto decrement addressing } &amp; \\text{3: Constants } \\\\  \\end{array}$$ is</p>",
+      "rawQuestionHtml": "<p>The most appropriate matching for the following pairs$$\\begin{array}{ll} \\text{X: Indirect addressing} &amp; \\text{1: Loops } \\\\  \\text{Y: Immediate addressing } &amp; \\text{2: Pointers} \\\\   \\text{Z: Auto decrement addressing } &amp; \\text{3: Constants } \\\\  \\end{array}$$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X - 3,  Y - 2,  Z - 1$</li>\n<li>$X - 1,  Y - 3,  Z - 2$</li>\n<li>$X - 2,  Y - 3,  Z - 1$</li>\n<li>$X - 3,  Y - 1,  Z - 2$</li>\n</ol>",
+      "options": [
+        "$X - 3, Y - 2, Z - 1$",
+        "$X - 1, Y - 3, Z - 2$",
+        "$X - 2, Y - 3, Z - 1$",
+        "$X - 3, Y - 1, Z - 2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$X - 3, Y - 2, Z - 1$",
+          "html": "$X - 3,  Y - 2,  Z - 1$"
+        },
+        {
+          "label": "B",
+          "text": "$X - 1, Y - 3, Z - 2$",
+          "html": "$X - 1,  Y - 3,  Z - 2$"
+        },
+        {
+          "label": "C",
+          "text": "$X - 2, Y - 3, Z - 1$",
+          "html": "$X - 2,  Y - 3,  Z - 1$"
+        },
+        {
+          "label": "D",
+          "text": "$X - 3, Y - 1, Z - 2$",
+          "html": "$X - 3,  Y - 1,  Z - 2$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/633/gate-cse-2000-question-1-10",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/633/gate-cse-2000-question-1-10"
+    },
+    {
+      "id": "go:634",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 11,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.11",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>The following C declarations:</p>\n<pre class=\"prettyprint lang-c_cpp\">struct node { \n    int i:\n    float j;\n };\n struct node *s[10];</pre>\n<p>define s to be:</p>",
+      "rawQuestionHtml": "<p>The following C declarations:</p>\n<pre class=\"prettyprint lang-c_cpp\">struct node { \n    int i:\n    float j;\n };\n struct node *s[10];</pre>\n<p>define s to be:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>An array, each element of which is a pointer to a structure of type node</li>\n<li>A structure of $2$ fields, each field being a pointer to an array of $10$ elements</li>\n<li>A structure of $3$ fields: an integer, a float, and an array of $10$ elements</li>\n<li>An array, each element of which is a structure of type node</li>\n</ol>",
+      "options": [
+        "An array, each element of which is a pointer to a structure of type node",
+        "A structure of $2$ fields, each field being a pointer to an array of $10$ elements",
+        "A structure of $3$ fields: an integer, a float, and an array of $10$ elements",
+        "An array, each element of which is a structure of type node"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "An array, each element of which is a pointer to a structure of type node",
+          "html": "An array, each element of which is a pointer to a structure of type node"
+        },
+        {
+          "label": "B",
+          "text": "A structure of $2$ fields, each field being a pointer to an array of $10$ elements",
+          "html": "A structure of $2$ fields, each field being a pointer to an array of $10$ elements"
+        },
+        {
+          "label": "C",
+          "text": "A structure of $3$ fields: an integer, a float, and an array of $10$ elements",
+          "html": "A structure of $3$ fields: an integer, a float, and an array of $10$ elements"
+        },
+        {
+          "label": "D",
+          "text": "An array, each element of which is a structure of type node",
+          "html": "An array, each element of which is a structure of type node"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/634/gate-cse-2000-question-1-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/634/gate-cse-2000-question-1-11"
+    },
+    {
+      "id": "go:635",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 12,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.12",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>The most appropriate matching for the following pairs$$\\begin{array}{|ll|ll|}\\hline X: &amp; \\text{m = malloc(5); m = NULL;} &amp; 1: &amp; \\text{using dangling pointers} \\\\\\hline  Y: &amp; \\text{free(n); n -&gt; value = 5;} &amp; 2: &amp; \\text{using uninitialized pointers} \\\\\\hline   Z: &amp; \\text{char *p , *p = ‘a’ ; } &amp; 3:  &amp; \\text{lost memory} \\\\\\hline \\end{array}$$ is:</p>",
+      "rawQuestionHtml": "<p>The most appropriate matching for the following pairs$$\\begin{array}{|ll|ll|}\\hline X: &amp; \\text{m = malloc(5); m = NULL;} &amp; 1: &amp; \\text{using dangling pointers} \\\\\\hline  Y: &amp; \\text{free(n); n -&gt; value = 5;} &amp; 2: &amp; \\text{using uninitialized pointers} \\\\\\hline   Z: &amp; \\text{char *p , *p = ‘a’ ; } &amp; 3:  &amp; \\text{lost memory} \\\\\\hline \\end{array}$$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X - 1 \\ \\  Y - 3 \\ \\  Z - 2$</li>\n<li>$X - 2 \\ \\  Y - 1 \\ \\  Z - 3$</li>\n<li>$X - 3 \\ \\  Y - 2 \\ \\  Z - 1$</li>\n<li>$X - 3 \\ \\  Y - 1 \\ \\ Z - 2$</li>\n</ol>",
+      "options": [
+        "$X - 1 \\ \\ Y - 3 \\ \\ Z - 2$",
+        "$X - 2 \\ \\ Y - 1 \\ \\ Z - 3$",
+        "$X - 3 \\ \\ Y - 2 \\ \\ Z - 1$",
+        "$X - 3 \\ \\ Y - 1 \\ \\ Z - 2$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$X - 1 \\ \\ Y - 3 \\ \\ Z - 2$",
+          "html": "$X - 1 \\ \\  Y - 3 \\ \\  Z - 2$"
+        },
+        {
+          "label": "B",
+          "text": "$X - 2 \\ \\ Y - 1 \\ \\ Z - 3$",
+          "html": "$X - 2 \\ \\  Y - 1 \\ \\  Z - 3$"
+        },
+        {
+          "label": "C",
+          "text": "$X - 3 \\ \\ Y - 2 \\ \\ Z - 1$",
+          "html": "$X - 3 \\ \\  Y - 2 \\ \\  Z - 1$"
+        },
+        {
+          "label": "D",
+          "text": "$X - 3 \\ \\ Y - 1 \\ \\ Z - 2$",
+          "html": "$X - 3 \\ \\  Y - 1 \\ \\ Z - 2$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/635/gate-cse-2000-question-1-12",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/635/gate-cse-2000-question-1-12"
+    },
+    {
+      "id": "go:636",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 13,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.13",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>The most appropriate matching for the following pairs</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\text{X: depth first search}  &amp;  \\text{1: heap } \\\\\\hline  \\text{Y: breadth first search} &amp; \\text{2: queue} \\\\\\hline  \\text{Z: sorting} &amp; \\text{3: stack} \\\\\\hline \\end{array}$$</p>\n<p>is:</p>",
+      "rawQuestionHtml": "<p>The most appropriate matching for the following pairs</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\text{X: depth first search}  &amp;  \\text{1: heap } \\\\\\hline  \\text{Y: breadth first search} &amp; \\text{2: queue} \\\\\\hline  \\text{Z: sorting} &amp; \\text{3: stack} \\\\\\hline \\end{array}$$</p>\n<p>is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{X - 1,  Y - 2,  Z - 3}$</li>\n<li>$\\text{X - 3,  Y - 1,  Z - 2}$</li>\n<li>$\\text{X - 3,  Y - 2,  Z - 1}$</li>\n<li>$\\text{X - 2,  Y - 3,  Z - 1}$</li>\n</ol>",
+      "options": [
+        "$\\text{X - 1, Y - 2, Z - 3}$",
+        "$\\text{X - 3, Y - 1, Z - 2}$",
+        "$\\text{X - 3, Y - 2, Z - 1}$",
+        "$\\text{X - 2, Y - 3, Z - 1}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\text{X - 1, Y - 2, Z - 3}$",
+          "html": "$\\text{X - 1,  Y - 2,  Z - 3}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\text{X - 3, Y - 1, Z - 2}$",
+          "html": "$\\text{X - 3,  Y - 1,  Z - 2}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\text{X - 3, Y - 2, Z - 1}$",
+          "html": "$\\text{X - 3,  Y - 2,  Z - 1}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\text{X - 2, Y - 3, Z - 1}$",
+          "html": "$\\text{X - 2,  Y - 3,  Z - 1}$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/636/gate-cse-2000-question-1-13",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/636/gate-cse-2000-question-1-13"
+    },
+    {
+      "id": "go:637",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 14,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.14",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Consider the following nested representation of binary trees: $(X \\ Y \\ Z)$ indicates $Y$ and $Z$ are the left and right subtrees, respectively, of node $X$. Note that $Y$ and $Z$ may be $NULL$, or further nested. Which of the following represents a valid binary tree?</p>",
+      "rawQuestionHtml": "<p>Consider the following nested representation of binary trees: $(X \\ Y \\ Z)$ indicates $Y$ and $Z$ are the left and right subtrees, respectively, of node $X$. Note that $Y$ and $Z$ may be $NULL$, or further nested. Which of the following represents a valid binary tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(1 \\ 2 \\ (4 \\ 5 \\ 6 \\ 7))$</li>\n<li>$(1 \\ (2 \\ 3 \\ 4) \\ 5 \\ 6) \\ 7)$</li>\n<li>$(1 \\ (2 \\ 3  \\ 4) \\ (5 \\ 6  \\ 7))$</li>\n<li>$(1 \\ (2 \\ 3 \\ NULL) \\ (4 \\ 5))$</li>\n</ol>",
+      "options": [
+        "$(1 \\ 2 \\ (4 \\ 5 \\ 6 \\ 7))$",
+        "$(1 \\ (2 \\ 3 \\ 4) \\ 5 \\ 6) \\ 7)$",
+        "$(1 \\ (2 \\ 3 \\ 4) \\ (5 \\ 6 \\ 7))$",
+        "$(1 \\ (2 \\ 3 \\ NULL) \\ (4 \\ 5))$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(1 \\ 2 \\ (4 \\ 5 \\ 6 \\ 7))$",
+          "html": "$(1 \\ 2 \\ (4 \\ 5 \\ 6 \\ 7))$"
+        },
+        {
+          "label": "B",
+          "text": "$(1 \\ (2 \\ 3 \\ 4) \\ 5 \\ 6) \\ 7)$",
+          "html": "$(1 \\ (2 \\ 3 \\ 4) \\ 5 \\ 6) \\ 7)$"
+        },
+        {
+          "label": "C",
+          "text": "$(1 \\ (2 \\ 3 \\ 4) \\ (5 \\ 6 \\ 7))$",
+          "html": "$(1 \\ (2 \\ 3  \\ 4) \\ (5 \\ 6  \\ 7))$"
+        },
+        {
+          "label": "D",
+          "text": "$(1 \\ (2 \\ 3 \\ NULL) \\ (4 \\ 5))$",
+          "html": "$(1 \\ (2 \\ 3 \\ NULL) \\ (4 \\ 5))$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/637/gate-cse-2000-question-1-14",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/637/gate-cse-2000-question-1-14"
+    },
+    {
+      "id": "go:638",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 15,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Let $S$ be a sorted array of $n$ integers. Let $T(n)$ denote the time taken for the most efficient algorithm to determined if there are two elements with sum less than $1000$ in $S$. Which of the following statement is true?</p>",
+      "rawQuestionHtml": "<p>Let $S$ be a sorted array of $n$ integers. Let $T(n)$ denote the time taken for the most efficient algorithm to determined if there are two elements with sum less than $1000$ in $S$. Which of the following statement is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$T (n)$ is $O(1)$</li>\n<li>$n \\leq  T(n) \\leq n \\log_2 n$</li>\n<li>$n \\log_2 n ≤ T(n) &lt; \\frac{n}{2}$</li>\n<li>$T(n) = \\left (\\frac{n}{2} \\right)$</li>\n</ol>",
+      "options": [
+        "$T (n)$ is $O(1)$",
+        "$n \\leq T(n) \\leq n \\log_2 n$",
+        "$n \\log_2 n ≤ T(n) &lt; \\frac{n}{2}$",
+        "$T(n) = \\left (\\frac{n}{2} \\right)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$T (n)$ is $O(1)$",
+          "html": "$T (n)$ is $O(1)$"
+        },
+        {
+          "label": "B",
+          "text": "$n \\leq T(n) \\leq n \\log_2 n$",
+          "html": "$n \\leq  T(n) \\leq n \\log_2 n$"
+        },
+        {
+          "label": "C",
+          "text": "$n \\log_2 n ≤ T(n) &lt; \\frac{n}{2}$",
+          "html": "$n \\log_2 n ≤ T(n) &lt; \\frac{n}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$T(n) = \\left (\\frac{n}{2} \\right)$",
+          "html": "$T(n) = \\left (\\frac{n}{2} \\right)$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/638/gate-cse-2000-question-1-15",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/638/gate-cse-2000-question-1-15"
+    },
+    {
+      "id": "go:639",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 16,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Aliasing in the context of programming languages refers to</p>",
+      "rawQuestionHtml": "<p>Aliasing in the context of programming languages refers to</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>multiple variables having the same memory location</li>\n<li>multiple variables having the same value</li>\n<li>multiple variables having the same identifier</li>\n<li>multiple uses of the same variable</li>\n</ol>",
+      "options": [
+        "multiple variables having the same memory location",
+        "multiple variables having the same value",
+        "multiple variables having the same identifier",
+        "multiple uses of the same variable"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "multiple variables having the same memory location",
+          "html": "multiple variables having the same memory location"
+        },
+        {
+          "label": "B",
+          "text": "multiple variables having the same value",
+          "html": "multiple variables having the same value"
+        },
+        {
+          "label": "C",
+          "text": "multiple variables having the same identifier",
+          "html": "multiple variables having the same identifier"
+        },
+        {
+          "label": "D",
+          "text": "multiple uses of the same variable",
+          "html": "multiple uses of the same variable"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/639/gate-cse-2000-question-1-16",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/639/gate-cse-2000-question-1-16"
+    },
+    {
+      "id": "go:640",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 17,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.17, ISRO2015-79",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>Consider the following C declaration:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">struct {\n    short x[5];  \n    union { \n        float y; \n        long z; \n    } u;\n )t;</pre>\n<p>Assume that the objects of the type short, float and long occupy $2$ bytes, $4$ bytes and $8$ bytes, respectively. The memory requirement for variable $t$, ignoring alignment consideration, is:</p>",
+      "rawQuestionHtml": "<p>Consider the following C declaration:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">struct {\n    short x[5];  \n    union { \n        float y; \n        long z; \n    } u;\n )t;</pre>\n<p>Assume that the objects of the type short, float and long occupy $2$ bytes, $4$ bytes and $8$ bytes, respectively. The memory requirement for variable $t$, ignoring alignment consideration, is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$22$ bytes</li>\n<li>$14$ bytes</li>\n<li>$18$ bytes</li>\n<li>$10$ bytes</li>\n</ol>",
+      "options": [
+        "$22$ bytes",
+        "$14$ bytes",
+        "$18$ bytes",
+        "$10$ bytes"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$22$ bytes",
+          "html": "$22$ bytes"
+        },
+        {
+          "label": "B",
+          "text": "$14$ bytes",
+          "html": "$14$ bytes"
+        },
+        {
+          "label": "C",
+          "text": "$18$ bytes",
+          "html": "$18$ bytes"
+        },
+        {
+          "label": "D",
+          "text": "$10$ bytes",
+          "html": "$10$ bytes"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/640/gate-cse-2000-question-1-17-isro2015-79",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/640/gate-cse-2000-question-1-17-isro2015-79"
+    },
+    {
+      "id": "go:641",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 18,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.18, ISRO2015-25",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Lexical Analysis & Symbol Tables",
+      "type": "MCQ",
+      "question": "<p>The number of tokens in the following C statement is</p>\n<pre class=\"prettyprint lang-c_cpp\">printf(\"i=%d, &amp;i=%x\", i, &amp;i);</pre>",
+      "rawQuestionHtml": "<p>The number of tokens in the following C statement is</p>\n<pre class=\"prettyprint lang-c_cpp\">printf(\"i=%d, &amp;i=%x\", i, &amp;i);</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$26$</li>\n<li>$10$</li>\n<li>$21$</li>\n</ol>",
+      "options": [
+        "$3$",
+        "$26$",
+        "$10$",
+        "$21$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "B",
+          "text": "$26$",
+          "html": "$26$"
+        },
+        {
+          "label": "C",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "D",
+          "text": "$21$",
+          "html": "$21$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/641/gate-cse-2000-question-1-18-isro2015-25",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/641/gate-cse-2000-question-1-18-isro2015-25"
+    },
+    {
+      "id": "go:642",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 19,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.19, UGCNET-Dec2013-II: 30",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Which of the following derivations does a top-down parser use while parsing an input string? The input is scanned from left to right.</p>",
+      "rawQuestionHtml": "<p>Which of the following derivations does a top-down parser use while parsing an input string? The input is scanned from left to right.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Leftmost derivation</li>\n<li>Leftmost derivation traced out in reverse</li>\n<li>Rightmost derivation </li>\n<li>Rightmost derivation traced out in reverse</li>\n</ol>",
+      "options": [
+        "Leftmost derivation",
+        "Leftmost derivation traced out in reverse",
+        "Rightmost derivation",
+        "Rightmost derivation traced out in reverse"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Leftmost derivation",
+          "html": "Leftmost derivation"
+        },
+        {
+          "label": "B",
+          "text": "Leftmost derivation traced out in reverse",
+          "html": "Leftmost derivation traced out in reverse"
+        },
+        {
+          "label": "C",
+          "text": "Rightmost derivation",
+          "html": "Rightmost derivation"
+        },
+        {
+          "label": "D",
+          "text": "Rightmost derivation traced out in reverse",
+          "html": "Rightmost derivation traced out in reverse"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/642/gate-cse-2000-question-1-19-ugcnet-dec2013-ii-30",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/642/gate-cse-2000-question-1-19-ugcnet-dec2013-ii-30"
+    },
+    {
+      "id": "go:644",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 20,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.20, ISRO2008-47",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Which of the following need not necessarily be saved on a context switch between processes?</p>",
+      "rawQuestionHtml": "<p>Which of the following need not necessarily be saved on a context switch between processes?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>General purpose registers</li>\n<li>Translation look-aside buffer</li>\n<li>Program counter</li>\n<li>All of the above</li>\n</ol>",
+      "options": [
+        "General purpose registers",
+        "Translation look-aside buffer",
+        "Program counter",
+        "All of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "General purpose registers",
+          "html": "General purpose registers"
+        },
+        {
+          "label": "B",
+          "text": "Translation look-aside buffer",
+          "html": "Translation look-aside buffer"
+        },
+        {
+          "label": "C",
+          "text": "Program counter",
+          "html": "Program counter"
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "html": "All of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/644/gate-cse-2000-question-1-20-isro2008-47",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/644/gate-cse-2000-question-1-20-isro2008-47"
+    },
+    {
+      "id": "go:645",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 21,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.21",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>Let $m[0]\\ldots m[4]$ be mutexes (binary semaphores) and $P[0]\\ldots P[4]$ be processes. <br/>\nSuppose each process $P[i]$ executes the following:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">     wait (m[i]); wait (m(i+1) mod 4]);\n     ........... \n     release (m[i]); release (m(i+1) mod 4]);</pre>\n<p>This could cause</p>",
+      "rawQuestionHtml": "<p>Let $m[0]\\ldots m[4]$ be mutexes (binary semaphores) and $P[0]\\ldots P[4]$ be processes. <br/>\nSuppose each process $P[i]$ executes the following:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">     wait (m[i]); wait (m(i+1) mod 4]);\n     ........... \n     release (m[i]); release (m(i+1) mod 4]);</pre>\n<p>This could cause</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Thrashing</li>\n<li>Deadlock</li>\n<li>Starvation, but not deadlock</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Thrashing",
+        "Deadlock",
+        "Starvation, but not deadlock",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Thrashing",
+          "html": "Thrashing"
+        },
+        {
+          "label": "B",
+          "text": "Deadlock",
+          "html": "Deadlock"
+        },
+        {
+          "label": "C",
+          "text": "Starvation, but not deadlock",
+          "html": "Starvation, but not deadlock"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/645/gate-cse-2000-question-1-21",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/645/gate-cse-2000-question-1-21"
+    },
+    {
+      "id": "go:646",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 22,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.22, UGCNET-June2012-II: 11",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>B$^{+}$-trees are preferred to binary trees in databases because</p>",
+      "rawQuestionHtml": "<p>B$^{+}$-trees are preferred to binary trees in databases because</p>\n<ol style=\"list-style-type:upper-alpha\"><li>Disk capacities are greater than memory capacities</li>\n<li>Disk access is much slower than memory access</li>\n<li>Disk data transfer rates are much less than memory data transfer rates</li>\n<li>Disks are more reliable than memory</li>\n</ol>",
+      "options": [
+        "Disk capacities are greater than memory capacities",
+        "Disk access is much slower than memory access",
+        "Disk data transfer rates are much less than memory data transfer rates",
+        "Disks are more reliable than memory"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Disk capacities are greater than memory capacities",
+          "html": "Disk capacities are greater than memory capacities"
+        },
+        {
+          "label": "B",
+          "text": "Disk access is much slower than memory access",
+          "html": "Disk access is much slower than memory access"
+        },
+        {
+          "label": "C",
+          "text": "Disk data transfer rates are much less than memory data transfer rates",
+          "html": "Disk data transfer rates are much less than memory data transfer rates"
+        },
+        {
+          "label": "D",
+          "text": "Disks are more reliable than memory",
+          "html": "Disks are more reliable than memory"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/646/gate-cse-2000-question-1-22-ugcnet-june2012-ii-11",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/646/gate-cse-2000-question-1-22-ugcnet-june2012-ii-11"
+    },
+    {
+      "id": "go:647",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 23,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 1.23",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "ER Model & Relational Algebra",
+      "type": "MCQ",
+      "question": "<p>Given the relations <br>\nemployee (name, salary, dept-no), and<br>\ndepartment (dept-no, dept-name,address),<br>\nWhich of the following queries cannot be expressed using the basic relational algebra operations $\\left(\\sigma, \\pi,\\times ,\\Join, \\cup, \\cap,-\\right)$?</p>",
+      "rawQuestionHtml": "<p>Given the relations <br>\nemployee (name, salary, dept-no), and<br>\ndepartment (dept-no, dept-name,address),<br>\nWhich of the following queries cannot be expressed using the basic relational algebra operations $\\left(\\sigma, \\pi,\\times ,\\Join, \\cup, \\cap,-\\right)$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Department address of every employee</li>\n<li>Employees whose name is the same as their department name</li>\n<li>The sum of all employees' salaries</li>\n<li>All employees of a given department</li>\n</ol>",
+      "options": [
+        "Department address of every employee",
+        "Employees whose name is the same as their department name",
+        "The sum of all employees' salaries",
+        "All employees of a given department"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Department address of every employee",
+          "html": "Department address of every employee"
+        },
+        {
+          "label": "B",
+          "text": "Employees whose name is the same as their department name",
+          "html": "Employees whose name is the same as their department name"
+        },
+        {
+          "label": "C",
+          "text": "The sum of all employees' salaries",
+          "html": "The sum of all employees' salaries"
+        },
+        {
+          "label": "D",
+          "text": "All employees of a given department",
+          "html": "All employees of a given department"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/647/gate2000-1-23-isro2016-57",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/647/gate2000-1-23-isro2016-57"
+    },
+    {
+      "id": "go:648",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 24,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.1",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>X, Y and Z are closed intervals of unit length on the real line. The overlap of X and Y is half a unit. The overlap of Y and Z is also half a unit. Let the overlap of X and Z be k units. Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>X, Y and Z are closed intervals of unit length on the real line. The overlap of X and Y is half a unit. The overlap of Y and Z is also half a unit. Let the overlap of X and Z be k units. Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>k must be 1</li>\n<li>k must be 0</li>\n<li>k can take any value between 0 and 1</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "k must be 1",
+        "k must be 0",
+        "k can take any value between 0 and 1",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "k must be 1",
+          "html": "k must be 1"
+        },
+        {
+          "label": "B",
+          "text": "k must be 0",
+          "html": "k must be 0"
+        },
+        {
+          "label": "C",
+          "text": "k can take any value between 0 and 1",
+          "html": "k can take any value between 0 and 1"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/648/gate-cse-2000-question-2-1",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/648/gate-cse-2000-question-2-1"
+    },
+    {
+      "id": "go:649",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 25,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.2",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Probability & Statistics",
+      "type": "MCQ",
+      "question": "<p>$E_{1}$ and $E_{2}$  are events in a probability space satisfying the following constraints:</p>\n<ul>\n<li>$Pr$$\\left ( E_{1} \\right )$ = $Pr$$\\left ( E_{2} \\right )$</li>\n<li>$Pr$$\\left ( E_{1}\\cup E_{2} \\right )$ = $1$</li>\n<li>$E_{1}$ and $E_{2}$ are independent</li>\n</ul>\n<p>The value of $Pr$$\\left ( E_{1} \\right )$, the probability of the event $E_{1}$,  is</p>",
+      "rawQuestionHtml": "<p>$E_{1}$ and $E_{2}$  are events in a probability space satisfying the following constraints:</p>\n<ul>\n<li>$Pr$$\\left ( E_{1} \\right )$ = $Pr$$\\left ( E_{2} \\right )$</li>\n<li>$Pr$$\\left ( E_{1}\\cup E_{2} \\right )$ = $1$</li>\n<li>$E_{1}$ and $E_{2}$ are independent</li>\n</ul>\n<p>The value of $Pr$$\\left ( E_{1} \\right )$, the probability of the event $E_{1}$,  is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li> $0$</li>\n<li>$\\dfrac{1}{4}$</li>\n<li>$\\dfrac{1}{2}$</li>\n<li> $1$</li>\n</ol>",
+      "options": [
+        "$0$",
+        "$\\dfrac{1}{4}$",
+        "$\\dfrac{1}{2}$",
+        "$1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0$",
+          "html": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\dfrac{1}{4}$",
+          "html": "$\\dfrac{1}{4}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\dfrac{1}{2}$",
+          "html": "$\\dfrac{1}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$1$",
+          "html": "$1$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 1,
+      "negativeMarks": 0.33,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/649/gate-cse-2000-question-2-2",
+      "difficulty": "Medium",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/649/gate-cse-2000-question-2-2"
+    },
+    {
+      "id": "go:650",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 26,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.3",
+      "subject": "Engineering Mathematics",
+      "subjectSlug": "engg-math",
+      "topic": "Linear Algebra & Matrices",
+      "type": "MCQ",
+      "question": "<p>Let $S = \\sum_{i=3}^{100} i \\log_{2} i$, and $T = \\int_{2}^{100} x \\log_{2}x dx$.</p>\n<p>Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Let $S = \\sum_{i=3}^{100} i \\log_{2} i$, and $T = \\int_{2}^{100} x \\log_{2}x dx$.</p>\n<p>Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S &gt; T$</li>\n<li>$S = T$</li>\n<li>$S &lt; T$ and $2S &gt; T$</li>\n<li>$2S ≤ T$</li>\n</ol>",
+      "options": [
+        "$S &gt; T$",
+        "$S = T$",
+        "$S &lt; T$ and $2S &gt; T$",
+        "$2S ≤ T$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$S &gt; T$",
+          "html": "$S &gt; T$"
+        },
+        {
+          "label": "B",
+          "text": "$S = T$",
+          "html": "$S = T$"
+        },
+        {
+          "label": "C",
+          "text": "$S &lt; T$ and $2S &gt; T$",
+          "html": "$S &lt; T$ and $2S &gt; T$"
+        },
+        {
+          "label": "D",
+          "text": "$2S ≤ T$",
+          "html": "$2S ≤ T$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/650/gate-cse-2000-question-2-3",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/650/gate-cse-2000-question-2-3"
+    },
+    {
+      "id": "go:651",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 27,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.4",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>A polynomial $p(x)$ satisfies the following:</p>\n<ul>\n<li>$p(1) = p(3) = p(5) = 1$ </li>\n<li>$p(2) = p(4) = -1$</li>\n</ul>\n<p>The minimum degree of such a polynomial is</p>",
+      "rawQuestionHtml": "<p>A polynomial $p(x)$ satisfies the following:</p>\n<ul>\n<li>$p(1) = p(3) = p(5) = 1$ </li>\n<li>$p(2) = p(4) = -1$</li>\n</ul>\n<p>The minimum degree of such a polynomial is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n</ol>",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1$",
+          "html": "$1$"
+        },
+        {
+          "label": "B",
+          "text": "$2$",
+          "html": "$2$"
+        },
+        {
+          "label": "C",
+          "text": "$3$",
+          "html": "$3$"
+        },
+        {
+          "label": "D",
+          "text": "$4$",
+          "html": "$4$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/651/gate-cse-2000-question-2-4",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/651/gate-cse-2000-question-2-4"
+    },
+    {
+      "id": "go:652",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 28,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.5",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>A relation $R$ is defined on the set of integers as $xRy$ iff $(x + y)$ is even. Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>A relation $R$ is defined on the set of integers as $xRy$ iff $(x + y)$ is even. Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$R$ is not an equivalence relation</li>\n<li>$R$ is an equivalence relation having $1$ equivalence class</li>\n<li>$R$ is an equivalence relation having $2$ equivalence classes</li>\n<li>$R$ is an equivalence relation having $3$ equivalence classes</li>\n</ol>",
+      "options": [
+        "$R$ is not an equivalence relation",
+        "$R$ is an equivalence relation having $1$ equivalence class",
+        "$R$ is an equivalence relation having $2$ equivalence classes",
+        "$R$ is an equivalence relation having $3$ equivalence classes"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$R$ is not an equivalence relation",
+          "html": "$R$ is not an equivalence relation"
+        },
+        {
+          "label": "B",
+          "text": "$R$ is an equivalence relation having $1$ equivalence class",
+          "html": "$R$ is an equivalence relation having $1$ equivalence class"
+        },
+        {
+          "label": "C",
+          "text": "$R$ is an equivalence relation having $2$ equivalence classes",
+          "html": "$R$ is an equivalence relation having $2$ equivalence classes"
+        },
+        {
+          "label": "D",
+          "text": "$R$ is an equivalence relation having $3$ equivalence classes",
+          "html": "$R$ is an equivalence relation having $3$ equivalence classes"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/652/gate-cse-2000-question-2-5",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/652/gate-cse-2000-question-2-5"
+    },
+    {
+      "id": "go:653",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 29,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.6",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Set Theory, Relations & Functions",
+      "type": "MCQ",
+      "question": "<p>Let $P(S)$ denotes the power set of set $S.$ Which of the following is always true?</p>",
+      "rawQuestionHtml": "<p>Let $P(S)$ denotes the power set of set $S.$ Which of the following is always true?</p>\n<ol start=\"1\" style=\"list-style-type: upper-alpha;\">\n<li>$P(P(S)) = P(S)$</li>\n<li>$P(S) ∩ P(P(S)) = \\{ Ø \\}$</li>\n<li>$P(S) ∩ S = P(S)$</li>\n<li>$S ∉ P(S)$</li>\n</ol>",
+      "options": [
+        "$P(P(S)) = P(S)$",
+        "$P(S) ∩ P(P(S)) = \\{ Ø \\}$",
+        "$P(S) ∩ S = P(S)$",
+        "$S ∉ P(S)$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$P(P(S)) = P(S)$",
+          "html": "$P(P(S)) = P(S)$"
+        },
+        {
+          "label": "B",
+          "text": "$P(S) ∩ P(P(S)) = \\{ Ø \\}$",
+          "html": "$P(S) ∩ P(P(S)) = \\{ Ø \\}$"
+        },
+        {
+          "label": "C",
+          "text": "$P(S) ∩ S = P(S)$",
+          "html": "$P(S) ∩ S = P(S)$"
+        },
+        {
+          "label": "D",
+          "text": "$S ∉ P(S)$",
+          "html": "$S ∉ P(S)$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/653/gate-cse-2000-question-2-6",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/653/gate-cse-2000-question-2-6"
+    },
+    {
+      "id": "go:654",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 30,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.7",
+      "subject": "Discrete Mathematics",
+      "subjectSlug": "discrete-math",
+      "topic": "Mathematical Logic & Proofs",
+      "type": "MCQ",
+      "question": "<p>Let $a, b, c, d$ be propositions. Assume that the equivalence $a ⇔ ( b \\vee \\neg b)$ and $b ⇔c$ hold. Then the truth-value of the formula $(a ∧ b) → (a ∧ c) ∨ d$ is always</p>",
+      "rawQuestionHtml": "<p>Let $a, b, c, d$ be propositions. Assume that the equivalence $a ⇔ ( b \\vee \\neg b)$ and $b ⇔c$ hold. Then the truth-value of the formula $(a ∧ b) → (a ∧ c) ∨ d$ is always</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>True</li>\n<li>False</li>\n<li>Same as the truth-value of $b$</li>\n<li>Same as the truth-value of $d$</li>\n</ol>",
+      "options": [
+        "True",
+        "False",
+        "Same as the truth-value of $b$",
+        "Same as the truth-value of $d$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "True",
+          "html": "True"
+        },
+        {
+          "label": "B",
+          "text": "False",
+          "html": "False"
+        },
+        {
+          "label": "C",
+          "text": "Same as the truth-value of $b$",
+          "html": "Same as the truth-value of $b$"
+        },
+        {
+          "label": "D",
+          "text": "Same as the truth-value of $d$",
+          "html": "Same as the truth-value of $d$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/654/gate-cse-2000-question-2-7",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/654/gate-cse-2000-question-2-7"
+    },
+    {
+      "id": "go:655",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 31,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.8",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Finite Automata & Regular Languages",
+      "type": "MCQ",
+      "question": "<p>What can be said about a regular language L over {a} whose minimal finite state automaton has two states?</p>",
+      "rawQuestionHtml": "<p>What can be said about a regular language L over {a} whose minimal finite state automaton has two states?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>L must be $\\{a^n \\mid n \\ \\text{ is odd}\\}$</li>\n<li>L must be $\\{a^n \\mid n \\ \\text{ is even}\\}$</li>\n<li>L must be $\\{a^n \\mid n \\geq 0\\}$</li>\n<li>Either L must be$\\{a^n \\mid n \\text{ is odd}\\}$, or L must be $\\{a^n \\mid n \\text{ is even}\\}$</li>\n</ol>",
+      "options": [
+        "L must be $\\{a^n \\mid n \\ \\text{ is odd}\\}$",
+        "L must be $\\{a^n \\mid n \\ \\text{ is even}\\}$",
+        "L must be $\\{a^n \\mid n \\geq 0\\}$",
+        "Either L must be$\\{a^n \\mid n \\text{ is odd}\\}$, or L must be $\\{a^n \\mid n \\text{ is even}\\}$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "L must be $\\{a^n \\mid n \\ \\text{ is odd}\\}$",
+          "html": "L must be $\\{a^n \\mid n \\ \\text{ is odd}\\}$"
+        },
+        {
+          "label": "B",
+          "text": "L must be $\\{a^n \\mid n \\ \\text{ is even}\\}$",
+          "html": "L must be $\\{a^n \\mid n \\ \\text{ is even}\\}$"
+        },
+        {
+          "label": "C",
+          "text": "L must be $\\{a^n \\mid n \\geq 0\\}$",
+          "html": "L must be $\\{a^n \\mid n \\geq 0\\}$"
+        },
+        {
+          "label": "D",
+          "text": "Either L must be$\\{a^n \\mid n \\text{ is odd}\\}$, or L must be $\\{a^n \\mid n \\text{ is even}\\}$",
+          "html": "Either L must be$\\{a^n \\mid n \\text{ is odd}\\}$, or L must be $\\{a^n \\mid n \\text{ is even}\\}$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/655/gate2000-2-8",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/655/gate2000-2-8"
+    },
+    {
+      "id": "go:656",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 32,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.9",
+      "subject": "Theory of Computation",
+      "subjectSlug": "toc",
+      "topic": "Turing Machines & Decidability",
+      "type": "MCQ",
+      "question": "<p>Consider the following decision problems:</p>\n<p>$(P1):$ Does a given finite state machine accept a given string?</p>\n<p>$(P2):$ Does a given context free grammar generate an infinite number of strings?</p>\n<p>Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Consider the following decision problems:</p>\n<p>$(P1):$ Does a given finite state machine accept a given string?</p>\n<p>$(P2):$ Does a given context free grammar generate an infinite number of strings?</p>\n<p>Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Both$(P1)$ and $(P2)$ are decidable</li>\n<li>Neither $(P1)$ nor $(P2)$ is decidable</li>\n<li>Only $(P1)$ is decidable</li>\n<li>Only $(P2)$ is decidable</li>\n</ol>",
+      "options": [
+        "Both$(P1)$ and $(P2)$ are decidable",
+        "Neither $(P1)$ nor $(P2)$ is decidable",
+        "Only $(P1)$ is decidable",
+        "Only $(P2)$ is decidable"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Both$(P1)$ and $(P2)$ are decidable",
+          "html": "Both$(P1)$ and $(P2)$ are decidable"
+        },
+        {
+          "label": "B",
+          "text": "Neither $(P1)$ nor $(P2)$ is decidable",
+          "html": "Neither $(P1)$ nor $(P2)$ is decidable"
+        },
+        {
+          "label": "C",
+          "text": "Only $(P1)$ is decidable",
+          "html": "Only $(P1)$ is decidable"
+        },
+        {
+          "label": "D",
+          "text": "Only $(P2)$ is decidable",
+          "html": "Only $(P2)$ is decidable"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/656/gate-cse-2000-question-2-9",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/656/gate-cse-2000-question-2-9"
+    },
+    {
+      "id": "go:657",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 33,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.10",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The simultaneous equations on the Boolean variables $x, y, z$ and $w$,</p>\n<ul>\n<li>$x + y + z = 1 $</li>\n<li>$xy = 0$</li>\n<li>$xz + w = 1$</li>\n<li>$xy + \\bar{z}\\bar{w} = 0$</li>\n</ul>\n<p>have the following solution for $x, y, z$ and $w,$ respectively:</p>",
+      "rawQuestionHtml": "<p>The simultaneous equations on the Boolean variables $x, y, z$ and $w$,</p>\n<ul>\n<li>$x + y + z = 1 $</li>\n<li>$xy = 0$</li>\n<li>$xz + w = 1$</li>\n<li>$xy + \\bar{z}\\bar{w} = 0$</li>\n</ul>\n<p>have the following solution for $x, y, z$ and $w,$ respectively:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0 \\ 1 \\ 0 \\ 0$</li>\n<li>$1 \\ 1 \\ 0 \\ 1$</li>\n<li>$1 \\ 0 \\ 1 \\ 1$</li>\n<li>$1 \\ 0 \\ 0 \\ 0$</li>\n</ol>",
+      "options": [
+        "$0 \\ 1 \\ 0 \\ 0$",
+        "$1 \\ 1 \\ 0 \\ 1$",
+        "$1 \\ 0 \\ 1 \\ 1$",
+        "$1 \\ 0 \\ 0 \\ 0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$0 \\ 1 \\ 0 \\ 0$",
+          "html": "$0 \\ 1 \\ 0 \\ 0$"
+        },
+        {
+          "label": "B",
+          "text": "$1 \\ 1 \\ 0 \\ 1$",
+          "html": "$1 \\ 1 \\ 0 \\ 1$"
+        },
+        {
+          "label": "C",
+          "text": "$1 \\ 0 \\ 1 \\ 1$",
+          "html": "$1 \\ 0 \\ 1 \\ 1$"
+        },
+        {
+          "label": "D",
+          "text": "$1 \\ 0 \\ 0 \\ 0$",
+          "html": "$1 \\ 0 \\ 0 \\ 0$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/657/gate-cse-2000-question-2-10",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/657/gate-cse-2000-question-2-10"
+    },
+    {
+      "id": "go:658",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 34,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.11",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>",
+      "rawQuestionHtml": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(w + x) y$</li>\n<li>$xy + yw$</li>\n<li>$(w + x) (\\bar{w} + y) (\\bar{x} + y)$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "$(w + x) y$",
+        "$xy + yw$",
+        "$(w + x) (\\bar{w} + y) (\\bar{x} + y)$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$(w + x) y$",
+          "html": "$(w + x) y$"
+        },
+        {
+          "label": "B",
+          "text": "$xy + yw$",
+          "html": "$xy + yw$"
+        },
+        {
+          "label": "C",
+          "text": "$(w + x) (\\bar{w} + y) (\\bar{x} + y)$",
+          "html": "$(w + x) (\\bar{w} + y) (\\bar{x} + y)$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/658/gate-cse-2000-question-2-11",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/658/gate-cse-2000-question-2-11"
+    },
+    {
+      "id": "go:659",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 35,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.12",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>",
+      "rawQuestionHtml": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0$</li>\n<li>$1, 1$</li>\n<li>$0, 0$</li>\n<li>$0, 1$</li>\n</ol>",
+      "options": [
+        "$1, 0$",
+        "$1, 1$",
+        "$0, 0$",
+        "$0, 1$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1, 0$",
+          "html": "$1, 0$"
+        },
+        {
+          "label": "B",
+          "text": "$1, 1$",
+          "html": "$1, 1$"
+        },
+        {
+          "label": "C",
+          "text": "$0, 0$",
+          "html": "$0, 0$"
+        },
+        {
+          "label": "D",
+          "text": "$0, 1$",
+          "html": "$0, 1$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/659/gate-cse-2000-question-2-12",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/659/gate-cse-2000-question-2-12"
+    },
+    {
+      "id": "go:660",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 36,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.13",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "CPU Scheduling & Processes",
+      "type": "MCQ",
+      "question": "<p>A graphics card has on board memory of 1 MB. Which of the following modes can the card not support?</p>",
+      "rawQuestionHtml": "<p>A graphics card has on board memory of 1 MB. Which of the following modes can the card not support?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>1600 x 400 resolution with 256 colors on a 17 inch monitor</li>\n<li>1600 x 400 resolution with 16 million colors on a 14 inch monitor</li>\n<li>800 x 400 resolution with 16 million colors on a 17 inch monitor</li>\n<li>800 x 800 resolution with 256 colors on a 14 inch monitor</li>\n</ol>",
+      "options": [
+        "1600 x 400 resolution with 256 colors on a 17 inch monitor",
+        "1600 x 400 resolution with 16 million colors on a 14 inch monitor",
+        "800 x 400 resolution with 16 million colors on a 17 inch monitor",
+        "800 x 800 resolution with 256 colors on a 14 inch monitor"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "1600 x 400 resolution with 256 colors on a 17 inch monitor",
+          "html": "1600 x 400 resolution with 256 colors on a 17 inch monitor"
+        },
+        {
+          "label": "B",
+          "text": "1600 x 400 resolution with 16 million colors on a 14 inch monitor",
+          "html": "1600 x 400 resolution with 16 million colors on a 14 inch monitor"
+        },
+        {
+          "label": "C",
+          "text": "800 x 400 resolution with 16 million colors on a 17 inch monitor",
+          "html": "800 x 400 resolution with 16 million colors on a 17 inch monitor"
+        },
+        {
+          "label": "D",
+          "text": "800 x 800 resolution with 256 colors on a 14 inch monitor",
+          "html": "800 x 800 resolution with 256 colors on a 14 inch monitor"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/660/gate2000-2-13",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/660/gate2000-2-13"
+    },
+    {
+      "id": "go:661",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 37,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.14",
+      "subject": "Digital Logic",
+      "subjectSlug": "digital",
+      "topic": "Boolean Algebra & Logic Minimization",
+      "type": "MCQ",
+      "question": "<p>Consider the values of $A = 2.0 \\times 10^{30}, B = -2.0 \\times 10^{30}, C = 1.0,$ and the sequence </p>\n<pre class=\"prettyprint lang-c_cpp\">   X:= A + B          Y:= A + C   \n   X:= X + C          Y:= Y + B</pre>\n<p>executed on a computer where floating point numbers are represented with $32$ bits. The values for $X$ and $Y$ will be</p>",
+      "rawQuestionHtml": "<p>Consider the values of $A = 2.0 \\times 10^{30}, B = -2.0 \\times 10^{30}, C = 1.0,$ and the sequence </p>\n<pre class=\"prettyprint lang-c_cpp\">   X:= A + B          Y:= A + C   \n   X:= X + C          Y:= Y + B</pre>\n<p>executed on a computer where floating point numbers are represented with $32$ bits. The values for $X$ and $Y$ will be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X = 1.0, Y = 1.0$</li>\n<li>$X = 1.0, Y = 0.0$</li>\n<li>$X = 0.0, Y = 1.0$</li>\n<li>$X = 0.0, Y = 0.0$</li>\n</ol>",
+      "options": [
+        "$X = 1.0, Y = 1.0$",
+        "$X = 1.0, Y = 0.0$",
+        "$X = 0.0, Y = 1.0$",
+        "$X = 0.0, Y = 0.0$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$X = 1.0, Y = 1.0$",
+          "html": "$X = 1.0, Y = 1.0$"
+        },
+        {
+          "label": "B",
+          "text": "$X = 1.0, Y = 0.0$",
+          "html": "$X = 1.0, Y = 0.0$"
+        },
+        {
+          "label": "C",
+          "text": "$X = 0.0, Y = 1.0$",
+          "html": "$X = 0.0, Y = 1.0$"
+        },
+        {
+          "label": "D",
+          "text": "$X = 0.0, Y = 0.0$",
+          "html": "$X = 0.0, Y = 0.0$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/661/gate-cse-2000-question-2-14",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/661/gate-cse-2000-question-2-14"
+    },
+    {
+      "id": "go:662",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 38,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.15",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Suppose you are given an array $s[1....n]$ and a procedure reverse $(s, i, j)$ which reverses the order of elements in $s$ between positions $i$ and $j$ (both inclusive). What does the following sequence do, where $1 \\leqslant k \\leqslant n$:</p>\n<pre class=\"prettyprint lang-c_cpp\">           reverse (s, 1, k);\n           reverse (s, k+1, n);\n           reverse (s, 1, n);</pre>",
+      "rawQuestionHtml": "<p>Suppose you are given an array $s[1....n]$ and a procedure reverse $(s, i, j)$ which reverses the order of elements in $s$ between positions $i$ and $j$ (both inclusive). What does the following sequence do, where $1 \\leqslant k \\leqslant n$:</p>\n<pre class=\"prettyprint lang-c_cpp\">           reverse (s, 1, k);\n           reverse (s, k+1, n);\n           reverse (s, 1, n);</pre>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Rotates $s$ left by $k$ positions</li>\n<li>Leaves $s$ unchanged </li>\n<li>Reverses all elements of $s$</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "Rotates $s$ left by $k$ positions",
+        "Leaves $s$ unchanged",
+        "Reverses all elements of $s$",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Rotates $s$ left by $k$ positions",
+          "html": "Rotates $s$ left by $k$ positions"
+        },
+        {
+          "label": "B",
+          "text": "Leaves $s$ unchanged",
+          "html": "Leaves $s$ unchanged"
+        },
+        {
+          "label": "C",
+          "text": "Reverses all elements of $s$",
+          "html": "Reverses all elements of $s$"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/662/gate-cse-2000-question-2-15",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/662/gate-cse-2000-question-2-15"
+    },
+    {
+      "id": "go:663",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 39,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.16",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Let LASTPOST, LASTIN and LASTPRE denote the last vertex visited `in a postorder, inorder and preorder traversal respectively, of a complete binary tree. Which of the following is always true?</p>",
+      "rawQuestionHtml": "<p>Let LASTPOST, LASTIN and LASTPRE denote the last vertex visited `in a postorder, inorder and preorder traversal respectively, of a complete binary tree. Which of the following is always true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>LASTIN = LASTPOST</li>\n<li>LASTIN = LASTPRE</li>\n<li>LASTPRE = LASTPOST</li>\n<li>None of the above</li>\n</ol>",
+      "options": [
+        "LASTIN = LASTPOST",
+        "LASTIN = LASTPRE",
+        "LASTPRE = LASTPOST",
+        "None of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "LASTIN = LASTPOST",
+          "html": "LASTIN = LASTPOST"
+        },
+        {
+          "label": "B",
+          "text": "LASTIN = LASTPRE",
+          "html": "LASTIN = LASTPRE"
+        },
+        {
+          "label": "C",
+          "text": "LASTPRE = LASTPOST",
+          "html": "LASTPRE = LASTPOST"
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/663/gate-cse-2000-question-2-16",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/663/gate-cse-2000-question-2-16"
+    },
+    {
+      "id": "go:664",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 40,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.17",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Asymptotic Analysis & Recurrences",
+      "type": "MCQ",
+      "question": "<p>Consider the following functions</p>\n<ul>\n<li>$f(n) = 3n^{\\sqrt{n}}$</li>\n<li>$g(n) = 2^{\\sqrt{n}{\\log_{2}n}}$</li>\n<li>$h(n) = n!$</li>\n</ul>\n<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Consider the following functions</p>\n<ul>\n<li>$f(n) = 3n^{\\sqrt{n}}$</li>\n<li>$g(n) = 2^{\\sqrt{n}{\\log_{2}n}}$</li>\n<li>$h(n) = n!$</li>\n</ul>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$h(n)$ is $O(f(n))$</li>\n<li>$h(n)$ is $O(g(n))$</li>\n<li>$g(n)$ is not $O(f(n))$</li>\n<li>$f(n)$ is $O(g(n))$</li>\n</ol>",
+      "options": [
+        "$h(n)$ is $O(f(n))$",
+        "$h(n)$ is $O(g(n))$",
+        "$g(n)$ is not $O(f(n))$",
+        "$f(n)$ is $O(g(n))$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$h(n)$ is $O(f(n))$",
+          "html": "$h(n)$ is $O(f(n))$"
+        },
+        {
+          "label": "B",
+          "text": "$h(n)$ is $O(g(n))$",
+          "html": "$h(n)$ is $O(g(n))$"
+        },
+        {
+          "label": "C",
+          "text": "$g(n)$ is not $O(f(n))$",
+          "html": "$g(n)$ is not $O(f(n))$"
+        },
+        {
+          "label": "D",
+          "text": "$f(n)$ is $O(g(n))$",
+          "html": "$f(n)$ is $O(g(n))$"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/664/gate-cse-2000-question-2-17",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/664/gate-cse-2000-question-2-17"
+    },
+    {
+      "id": "go:665",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 41,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.18",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Trees & Binary Search Trees (BST/AVL)",
+      "type": "MCQ",
+      "question": "<p>Let $G$ be an undirected connected graph with distinct edge weights. Let $e_{max}$ be the edge with maximum weight and $e_{min}$ the edge with minimum weight. Which of the following statements is false?</p>",
+      "rawQuestionHtml": "<p>Let $G$ be an undirected connected graph with distinct edge weights. Let $e_{max}$ be the edge with maximum weight and $e_{min}$ the edge with minimum weight. Which of the following statements is false?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Every minimum spanning tree of $G$ must contain $e_{min}$</li>\n<li>If $e_{max}$ is in a minimum spanning tree, then its removal must disconnect $G$</li>\n<li>No minimum spanning tree contains $e_{max}$</li>\n<li>$G$ has a unique minimum spanning tree</li>\n</ol>",
+      "options": [
+        "Every minimum spanning tree of $G$ must contain $e_{min}$",
+        "If $e_{max}$ is in a minimum spanning tree, then its removal must disconnect $G$",
+        "No minimum spanning tree contains $e_{max}$",
+        "$G$ has a unique minimum spanning tree"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Every minimum spanning tree of $G$ must contain $e_{min}$",
+          "html": "Every minimum spanning tree of $G$ must contain $e_{min}$"
+        },
+        {
+          "label": "B",
+          "text": "If $e_{max}$ is in a minimum spanning tree, then its removal must disconnect $G$",
+          "html": "If $e_{max}$ is in a minimum spanning tree, then its removal must disconnect $G$"
+        },
+        {
+          "label": "C",
+          "text": "No minimum spanning tree contains $e_{max}$",
+          "html": "No minimum spanning tree contains $e_{max}$"
+        },
+        {
+          "label": "D",
+          "text": "$G$ has a unique minimum spanning tree",
+          "html": "$G$ has a unique minimum spanning tree"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/665/gate-cse-2000-question-2-18",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/665/gate-cse-2000-question-2-18"
+    },
+    {
+      "id": "go:4208",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 42,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.19",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Graph Algorithms (Shortest Paths, MST)",
+      "type": "MCQ",
+      "question": "<p>Let $G$ be an undirected graph. Consider a depth-first traversal of $G$, and let $T$ be the resulting depth-first search tree. Let $u$ be a vertex in $G$ and let $v$ be the first new (unvisited) vertex visited after visiting $u$ in the traversal. Which of the following statement is always true?</p>",
+      "rawQuestionHtml": "<p>Let $G$ be an undirected graph. Consider a depth-first traversal of $G$, and let $T$ be the resulting depth-first search tree. Let $u$ be a vertex in $G$ and let $v$ be the first new (unvisited) vertex visited after visiting $u$ in the traversal. Which of the following statement is always true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{u, v\\}$ must be an edge in $G$, and $u$ is a descendant of $v$ in $T$</li>\n<li>$\\{u, v\\}$ must be an edge in $G$, and $v$ is a descendant of $u$ in $T$</li>\n<li>If $\\{u, v\\}$ is not an edge in $G$ then $u$ is a leaf in $T$</li>\n<li>If $\\{u, v\\}$ is not an edge in $G$ then $u$ and $v$ must have the same parent in $T$</li>\n</ol>",
+      "options": [
+        "$\\{u, v\\}$ must be an edge in $G$, and $u$ is a descendant of $v$ in $T$",
+        "$\\{u, v\\}$ must be an edge in $G$, and $v$ is a descendant of $u$ in $T$",
+        "If $\\{u, v\\}$ is not an edge in $G$ then $u$ is a leaf in $T$",
+        "If $\\{u, v\\}$ is not an edge in $G$ then $u$ and $v$ must have the same parent in $T$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$\\{u, v\\}$ must be an edge in $G$, and $u$ is a descendant of $v$ in $T$",
+          "html": "$\\{u, v\\}$ must be an edge in $G$, and $u$ is a descendant of $v$ in $T$"
+        },
+        {
+          "label": "B",
+          "text": "$\\{u, v\\}$ must be an edge in $G$, and $v$ is a descendant of $u$ in $T$",
+          "html": "$\\{u, v\\}$ must be an edge in $G$, and $v$ is a descendant of $u$ in $T$"
+        },
+        {
+          "label": "C",
+          "text": "If $\\{u, v\\}$ is not an edge in $G$ then $u$ is a leaf in $T$",
+          "html": "If $\\{u, v\\}$ is not an edge in $G$ then $u$ is a leaf in $T$"
+        },
+        {
+          "label": "D",
+          "text": "If $\\{u, v\\}$ is not an edge in $G$ then $u$ and $v$ must have the same parent in $T$",
+          "html": "If $\\{u, v\\}$ is not an edge in $G$ then $u$ and $v$ must have the same parent in $T$"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/4208/gate-cse-2000-question-2-19",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/4208/gate-cse-2000-question-2-19"
+    },
+    {
+      "id": "go:667",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 43,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.20",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Dynamic Programming & Greedy",
+      "type": "MCQ",
+      "question": "<p>The value of $j$ at the end of the execution of the following C program:</p>\n<pre class=\"prettyprint lang-c_cpp\">int incr (int i)\n{ \n    static int count = 0;\n    count = count + i;\n    return (count);\n} \nmain  { \n    int i, j; \n    for (i = 0; i &lt;= 4; i++)\n       j = incr (i);\n} \n\n</pre>\n<p>is:</p>",
+      "rawQuestionHtml": "<p>The value of $j$ at the end of the execution of the following C program:</p>\n<pre class=\"prettyprint lang-c_cpp\">int incr (int i)\n{ \n    static int count = 0;\n    count = count + i;\n    return (count);\n} \nmain  { \n    int i, j; \n    for (i = 0; i &lt;= 4; i++)\n       j = incr (i);\n} \n\n</pre>\n<p>is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$10$</li>\n<li>$4$</li>\n<li>$6$</li>\n<li>$7$</li>\n</ol>",
+      "options": [
+        "$10$",
+        "$4$",
+        "$6$",
+        "$7$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$10$",
+          "html": "$10$"
+        },
+        {
+          "label": "B",
+          "text": "$4$",
+          "html": "$4$"
+        },
+        {
+          "label": "C",
+          "text": "$6$",
+          "html": "$6$"
+        },
+        {
+          "label": "D",
+          "text": "$7$",
+          "html": "$7$"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/667/gate-cse-2000-question-2-20",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/667/gate-cse-2000-question-2-20"
+    },
+    {
+      "id": "go:668",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 44,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.21, ISRO2015-24",
+      "subject": "Compiler Design",
+      "subjectSlug": "compiler",
+      "topic": "Parsing & Syntax Analysis",
+      "type": "MCQ",
+      "question": "<p>Given the following expression grammar:</p>\n<p>$$\\begin{align}<br/>\nE &amp;\\to E * F \\mid F + E \\mid F \\\\[1em]<br/>\nF &amp;\\to F - F \\mid id<br/>\n\\end{align}$$</p>\n<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Given the following expression grammar:</p>\n<p>$$\\begin{align}<br/>\nE &amp;\\to E * F \\mid F + E \\mid F \\\\[1em]<br/>\nF &amp;\\to F - F \\mid id<br/>\n\\end{align}$$</p>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$*$ has higher precedence than $+$</li>\n<li>$-$ has higher precedence than $*$</li>\n<li>$+$ and $-$ have same precedence</li>\n<li>$+$ has higher precedence than $*$</li>\n</ol>",
+      "options": [
+        "$*$ has higher precedence than $+$",
+        "$-$ has higher precedence than $*$",
+        "$+$ and $-$ have same precedence",
+        "$+$ has higher precedence than $*$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$*$ has higher precedence than $+$",
+          "html": "$*$ has higher precedence than $+$"
+        },
+        {
+          "label": "B",
+          "text": "$-$ has higher precedence than $*$",
+          "html": "$-$ has higher precedence than $*$"
+        },
+        {
+          "label": "C",
+          "text": "$+$ and $-$ have same precedence",
+          "html": "$+$ and $-$ have same precedence"
+        },
+        {
+          "label": "D",
+          "text": "$+$ has higher precedence than $*$",
+          "html": "$+$ has higher precedence than $*$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/668/gate-cse-2000-question-2-21-isro2015-24",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/668/gate-cse-2000-question-2-21-isro2015-24"
+    },
+    {
+      "id": "go:669",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 45,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.22",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Memory Management & Paging",
+      "type": "MCQ",
+      "question": "<p>Suppose the time to service a page fault is on the average $10$ milliseconds, while a memory access takes $1$ microsecond. Then a $99.99\\%$ hit ratio results in average memory access time of</p>",
+      "rawQuestionHtml": "<p>Suppose the time to service a page fault is on the average $10$ milliseconds, while a memory access takes $1$ microsecond. Then a $99.99\\%$ hit ratio results in average memory access time of</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1.9999$ milliseconds</li>\n<li>$1$ millisecond</li>\n<li>$9.999$ microseconds</li>\n<li>$1.9999$ microseconds </li>\n</ol>",
+      "options": [
+        "$1.9999$ milliseconds",
+        "$1$ millisecond",
+        "$9.999$ microseconds",
+        "$1.9999$ microseconds"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$1.9999$ milliseconds",
+          "html": "$1.9999$ milliseconds"
+        },
+        {
+          "label": "B",
+          "text": "$1$ millisecond",
+          "html": "$1$ millisecond"
+        },
+        {
+          "label": "C",
+          "text": "$9.999$ microseconds",
+          "html": "$9.999$ microseconds"
+        },
+        {
+          "label": "D",
+          "text": "$1.9999$ microseconds",
+          "html": "$1.9999$ microseconds"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/669/gate-cse-2000-question-2-22",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/669/gate-cse-2000-question-2-22"
+    },
+    {
+      "id": "go:670",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 46,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.23",
+      "subject": "Operating Systems",
+      "subjectSlug": "os",
+      "topic": "Deadlocks & Resource Allocation",
+      "type": "MCQ",
+      "question": "<p>Which of the following is not a valid deadlock prevention scheme?</p>",
+      "rawQuestionHtml": "<p>Which of the following is not a valid deadlock prevention scheme?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Release all resources before requesting a new resource.</li>\n<li>Number the resources uniquely and never request a lower numbered resource than the last one requested.</li>\n<li>Never request a resource after releasing any resource.</li>\n<li>Request and all required resources be allocated before execution.</li>\n</ol>",
+      "options": [
+        "Release all resources before requesting a new resource.",
+        "Number the resources uniquely and never request a lower numbered resource than the last one requested.",
+        "Never request a resource after releasing any resource.",
+        "Request and all required resources be allocated before execution."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "Release all resources before requesting a new resource.",
+          "html": "Release all resources before requesting a new resource."
+        },
+        {
+          "label": "B",
+          "text": "Number the resources uniquely and never request a lower numbered resource than the last one requested.",
+          "html": "Number the resources uniquely and never request a lower numbered resource than the last one requested."
+        },
+        {
+          "label": "C",
+          "text": "Never request a resource after releasing any resource.",
+          "html": "Never request a resource after releasing any resource."
+        },
+        {
+          "label": "D",
+          "text": "Request and all required resources be allocated before execution.",
+          "html": "Request and all required resources be allocated before execution."
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/670/gate-cse-2000-question-2-23",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/670/gate-cse-2000-question-2-23"
+    },
+    {
+      "id": "go:671",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 47,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.24",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "Functional Dependencies & Normalization",
+      "type": "MCQ",
+      "question": "<p>Given the following relation instance.</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\text{X} &amp; \\text{Y} &amp; \\text{Z} \\\\\\hline   \\text{1} &amp; \\text{4} &amp; \\text{2} \\\\   \\text{1} &amp; \\text{5} &amp; \\text{3} \\\\  \\text{1} &amp; \\text{6} &amp; \\text{3} \\\\ \\text{3} &amp; \\text{2} &amp; \\text{2} \\\\\\hline \\end{array}$$</p>\n<p>Which of the following functional dependencies are satisfied by the instance?</p>",
+      "rawQuestionHtml": "<p>Given the following relation instance.</p>\n<p>$$\\begin{array}{|l|l|}\\hline \\text{X} &amp; \\text{Y} &amp; \\text{Z} \\\\\\hline   \\text{1} &amp; \\text{4} &amp; \\text{2} \\\\   \\text{1} &amp; \\text{5} &amp; \\text{3} \\\\  \\text{1} &amp; \\text{6} &amp; \\text{3} \\\\ \\text{3} &amp; \\text{2} &amp; \\text{2} \\\\\\hline \\end{array}$$</p>\n<p>Which of the following functional dependencies are satisfied by the instance?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$XY \\rightarrow Z$ and $Z \\rightarrow Y$</li>\n<li>$YZ \\rightarrow X$ and $Y \\rightarrow Z$</li>\n<li>$YZ \\rightarrow X$ and $X \\rightarrow Z$</li>\n<li>$XZ \\rightarrow Y$ and $Y \\rightarrow X$</li>\n</ol>",
+      "options": [
+        "$XY \\rightarrow Z$ and $Z \\rightarrow Y$",
+        "$YZ \\rightarrow X$ and $Y \\rightarrow Z$",
+        "$YZ \\rightarrow X$ and $X \\rightarrow Z$",
+        "$XZ \\rightarrow Y$ and $Y \\rightarrow X$"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$XY \\rightarrow Z$ and $Z \\rightarrow Y$",
+          "html": "$XY \\rightarrow Z$ and $Z \\rightarrow Y$"
+        },
+        {
+          "label": "B",
+          "text": "$YZ \\rightarrow X$ and $Y \\rightarrow Z$",
+          "html": "$YZ \\rightarrow X$ and $Y \\rightarrow Z$"
+        },
+        {
+          "label": "C",
+          "text": "$YZ \\rightarrow X$ and $X \\rightarrow Z$",
+          "html": "$YZ \\rightarrow X$ and $X \\rightarrow Z$"
+        },
+        {
+          "label": "D",
+          "text": "$XZ \\rightarrow Y$ and $Y \\rightarrow X$",
+          "html": "$XZ \\rightarrow Y$ and $Y \\rightarrow X$"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/671/gate-cse-2000-question-2-24",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/671/gate-cse-2000-question-2-24"
+    },
+    {
+      "id": "go:672",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 48,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.25",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>Given relations r(w, x) and s(y, z) the result of</p>\n<pre>select distinct w, x \nfrom r, s </pre>\n<p>is guaranteed to be same as r, provided.</p>",
+      "rawQuestionHtml": "<p>Given relations r(w, x) and s(y, z) the result of</p>\n<pre>select distinct w, x \nfrom r, s </pre>\n<p>is guaranteed to be same as r, provided.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>r has no duplicates and s is non-empty</li>\n<li>r and s have no duplicates</li>\n<li>s has no duplicates and r is non-empty</li>\n<li>r and s have the same number of tuples</li>\n</ol>",
+      "options": [
+        "r has no duplicates and s is non-empty",
+        "r and s have no duplicates",
+        "s has no duplicates and r is non-empty",
+        "r and s have the same number of tuples"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "r has no duplicates and s is non-empty",
+          "html": "r has no duplicates and s is non-empty"
+        },
+        {
+          "label": "B",
+          "text": "r and s have no duplicates",
+          "html": "r and s have no duplicates"
+        },
+        {
+          "label": "C",
+          "text": "s has no duplicates and r is non-empty",
+          "html": "s has no duplicates and r is non-empty"
+        },
+        {
+          "label": "D",
+          "text": "r and s have the same number of tuples",
+          "html": "r and s have the same number of tuples"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/672/gate-cse-2000-question-2-25",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/672/gate-cse-2000-question-2-25"
+    },
+    {
+      "id": "go:673",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 49,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 2.26",
+      "subject": "Database Management Systems",
+      "subjectSlug": "dbms",
+      "topic": "SQL & Query Languages",
+      "type": "MCQ",
+      "question": "<p>In SQL, relations can contain null values, and comparisons with null values are treated as unknown. Suppose all comparisons with a null value are treated as false. Which of the following pairs is not equivalent?</p>",
+      "rawQuestionHtml": "<p>In SQL, relations can contain null values, and comparisons with null values are treated as unknown. Suppose all comparisons with a null value are treated as false. Which of the following pairs is not equivalent?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$x=5\\; not(not(x=5)) $</li>\n<li>$x=5 \\; x \\gt 4 \\text{ and }x\\lt6 $, where  $x $ is an integer</li>\n<li>$x \\neq 5$ not(x=5)</li>\n<li>none of the above</li>\n</ol>",
+      "options": [
+        "$x=5\\; not(not(x=5)) $",
+        "$x=5 \\; x \\gt 4 \\text{ and }x\\lt6 $, where $x $ is an integer",
+        "$x \\neq 5$ not(x=5)",
+        "none of the above"
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "$x=5\\; not(not(x=5)) $",
+          "html": "$x=5\\; not(not(x=5)) $"
+        },
+        {
+          "label": "B",
+          "text": "$x=5 \\; x \\gt 4 \\text{ and }x\\lt6 $, where $x $ is an integer",
+          "html": "$x=5 \\; x \\gt 4 \\text{ and }x\\lt6 $, where  $x $ is an integer"
+        },
+        {
+          "label": "C",
+          "text": "$x \\neq 5$ not(x=5)",
+          "html": "$x \\neq 5$ not(x=5)"
+        },
+        {
+          "label": "D",
+          "text": "none of the above",
+          "html": "none of the above"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/673/gate2000-2-26",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/673/gate2000-2-26"
+    },
+    {
+      "id": "go:688",
+      "testId": "gate-2000-s0",
+      "year": 2000,
+      "set": 1,
+      "yearSetKey": "2000-s0",
+      "orderIndex": 50,
+      "section": "CS",
+      "title": "GATE CSE 2000 | Question: 17",
+      "subject": "Data Structures & Algorithms",
+      "subjectSlug": "dsa",
+      "topic": "Searching, Sorting & Hashing",
+      "type": "MCQ",
+      "question": "<p>An array contains four occurrences of $0$, five occurrences of $1$, and three occurrences of $2$ in any order. The array is to be sorted using swap operations (elements that are swapped need to be adjacent).</p>",
+      "rawQuestionHtml": "<p>An array contains four occurrences of $0$, five occurrences of $1$, and three occurrences of $2$ in any order. The array is to be sorted using swap operations (elements that are swapped need to be adjacent).</p>\n<ol style=\"list-style-type:lower-alpha\">\n<li> What is the minimum number of swaps needed to sort such an array in the worst case?</li>\n<li> Give an ordering of  elements in the above array so that the minimum number of swaps needed to sort the array is maximum.</li>\n</ol>",
+      "options": [
+        "What is the minimum number of swaps needed to sort such an array in the worst case?",
+        "Give an ordering of elements in the above array so that the minimum number of swaps needed to sort the array is maximum."
+      ],
+      "structuredOptions": [
+        {
+          "label": "A",
+          "text": "What is the minimum number of swaps needed to sort such an array in the worst case?",
+          "html": "What is the minimum number of swaps needed to sort such an array in the worst case?"
+        },
+        {
+          "label": "B",
+          "text": "Give an ordering of elements in the above array so that the minimum number of swaps needed to sort the array is maximum.",
+          "html": "Give an ordering of  elements in the above array so that the minimum number of swaps needed to sort the array is maximum."
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "tolerance": null,
+      "marks": 2,
+      "negativeMarks": 0.67,
+      "source": "GATE CSE / GateOverflow",
+      "link": "https://gateoverflow.in/688/gate-cse-2000-question-17",
+      "difficulty": "Hard",
+      "explanation": "Refer to official GATE answer key & GateOverflow discussion at: https://gateoverflow.in/688/gate-cse-2000-question-17"
+    }
+  ]
+}
