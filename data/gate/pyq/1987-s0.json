@@ -24,8 +24,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p>",
-      "rawQuestionHtml": "<a name=\"80029\"></a><div itemprop=\"text\"><p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "question": "<p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/question-images/1799921037359385132.webp\"></p>",
+      "rawQuestionHtml": "<a name=\"80029\"></a><div itemprop=\"text\"><p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/question-images/1799921037359385132.webp\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
       "options": [
         "(A)",
         "(B)",
@@ -132,8 +132,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "MCQ",
-      "question": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>",
-      "rawQuestionHtml": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111\\quad 1111\\quad0000\\quad0000$</li>\n<li>$1111 \\quad 0000\\quad1111\\quad0000$</li>\n<li>$1111 \\quad 0001\\quad0011\\quad0101$</li>\n<li>$1010\\quad1010\\quad1010\\quad1010$</li>\n</ol>",
+      "question": "<p><img alt=\"\" height=\"258\" src=\"/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" height=\"258\" src=\"/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111\\quad 1111\\quad0000\\quad0000$</li>\n<li>$1111 \\quad 0000\\quad1111\\quad0000$</li>\n<li>$1111 \\quad 0001\\quad0011\\quad0101$</li>\n<li>$1010\\quad1010\\quad1010\\quad1010$</li>\n</ol>",
       "options": [
         "$1111\\quad 1111\\quad0000\\quad0000$",
         "$1111 \\quad 0000\\quad1111\\quad0000$",
@@ -186,8 +186,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>",
-      "rawQuestionHtml": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$</li>\n<li>$A\\oplus B\\oplus C$</li>\n<li>$A \\oplus B$</li>\n<li>$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$</li>\n</ol>",
+      "question": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/question-images/7143169322732422482.webp\"/></p>",
+      "rawQuestionHtml": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/question-images/7143169322732422482.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$</li>\n<li>$A\\oplus B\\oplus C$</li>\n<li>$A \\oplus B$</li>\n<li>$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$</li>\n</ol>",
       "options": [
         "$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$",
         "$A\\oplus B\\oplus C$",
@@ -1926,8 +1926,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>",
-      "rawQuestionHtml": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$1111$</li>\n<li>$1001$</li>\n<li>$1000$</li>\n</ol>",
+      "question": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>",
+      "rawQuestionHtml": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$1111$</li>\n<li>$1001$</li>\n<li>$1000$</li>\n</ol>",
       "options": [
         "$0000$",
         "$1111$",
@@ -1980,8 +1980,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>",
-      "rawQuestionHtml": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0.5</li>\n<li>29</li>\n<li>2</li>\n<li>Any value</li>\n</ol>",
+      "question": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>",
+      "rawQuestionHtml": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0.5</li>\n<li>29</li>\n<li>2</li>\n<li>Any value</li>\n</ol>",
       "options": [
         "0.5",
         "29",
@@ -2034,34 +2034,34 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>",
-      "rawQuestionHtml": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>\n</li>\n</ol>",
+      "question": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>",
+      "rawQuestionHtml": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>\n</li>\n</ol>",
       "options": [
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>"
         },
         {
           "label": "B",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>"
         },
         {
           "label": "C",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>"
         },
         {
           "label": "D",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>"
         }
       ],
       "answer": [

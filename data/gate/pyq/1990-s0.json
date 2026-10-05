@@ -76,8 +76,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>",
-      "rawQuestionHtml": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Y=ABC + DE$</li>\n<li>$Y=\\overline{ABC + DE}$</li>\n<li>$Y=ABC.DE$</li>\n<li>$Y=\\overline{ABC.DE}$</li>\n</ol>",
+      "question": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Y=ABC + DE$</li>\n<li>$Y=\\overline{ABC + DE}$</li>\n<li>$Y=ABC.DE$</li>\n<li>$Y=\\overline{ABC.DE}$</li>\n</ol>",
       "options": [
         "$Y=ABC + DE$",
         "$Y=\\overline{ABC + DE}$",

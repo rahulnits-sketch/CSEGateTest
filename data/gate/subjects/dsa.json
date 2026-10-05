@@ -1544,8 +1544,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "MCQ",
-      "question": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/Gate_QA/question-images/13587038966801485214.webp\" width=\"68\"/></p>",
-      "rawQuestionHtml": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/Gate_QA/question-images/13587038966801485214.webp\" width=\"68\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n<li>$3$</li>\n</ol>",
+      "question": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/question-images/13587038966801485214.webp\" width=\"68\"/></p>",
+      "rawQuestionHtml": "<p>A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols $S1$ to $S7$ initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"294\" src=\"/question-images/13587038966801485214.webp\" width=\"68\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n<li>$3$</li>\n</ol>",
       "options": [
         "$4$",
         "$5$",
@@ -3181,8 +3181,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>In the balanced binary tree in the below figure, how many nodes will become unbalanced when a node is inserted as a child of the node “g”?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"266\" src=\"/Gate_QA/question-images/5920917230066444150.webp\" width=\"327\"/></p>",
-      "rawQuestionHtml": "<p>In the balanced binary tree in the below figure, how many nodes will become unbalanced when a node is inserted as a child of the node “g”?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"266\" src=\"/Gate_QA/question-images/5920917230066444150.webp\" width=\"327\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$3$</li>\n<li>$7$</li>\n<li>$8$</li>\n</ol>",
+      "question": "<p>In the balanced binary tree in the below figure, how many nodes will become unbalanced when a node is inserted as a child of the node “g”?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"266\" src=\"/question-images/5920917230066444150.webp\" width=\"327\"/></p>",
+      "rawQuestionHtml": "<p>In the balanced binary tree in the below figure, how many nodes will become unbalanced when a node is inserted as a child of the node “g”?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"266\" src=\"/question-images/5920917230066444150.webp\" width=\"327\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$3$</li>\n<li>$7$</li>\n<li>$8$</li>\n</ol>",
       "options": [
         "$1$",
         "$3$",
@@ -3235,8 +3235,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Which of the following sequences denotes the post order traversal sequence of the below tree?</p>\n<p><img alt=\"\" height=\"240\" src=\"/Gate_QA/question-images/8277147518063725828.webp\" width=\"293\"/></p>",
-      "rawQuestionHtml": "<p>Which of the following sequences denotes the post order traversal sequence of the below tree?</p>\n<p><img alt=\"\" height=\"240\" src=\"/Gate_QA/question-images/8277147518063725828.webp\" width=\"293\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f\\; e\\; g\\; c\\; d\\; b\\; a$</li>\n<li>$g\\; c\\; b\\; d\\; a\\; f\\; e$</li>\n<li>$g\\; c\\; d\\; b\\; f\\; e\\; a$</li>\n<li>$f\\; e\\; d\\; g\\; c\\; b \\;a$</li>\n</ol>",
+      "question": "<p>Which of the following sequences denotes the post order traversal sequence of the below tree?</p>\n<p><img alt=\"\" height=\"240\" src=\"/question-images/8277147518063725828.webp\" width=\"293\"/></p>",
+      "rawQuestionHtml": "<p>Which of the following sequences denotes the post order traversal sequence of the below tree?</p>\n<p><img alt=\"\" height=\"240\" src=\"/question-images/8277147518063725828.webp\" width=\"293\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f\\; e\\; g\\; c\\; d\\; b\\; a$</li>\n<li>$g\\; c\\; b\\; d\\; a\\; f\\; e$</li>\n<li>$g\\; c\\; d\\; b\\; f\\; e\\; a$</li>\n<li>$f\\; e\\; d\\; g\\; c\\; b \\;a$</li>\n</ol>",
       "options": [
         "$f\\; e\\; g\\; c\\; d\\; b\\; a$",
         "$g\\; c\\; b\\; d\\; a\\; f\\; e$",
@@ -7197,8 +7197,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>Consider the following graph: </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"262\" src=\"/Gate_QA/question-images/8486370802175947015.webp\" width=\"314\"/></p>\n<p>Among the following sequences:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>abeghf</li>\n<li>abfehg</li>\n<li>abfhge</li>\n<li>afghbe</li>\n</ol>\n<p>Which are the depth-first traversals of the above graph?</p>",
-      "rawQuestionHtml": "<p>Consider the following graph: </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"262\" src=\"/Gate_QA/question-images/8486370802175947015.webp\" width=\"314\"/></p>\n<p>Among the following sequences:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>abeghf</li>\n<li>abfehg</li>\n<li>abfhge</li>\n<li>afghbe</li>\n</ol>\n<p>Which are the depth-first traversals of the above graph?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I, II and IV only</li>\n<li>I and IV only</li>\n<li>II, III and IV only</li>\n<li>I, III and IV only</li>\n</ol>",
+      "question": "<p>Consider the following graph: </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"262\" src=\"/question-images/8486370802175947015.webp\" width=\"314\"/></p>\n<p>Among the following sequences:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>abeghf</li>\n<li>abfehg</li>\n<li>abfhge</li>\n<li>afghbe</li>\n</ol>\n<p>Which are the depth-first traversals of the above graph?</p>",
+      "rawQuestionHtml": "<p>Consider the following graph: </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"262\" src=\"/question-images/8486370802175947015.webp\" width=\"314\"/></p>\n<p>Among the following sequences:</p>\n<ol style=\"list-style-type:upper-roman\">\n<li>abeghf</li>\n<li>abfehg</li>\n<li>abfhge</li>\n<li>afghbe</li>\n</ol>\n<p>Which are the depth-first traversals of the above graph?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>I, II and IV only</li>\n<li>I and IV only</li>\n<li>II, III and IV only</li>\n<li>I, III and IV only</li>\n</ol>",
       "options": [
         "I, II and IV only",
         "I and IV only",
@@ -7575,8 +7575,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>What is the weight of a minimum spanning tree of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8417759754365671160.webp\" width=\"520\"/></p>",
-      "rawQuestionHtml": "<p>What is the weight of a minimum spanning tree of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8417759754365671160.webp\" width=\"520\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$29$</li>\n<li>$31$</li>\n<li>$38$</li>\n<li>$41$</li>\n</ol>",
+      "question": "<p>What is the weight of a minimum spanning tree of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8417759754365671160.webp\" width=\"520\"/></p>",
+      "rawQuestionHtml": "<p>What is the weight of a minimum spanning tree of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8417759754365671160.webp\" width=\"520\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$29$</li>\n<li>$31$</li>\n<li>$38$</li>\n<li>$41$</li>\n</ol>",
       "options": [
         "$29$",
         "$31$",
@@ -8709,8 +8709,8 @@
       "subjectSlug": "dsa",
       "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
       "type": "MCQ",
-      "question": "<p>A circularly linked list is used to represent a Queue. A single variable $p$ is used to access the Queue. To which node should $p$ point such that both the operations $\\text{enQueue}$ and $\\text{deQueue}$ can be performed in constant time?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/543162888522397383.webp\" width=\"521\"/></p>",
-      "rawQuestionHtml": "<p>A circularly linked list is used to represent a Queue. A single variable $p$ is used to access the Queue. To which node should $p$ point such that both the operations $\\text{enQueue}$ and $\\text{deQueue}$ can be performed in constant time?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/543162888522397383.webp\" width=\"521\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>rear node</li>\n<li>front node</li>\n<li>not possible with a single pointer</li>\n<li>node next to front</li>\n</ol>",
+      "question": "<p>A circularly linked list is used to represent a Queue. A single variable $p$ is used to access the Queue. To which node should $p$ point such that both the operations $\\text{enQueue}$ and $\\text{deQueue}$ can be performed in constant time?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/543162888522397383.webp\" width=\"521\"/></p>",
+      "rawQuestionHtml": "<p>A circularly linked list is used to represent a Queue. A single variable $p$ is used to access the Queue. To which node should $p$ point such that both the operations $\\text{enQueue}$ and $\\text{deQueue}$ can be performed in constant time?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/543162888522397383.webp\" width=\"521\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>rear node</li>\n<li>front node</li>\n<li>not possible with a single pointer</li>\n<li>node next to front</li>\n</ol>",
       "options": [
         "rear node",
         "front node",
@@ -8764,33 +8764,33 @@
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
       "question": "<p>The elements $32, 15, 20, 30, 12, 25, 16,$ are inserted one by one in the given order into a maxHeap. The resultant maxHeap is</p>",
-      "rawQuestionHtml": "<p>The elements $32, 15, 20, 30, 12, 25, 16,$ are inserted one by one in the given order into a maxHeap. The resultant maxHeap is</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li> <img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/4657742569677615821.webp\" width=\"259\"/></li>\n<li><img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/7880957841734369224.webp\" width=\"292\"/></li>\n<li><img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/18306799088551482783.webp\" width=\"300\"/></li>\n<li><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/3431414533345992006.webp\" width=\"303\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>The elements $32, 15, 20, 30, 12, 25, 16,$ are inserted one by one in the given order into a maxHeap. The resultant maxHeap is</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li> <img alt=\"\" height=\"169\" src=\"/question-images/4657742569677615821.webp\" width=\"259\"/></li>\n<li><img alt=\"\" height=\"191\" src=\"/question-images/7880957841734369224.webp\" width=\"292\"/></li>\n<li><img alt=\"\" height=\"196\" src=\"/question-images/18306799088551482783.webp\" width=\"300\"/></li>\n<li><img alt=\"\" height=\"198\" src=\"/question-images/3431414533345992006.webp\" width=\"303\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/4657742569677615821.webp\" width=\"259\"/>",
-        "<img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/7880957841734369224.webp\" width=\"292\"/>",
-        "<img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/18306799088551482783.webp\" width=\"300\"/>",
-        "<img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/3431414533345992006.webp\" width=\"303\"/>"
+        "<img alt=\"\" height=\"169\" src=\"/question-images/4657742569677615821.webp\" width=\"259\"/>",
+        "<img alt=\"\" height=\"191\" src=\"/question-images/7880957841734369224.webp\" width=\"292\"/>",
+        "<img alt=\"\" height=\"196\" src=\"/question-images/18306799088551482783.webp\" width=\"300\"/>",
+        "<img alt=\"\" height=\"198\" src=\"/question-images/3431414533345992006.webp\" width=\"303\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/4657742569677615821.webp\" width=\"259\"/>",
-          "html": "<img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/4657742569677615821.webp\" width=\"259\"/>"
+          "text": "<img alt=\"\" height=\"169\" src=\"/question-images/4657742569677615821.webp\" width=\"259\"/>",
+          "html": "<img alt=\"\" height=\"169\" src=\"/question-images/4657742569677615821.webp\" width=\"259\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/7880957841734369224.webp\" width=\"292\"/>",
-          "html": "<img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/7880957841734369224.webp\" width=\"292\"/>"
+          "text": "<img alt=\"\" height=\"191\" src=\"/question-images/7880957841734369224.webp\" width=\"292\"/>",
+          "html": "<img alt=\"\" height=\"191\" src=\"/question-images/7880957841734369224.webp\" width=\"292\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/18306799088551482783.webp\" width=\"300\"/>",
-          "html": "<img alt=\"\" height=\"196\" src=\"/Gate_QA/question-images/18306799088551482783.webp\" width=\"300\"/>"
+          "text": "<img alt=\"\" height=\"196\" src=\"/question-images/18306799088551482783.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" height=\"196\" src=\"/question-images/18306799088551482783.webp\" width=\"300\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/3431414533345992006.webp\" width=\"303\"/>",
-          "html": "<img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/3431414533345992006.webp\" width=\"303\"/>"
+          "text": "<img alt=\"\" height=\"198\" src=\"/question-images/3431414533345992006.webp\" width=\"303\"/>",
+          "html": "<img alt=\"\" height=\"198\" src=\"/question-images/3431414533345992006.webp\" width=\"303\"/>"
         }
       ],
       "answer": [
@@ -9141,8 +9141,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>Suppose we run Dijkstra’s single source shortest path algorithm on the following edge-weighted directed graph with vertex $P$ as the source.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/Gate_QA/question-images/4462792251269685359.webp\" width=\"251\"/></p>\n<p>In what order do the nodes get included into the set of vertices for which the shortest path distances are finalized?</p>",
-      "rawQuestionHtml": "<p>Suppose we run Dijkstra’s single source shortest path algorithm on the following edge-weighted directed graph with vertex $P$ as the source.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/Gate_QA/question-images/4462792251269685359.webp\" width=\"251\"/></p>\n<p>In what order do the nodes get included into the set of vertices for which the shortest path distances are finalized?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P,Q,R,S,T,U$</li>\n<li>$P,Q,R,U,S,T$</li>\n<li>$P,Q,R,U,T,S$</li>\n<li>$P,Q,T,R,U,S$</li>\n</ol>",
+      "question": "<p>Suppose we run Dijkstra’s single source shortest path algorithm on the following edge-weighted directed graph with vertex $P$ as the source.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/question-images/4462792251269685359.webp\" width=\"251\"/></p>\n<p>In what order do the nodes get included into the set of vertices for which the shortest path distances are finalized?</p>",
+      "rawQuestionHtml": "<p>Suppose we run Dijkstra’s single source shortest path algorithm on the following edge-weighted directed graph with vertex $P$ as the source.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/question-images/4462792251269685359.webp\" width=\"251\"/></p>\n<p>In what order do the nodes get included into the set of vertices for which the shortest path distances are finalized?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P,Q,R,S,T,U$</li>\n<li>$P,Q,R,U,S,T$</li>\n<li>$P,Q,R,U,T,S$</li>\n<li>$P,Q,T,R,U,S$</li>\n</ol>",
       "options": [
         "$P,Q,R,S,T,U$",
         "$P,Q,R,U,S,T$",
@@ -11085,8 +11085,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Consider the following graph:</p>\n<p><img alt=\"\" height=\"329\" src=\"/Gate_QA/question-images/14011816687901345796.webp\" width=\"349\"/></p>\n<p>Which one of the following cannot be the sequence of edges added, <strong>in that order</strong>, to a minimum spanning tree using Kruskal’s algorithm? </p>",
-      "rawQuestionHtml": "<p>Consider the following graph:</p>\n<p><img alt=\"\" height=\"329\" src=\"/Gate_QA/question-images/14011816687901345796.webp\" width=\"349\"/></p>\n<p>Which one of the following cannot be the sequence of edges added, <strong>in that order</strong>, to a minimum spanning tree using Kruskal’s algorithm? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(a-b),(d-f),(b-f),(d-c),(d-e)$</li>\n<li>$(a-b),(d-f),(d-c),(b-f),(d-e)$</li>\n<li>$(d-f),(a-b),(d-c),(b-f),(d-e)$</li>\n<li>$(d-f),(a-b),(b-f),(d-e),(d-c)$</li>\n</ol>",
+      "question": "<p>Consider the following graph:</p>\n<p><img alt=\"\" height=\"329\" src=\"/question-images/14011816687901345796.webp\" width=\"349\"/></p>\n<p>Which one of the following cannot be the sequence of edges added, <strong>in that order</strong>, to a minimum spanning tree using Kruskal’s algorithm? </p>",
+      "rawQuestionHtml": "<p>Consider the following graph:</p>\n<p><img alt=\"\" height=\"329\" src=\"/question-images/14011816687901345796.webp\" width=\"349\"/></p>\n<p>Which one of the following cannot be the sequence of edges added, <strong>in that order</strong>, to a minimum spanning tree using Kruskal’s algorithm? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(a-b),(d-f),(b-f),(d-c),(d-e)$</li>\n<li>$(a-b),(d-f),(d-c),(b-f),(d-e)$</li>\n<li>$(d-f),(a-b),(d-c),(b-f),(d-e)$</li>\n<li>$(d-f),(a-b),(b-f),(d-e),(d-c)$</li>\n</ol>",
       "options": [
         "$(a-b),(d-f),(b-f),(d-c),(d-e)$",
         "$(a-b),(d-f),(d-c),(b-f),(d-e)$",
@@ -11679,8 +11679,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>Consider the DAG with $V = \\{1,2,3,4,5,6\\}$ shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/4415789970474834427.webp\" width=\"249\"/></p>\n<p>Which of the following is not a topological ordering?</p>",
-      "rawQuestionHtml": "<p>Consider the DAG with $V = \\{1,2,3,4,5,6\\}$ shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/4415789970474834427.webp\" width=\"249\"/></p>\n<p>Which of the following is not a topological ordering?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$ $2$ $3$ $4$ $5$ $6$</li>\n<li>$1$ $3$ $2$ $4$ $5$ $6$</li>\n<li>$1$ $3$ $2$ $4$ $6$ $5$</li>\n<li>$3$ $2$ $4$ $1$ $6$ $5$</li>\n</ol>",
+      "question": "<p>Consider the DAG with $V = \\{1,2,3,4,5,6\\}$ shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"258\" src=\"/question-images/4415789970474834427.webp\" width=\"249\"/></p>\n<p>Which of the following is not a topological ordering?</p>",
+      "rawQuestionHtml": "<p>Consider the DAG with $V = \\{1,2,3,4,5,6\\}$ shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"258\" src=\"/question-images/4415789970474834427.webp\" width=\"249\"/></p>\n<p>Which of the following is not a topological ordering?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$ $2$ $3$ $4$ $5$ $6$</li>\n<li>$1$ $3$ $2$ $4$ $5$ $6$</li>\n<li>$1$ $3$ $2$ $4$ $6$ $5$</li>\n<li>$3$ $2$ $4$ $1$ $6$ $5$</li>\n</ol>",
       "options": [
         "$1$ $2$ $3$ $4$ $5$ $6$",
         "$1$ $3$ $2$ $4$ $5$ $6$",
@@ -12867,8 +12867,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>The Breadth First Search algorithm has been implemented using the queue data structure. One possible order of visiting the nodes of the following graph is:</p>\n<p><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/3899097234327159239.webp\" width=\"375\"/></p>",
-      "rawQuestionHtml": "<p>The Breadth First Search algorithm has been implemented using the queue data structure. One possible order of visiting the nodes of the following graph is:</p>\n<p><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/3899097234327159239.webp\" width=\"375\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{MNOPQR}$</li>\n<li>$\\text{NQMPOR}$</li>\n<li>$\\text{QMNPRO}$</li>\n<li>$\\text{QMNPOR}$</li>\n</ol>",
+      "question": "<p>The Breadth First Search algorithm has been implemented using the queue data structure. One possible order of visiting the nodes of the following graph is:</p>\n<p><img alt=\"\" height=\"176\" src=\"/question-images/3899097234327159239.webp\" width=\"375\"/></p>",
+      "rawQuestionHtml": "<p>The Breadth First Search algorithm has been implemented using the queue data structure. One possible order of visiting the nodes of the following graph is:</p>\n<p><img alt=\"\" height=\"176\" src=\"/question-images/3899097234327159239.webp\" width=\"375\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{MNOPQR}$</li>\n<li>$\\text{NQMPOR}$</li>\n<li>$\\text{QMNPRO}$</li>\n<li>$\\text{QMNPOR}$</li>\n</ol>",
       "options": [
         "$\\text{MNOPQR}$",
         "$\\text{NQMPOR}$",
@@ -13137,8 +13137,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/14827848283905626683.webp\"/></p>\n<p>Dijkstra's single source shortest path algorithm when run from vertex $a$ in the above graph, computes the correct shortest path distance to</p>",
-      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/14827848283905626683.webp\"/></p>\n<p>Dijkstra's single source shortest path algorithm when run from vertex $a$ in the above graph, computes the correct shortest path distance to</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>only vertex $a$</p>\n</li>\n<li>\n<p>only vertices $a, e, f, g, h$</p>\n</li>\n<li>\n<p>only vertices $a, b, c, d$</p>\n</li>\n<li>\n<p>all the vertices</p>\n</li>\n</ol>",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/14827848283905626683.webp\"/></p>\n<p>Dijkstra's single source shortest path algorithm when run from vertex $a$ in the above graph, computes the correct shortest path distance to</p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/14827848283905626683.webp\"/></p>\n<p>Dijkstra's single source shortest path algorithm when run from vertex $a$ in the above graph, computes the correct shortest path distance to</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>only vertex $a$</p>\n</li>\n<li>\n<p>only vertices $a, e, f, g, h$</p>\n</li>\n<li>\n<p>only vertices $a, b, c, d$</p>\n</li>\n<li>\n<p>all the vertices</p>\n</li>\n</ol>",
       "options": [
         "only vertex $a$",
         "only vertices $a, e, f, g, h$",
@@ -14055,8 +14055,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Consider the following graph:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15339831928713101396.webp\" width=\"480\"/></p>\n<p>Which one of the following is NOT the sequence of edges added to the minimum spanning tree using Kruskal’s algorithm?</p>",
-      "rawQuestionHtml": "<p>Consider the following graph:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15339831928713101396.webp\" width=\"480\"/></p>\n<p>Which one of the following is NOT the sequence of edges added to the minimum spanning tree using Kruskal’s algorithm?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\text{(b, e) (e, f) (a, c) (b, c) (f, g) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (e, f) (a, c) (f, g) (b, c) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (a, c) (e, f) (b, c) (f, g) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (e, f) (b, c) (a, c) (f, g) (c, d)}$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the following graph:</p>\n<p><img alt=\"\" src=\"/question-images/15339831928713101396.webp\" width=\"480\"/></p>\n<p>Which one of the following is NOT the sequence of edges added to the minimum spanning tree using Kruskal’s algorithm?</p>",
+      "rawQuestionHtml": "<p>Consider the following graph:</p>\n<p><img alt=\"\" src=\"/question-images/15339831928713101396.webp\" width=\"480\"/></p>\n<p>Which one of the following is NOT the sequence of edges added to the minimum spanning tree using Kruskal’s algorithm?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\text{(b, e) (e, f) (a, c) (b, c) (f, g) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (e, f) (a, c) (f, g) (b, c) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (a, c) (e, f) (b, c) (f, g) (c, d)}$</p>\n</li>\n<li>\n<p>$\\text{(b, e) (e, f) (b, c) (a, c) (f, g) (c, d)}$</p>\n</li>\n</ol>",
       "options": [
         "$\\text{(b, e) (e, f) (a, c) (b, c) (f, g) (c, d)}$",
         "$\\text{(b, e) (e, f) (a, c) (f, g) (b, c) (c, d)}$",
@@ -14866,33 +14866,33 @@
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
       "question": "<p>A max-heap is a heap where the value of each parent is greater than or equal to the value of its children. Which of the following is a max-heap?</p>",
-      "rawQuestionHtml": "<p>A max-heap is a heap where the value of each parent is greater than or equal to the value of its children. Which of the following is a max-heap?</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>       <img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/></li>\n<li><img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/></li>\n<li>  <img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/></li>\n<li><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>A max-heap is a heap where the value of each parent is greater than or equal to the value of its children. Which of the following is a max-heap?</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>       <img alt=\"\" height=\"228\" src=\"/question-images/18103302501590358228.webp\" width=\"242\"/></li>\n<li><img alt=\"\" height=\"182\" src=\"/question-images/4458747591199535270.webp\" width=\"275\"/></li>\n<li>  <img alt=\"\" height=\"176\" src=\"/question-images/4617483254816858628.webp\" width=\"267\"/></li>\n<li><img alt=\"\" height=\"176\" src=\"/question-images/279480377094564207.webp\" width=\"272\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>",
-        "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>",
-        "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>",
-        "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>"
+        "<img alt=\"\" height=\"228\" src=\"/question-images/18103302501590358228.webp\" width=\"242\"/>",
+        "<img alt=\"\" height=\"182\" src=\"/question-images/4458747591199535270.webp\" width=\"275\"/>",
+        "<img alt=\"\" height=\"176\" src=\"/question-images/4617483254816858628.webp\" width=\"267\"/>",
+        "<img alt=\"\" height=\"176\" src=\"/question-images/279480377094564207.webp\" width=\"272\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>",
-          "html": "<img alt=\"\" height=\"228\" src=\"/Gate_QA/question-images/18103302501590358228.webp\" width=\"242\"/>"
+          "text": "<img alt=\"\" height=\"228\" src=\"/question-images/18103302501590358228.webp\" width=\"242\"/>",
+          "html": "<img alt=\"\" height=\"228\" src=\"/question-images/18103302501590358228.webp\" width=\"242\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>",
-          "html": "<img alt=\"\" height=\"182\" src=\"/Gate_QA/question-images/4458747591199535270.webp\" width=\"275\"/>"
+          "text": "<img alt=\"\" height=\"182\" src=\"/question-images/4458747591199535270.webp\" width=\"275\"/>",
+          "html": "<img alt=\"\" height=\"182\" src=\"/question-images/4458747591199535270.webp\" width=\"275\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>",
-          "html": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/4617483254816858628.webp\" width=\"267\"/>"
+          "text": "<img alt=\"\" height=\"176\" src=\"/question-images/4617483254816858628.webp\" width=\"267\"/>",
+          "html": "<img alt=\"\" height=\"176\" src=\"/question-images/4617483254816858628.webp\" width=\"267\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>",
-          "html": "<img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/279480377094564207.webp\" width=\"272\"/>"
+          "text": "<img alt=\"\" height=\"176\" src=\"/question-images/279480377094564207.webp\" width=\"272\"/>",
+          "html": "<img alt=\"\" height=\"176\" src=\"/question-images/279480377094564207.webp\" width=\"272\"/>"
         }
       ],
       "answer": [
@@ -15243,8 +15243,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>",
-      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{12} (11n^2 - 5 n)$</li>\n<li>$n^2-n+1$</li>\n<li>$6n-11$</li>\n<li>$2n+1$</li>\n</ol>",
+      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>",
+      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/7504430933128142550.webp\" width=\"232\"/></p>\n<p>What will be the cost of the minimum spanning tree (MST) of such a graph with $n$ nodes?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\frac{1}{12} (11n^2 - 5 n)$</li>\n<li>$n^2-n+1$</li>\n<li>$6n-11$</li>\n<li>$2n+1$</li>\n</ol>",
       "options": [
         "$\\frac{1}{12} (11n^2 - 5 n)$",
         "$n^2-n+1$",
@@ -15297,8 +15297,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/Gate_QA/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>",
-      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/Gate_QA/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$11$</li>\n<li>$25$</li>\n<li>$31$</li>\n<li>$41$</li>\n</ol>",
+      "question": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>",
+      "rawQuestionHtml": "<p>An undirected graph $G(V,E)$ contains $n \\: (n&gt;2)$ nodes named $v_1,v_2, \\dots, v_n$. Two nodes $v_i, v_j$  are connected if and only if $ 0 &lt; \\mid i-j\\mid \\leq 2$. Each edge $(v_i,v_j)$ is assigned a weight $i+j$. A sample graph with $n=4$ is shown below.</p>\n<p><img alt=\"\" height=\"157\" src=\"/question-images/10409340625522579277.webp\" width=\"198\"/></p>\n<p>The length of the path from $v_5$ to $v_6$ in the MST of previous question with $n=10$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$11$</li>\n<li>$25$</li>\n<li>$31$</li>\n<li>$41$</li>\n</ol>",
       "options": [
         "$11$",
         "$25$",
@@ -15729,8 +15729,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>Consider the directed graph shown in the figure below. There are multiple shortest paths between vertices $S$ and $T$. Which one will be reported by Dijkstra’s shortest path algorithm? Assume that, in any iteration, the shortest path to a vertex $v$ is updated only when a strictly shorter path to $v$ is discovered.</p>\n<p><img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/516330575885619762.webp\"/></p>",
-      "rawQuestionHtml": "<p>Consider the directed graph shown in the figure below. There are multiple shortest paths between vertices $S$ and $T$. Which one will be reported by Dijkstra’s shortest path algorithm? Assume that, in any iteration, the shortest path to a vertex $v$ is updated only when a strictly shorter path to $v$ is discovered.</p>\n<p><img alt=\"\" height=\"191\" src=\"/Gate_QA/question-images/516330575885619762.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li> $\\text{SDT}$</li>\n<li> $\\text{SBDT}$</li>\n<li> $\\text{SACDT}$</li>\n<li> $\\text{SACET}$</li>\n</ol>",
+      "question": "<p>Consider the directed graph shown in the figure below. There are multiple shortest paths between vertices $S$ and $T$. Which one will be reported by Dijkstra’s shortest path algorithm? Assume that, in any iteration, the shortest path to a vertex $v$ is updated only when a strictly shorter path to $v$ is discovered.</p>\n<p><img alt=\"\" height=\"191\" src=\"/question-images/516330575885619762.webp\"/></p>",
+      "rawQuestionHtml": "<p>Consider the directed graph shown in the figure below. There are multiple shortest paths between vertices $S$ and $T$. Which one will be reported by Dijkstra’s shortest path algorithm? Assume that, in any iteration, the shortest path to a vertex $v$ is updated only when a strictly shorter path to $v$ is discovered.</p>\n<p><img alt=\"\" height=\"191\" src=\"/question-images/516330575885619762.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li> $\\text{SDT}$</li>\n<li> $\\text{SBDT}$</li>\n<li> $\\text{SACDT}$</li>\n<li> $\\text{SACET}$</li>\n</ol>",
       "options": [
         "$\\text{SDT}$",
         "$\\text{SBDT}$",
@@ -16625,8 +16625,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "MCQ",
-      "question": "<p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>",
-      "rawQuestionHtml": "<a name=\"1779\"></a><div itemprop=\"text\"><p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>The graph does not have any topological ordering.</li>\n\t<li>Both PQRS and SRQP are topological orderings.</li>\n\t<li>Both PSRQ and SPRQ are topological orderings.</li>\n\t<li>PSRQ is the only topological ordering.</li>\n</ol></div>",
+      "question": "<p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>",
+      "rawQuestionHtml": "<a name=\"1779\"></a><div itemprop=\"text\"><p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>The graph does not have any topological ordering.</li>\n\t<li>Both PQRS and SRQP are topological orderings.</li>\n\t<li>Both PSRQ and SPRQ are topological orderings.</li>\n\t<li>PSRQ is the only topological ordering.</li>\n</ol></div>",
       "options": [
         "The graph does not have any topological ordering.",
         "Both PQRS and SRQP are topological orderings.",
@@ -16766,33 +16766,33 @@
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
       "question": "<p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>",
-      "rawQuestionHtml": "<a name=\"1916\"></a><div itemprop=\"text\"><p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\"></li>\n</ol></div>",
+      "rawQuestionHtml": "<a name=\"1916\"></a><div itemprop=\"text\"><p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" src=\"/question-images/4690040794242596387.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/9147408786835595613.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/7014625262490770422.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/2771179607250397481.webp\"></li>\n</ol></div>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">"
+        "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">",
+        "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">",
+        "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">",
+        "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">"
         }
       ],
       "answer": [
@@ -17461,8 +17461,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<p>The number of distinct minimum spanning trees for the weighted graph below is _____</p>\n<p><img alt=\"\" height=\"236\" src=\"/Gate_QA/question-images/8498882374257474304.webp\" width=\"498\"/></p>",
-      "rawQuestionHtml": "<p>The number of distinct minimum spanning trees for the weighted graph below is _____</p>\n<p><img alt=\"\" height=\"236\" src=\"/Gate_QA/question-images/8498882374257474304.webp\" width=\"498\"/></p>",
+      "question": "<p>The number of distinct minimum spanning trees for the weighted graph below is _____</p>\n<p><img alt=\"\" height=\"236\" src=\"/question-images/8498882374257474304.webp\" width=\"498\"/></p>",
+      "rawQuestionHtml": "<p>The number of distinct minimum spanning trees for the weighted graph below is _____</p>\n<p><img alt=\"\" height=\"236\" src=\"/question-images/8498882374257474304.webp\" width=\"498\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -17547,8 +17547,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/Gate_QA/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>",
-      "rawQuestionHtml": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/Gate_QA/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$SQPTRWUV$</li>\n<li>$SQPTUWRV$</li>\n<li>$SQPTWUVR$</li>\n<li>$SQPTRUWV$</li>\n</ol>",
+      "question": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>",
+      "rawQuestionHtml": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$SQPTRWUV$</li>\n<li>$SQPTUWRV$</li>\n<li>$SQPTWUVR$</li>\n<li>$SQPTRUWV$</li>\n</ol>",
       "options": [
         "$SQPTRWUV$",
         "$SQPTUWRV$",
@@ -17601,8 +17601,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "NAT",
-      "question": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
-      "rawQuestionHtml": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
+      "question": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
+      "rawQuestionHtml": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -18537,8 +18537,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<p>The graph shown below has $8$ edges with distinct integer edge weights. The minimum spanning tree (<strong>MST</strong>) is of weight $36$ and contains the edges: $\\{(A, C), (B, C), (B, E), (E, F), (D, F)\\}$. The edge weights of only those edges which are in the <strong>MST </strong>are given in the figure shown below. The minimum possible sum of weights of all $8$ edges of this graph is_______________.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2498801638385915794.webp\" width=\"380\"/></p>",
-      "rawQuestionHtml": "<p>The graph shown below has $8$ edges with distinct integer edge weights. The minimum spanning tree (<strong>MST</strong>) is of weight $36$ and contains the edges: $\\{(A, C), (B, C), (B, E), (E, F), (D, F)\\}$. The edge weights of only those edges which are in the <strong>MST </strong>are given in the figure shown below. The minimum possible sum of weights of all $8$ edges of this graph is_______________.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2498801638385915794.webp\" width=\"380\"/></p>",
+      "question": "<p>The graph shown below has $8$ edges with distinct integer edge weights. The minimum spanning tree (<strong>MST</strong>) is of weight $36$ and contains the edges: $\\{(A, C), (B, C), (B, E), (E, F), (D, F)\\}$. The edge weights of only those edges which are in the <strong>MST </strong>are given in the figure shown below. The minimum possible sum of weights of all $8$ edges of this graph is_______________.</p>\n<p><img alt=\"\" src=\"/question-images/2498801638385915794.webp\" width=\"380\"/></p>",
+      "rawQuestionHtml": "<p>The graph shown below has $8$ edges with distinct integer edge weights. The minimum spanning tree (<strong>MST</strong>) is of weight $36$ and contains the edges: $\\{(A, C), (B, C), (B, E), (E, F), (D, F)\\}$. The edge weights of only those edges which are in the <strong>MST </strong>are given in the figure shown below. The minimum possible sum of weights of all $8$ edges of this graph is_______________.</p>\n<p><img alt=\"\" src=\"/question-images/2498801638385915794.webp\" width=\"380\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -20015,8 +20015,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "NAT",
-      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
-      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
+      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
+      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -21079,8 +21079,8 @@
       "subjectSlug": "dsa",
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "NAT",
-      "question": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/Gate_QA/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
-      "rawQuestionHtml": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/Gate_QA/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
+      "question": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
+      "rawQuestionHtml": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -21909,8 +21909,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
-      "question": "<p>The Breadth First Search (BFS) algorithm has been implemented using the queue data structure. Which one of the following is a possible order of visiting the nodes in the graph below?</p>\n<p><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/12674698175433081177.webp\" width=\"235\"/></p>",
-      "rawQuestionHtml": "<p>The Breadth First Search (BFS) algorithm has been implemented using the queue data structure. Which one of the following is a possible order of visiting the nodes in the graph below?</p>\n<p><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/12674698175433081177.webp\" width=\"235\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{MNOPQR}$</li>\n<li>$\\text{NQMPOR}$</li>\n<li>$\\text{QMNROP}$</li>\n<li>$\\text{POQNMR}$</li>\n</ol>",
+      "question": "<p>The Breadth First Search (BFS) algorithm has been implemented using the queue data structure. Which one of the following is a possible order of visiting the nodes in the graph below?</p>\n<p><img alt=\"\" height=\"143\" src=\"/question-images/12674698175433081177.webp\" width=\"235\"/></p>",
+      "rawQuestionHtml": "<p>The Breadth First Search (BFS) algorithm has been implemented using the queue data structure. Which one of the following is a possible order of visiting the nodes in the graph below?</p>\n<p><img alt=\"\" height=\"143\" src=\"/question-images/12674698175433081177.webp\" width=\"235\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{MNOPQR}$</li>\n<li>$\\text{NQMPOR}$</li>\n<li>$\\text{QMNROP}$</li>\n<li>$\\text{POQNMR}$</li>\n</ol>",
       "options": [
         "$\\text{MNOPQR}$",
         "$\\text{NQMPOR}$",
@@ -22437,8 +22437,8 @@
       "subjectSlug": "dsa",
       "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
       "type": "MCQ",
-      "question": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/Gate_QA/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>",
-      "rawQuestionHtml": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/Gate_QA/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta(1), \\Theta(1)$</li>\n<li>$\\Theta(1), \\Theta(n)$</li>\n<li>$\\Theta(n), \\Theta(1)$</li>\n<li>$\\Theta(n), \\Theta(n)$</li>\n</ol>",
+      "question": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>",
+      "rawQuestionHtml": "<p>A queue is implemented using a non-circular singly linked list. The queue has a head pointer and a tail pointer, as shown in the figure. Let $n$ denote the number of nodes in the queue. Let 'enqueue' be implemented by inserting a new node at the head, and 'dequeue' be implemented by deletion of a node from the tail.</p>\n<p><img alt=\"\" height=\"152\" src=\"/question-images/10018169325324656089.webp\" width=\"600\"/></p>\n<p>Which one of the following is the time complexity of the most time-efficient implementation of 'enqueue' and 'dequeue, respectively, for this data structure?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Theta(1), \\Theta(1)$</li>\n<li>$\\Theta(1), \\Theta(n)$</li>\n<li>$\\Theta(n), \\Theta(1)$</li>\n<li>$\\Theta(n), \\Theta(n)$</li>\n</ol>",
       "options": [
         "$\\Theta(1), \\Theta(1)$",
         "$\\Theta(1), \\Theta(n)$",
@@ -22857,8 +22857,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
-      "rawQuestionHtml": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
+      "question": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
+      "rawQuestionHtml": "<p>Consider the following undirected graph $G$:</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/14053580892647101082.webp\" width=\"274\"/></p>\n<p>Choose a value for $x$ that will maximize the number of minimum weight spanning trees (MWSTs) of $G$. The number of MWSTs of $G$ for this value of $x$ is ____.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -24059,8 +24059,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/Gate_QA/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
-      "rawQuestionHtml": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/Gate_QA/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
+      "question": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
+      "rawQuestionHtml": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -24336,8 +24336,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "MSQ",
-      "question": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>",
-      "rawQuestionHtml": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$5,9,4,13,10,7$</li>\n<li>$9,5,10,6,7,1$</li>\n<li>$10,9,6,7,5,13$</li>\n<li>$9,5,13,6,10,14$</li>\n</ol>",
+      "question": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>",
+      "rawQuestionHtml": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$5,9,4,13,10,7$</li>\n<li>$9,5,10,6,7,1$</li>\n<li>$10,9,6,7,5,13$</li>\n<li>$9,5,13,6,10,14$</li>\n</ol>",
       "options": [
         "$5,9,4,13,10,7$",
         "$9,5,10,6,7,1$",
@@ -24858,8 +24858,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MSQ",
-      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/Gate_QA/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>",
-      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/Gate_QA/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>The graph does not have a topological order</li>\n<li>A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges</li>\n<li>The graph does not have a strongly connected component</li>\n<li>For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$</li>\n</ol>",
+      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>",
+      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"300\" src=\"/question-images/8472546138674817145.webp\" width=\"321\"/></p>\n<p>Which of the following is/are correct about the graph?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>The graph does not have a topological order</li>\n<li>A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges</li>\n<li>The graph does not have a strongly connected component</li>\n<li>For each pair of vertices $u$ and $v$, there is a directed path from $u$ to $v$</li>\n</ol>",
       "options": [
         "The graph does not have a topological order",
         "A depth-first traversal starting at vertex $S$ classifies three directed edges as back edges",
@@ -24943,8 +24943,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "NAT",
-      "question": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/Gate_QA/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
-      "rawQuestionHtml": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/Gate_QA/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
+      "question": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
+      "rawQuestionHtml": "<p>In a directed acyclic graph with a source vertex $\\textsf{s}$, the $\\textit{quality-score}$ of a directed path is defined to be the product of the weights of the edges on the path. Further, for a vertex $v$ other than $\\textsf{s}$, the quality-score of $v$ is defined to be the maximum among the quality-scores of all the paths from $\\textsf{s}$ to $v$. The quality-score of $\\textsf{s}$ is assumed to be $1$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"233\" src=\"/question-images/14653577806943430193.webp\" width=\"382\"/></p>\n<p>The sum of the quality-scores of all vertices on the graph shown above is _______</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -25027,8 +25027,8 @@
       "subjectSlug": "dsa",
       "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
       "type": "MCQ",
-      "question": "<p>Consider the problem of reversing a singly linked list. To take an example, given the linked list below,</p>\n<p><img alt=\"\" height=\"56\" src=\"/Gate_QA/question-images/5447068004630874577.webp\" width=\"702\"/></p>\n<p>the reversed linked list should look like</p>\n<p><img alt=\"\" height=\"58\" src=\"/Gate_QA/question-images/13525030928621347995.webp\" width=\"721\"/></p>\n<p>Which one of the following statements is $\\text{TRUE}$ about the time complexity of algorithms that solve the above problem in $O(1)$ space?</p>",
-      "rawQuestionHtml": "<p>Consider the problem of reversing a singly linked list. To take an example, given the linked list below,</p>\n<p><img alt=\"\" height=\"56\" src=\"/Gate_QA/question-images/5447068004630874577.webp\" width=\"702\"/></p>\n<p>the reversed linked list should look like</p>\n<p><img alt=\"\" height=\"58\" src=\"/Gate_QA/question-images/13525030928621347995.webp\" width=\"721\"/></p>\n<p>Which one of the following statements is $\\text{TRUE}$ about the time complexity of algorithms that solve the above problem in $O(1)$ space?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>The best algorithm for the problem takes $\\theta(n)$ time in the worst case.</li>\n<li>The best algorithm for the problem takes $\\theta(n \\log n)$ time in the worst case.</li>\n<li>The best algorithm for the problem takes $\\theta(n^{2})$ time in the worst case.</li>\n<li>It is not possible to reverse a singly linked list in $O(1)$ space.</li>\n</ol>",
+      "question": "<p>Consider the problem of reversing a singly linked list. To take an example, given the linked list below,</p>\n<p><img alt=\"\" height=\"56\" src=\"/question-images/5447068004630874577.webp\" width=\"702\"/></p>\n<p>the reversed linked list should look like</p>\n<p><img alt=\"\" height=\"58\" src=\"/question-images/13525030928621347995.webp\" width=\"721\"/></p>\n<p>Which one of the following statements is $\\text{TRUE}$ about the time complexity of algorithms that solve the above problem in $O(1)$ space?</p>",
+      "rawQuestionHtml": "<p>Consider the problem of reversing a singly linked list. To take an example, given the linked list below,</p>\n<p><img alt=\"\" height=\"56\" src=\"/question-images/5447068004630874577.webp\" width=\"702\"/></p>\n<p>the reversed linked list should look like</p>\n<p><img alt=\"\" height=\"58\" src=\"/question-images/13525030928621347995.webp\" width=\"721\"/></p>\n<p>Which one of the following statements is $\\text{TRUE}$ about the time complexity of algorithms that solve the above problem in $O(1)$ space?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>The best algorithm for the problem takes $\\theta(n)$ time in the worst case.</li>\n<li>The best algorithm for the problem takes $\\theta(n \\log n)$ time in the worst case.</li>\n<li>The best algorithm for the problem takes $\\theta(n^{2})$ time in the worst case.</li>\n<li>It is not possible to reverse a singly linked list in $O(1)$ space.</li>\n</ol>",
       "options": [
         "The best algorithm for the problem takes $\\theta(n)$ time in the worst case.",
         "The best algorithm for the problem takes $\\theta(n \\log n)$ time in the worst case.",
@@ -25523,8 +25523,8 @@
       "subjectSlug": "dsa",
       "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
       "type": "NAT",
-      "question": "<p>Consider the queues $Q_{1}$ containing four elements and $Q_{2}$ containing none (shown as the $\\textsf{Initial State}$ in the figure). The only operations allowed on these two queues are $\\textsf{Enqueue (Q, element)}$ and $\\textsf{Dequeue (Q)}.$ The minimum number of $\\textsf{Enqueue}$ operations on $Q_{1}$ required to place the elements of $Q_{1}$ in $Q_{2}$ in reverse order (shown as the $\\textsf{Final State}$ in the figure) without using any additional storage is________________.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9622359972525868500.webp\" width=\"450\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>Consider the queues $Q_{1}$ containing four elements and $Q_{2}$ containing none (shown as the $\\textsf{Initial State}$ in the figure). The only operations allowed on these two queues are $\\textsf{Enqueue (Q, element)}$ and $\\textsf{Dequeue (Q)}.$ The minimum number of $\\textsf{Enqueue}$ operations on $Q_{1}$ required to place the elements of $Q_{1}$ in $Q_{2}$ in reverse order (shown as the $\\textsf{Final State}$ in the figure) without using any additional storage is________________.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9622359972525868500.webp\" width=\"450\"/></p>\n<p> </p>",
+      "question": "<p>Consider the queues $Q_{1}$ containing four elements and $Q_{2}$ containing none (shown as the $\\textsf{Initial State}$ in the figure). The only operations allowed on these two queues are $\\textsf{Enqueue (Q, element)}$ and $\\textsf{Dequeue (Q)}.$ The minimum number of $\\textsf{Enqueue}$ operations on $Q_{1}$ required to place the elements of $Q_{1}$ in $Q_{2}$ in reverse order (shown as the $\\textsf{Final State}$ in the figure) without using any additional storage is________________.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/9622359972525868500.webp\" width=\"450\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>Consider the queues $Q_{1}$ containing four elements and $Q_{2}$ containing none (shown as the $\\textsf{Initial State}$ in the figure). The only operations allowed on these two queues are $\\textsf{Enqueue (Q, element)}$ and $\\textsf{Dequeue (Q)}.$ The minimum number of $\\textsf{Enqueue}$ operations on $Q_{1}$ required to place the elements of $Q_{1}$ in $Q_{2}$ in reverse order (shown as the $\\textsf{Final State}$ in the figure) without using any additional storage is________________.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/9622359972525868500.webp\" width=\"450\"/></p>\n<p> </p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -25855,33 +25855,33 @@
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
       "question": "<p>Consider the following program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main()      int f1()        int f2(int X)               int f3()\n{               {               {                           {\n    f1();           return(1);      f3();                       return(5);\n    f2(2);      }                   if(X==1)                }\n    f3();                               return f1();    \n    return(0);                      else    \n}                                       return (X*f2(X-1));\n                                }    \n</pre>\n<p>Which one of the following options represents the activation tree corresponding to the main function?</p>",
-      "rawQuestionHtml": "<p>Consider the following program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main()      int f1()        int f2(int X)               int f3()\n{               {               {                           {\n    f1();           return(1);      f3();                       return(5);\n    f2(2);      }                   if(X==1)                }\n    f3();                               return f1();    \n    return(0);                      else    \n}                                       return (X*f2(X-1));\n                                }    \n</pre>\n<p>Which one of the following options represents the activation tree corresponding to the main function?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/></li>\n<li>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>\n</li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the following program:</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int main()      int f1()        int f2(int X)               int f3()\n{               {               {                           {\n    f1();           return(1);      f3();                       return(5);\n    f2(2);      }                   if(X==1)                }\n    f3();                               return f1();    \n    return(0);                      else    \n}                                       return (X*f2(X-1));\n                                }    \n</pre>\n<p>Which one of the following options represents the activation tree corresponding to the main function?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"151\" src=\"/question-images/8937085960013317279.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/question-images/5583269571573106772.webp\" width=\"96\"/></li>\n<li><img alt=\"\" src=\"/question-images/14679605052061261204.webp\" width=\"96\"/></li>\n<li>\n<p><img alt=\"\" src=\"/question-images/2143243641754369651.webp\" width=\"96\"/></p>\n</li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>",
-        "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
+        "<img alt=\"\" height=\"151\" src=\"/question-images/8937085960013317279.webp\" width=\"96\"/>",
+        "<img alt=\"\" src=\"/question-images/5583269571573106772.webp\" width=\"96\"/>",
+        "<img alt=\"\" src=\"/question-images/14679605052061261204.webp\" width=\"96\"/>",
+        "<p><img alt=\"\" src=\"/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>",
-          "html": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/8937085960013317279.webp\" width=\"96\"/>"
+          "text": "<img alt=\"\" height=\"151\" src=\"/question-images/8937085960013317279.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" height=\"151\" src=\"/question-images/8937085960013317279.webp\" width=\"96\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/5583269571573106772.webp\" width=\"96\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/5583269571573106772.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/5583269571573106772.webp\" width=\"96\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/14679605052061261204.webp\" width=\"96\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/14679605052061261204.webp\" width=\"96\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/14679605052061261204.webp\" width=\"96\"/>"
         },
         {
           "label": "D",
-          "text": "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>",
-          "html": "<p><img alt=\"\" src=\"/Gate_QA/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
+          "text": "<p><img alt=\"\" src=\"/question-images/2143243641754369651.webp\" width=\"96\"/></p>",
+          "html": "<p><img alt=\"\" src=\"/question-images/2143243641754369651.webp\" width=\"96\"/></p>"
         }
       ],
       "answer": [
@@ -25962,8 +25962,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>",
-      "rawQuestionHtml": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$3 \\;8 \\;5 \\;13 \\;11\\; 10$</li>\n<li>$3 \\;5\\; 8\\; 10\\; 11\\; 13$</li>\n<li>$3 \\;8 \\;16 \\;13\\; 24\\; 50$</li>\n<li>$3\\; 16\\; 8\\; 50\\; 24\\; 13$</li>\n</ol>",
+      "question": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>",
+      "rawQuestionHtml": "<p>Consider the $\\text{C}$ function $\\text{foo}$ and the binary tree shown.</p>\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct node {\n    int val;\n    struct node *left, *right;\n} node;\n\nint foo(node *p) {\n    int retval;\n    if (p == NULL)\n        return 0;\n    else {\n        retval = p-&gt;val + foo(p-&gt;left) + foo(p-&gt;right);\n        printf(\"%d \", retval);\n        return retval;\n    }\n}</pre>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/question-images/10092354552187482161.webp\" width=\"258\"/></p>\n<p>When $\\textsf{foo}$ is called with a pointer to the root node of the given binary tree, what will it print?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$3 \\;8 \\;5 \\;13 \\;11\\; 10$</li>\n<li>$3 \\;5\\; 8\\; 10\\; 11\\; 13$</li>\n<li>$3 \\;8 \\;16 \\;13\\; 24\\; 50$</li>\n<li>$3\\; 16\\; 8\\; 50\\; 24\\; 13$</li>\n</ol>",
       "options": [
         "$3 \\;8 \\;5 \\;13 \\;11\\; 10$",
         "$3 \\;5\\; 8\\; 10\\; 11\\; 13$",
@@ -27006,8 +27006,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>The number of distinct minimum-weight spanning trees of the following graph is</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/16073210241976579430.webp\" width=\"500\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422848\"></a><div itemprop=\"text\"><p>The number of distinct minimum-weight spanning trees of the following graph is</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/16073210241976579430.webp\" width=\"500\"/></p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>The number of distinct minimum-weight spanning trees of the following graph is</p>\n<p><img alt=\"\" src=\"/question-images/16073210241976579430.webp\" width=\"500\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422848\"></a><div itemprop=\"text\"><p>The number of distinct minimum-weight spanning trees of the following graph is</p>\n<p><img alt=\"\" src=\"/question-images/16073210241976579430.webp\" width=\"500\"/></p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -27373,8 +27373,8 @@
       "subjectSlug": "dsa",
       "topic": "Linear Data Structures (Arrays, Stacks, Queues)",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Let $\\mathrm{LIST}$ be a datatype for an implementation of linked list defined as follows:</p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct list {\nint data;\nstruct list *next;\n} LIST;</pre><p>Suppose a program has created two linked lists, $L1$ and $L2$, whose contents are given in the figure below (code for creating $L1$ and $L2$ is not provided here). $L1$ contains $9$ nodes, and $L2$ contains $7$ nodes.<br/><br/>Consider the following C program segment that modifies the list $L1$. The number of nodes that will be there in $L1$ after the execution of the code segment is __________. (Answer in integer)</p><p><img alt=\"\" height=\"129\" src=\"/Gate_QA/question-images/2598317740025000235.webp\" width=\"700\"/></p><p><img alt=\"\" height=\"109\" src=\"/Gate_QA/question-images/2779324448088887370.webp\" width=\"700\"/></p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int find (int query, LIST *list) {\nwhile (list != NULL) {\nif(list-&gt;data == query) return 1 ;\nlist = list-&gt;next;\n}\nreturn 0 ;\n}\nint main() {\n... ... ...\nptr1=L1; ptr2=L2;\nwhile (ptr1-&gt;next != NULL){\nquery = ptr1-&gt;next-&gt;data;\nif (find (query, L2))\nptr1-&gt;next = ptr1-&gt;next-&gt;next;\nelse ptr1 = ptr1-&gt;next;\n}\n... .... ...\nreturn 0;\n}\n</pre></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460028\"></a><div itemprop=\"text\"><p>Let $\\mathrm{LIST}$ be a datatype for an implementation of linked list defined as follows:</p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct list {\nint data;\nstruct list *next;\n} LIST;</pre><p>Suppose a program has created two linked lists, $L1$ and $L2$, whose contents are given in the figure below (code for creating $L1$ and $L2$ is not provided here). $L1$ contains $9$ nodes, and $L2$ contains $7$ nodes.<br/><br/>Consider the following C program segment that modifies the list $L1$. The number of nodes that will be there in $L1$ after the execution of the code segment is __________. (Answer in integer)</p><p><img alt=\"\" height=\"129\" src=\"/Gate_QA/question-images/2598317740025000235.webp\" width=\"700\"/></p><p><img alt=\"\" height=\"109\" src=\"/Gate_QA/question-images/2779324448088887370.webp\" width=\"700\"/></p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int find (int query, LIST *list) {\nwhile (list != NULL) {\nif(list-&gt;data == query) return 1 ;\nlist = list-&gt;next;\n}\nreturn 0 ;\n}\nint main() {\n... ... ...\nptr1=L1; ptr2=L2;\nwhile (ptr1-&gt;next != NULL){\nquery = ptr1-&gt;next-&gt;data;\nif (find (query, L2))\nptr1-&gt;next = ptr1-&gt;next-&gt;next;\nelse ptr1 = ptr1-&gt;next;\n}\n... .... ...\nreturn 0;\n}\n</pre></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Let $\\mathrm{LIST}$ be a datatype for an implementation of linked list defined as follows:</p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct list {\nint data;\nstruct list *next;\n} LIST;</pre><p>Suppose a program has created two linked lists, $L1$ and $L2$, whose contents are given in the figure below (code for creating $L1$ and $L2$ is not provided here). $L1$ contains $9$ nodes, and $L2$ contains $7$ nodes.<br/><br/>Consider the following C program segment that modifies the list $L1$. The number of nodes that will be there in $L1$ after the execution of the code segment is __________. (Answer in integer)</p><p><img alt=\"\" height=\"129\" src=\"/question-images/2598317740025000235.webp\" width=\"700\"/></p><p><img alt=\"\" height=\"109\" src=\"/question-images/2779324448088887370.webp\" width=\"700\"/></p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int find (int query, LIST *list) {\nwhile (list != NULL) {\nif(list-&gt;data == query) return 1 ;\nlist = list-&gt;next;\n}\nreturn 0 ;\n}\nint main() {\n... ... ...\nptr1=L1; ptr2=L2;\nwhile (ptr1-&gt;next != NULL){\nquery = ptr1-&gt;next-&gt;data;\nif (find (query, L2))\nptr1-&gt;next = ptr1-&gt;next-&gt;next;\nelse ptr1 = ptr1-&gt;next;\n}\n... .... ...\nreturn 0;\n}\n</pre></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460028\"></a><div itemprop=\"text\"><p>Let $\\mathrm{LIST}$ be a datatype for an implementation of linked list defined as follows:</p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">typedef struct list {\nint data;\nstruct list *next;\n} LIST;</pre><p>Suppose a program has created two linked lists, $L1$ and $L2$, whose contents are given in the figure below (code for creating $L1$ and $L2$ is not provided here). $L1$ contains $9$ nodes, and $L2$ contains $7$ nodes.<br/><br/>Consider the following C program segment that modifies the list $L1$. The number of nodes that will be there in $L1$ after the execution of the code segment is __________. (Answer in integer)</p><p><img alt=\"\" height=\"129\" src=\"/question-images/2598317740025000235.webp\" width=\"700\"/></p><p><img alt=\"\" height=\"109\" src=\"/question-images/2779324448088887370.webp\" width=\"700\"/></p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int find (int query, LIST *list) {\nwhile (list != NULL) {\nif(list-&gt;data == query) return 1 ;\nlist = list-&gt;next;\n}\nreturn 0 ;\n}\nint main() {\n... ... ...\nptr1=L1; ptr2=L2;\nwhile (ptr1-&gt;next != NULL){\nquery = ptr1-&gt;next-&gt;data;\nif (find (query, L2))\nptr1-&gt;next = ptr1-&gt;next-&gt;next;\nelse ptr1 = ptr1-&gt;next;\n}\n... .... ...\nreturn 0;\n}\n</pre></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -27433,8 +27433,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>The maximum value of $\\text{x}$ such that the edge between the nodes $\\text{B}$ and $\\text{C}$ is included in every minimum spanning tree of the given graph is _________. (answer in integer)</p><p style=\"text-align:center\"><img alt=\"Graph\" height=\"325\" src=\"/Gate_QA/question-images/14721615329611004678.webp\" width=\"400\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460026\"></a><div itemprop=\"text\"><p>The maximum value of $\\text{x}$ such that the edge between the nodes $\\text{B}$ and $\\text{C}$ is included in every minimum spanning tree of the given graph is _________. (answer in integer)</p><p style=\"text-align:center\"><img alt=\"Graph\" height=\"325\" src=\"/Gate_QA/question-images/14721615329611004678.webp\" width=\"400\"/></p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>The maximum value of $\\text{x}$ such that the edge between the nodes $\\text{B}$ and $\\text{C}$ is included in every minimum spanning tree of the given graph is _________. (answer in integer)</p><p style=\"text-align:center\"><img alt=\"Graph\" height=\"325\" src=\"/question-images/14721615329611004678.webp\" width=\"400\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460026\"></a><div itemprop=\"text\"><p>The maximum value of $\\text{x}$ such that the edge between the nodes $\\text{B}$ and $\\text{C}$ is included in every minimum spanning tree of the given graph is _________. (answer in integer)</p><p style=\"text-align:center\"><img alt=\"Graph\" height=\"325\" src=\"/question-images/14721615329611004678.webp\" width=\"400\"/></p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -27989,8 +27989,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the following algorithm <strong>someAlgo</strong> that takes an undirected graph $G$ as input.                                                                                                                  <strong>someAlgo</strong> (G)</p><ol><li>Let $v$ be any vertex in $G$. Run BFS on $G$ starting at $v$. Let $u$ be a vertex in $G$ at maximum distance from $v$ as given by the BFS.</li><li>Run BFS on $G$ again with $u$ as the starting vertex. Let $z$ be the vertex at maximum distance from $u$ as given by the BFS.</li><li>Output the distance between $u$ and $z$ in $G$.</li></ol><p>The output of <strong>someAlgo</strong> ( $T$ ) for the tree shown in the given figure is ___________. (Answer in integer)</p><p><img alt=\"\" height=\"183\" src=\"/Gate_QA/question-images/12122420668873080451.webp\" width=\"450\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460844\"></a><div itemprop=\"text\"><p>Consider the following algorithm <strong>someAlgo</strong> that takes an undirected graph $G$ as input.                                                                                                                  <strong>someAlgo</strong> (G)</p><ol><li>Let $v$ be any vertex in $G$. Run BFS on $G$ starting at $v$. Let $u$ be a vertex in $G$ at maximum distance from $v$ as given by the BFS.</li><li>Run BFS on $G$ again with $u$ as the starting vertex. Let $z$ be the vertex at maximum distance from $u$ as given by the BFS.</li><li>Output the distance between $u$ and $z$ in $G$.</li></ol><p>The output of <strong>someAlgo</strong> ( $T$ ) for the tree shown in the given figure is ___________. (Answer in integer)</p><p><img alt=\"\" height=\"183\" src=\"/Gate_QA/question-images/12122420668873080451.webp\" width=\"450\"/></p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the following algorithm <strong>someAlgo</strong> that takes an undirected graph $G$ as input.                                                                                                                  <strong>someAlgo</strong> (G)</p><ol><li>Let $v$ be any vertex in $G$. Run BFS on $G$ starting at $v$. Let $u$ be a vertex in $G$ at maximum distance from $v$ as given by the BFS.</li><li>Run BFS on $G$ again with $u$ as the starting vertex. Let $z$ be the vertex at maximum distance from $u$ as given by the BFS.</li><li>Output the distance between $u$ and $z$ in $G$.</li></ol><p>The output of <strong>someAlgo</strong> ( $T$ ) for the tree shown in the given figure is ___________. (Answer in integer)</p><p><img alt=\"\" height=\"183\" src=\"/question-images/12122420668873080451.webp\" width=\"450\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460844\"></a><div itemprop=\"text\"><p>Consider the following algorithm <strong>someAlgo</strong> that takes an undirected graph $G$ as input.                                                                                                                  <strong>someAlgo</strong> (G)</p><ol><li>Let $v$ be any vertex in $G$. Run BFS on $G$ starting at $v$. Let $u$ be a vertex in $G$ at maximum distance from $v$ as given by the BFS.</li><li>Run BFS on $G$ again with $u$ as the starting vertex. Let $z$ be the vertex at maximum distance from $u$ as given by the BFS.</li><li>Output the distance between $u$ and $z$ in $G$.</li></ol><p>The output of <strong>someAlgo</strong> ( $T$ ) for the tree shown in the given figure is ___________. (Answer in integer)</p><p><img alt=\"\" height=\"183\" src=\"/question-images/12122420668873080451.webp\" width=\"450\"/></p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -28301,8 +28301,8 @@
       "subjectSlug": "dsa",
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
-      "question": "<p>For the undirected, weighted graph given below, which of the following sequences of edges represents a correct execution of Prim's algorithm to construct a Minimum Span­ning Tree?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/Gate_QA/question-images/817950059835235116.webp\" width=\"469\"/></p>",
-      "rawQuestionHtml": "<p>For the undirected, weighted graph given below, which of the following sequences of edges represents a correct execution of Prim's algorithm to construct a Minimum Span­ning Tree?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/Gate_QA/question-images/817950059835235116.webp\" width=\"469\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{(a, b), (d, f), (f, c), (g, i), (d, a), (g, h), (c, e), (f, h)}$</li>\n<li>$\\text{(c, e), (c, f), (f, d), (d, a), (a, b), (g, h), (h, f), (g, i)}$</li>\n<li>$\\text{(d, f), (f, c), (d, a), (a, b), (c, e), (f, h), (g, h), (g, i)}$</li>\n<li>$\\text{(h, g), (g, i), (h, f), (f, c), (f, d), (d, a), (a, b), (c, e)}$</li>\n</ol>",
+      "question": "<p>For the undirected, weighted graph given below, which of the following sequences of edges represents a correct execution of Prim's algorithm to construct a Minimum Span­ning Tree?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/question-images/817950059835235116.webp\" width=\"469\"/></p>",
+      "rawQuestionHtml": "<p>For the undirected, weighted graph given below, which of the following sequences of edges represents a correct execution of Prim's algorithm to construct a Minimum Span­ning Tree?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"222\" src=\"/question-images/817950059835235116.webp\" width=\"469\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{(a, b), (d, f), (f, c), (g, i), (d, a), (g, h), (c, e), (f, h)}$</li>\n<li>$\\text{(c, e), (c, f), (f, d), (d, a), (a, b), (g, h), (h, f), (g, i)}$</li>\n<li>$\\text{(d, f), (f, c), (d, a), (a, b), (c, e), (f, h), (g, h), (g, i)}$</li>\n<li>$\\text{(h, g), (g, i), (h, f), (f, c), (f, d), (d, a), (a, b), (c, e)}$</li>\n</ol>",
       "options": [
         "$\\text{(a, b), (d, f), (f, c), (g, i), (d, a), (g, h), (c, e), (f, h)}$",
         "$\\text{(c, e), (c, f), (f, d), (d, a), (a, b), (g, h), (h, f), (g, i)}$",
@@ -28409,8 +28409,8 @@
       "subjectSlug": "dsa",
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
-      "question": "<p>Consider the following sequence of nodes for the undirected graph given below:</p>\n<ol>\n<li>$a$ $b$ $e$ $f$ $d$ $g$ $c$</li>\n<li>$a$ $b$ $e$ $f$ $c$ $g$ $d$</li>\n<li>$a$ $d$ $g$ $e$ $b$ $c$ $f$</li>\n<li>$a$ $d$ $b$ $c$ $g$ $e$ $f$</li>\n</ol>\n<p>A Depth First Search (DFS) is started at node $a$. The nodes are listed in the order they are first visited. Which of the above is/are possible output(s)?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"298\" src=\"/Gate_QA/question-images/8583737377253945503.webp\" width=\"298\"/></p>",
-      "rawQuestionHtml": "<p>Consider the following sequence of nodes for the undirected graph given below:</p>\n<ol>\n<li>$a$ $b$ $e$ $f$ $d$ $g$ $c$</li>\n<li>$a$ $b$ $e$ $f$ $c$ $g$ $d$</li>\n<li>$a$ $d$ $g$ $e$ $b$ $c$ $f$</li>\n<li>$a$ $d$ $b$ $c$ $g$ $e$ $f$</li>\n</ol>\n<p>A Depth First Search (DFS) is started at node $a$. The nodes are listed in the order they are first visited. Which of the above is/are possible output(s)?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"298\" src=\"/Gate_QA/question-images/8583737377253945503.webp\" width=\"298\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$ and $3$ only</li>\n<li>$2$ and $3$ only</li>\n<li>$2, 3$ and $4$ only</li>\n<li>$1, 2$ and $3$ only</li>\n</ol>",
+      "question": "<p>Consider the following sequence of nodes for the undirected graph given below:</p>\n<ol>\n<li>$a$ $b$ $e$ $f$ $d$ $g$ $c$</li>\n<li>$a$ $b$ $e$ $f$ $c$ $g$ $d$</li>\n<li>$a$ $d$ $g$ $e$ $b$ $c$ $f$</li>\n<li>$a$ $d$ $b$ $c$ $g$ $e$ $f$</li>\n</ol>\n<p>A Depth First Search (DFS) is started at node $a$. The nodes are listed in the order they are first visited. Which of the above is/are possible output(s)?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"298\" src=\"/question-images/8583737377253945503.webp\" width=\"298\"/></p>",
+      "rawQuestionHtml": "<p>Consider the following sequence of nodes for the undirected graph given below:</p>\n<ol>\n<li>$a$ $b$ $e$ $f$ $d$ $g$ $c$</li>\n<li>$a$ $b$ $e$ $f$ $c$ $g$ $d$</li>\n<li>$a$ $d$ $g$ $e$ $b$ $c$ $f$</li>\n<li>$a$ $d$ $b$ $c$ $g$ $e$ $f$</li>\n</ol>\n<p>A Depth First Search (DFS) is started at node $a$. The nodes are listed in the order they are first visited. Which of the above is/are possible output(s)?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"298\" src=\"/question-images/8583737377253945503.webp\" width=\"298\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$ and $3$ only</li>\n<li>$2$ and $3$ only</li>\n<li>$2, 3$ and $4$ only</li>\n<li>$1, 2$ and $3$ only</li>\n</ol>",
       "options": [
         "$1$ and $3$ only",
         "$2$ and $3$ only",
@@ -30029,8 +30029,8 @@
       "subjectSlug": "dsa",
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
-      "question": "<p>Which of the following is the correct decomposition of the directed graph given below into its strongly connected components?</p>\n<p><img alt=\"\" height=\"186\" src=\"/Gate_QA/question-images/15508488027359242559.webp\" width=\"319\"/></p>",
-      "rawQuestionHtml": "<p>Which of the following is the correct decomposition of the directed graph given below into its strongly connected components?</p>\n<p><img alt=\"\" height=\"186\" src=\"/Gate_QA/question-images/15508488027359242559.webp\" width=\"319\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left \\{ P, Q, R, S \\right \\}, \\left \\{  T \\right \\},\\left \\{  U \\right \\}, \\left \\{  V \\right \\}$</li>\n<li>$\\left \\{ P,Q, R, S, T, V \\right \\}, \\left \\{  U  \\right \\}$ </li>\n<li>$\\left \\{ P, Q, S, T, V \\right \\}, \\left \\{  R \\right \\},\\left \\{  U \\right \\}$ </li>\n<li>$\\left \\{ P, Q, R, S, T, U, V \\right \\}$ </li>\n</ol>",
+      "question": "<p>Which of the following is the correct decomposition of the directed graph given below into its strongly connected components?</p>\n<p><img alt=\"\" height=\"186\" src=\"/question-images/15508488027359242559.webp\" width=\"319\"/></p>",
+      "rawQuestionHtml": "<p>Which of the following is the correct decomposition of the directed graph given below into its strongly connected components?</p>\n<p><img alt=\"\" height=\"186\" src=\"/question-images/15508488027359242559.webp\" width=\"319\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left \\{ P, Q, R, S \\right \\}, \\left \\{  T \\right \\},\\left \\{  U \\right \\}, \\left \\{  V \\right \\}$</li>\n<li>$\\left \\{ P,Q, R, S, T, V \\right \\}, \\left \\{  U  \\right \\}$ </li>\n<li>$\\left \\{ P, Q, S, T, V \\right \\}, \\left \\{  R \\right \\},\\left \\{  U \\right \\}$ </li>\n<li>$\\left \\{ P, Q, R, S, T, U, V \\right \\}$ </li>\n</ol>",
       "options": [
         "$\\left \\{ P, Q, R, S \\right \\}, \\left \\{ T \\right \\},\\left \\{ U \\right \\}, \\left \\{ V \\right \\}$",
         "$\\left \\{ P,Q, R, S, T, V \\right \\}, \\left \\{ U \\right \\}$",
@@ -30840,33 +30840,33 @@
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
       "question": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>",
-      "rawQuestionHtml": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/></li>\n<li><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/></li>\n<li><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/></li>\n<li><img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/></li>\n<li><img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/></li>\n<li><img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/></li>\n<li><img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>",
-        "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>",
-        "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>",
-        "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>"
+        "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>",
+        "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>",
+        "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>",
+        "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>",
-          "html": "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>"
+          "text": "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>",
+          "html": "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>",
-          "html": "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>"
+          "text": "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>",
+          "html": "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>",
-          "html": "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>"
+          "text": "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>",
+          "html": "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>",
-          "html": "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>"
+          "text": "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>",
+          "html": "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>"
         }
       ],
       "answer": [

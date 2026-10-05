@@ -308,8 +308,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MSQ",
-      "question": "<p>Consider the following two finite automata $D_{1}$ and $D_{2}$.</p><p style=\"text-align:center\"><img alt=\"\" width=\"500\" height=\"286\" src=\"/Gate_QA/question-images/13428483437151764491.webp\"></p><p style=\"text-align:center\"><img alt=\"\" width=\"600\" height=\"306\" src=\"/Gate_QA/question-images/3577139198065942079.webp\"></p><p>Which of the following statements is/are true?</p>",
-      "rawQuestionHtml": "\n<a name=\"523109\"></a><div itemprop=\"text\"><p>Consider the following two finite automata $D_{1}$ and $D_{2}$.</p><p style=\"text-align:center\"><img alt=\"\" width=\"500\" height=\"286\" src=\"/Gate_QA/question-images/13428483437151764491.webp\"></p><p style=\"text-align:center\"><img alt=\"\" width=\"600\" height=\"306\" src=\"/Gate_QA/question-images/3577139198065942079.webp\"></p><p>Which of the following statements is/are true?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$L\\left(D_{1}\\right)=L\\left(D_{2}\\right)$</li><li>$L\\left(D_{1}\\right)$ is a proper subset of $L\\left(D_{2}\\right)$</li><li>$L\\left(D_{1}\\right) \\cap L\\left(D_{2}\\right)=\\{\\epsilon\\}$</li><li>$\\left(L\\left(D_{1}\\right) \\cup L\\left(D_{2}\\right)\\right)^{*}$ consists of all strings in $\\{0,1\\}^{*}$ whose length is divisible by $3$</li></ol></div>\n",
+      "question": "<p>Consider the following two finite automata $D_{1}$ and $D_{2}$.</p><p style=\"text-align:center\"><img alt=\"\" width=\"500\" height=\"286\" src=\"/question-images/13428483437151764491.webp\"></p><p style=\"text-align:center\"><img alt=\"\" width=\"600\" height=\"306\" src=\"/question-images/3577139198065942079.webp\"></p><p>Which of the following statements is/are true?</p>",
+      "rawQuestionHtml": "\n<a name=\"523109\"></a><div itemprop=\"text\"><p>Consider the following two finite automata $D_{1}$ and $D_{2}$.</p><p style=\"text-align:center\"><img alt=\"\" width=\"500\" height=\"286\" src=\"/question-images/13428483437151764491.webp\"></p><p style=\"text-align:center\"><img alt=\"\" width=\"600\" height=\"306\" src=\"/question-images/3577139198065942079.webp\"></p><p>Which of the following statements is/are true?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$L\\left(D_{1}\\right)=L\\left(D_{2}\\right)$</li><li>$L\\left(D_{1}\\right)$ is a proper subset of $L\\left(D_{2}\\right)$</li><li>$L\\left(D_{1}\\right) \\cap L\\left(D_{2}\\right)=\\{\\epsilon\\}$</li><li>$\\left(L\\left(D_{1}\\right) \\cup L\\left(D_{2}\\right)\\right)^{*}$ consists of all strings in $\\{0,1\\}^{*}$ whose length is divisible by $3$</li></ol></div>\n",
       "options": [
         "$L\\left(D_{1}\\right)=L\\left(D_{2}\\right)$",
         "$L\\left(D_{1}\\right)$ is a proper subset of $L\\left(D_{2}\\right)$",
@@ -2954,8 +2954,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/Gate_QA/question-images/15414905133934466426.webp\" width=\"530\"/></p>",
-      "rawQuestionHtml": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/Gate_QA/question-images/15414905133934466426.webp\" width=\"530\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>outputs the sum of the present and the previous bits of the input</li>\n<li>outputs $01$ whenever the input sequence contains $11$</li>\n<li>outputs $00$ whenever the input sequence contains $10$</li>\n<li>none of the above</li>\n</ol>",
+      "question": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/question-images/15414905133934466426.webp\" width=\"530\"/></p>",
+      "rawQuestionHtml": "<p>The finite state machine described by the following state diagram with $A$ as starting state, where an arc label is $x/y,$ and $x$ stands for $1$-bit input and $y$ stands for $2$-bit output</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"200\" src=\"/question-images/15414905133934466426.webp\" width=\"530\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>outputs the sum of the present and the previous bits of the input</li>\n<li>outputs $01$ whenever the input sequence contains $11$</li>\n<li>outputs $00$ whenever the input sequence contains $10$</li>\n<li>none of the above</li>\n</ol>",
       "options": [
         "outputs the sum of the present and the previous bits of the input",
         "outputs $01$ whenever the input sequence contains $11$",
@@ -3278,8 +3278,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following deterministic finite state automaton $M$.</p>\n<p><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/13745932056510180602.webp\" width=\"452\"/></p>\n<p>Let $S$ denote the set of seven bit binary strings in which the first, the fourth, and the last bits are $1$. The number of strings in $S$ that are accepted by $M$ is</p>",
-      "rawQuestionHtml": "<p>Consider the following deterministic finite state automaton $M$.</p>\n<p><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/13745932056510180602.webp\" width=\"452\"/></p>\n<p>Let $S$ denote the set of seven bit binary strings in which the first, the fourth, and the last bits are $1$. The number of strings in $S$ that are accepted by $M$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$5$</li>\n<li>$7$</li>\n<li>$8$</li>\n</ol>",
+      "question": "<p>Consider the following deterministic finite state automaton $M$.</p>\n<p><img alt=\"\" height=\"143\" src=\"/question-images/13745932056510180602.webp\" width=\"452\"/></p>\n<p>Let $S$ denote the set of seven bit binary strings in which the first, the fourth, and the last bits are $1$. The number of strings in $S$ that are accepted by $M$ is</p>",
+      "rawQuestionHtml": "<p>Consider the following deterministic finite state automaton $M$.</p>\n<p><img alt=\"\" height=\"143\" src=\"/question-images/13745932056510180602.webp\" width=\"452\"/></p>\n<p>Let $S$ denote the set of seven bit binary strings in which the first, the fourth, and the last bits are $1$. The number of strings in $S$ that are accepted by $M$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$5$</li>\n<li>$7$</li>\n<li>$8$</li>\n</ol>",
       "options": [
         "$1$",
         "$5$",
@@ -3548,8 +3548,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the NFA $M$ shown below.</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/9403429412565475414.webp\" width=\"318\"/></p>\n<p>Let the language accepted by $M$ be $L$<em>. </em>Let $L_1$<em> </em>be the language accepted by the NFA $M_1$ obtained by changing the accepting state of $M$ to a non-accepting state and by changing the non-accepting states of $M$ to accepting states. Which of the following statements is true?</p>",
-      "rawQuestionHtml": "<p>Consider the NFA $M$ shown below.</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/9403429412565475414.webp\" width=\"318\"/></p>\n<p>Let the language accepted by $M$ be $L$<em>. </em>Let $L_1$<em> </em>be the language accepted by the NFA $M_1$ obtained by changing the accepting state of $M$ to a non-accepting state and by changing the non-accepting states of $M$ to accepting states. Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_1 = \\{0,1\\}^*-L$</li>\n<li>$L_1 = \\{0,1\\}^*$</li>\n<li>$L_1 \\subseteq L$</li>\n<li>$L_1 = L$</li>\n</ol>",
+      "question": "<p>Consider the NFA $M$ shown below.</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/9403429412565475414.webp\" width=\"318\"/></p>\n<p>Let the language accepted by $M$ be $L$<em>. </em>Let $L_1$<em> </em>be the language accepted by the NFA $M_1$ obtained by changing the accepting state of $M$ to a non-accepting state and by changing the non-accepting states of $M$ to accepting states. Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>Consider the NFA $M$ shown below.</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/9403429412565475414.webp\" width=\"318\"/></p>\n<p>Let the language accepted by $M$ be $L$<em>. </em>Let $L_1$<em> </em>be the language accepted by the NFA $M_1$ obtained by changing the accepting state of $M$ to a non-accepting state and by changing the non-accepting states of $M$ to accepting states. Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_1 = \\{0,1\\}^*-L$</li>\n<li>$L_1 = \\{0,1\\}^*$</li>\n<li>$L_1 \\subseteq L$</li>\n<li>$L_1 = L$</li>\n</ol>",
       "options": [
         "$L_1 = \\{0,1\\}^*-L$",
         "$L_1 = \\{0,1\\}^*$",
@@ -3602,8 +3602,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>The following finite state machine accepts all those binary strings in which the number of $1$’s and $0$’s are respectively:</p>\n<p>     </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6974303844392939091.webp\"/></p>",
-      "rawQuestionHtml": "<p>The following finite state machine accepts all those binary strings in which the number of $1$’s and $0$’s are respectively:</p>\n<p>     </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6974303844392939091.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>divisible by $3$ and $2$</p>\n</li>\n<li>\n<p>odd and even</p>\n</li>\n<li>\n<p>even and odd</p>\n</li>\n<li>\n<p>divisible by $2$ and $3$</p>\n</li>\n</ol>",
+      "question": "<p>The following finite state machine accepts all those binary strings in which the number of $1$’s and $0$’s are respectively:</p>\n<p>     </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6974303844392939091.webp\"/></p>",
+      "rawQuestionHtml": "<p>The following finite state machine accepts all those binary strings in which the number of $1$’s and $0$’s are respectively:</p>\n<p>     </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6974303844392939091.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>divisible by $3$ and $2$</p>\n</li>\n<li>\n<p>odd and even</p>\n</li>\n<li>\n<p>even and odd</p>\n</li>\n<li>\n<p>divisible by $2$ and $3$</p>\n</li>\n</ol>",
       "options": [
         "divisible by $3$ and $2$",
         "odd and even",
@@ -3818,8 +3818,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MTA",
-      "question": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>",
-      "rawQuestionHtml": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ contains the substring ‘$abb$’} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ does not contain ‘$aa$’ as a substring} \\right\\}$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ contains the substring ‘$abb$’} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ does not contain ‘$aa$’ as a substring} \\right\\}$</p>\n</li>\n</ol>",
       "options": [
         "$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$",
         "$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$",
@@ -4574,8 +4574,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following Finite State Automaton:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/8133325067130589508.webp\" width=\"381\"/></p>\n<p>The language accepted by this automaton is given by the regular expression</p>",
-      "rawQuestionHtml": "<p>Consider the following Finite State Automaton:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/8133325067130589508.webp\" width=\"381\"/></p>\n<p>The language accepted by this automaton is given by the regular expression</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$b^*ab^*ab^*ab^*$</p>\n</li>\n<li>\n<p>$(a + b)^*$</p>\n</li>\n<li>\n<p>$b^*a(a+b)^*$</p>\n</li>\n<li>\n<p>$b^*ab^*ab^*$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the following Finite State Automaton:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"211\" src=\"/question-images/8133325067130589508.webp\" width=\"381\"/></p>\n<p>The language accepted by this automaton is given by the regular expression</p>",
+      "rawQuestionHtml": "<p>Consider the following Finite State Automaton:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"211\" src=\"/question-images/8133325067130589508.webp\" width=\"381\"/></p>\n<p>The language accepted by this automaton is given by the regular expression</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$b^*ab^*ab^*ab^*$</p>\n</li>\n<li>\n<p>$(a + b)^*$</p>\n</li>\n<li>\n<p>$b^*a(a+b)^*$</p>\n</li>\n<li>\n<p>$b^*ab^*ab^*$</p>\n</li>\n</ol>",
       "options": [
         "$b^*ab^*ab^*ab^*$",
         "$(a + b)^*$",
@@ -4628,8 +4628,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following Finite State Automaton:</p>\n<p><img alt=\"\" height=\"259\" src=\"/Gate_QA/question-images/17526125027862746856.webp\" width=\"466\"/></p>\n<p>The minimum state automaton equivalent to the above FSA has the following number of states:</p>",
-      "rawQuestionHtml": "<p>Consider the following Finite State Automaton:</p>\n<p><img alt=\"\" height=\"259\" src=\"/Gate_QA/question-images/17526125027862746856.webp\" width=\"466\"/></p>\n<p>The minimum state automaton equivalent to the above FSA has the following number of states:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n</ol>",
+      "question": "<p>Consider the following Finite State Automaton:</p>\n<p><img alt=\"\" height=\"259\" src=\"/question-images/17526125027862746856.webp\" width=\"466\"/></p>\n<p>The minimum state automaton equivalent to the above FSA has the following number of states:</p>",
+      "rawQuestionHtml": "<p>Consider the following Finite State Automaton:</p>\n<p><img alt=\"\" height=\"259\" src=\"/question-images/17526125027862746856.webp\" width=\"466\"/></p>\n<p>The minimum state automaton equivalent to the above FSA has the following number of states:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n</ol>",
       "options": [
         "$1$",
         "$2$",
@@ -5006,8 +5006,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Match the following NFAs with the regular expressions they correspond to:</p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"212\" src=\"/Gate_QA/question-images/4325200124037004241.webp\" width=\"280\"/>\n<figcaption>P</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/11022427026894037828.webp\" width=\"280\"/>\n<figcaption>Q</figcaption>\n</figure>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"238\" src=\"/Gate_QA/question-images/11863297163847387465.webp\" width=\"280\"/>\n<figcaption>R</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/1486304937676398988.webp\" width=\"280\"/>\n<figcaption>S</figcaption>\n</figure>\n<p> </p>",
-      "rawQuestionHtml": "<p>Match the following NFAs with the regular expressions they correspond to:</p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"212\" src=\"/Gate_QA/question-images/4325200124037004241.webp\" width=\"280\"/>\n<figcaption>P</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/11022427026894037828.webp\" width=\"280\"/>\n<figcaption>Q</figcaption>\n</figure>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"238\" src=\"/Gate_QA/question-images/11863297163847387465.webp\" width=\"280\"/>\n<figcaption>R</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/1486304937676398988.webp\" width=\"280\"/>\n<figcaption>S</figcaption>\n</figure>\n<p> </p>\n<ol style=\"list-style-type:decimal\">\n<li>\n<p>$\\epsilon + 0\\left(01^*1+00\\right)^*01^*$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+00\\right)^*0$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+10\\right)^*1$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+10\\right)^*10^*$</p>\n</li>\n</ol>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P-2, Q-1, R-3, S-4$</li>\n<li>$P-1, Q-3, R-2, S-4$</li>\n<li>$P-1, Q-2, R-3, S-4$</li>\n<li>$P-3, Q-2, R-1, S-4$</li>\n</ol>",
+      "question": "<p>Match the following NFAs with the regular expressions they correspond to:</p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"212\" src=\"/question-images/4325200124037004241.webp\" width=\"280\"/>\n<figcaption>P</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"217\" src=\"/question-images/11022427026894037828.webp\" width=\"280\"/>\n<figcaption>Q</figcaption>\n</figure>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"238\" src=\"/question-images/11863297163847387465.webp\" width=\"280\"/>\n<figcaption>R</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"235\" src=\"/question-images/1486304937676398988.webp\" width=\"280\"/>\n<figcaption>S</figcaption>\n</figure>\n<p> </p>",
+      "rawQuestionHtml": "<p>Match the following NFAs with the regular expressions they correspond to:</p>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"212\" src=\"/question-images/4325200124037004241.webp\" width=\"280\"/>\n<figcaption>P</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"217\" src=\"/question-images/11022427026894037828.webp\" width=\"280\"/>\n<figcaption>Q</figcaption>\n</figure>\n<figure class=\"image\" style=\"float:left\"><img alt=\"\" height=\"238\" src=\"/question-images/11863297163847387465.webp\" width=\"280\"/>\n<figcaption>R</figcaption>\n</figure>\n<figure class=\"image\"><img alt=\"\" height=\"235\" src=\"/question-images/1486304937676398988.webp\" width=\"280\"/>\n<figcaption>S</figcaption>\n</figure>\n<p> </p>\n<ol style=\"list-style-type:decimal\">\n<li>\n<p>$\\epsilon + 0\\left(01^*1+00\\right)^*01^*$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+00\\right)^*0$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+10\\right)^*1$</p>\n</li>\n<li>\n<p>$\\epsilon + 0\\left(10^*1+10\\right)^*10^*$</p>\n</li>\n</ol>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$P-2, Q-1, R-3, S-4$</li>\n<li>$P-1, Q-3, R-2, S-4$</li>\n<li>$P-1, Q-2, R-3, S-4$</li>\n<li>$P-3, Q-2, R-1, S-4$</li>\n</ol>",
       "options": [
         "$P-2, Q-1, R-3, S-4$",
         "$P-1, Q-3, R-2, S-4$",
@@ -5438,8 +5438,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/7655306340652572110.webp\" width=\"380\"/></p>\n<p>The above DFA accepts the set of all strings over $\\{0,1\\}$ that </p>",
-      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"169\" src=\"/Gate_QA/question-images/7655306340652572110.webp\" width=\"380\"/></p>\n<p>The above DFA accepts the set of all strings over $\\{0,1\\}$ that </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>begin either with $0$ or $1$.</p>\n</li>\n<li>\n<p>end with $0$.</p>\n</li>\n<li>\n<p>end with $00$.</p>\n</li>\n<li>\n<p>contain the substring $00$.</p>\n</li>\n</ol>",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"169\" src=\"/question-images/7655306340652572110.webp\" width=\"380\"/></p>\n<p>The above DFA accepts the set of all strings over $\\{0,1\\}$ that </p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"169\" src=\"/question-images/7655306340652572110.webp\" width=\"380\"/></p>\n<p>The above DFA accepts the set of all strings over $\\{0,1\\}$ that </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>begin either with $0$ or $1$.</p>\n</li>\n<li>\n<p>end with $0$.</p>\n</li>\n<li>\n<p>end with $00$.</p>\n</li>\n<li>\n<p>contain the substring $00$.</p>\n</li>\n</ol>",
       "options": [
         "begin either with $0$ or $1$.",
         "end with $0$.",
@@ -5924,34 +5924,34 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>",
-      "rawQuestionHtml": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/></li>\n<li><br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/></li>\n<li><br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/></li>\n<li><br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/></li>\n</ol>",
+      "question": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>",
+      "rawQuestionHtml": "<p>A deterministic finite automaton ($\\text{DFA}$) $D$ with alphabet $\\Sigma = \\{a, b\\}$ is given below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/3763689135781727335.webp\" width=\"332\"/></p>\n<p>Which of the following finite state machines is a valid minimal $\\text{DFA}$ which accepts the same languages as $D$?</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"283\" src=\"/question-images/987606866584355172.webp\" width=\"350\"/></li>\n<li><br/>\n<img alt=\"\" height=\"286\" src=\"/question-images/15130152845908156620.webp\" width=\"355\"/></li>\n<li><br/>\n<img alt=\"\" height=\"211\" src=\"/question-images/15547281930394298634.webp\" width=\"371\"/></li>\n<li><br/>\n<img alt=\"\" height=\"302\" src=\"/question-images/15073725474084923624.webp\" width=\"251\"/></li>\n</ol>",
       "options": [
-        "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>",
-        "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>",
-        "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>",
-        "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>"
+        "<br/>\n<img alt=\"\" height=\"283\" src=\"/question-images/987606866584355172.webp\" width=\"350\"/>",
+        "<br/>\n<img alt=\"\" height=\"286\" src=\"/question-images/15130152845908156620.webp\" width=\"355\"/>",
+        "<br/>\n<img alt=\"\" height=\"211\" src=\"/question-images/15547281930394298634.webp\" width=\"371\"/>",
+        "<br/>\n<img alt=\"\" height=\"302\" src=\"/question-images/15073725474084923624.webp\" width=\"251\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"283\" src=\"/Gate_QA/question-images/987606866584355172.webp\" width=\"350\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"283\" src=\"/question-images/987606866584355172.webp\" width=\"350\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"283\" src=\"/question-images/987606866584355172.webp\" width=\"350\"/>"
         },
         {
           "label": "B",
-          "text": "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/15130152845908156620.webp\" width=\"355\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"286\" src=\"/question-images/15130152845908156620.webp\" width=\"355\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"286\" src=\"/question-images/15130152845908156620.webp\" width=\"355\"/>"
         },
         {
           "label": "C",
-          "text": "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/15547281930394298634.webp\" width=\"371\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"211\" src=\"/question-images/15547281930394298634.webp\" width=\"371\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"211\" src=\"/question-images/15547281930394298634.webp\" width=\"371\"/>"
         },
         {
           "label": "D",
-          "text": "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"302\" src=\"/Gate_QA/question-images/15073725474084923624.webp\" width=\"251\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"302\" src=\"/question-images/15073725474084923624.webp\" width=\"251\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"302\" src=\"/question-images/15073725474084923624.webp\" width=\"251\"/>"
         }
       ],
       "answer": [
@@ -6032,8 +6032,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>What is the complement of the language accepted by the NFA shown below?<br/>\nAssume $\\Sigma = \\{a\\}$ and $\\epsilon$ is the empty string.<br/>\n<a href=\"http://gatecse.in/w/images/c/c5/2012_12.png\" target=\"_blank\"><img alt=\"\" height=\"179\" src=\"http://gatecse.in/w/images/c/c5/2012_12.png\" width=\"639\"/></a></p>",
-      "rawQuestionHtml": "<p>What is the complement of the language accepted by the NFA shown below?<br/>\nAssume $\\Sigma = \\{a\\}$ and $\\epsilon$ is the empty string.<br/>\n<a href=\"http://gatecse.in/w/images/c/c5/2012_12.png\" target=\"_blank\"><img alt=\"\" height=\"179\" src=\"http://gatecse.in/w/images/c/c5/2012_12.png\" width=\"639\"/></a></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\phi$</li>\n<li>$\\{\\epsilon\\}$</li>\n<li>$a^*$</li>\n<li>$\\{a , \\epsilon\\}$</li>\n</ol>",
+      "question": "<p>What is the complement of the language accepted by the NFA shown below?<br/>\nAssume $\\Sigma = \\{a\\}$ and $\\epsilon$ is the empty string.<br/>\n<a href=\"http://gatecse.in/w//images/c/c5/2012_12.png\" target=\"_blank\"><img alt=\"\" height=\"179\" src=\"http://gatecse.in/w//images/c/c5/2012_12.png\" width=\"639\"/></a></p>",
+      "rawQuestionHtml": "<p>What is the complement of the language accepted by the NFA shown below?<br/>\nAssume $\\Sigma = \\{a\\}$ and $\\epsilon$ is the empty string.<br/>\n<a href=\"http://gatecse.in/w//images/c/c5/2012_12.png\" target=\"_blank\"><img alt=\"\" height=\"179\" src=\"http://gatecse.in/w//images/c/c5/2012_12.png\" width=\"639\"/></a></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\phi$</li>\n<li>$\\{\\epsilon\\}$</li>\n<li>$a^*$</li>\n<li>$\\{a , \\epsilon\\}$</li>\n</ol>",
       "options": [
         "$\\phi$",
         "$\\{\\epsilon\\}$",
@@ -6194,8 +6194,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the set of strings on $\\{0,1\\}$ in which, <em>every substring of </em>$3$<em> symbols</em> has at most <em>two</em> zeros. For example, $001110$ and $011001$ are in the language, but $100010$ is not. All strings of length less than $3$ are also in the language. A partially completed DFA that accepts this language is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3453856198234702896.webp\" width=\"360\"/></p>\n<p>The missing arcs in the DFA are:</p>",
-      "rawQuestionHtml": "<p>Consider the set of strings on $\\{0,1\\}$ in which, <em>every substring of </em>$3$<em> symbols</em> has at most <em>two</em> zeros. For example, $001110$ and $011001$ are in the language, but $100010$ is not. All strings of length less than $3$ are also in the language. A partially completed DFA that accepts this language is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3453856198234702896.webp\" width=\"360\"/></p>\n<p>The missing arcs in the DFA are:</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{1} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{1} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{0} &amp; \\text{} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{1}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{0} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{0}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{0}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{1} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{0} &amp; \\text{} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n</ol>",
+      "question": "<p>Consider the set of strings on $\\{0,1\\}$ in which, <em>every substring of </em>$3$<em> symbols</em> has at most <em>two</em> zeros. For example, $001110$ and $011001$ are in the language, but $100010$ is not. All strings of length less than $3$ are also in the language. A partially completed DFA that accepts this language is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3453856198234702896.webp\" width=\"360\"/></p>\n<p>The missing arcs in the DFA are:</p>",
+      "rawQuestionHtml": "<p>Consider the set of strings on $\\{0,1\\}$ in which, <em>every substring of </em>$3$<em> symbols</em> has at most <em>two</em> zeros. For example, $001110$ and $011001$ are in the language, but $100010$ is not. All strings of length less than $3$ are also in the language. A partially completed DFA that accepts this language is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3453856198234702896.webp\" width=\"360\"/></p>\n<p>The missing arcs in the DFA are:</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{1} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{1} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{0} &amp; \\text{} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{1}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{0} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{0}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{0} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{}  &amp;  \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp;  \\textbf{11} &amp; \\textbf{q}  \\\\\\hline  \\textbf{00}  &amp;  \\text{} &amp; \\text{1} &amp; \\text{}&amp;  \\text{} &amp; \\text{0}  \\\\\\hline   \\textbf{01}  &amp;  \\text{} &amp; \\text{} &amp; \\text{}&amp;  \\text{1} &amp; \\text{}  \\\\\\hline  \\textbf{10}  &amp;  \\text{0} &amp; \\text{} &amp; \\text{}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\textbf{11}  &amp;  \\text{} &amp; \\text{} &amp; \\text{0}&amp;  \\text{} &amp; \\text{}  \\\\\\hline  \\end{array}$</li>\n</ol>",
       "options": [
         "$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{} &amp; \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp; \\textbf{11} &amp; \\textbf{q} \\\\\\hline \\textbf{00} &amp; \\text{1} &amp; \\text{0} &amp; \\text{}&amp; \\text{} &amp; \\text{} \\\\\\hline \\textbf{01} &amp; \\text{} &amp; \\text{} &amp; \\text{}&amp; \\text{1} &amp; \\text{} \\\\\\hline \\textbf{10} &amp; \\text{0} &amp; \\text{} &amp; \\text{}&amp; \\text{} &amp; \\text{} \\\\\\hline \\textbf{11} &amp; \\text{} &amp; \\text{} &amp; \\text{0}&amp; \\text{} &amp; \\text{} \\\\\\hline \\end{array}$",
         "$\\begin{array}{|l|l|l|l|l|l|}\\hline \\textbf{} &amp; \\textbf{00} &amp; \\textbf{01} &amp; \\textbf{10}&amp; \\textbf{11} &amp; \\textbf{q} \\\\\\hline \\textbf{00} &amp; \\text{} &amp; \\text{0} &amp; \\text{}&amp; \\text{} &amp; \\text{1} \\\\\\hline \\textbf{01} &amp; \\text{} &amp; \\text{1} &amp; \\text{}&amp; \\text{} &amp; \\text{} \\\\\\hline \\textbf{10} &amp; \\text{} &amp; \\text{} &amp; \\text{}&amp; \\text{0} &amp; \\text{} \\\\\\hline \\textbf{11} &amp; \\text{} &amp; \\text{0} &amp; \\text{}&amp; \\text{} &amp; \\text{} \\\\\\hline \\end{array}$",
@@ -6464,8 +6464,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the DFA $A$ given below.</p>\n<p><img alt=\"\" height=\"274\" src=\"/Gate_QA/question-images/3775235828762208016.webp\" width=\"230\"/></p>\n<p> </p>\n<p>Which of the following are <strong>FALSE</strong>?</p>",
-      "rawQuestionHtml": "<p>Consider the DFA $A$ given below.</p>\n<p><img alt=\"\" height=\"274\" src=\"/Gate_QA/question-images/3775235828762208016.webp\" width=\"230\"/></p>\n<p> </p>\n<p>Which of the following are <strong>FALSE</strong>?</p>\n<ol>\n<li>Complement of $L(A)$ is context-free.</li>\n<li>$L(A) = L((11^*0+0)(0 + 1)^*0^*1^*) $</li>\n<li>For the language accepted by $A, A$ is the minimal DFA.</li>\n<li>$A$ accepts all strings over $\\{0, 1\\}$ of length at least $2$.</li>\n</ol>\n<ol style=\"list-style-type:upper-alpha\">\n<li>1 and 3 only</li>\n<li>2 and 4 only</li>\n<li>2 and 3 only</li>\n<li>3 and 4 only</li>\n</ol>",
+      "question": "<p>Consider the DFA $A$ given below.</p>\n<p><img alt=\"\" height=\"274\" src=\"/question-images/3775235828762208016.webp\" width=\"230\"/></p>\n<p> </p>\n<p>Which of the following are <strong>FALSE</strong>?</p>",
+      "rawQuestionHtml": "<p>Consider the DFA $A$ given below.</p>\n<p><img alt=\"\" height=\"274\" src=\"/question-images/3775235828762208016.webp\" width=\"230\"/></p>\n<p> </p>\n<p>Which of the following are <strong>FALSE</strong>?</p>\n<ol>\n<li>Complement of $L(A)$ is context-free.</li>\n<li>$L(A) = L((11^*0+0)(0 + 1)^*0^*1^*) $</li>\n<li>For the language accepted by $A, A$ is the minimal DFA.</li>\n<li>$A$ accepts all strings over $\\{0, 1\\}$ of length at least $2$.</li>\n</ol>\n<ol style=\"list-style-type:upper-alpha\">\n<li>1 and 3 only</li>\n<li>2 and 4 only</li>\n<li>2 and 3 only</li>\n<li>3 and 4 only</li>\n</ol>",
       "options": [
         "1 and 3 only",
         "2 and 4 only",
@@ -6626,8 +6626,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>",
-      "rawQuestionHtml": "<a name=\"1782\"></a><div itemprop=\"text\"><p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{q_0,q_1,q_2\\}$</li>\n<li>$\\{q_0,q_1\\}$</li>\n<li>$\\{q_0,q_1,q_2,q_3\\}$</li>\n<li>$\\{q_3\\}$</li>\n</ol></div>",
+      "question": "<p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>",
+      "rawQuestionHtml": "<a name=\"1782\"></a><div itemprop=\"text\"><p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{q_0,q_1,q_2\\}$</li>\n<li>$\\{q_0,q_1\\}$</li>\n<li>$\\{q_0,q_1,q_2,q_3\\}$</li>\n<li>$\\{q_3\\}$</li>\n</ol></div>",
       "options": [
         "$\\{q_0,q_1,q_2\\}$",
         "$\\{q_0,q_1\\}$",
@@ -6734,8 +6734,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/Gate_QA/question-images/12781742856226767013.webp\" width=\"286\"></p>",
-      "rawQuestionHtml": "<a name=\"1914\"></a><div itemprop=\"text\"><p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/Gate_QA/question-images/12781742856226767013.webp\" width=\"286\"></p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>$0^*1(1+00^*1)^* $</li>\n\t<li>$0^*1^*1+11^*0^*1 $</li>\n\t<li>$(0+1)^*1$</li>\n</ol>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>I and II only</li>\n\t<li>I and III only</li>\n\t<li>II and III only</li>\n\t<li>I, II and III</li>\n</ol></div>",
+      "question": "<p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/question-images/12781742856226767013.webp\" width=\"286\"></p>",
+      "rawQuestionHtml": "<a name=\"1914\"></a><div itemprop=\"text\"><p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/question-images/12781742856226767013.webp\" width=\"286\"></p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>$0^*1(1+00^*1)^* $</li>\n\t<li>$0^*1^*1+11^*0^*1 $</li>\n\t<li>$(0+1)^*1$</li>\n</ol>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>I and II only</li>\n\t<li>I and III only</li>\n\t<li>II and III only</li>\n\t<li>I, II and III</li>\n</ol></div>",
       "options": [
         "I and II only",
         "I and III only",
@@ -7304,8 +7304,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "MCQ",
-      "question": "<p>Consider the NPDA $$ \\left \\langle Q= \\left \\{ q_{0}, q_{1}, q_{2} \\right \\},\\Sigma = \\left \\{ 0, 1 \\right \\}, \\Gamma = \\left \\{ 0, 1, \\perp  \\right \\}, \\delta, q_{0}, \\perp, F =\\left \\{ q_{2} \\right \\} \\right \\rangle $$, where (as per usual convention) $Q$ is the set of states, $\\Sigma$ is the input alphabet, $\\Gamma $ is the stack alphabet, $\\delta $ is the state transition function $q_{0}$ is the initial state, $\\perp $ is the initial stack symbol, and $F$ is the set of accepting states. The state transition is as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/11880831459129988435.webp\" width=\"647\"/></p>\n<p>Which one of the following sequences must follow the string $101100$ so that the overall string is accepted by the automaton?</p>",
-      "rawQuestionHtml": "<p>Consider the NPDA $$ \\left \\langle Q= \\left \\{ q_{0}, q_{1}, q_{2} \\right \\},\\Sigma = \\left \\{ 0, 1 \\right \\}, \\Gamma = \\left \\{ 0, 1, \\perp  \\right \\}, \\delta, q_{0}, \\perp, F =\\left \\{ q_{2} \\right \\} \\right \\rangle $$, where (as per usual convention) $Q$ is the set of states, $\\Sigma$ is the input alphabet, $\\Gamma $ is the stack alphabet, $\\delta $ is the state transition function $q_{0}$ is the initial state, $\\perp $ is the initial stack symbol, and $F$ is the set of accepting states. The state transition is as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/Gate_QA/question-images/11880831459129988435.webp\" width=\"647\"/></p>\n<p>Which one of the following sequences must follow the string $101100$ so that the overall string is accepted by the automaton?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$10110$</li>\n<li>$10010$</li>\n<li>$01010$</li>\n<li>$01001$</li>\n</ol>",
+      "question": "<p>Consider the NPDA $$ \\left \\langle Q= \\left \\{ q_{0}, q_{1}, q_{2} \\right \\},\\Sigma = \\left \\{ 0, 1 \\right \\}, \\Gamma = \\left \\{ 0, 1, \\perp  \\right \\}, \\delta, q_{0}, \\perp, F =\\left \\{ q_{2} \\right \\} \\right \\rangle $$, where (as per usual convention) $Q$ is the set of states, $\\Sigma$ is the input alphabet, $\\Gamma $ is the stack alphabet, $\\delta $ is the state transition function $q_{0}$ is the initial state, $\\perp $ is the initial stack symbol, and $F$ is the set of accepting states. The state transition is as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/question-images/11880831459129988435.webp\" width=\"647\"/></p>\n<p>Which one of the following sequences must follow the string $101100$ so that the overall string is accepted by the automaton?</p>",
+      "rawQuestionHtml": "<p>Consider the NPDA $$ \\left \\langle Q= \\left \\{ q_{0}, q_{1}, q_{2} \\right \\},\\Sigma = \\left \\{ 0, 1 \\right \\}, \\Gamma = \\left \\{ 0, 1, \\perp  \\right \\}, \\delta, q_{0}, \\perp, F =\\left \\{ q_{2} \\right \\} \\right \\rangle $$, where (as per usual convention) $Q$ is the set of states, $\\Sigma$ is the input alphabet, $\\Gamma $ is the stack alphabet, $\\delta $ is the state transition function $q_{0}$ is the initial state, $\\perp $ is the initial stack symbol, and $F$ is the set of accepting states. The state transition is as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"216\" src=\"/question-images/11880831459129988435.webp\" width=\"647\"/></p>\n<p>Which one of the following sequences must follow the string $101100$ so that the overall string is accepted by the automaton?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$10110$</li>\n<li>$10010$</li>\n<li>$01010$</li>\n<li>$01001$</li>\n</ol>",
       "options": [
         "$10110$",
         "$10010$",
@@ -7358,8 +7358,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "NAT",
-      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/6430491565771147609.webp\"/></p>\n<p>Consider the DFAs $M$ and $N$ given above. The number of states in a minimal DFA that accept the language $L(M) \\cap L(N)$ is_____________.</p>",
-      "rawQuestionHtml": "<p><img alt=\"\" src=\"/Gate_QA/question-images/6430491565771147609.webp\"/></p>\n<p>Consider the DFAs $M$ and $N$ given above. The number of states in a minimal DFA that accept the language $L(M) \\cap L(N)$ is_____________.</p>",
+      "question": "<p><img alt=\"\" src=\"/question-images/6430491565771147609.webp\"/></p>\n<p>Consider the DFAs $M$ and $N$ given above. The number of states in a minimal DFA that accept the language $L(M) \\cap L(N)$ is_____________.</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" src=\"/question-images/6430491565771147609.webp\"/></p>\n<p>Consider the DFAs $M$ and $N$ given above. The number of states in a minimal DFA that accept the language $L(M) \\cap L(N)$ is_____________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -7958,8 +7958,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "MCQ",
-      "question": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>",
-      "rawQuestionHtml": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA </li>\n<li>$L$ is not accepted by any Turing machine that halts on every input </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is deterministic context-free</li>\n</ol>",
+      "question": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>",
+      "rawQuestionHtml": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA </li>\n<li>$L$ is not accepted by any Turing machine that halts on every input </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is deterministic context-free</li>\n</ol>",
       "options": [
         "$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata",
         "$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA",
@@ -9182,8 +9182,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "NAT",
-      "question": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/Gate_QA/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
-      "rawQuestionHtml": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/Gate_QA/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
+      "question": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
+      "rawQuestionHtml": "<p>Given a language $L$, define $L^i$ as follows:$$L^0 = \\{ \\varepsilon \\}$$$$L^i = L^{i-1}  \\bullet L \\text{ for all } I &gt;0$$The order of a language $L$ is defined as the smallest $k$ such that $L^k = L^{k+1}$. Consider the language $L_1 ($over alphabet $0)$ accepted by the following automaton.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"120\" src=\"/question-images/7430706953323092684.webp\" width=\"343\"/></p>\n<p>The order of $L_1$ is ________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -9867,33 +9867,33 @@
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
       "question": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>",
-      "rawQuestionHtml": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/></li>\n<li><img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/></li>\n<li><img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/></li>\n<li><img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/></li>\n<li><img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/></li>\n<li><img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/></li>\n<li><img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>",
-        "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>",
-        "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>",
-        "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>"
+        "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>",
+        "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>",
+        "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>",
+        "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>",
-          "html": "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>"
+          "text": "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>",
+          "html": "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>",
-          "html": "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>"
+          "text": "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>",
+          "html": "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>",
-          "html": "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>"
+          "text": "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>",
+          "html": "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>",
-          "html": "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>"
+          "text": "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>",
+          "html": "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>"
         }
       ],
       "answer": [
@@ -9974,8 +9974,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "NAT",
-      "question": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/Gate_QA/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
-      "rawQuestionHtml": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/Gate_QA/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
+      "question": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
+      "rawQuestionHtml": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -10114,8 +10114,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "NAT",
-      "question": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
-      "rawQuestionHtml": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
+      "question": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
+      "rawQuestionHtml": "<p>Consider the following deterministic finite automaton $\\text{(DFA)}$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"248\" src=\"/question-images/1013726315416793083.webp\" width=\"471\"/></p>\n<p>The number of strings of length $8$ accepted by the above automaton is  ___________</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -10364,8 +10364,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Which one of the following regular expressions correctly represents the language of the finite automaton given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4131899029263753966.webp\" width=\"400\"/></p>",
-      "rawQuestionHtml": "<p>Which one of the following regular expressions correctly represents the language of the finite automaton given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4131899029263753966.webp\" width=\"400\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$ab^{\\ast}bab^{\\ast} + ba^{\\ast}aba^{\\ast}$</li>\n<li>$(ab^{\\ast}b)^{\\ast}ab^{\\ast} + (ba^{\\ast}a)^{\\ast} ba^{\\ast}$</li>\n<li>$(ab^{\\ast}b + ba^{\\ast}a)^{\\ast} (a^{\\ast} + b^{\\ast})$</li>\n<li>$(ba^{\\ast}a + ab^{\\ast}b)^{\\ast} (ab^{\\ast} + ba^{\\ast})$</li>\n</ol>",
+      "question": "<p>Which one of the following regular expressions correctly represents the language of the finite automaton given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4131899029263753966.webp\" width=\"400\"/></p>",
+      "rawQuestionHtml": "<p>Which one of the following regular expressions correctly represents the language of the finite automaton given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4131899029263753966.webp\" width=\"400\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$ab^{\\ast}bab^{\\ast} + ba^{\\ast}aba^{\\ast}$</li>\n<li>$(ab^{\\ast}b)^{\\ast}ab^{\\ast} + (ba^{\\ast}a)^{\\ast} ba^{\\ast}$</li>\n<li>$(ab^{\\ast}b + ba^{\\ast}a)^{\\ast} (a^{\\ast} + b^{\\ast})$</li>\n<li>$(ba^{\\ast}a + ab^{\\ast}b)^{\\ast} (ab^{\\ast} + ba^{\\ast})$</li>\n</ol>",
       "options": [
         "$ab^{\\ast}bab^{\\ast} + ba^{\\ast}aba^{\\ast}$",
         "$(ab^{\\ast}b)^{\\ast}ab^{\\ast} + (ba^{\\ast}a)^{\\ast} ba^{\\ast}$",
@@ -10642,8 +10642,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>",
-      "rawQuestionHtml": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1\\left(0^{*} 11\\right)^{*}$</li>\n<li>$0(0+1)^{*}$</li>\n<li>$1(0+11)^{*}$</li>\n<li>$1\\left(110^{*}\\right)^{*}$</li>\n</ol>",
+      "question": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>",
+      "rawQuestionHtml": "<p>Consider the Deterministic Finite-state Automaton ($\\text{DFA}$) $\\mathcal{A}$ shown below. The $\\text{DFA}$ runs on the alphabet $\\{0,1\\}$, and has the set of states $\\{s, p, q, r\\}$, with $s$ being the start state and $p$ being the only final state.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/5408100453004079774.webp\" width=\"300\"/></p>\n<p>Which one of the following regular expressions correctly describes the language accepted by $\\mathcal{A}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1\\left(0^{*} 11\\right)^{*}$</li>\n<li>$0(0+1)^{*}$</li>\n<li>$1(0+11)^{*}$</li>\n<li>$1\\left(110^{*}\\right)^{*}$</li>\n</ol>",
       "options": [
         "$1\\left(0^{*} 11\\right)^{*}$",
         "$0(0+1)^{*}$",
@@ -10697,33 +10697,33 @@
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
       "question": "<p>Consider the following definition of a lexical token $\\textbf{id}$ for an identifier in a programming language, using extended regular expressions:<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\n\\textbf{ letter } &amp; \\rightarrow[\\mathrm{A}-\\mathrm{Za}-\\mathrm{z}] \\\\<br/>\n\\textbf{ digit } &amp; \\rightarrow[0-9] \\\\<br/>\n\\textbf{ id } &amp; \\rightarrow \\textbf{ letter }(\\textbf{ letter } \\mid \\textbf{ digit })^{*}<br/>\n\\end{array}<br/>\n\\]<br/>\nWhich one of the following Non-deterministic Finite-state Automata with $\\epsilon$-transitions accepts the set of valid identifiers? (A double-circle denotes a final state)</p>",
-      "rawQuestionHtml": "<p>Consider the following definition of a lexical token $\\textbf{id}$ for an identifier in a programming language, using extended regular expressions:<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\n\\textbf{ letter } &amp; \\rightarrow[\\mathrm{A}-\\mathrm{Za}-\\mathrm{z}] \\\\<br/>\n\\textbf{ digit } &amp; \\rightarrow[0-9] \\\\<br/>\n\\textbf{ id } &amp; \\rightarrow \\textbf{ letter }(\\textbf{ letter } \\mid \\textbf{ digit })^{*}<br/>\n\\end{array}<br/>\n\\]<br/>\nWhich one of the following Non-deterministic Finite-state Automata with $\\epsilon$-transitions accepts the set of valid identifiers? (A double-circle denotes a final state)</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/></li>\n<li>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>\n</li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the following definition of a lexical token $\\textbf{id}$ for an identifier in a programming language, using extended regular expressions:<br/>\n\\[<br/>\n\\begin{array}{ll}<br/>\n\\textbf{ letter } &amp; \\rightarrow[\\mathrm{A}-\\mathrm{Za}-\\mathrm{z}] \\\\<br/>\n\\textbf{ digit } &amp; \\rightarrow[0-9] \\\\<br/>\n\\textbf{ id } &amp; \\rightarrow \\textbf{ letter }(\\textbf{ letter } \\mid \\textbf{ digit })^{*}<br/>\n\\end{array}<br/>\n\\]<br/>\nWhich one of the following Non-deterministic Finite-state Automata with $\\epsilon$-transitions accepts the set of valid identifiers? (A double-circle denotes a final state)</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/question-images/9212059895195185961.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/question-images/8335331275465812477.webp\" width=\"300\"/></li>\n<li><img alt=\"\" src=\"/question-images/18095018196348250492.webp\" width=\"300\"/></li>\n<li>\n<p><img alt=\"\" src=\"/question-images/4402797587237264827.webp\" width=\"300\"/></p>\n</li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>",
-        "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
+        "<img alt=\"\" src=\"/question-images/9212059895195185961.webp\" width=\"300\"/>",
+        "<img alt=\"\" src=\"/question-images/8335331275465812477.webp\" width=\"300\"/>",
+        "<img alt=\"\" src=\"/question-images/18095018196348250492.webp\" width=\"300\"/>",
+        "<p><img alt=\"\" src=\"/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/9212059895195185961.webp\" width=\"300\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/9212059895195185961.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/9212059895195185961.webp\" width=\"300\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8335331275465812477.webp\" width=\"300\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/8335331275465812477.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/8335331275465812477.webp\" width=\"300\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/18095018196348250492.webp\" width=\"300\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/18095018196348250492.webp\" width=\"300\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/18095018196348250492.webp\" width=\"300\"/>"
         },
         {
           "label": "D",
-          "text": "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>",
-          "html": "<p><img alt=\"\" src=\"/Gate_QA/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
+          "text": "<p><img alt=\"\" src=\"/question-images/4402797587237264827.webp\" width=\"300\"/></p>",
+          "html": "<p><img alt=\"\" src=\"/question-images/4402797587237264827.webp\" width=\"300\"/></p>"
         }
       ],
       "answer": [
@@ -10860,8 +10860,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "MCQ",
-      "question": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/Gate_QA/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>",
-      "rawQuestionHtml": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/Gate_QA/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$</li>\n<li>$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$</li>\n</ol>",
+      "question": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>",
+      "rawQuestionHtml": "<p>Consider the pushdown automaton $\\text{(PDA)}\\;P$ below, which runs on the input alphabet $\\{a, b\\}$, has stack alphabet $\\{\\perp, A\\}$, and has three states $\\{s, p, q\\}$, with $s$ being the start state. A transition from state $u$ to state $v$, labelled $c / X / \\gamma$, where $c$ is an input symbol or $\\epsilon, X$ is a stack symbol, and $\\gamma$ is a string of stack symbols, represents the fact that in state $u$, the $\\text{(PDA)}$ can read $c$ from the input, with $X$ on the top of its stack, pop $X$ from the stack, push in the string $\\gamma$ on the stack, and go to state $v$. In the initial configuration, the stack has only the symbol $\\perp$ in it. The $\\text{(PDA)}$ accepts by empty stack.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"190\" src=\"/question-images/3004737104252539339.webp\" width=\"183\"/></p>\n<p><br/>\nWhich one of the following options correctly describes the language accepted by $P ?$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$</li>\n<li>$\\left\\{a^{m} b^{n} \\mid 0 \\leq m\\right.$ and $\\left.0 \\leq n\\right\\}$</li>\n<li>$\\left\\{a^{m} \\mid 0 \\leq m\\right\\} \\cup\\left\\{b^{n} \\mid 0 \\leq n\\right\\}$</li>\n</ol>",
       "options": [
         "$\\left\\{a^{m} b^{n} \\mid 1 \\leq m\\right.$ and $\\left.n \\lt m\\right\\}$",
         "$\\left\\{a^{m} b^{n} \\mid 0 \\leq n \\leq m\\right\\}$",
@@ -10999,8 +10999,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​Consider the $5$ -state $\\text{DFA}$. $M$ accepting the language $L(M) \\subset(0+1)^{*}$ shown below. For any string $w \\in(0+1)^*$ let $n_0(w)$ be the number of $0^{\\prime} s$ in $w$ and $n_1(w)$ be the number of 1 's in $w$.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7164837930598708497.webp\" width=\"400\"/></p>\n<p>Which of the following statements is/are FALSE?</p>\n</div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422802\"></a><div itemprop=\"text\"><p>​Consider the $5$ -state $\\text{DFA}$. $M$ accepting the language $L(M) \\subset(0+1)^{*}$ shown below. For any string $w \\in(0+1)^*$ let $n_0(w)$ be the number of $0^{\\prime} s$ in $w$ and $n_1(w)$ be the number of 1 's in $w$.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7164837930598708497.webp\" width=\"400\"/></p>\n<p>Which of the following statements is/are FALSE?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>States $2$ and $4$ are distinguishable in $M$</li>\n<li>States $3$ and $4$ are distinguishable in $M$</li>\n<li>States $2$ and $5$ are distinguishable in $M$</li>\n<li>Any string $w$ with $n_0(w)=n_1(w)$ is in $L(M)$ </li>\n</ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​Consider the $5$ -state $\\text{DFA}$. $M$ accepting the language $L(M) \\subset(0+1)^{*}$ shown below. For any string $w \\in(0+1)^*$ let $n_0(w)$ be the number of $0^{\\prime} s$ in $w$ and $n_1(w)$ be the number of 1 's in $w$.</p>\n<p><img alt=\"\" src=\"/question-images/7164837930598708497.webp\" width=\"400\"/></p>\n<p>Which of the following statements is/are FALSE?</p>\n</div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422802\"></a><div itemprop=\"text\"><p>​Consider the $5$ -state $\\text{DFA}$. $M$ accepting the language $L(M) \\subset(0+1)^{*}$ shown below. For any string $w \\in(0+1)^*$ let $n_0(w)$ be the number of $0^{\\prime} s$ in $w$ and $n_1(w)$ be the number of 1 's in $w$.</p>\n<p><img alt=\"\" src=\"/question-images/7164837930598708497.webp\" width=\"400\"/></p>\n<p>Which of the following statements is/are FALSE?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>States $2$ and $4$ are distinguishable in $M$</li>\n<li>States $3$ and $4$ are distinguishable in $M$</li>\n<li>States $2$ and $5$ are distinguishable in $M$</li>\n<li>Any string $w$ with $n_0(w)=n_1(w)$ is in $L(M)$ </li>\n</ol></div>\n</div>",
       "options": [
         "States $2$ and $4$ are distinguishable in $M$",
         "States $3$ and $4$ are distinguishable in $M$",
@@ -11084,8 +11084,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​​​​Which one of the following regular expressions is equivalent to the language accepted by the $\\text{DFA}$ given below?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/632397287260653815.webp\" width=\"450\"/></p>\n</div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422885\"></a><div itemprop=\"text\"><p>​​​​Which one of the following regular expressions is equivalent to the language accepted by the $\\text{DFA}$ given below?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/632397287260653815.webp\" width=\"450\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$0^{*} 1\\left(0+10^{*} 1\\right)^{*}$</li>\n<li>$0^{*}\\left(10^{*} 11\\right)^{*} 0^{*}$</li>\n<li>$0^{*} 1\\left(010^{*} 1\\right)^{*} 0^{*}$</li>\n<li>$0\\left(1+0^{*} 10^{*} 1\\right)^{*} 0^{*}$</li>\n</ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​​​​Which one of the following regular expressions is equivalent to the language accepted by the $\\text{DFA}$ given below?</p>\n<p><img alt=\"\" src=\"/question-images/632397287260653815.webp\" width=\"450\"/></p>\n</div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422885\"></a><div itemprop=\"text\"><p>​​​​Which one of the following regular expressions is equivalent to the language accepted by the $\\text{DFA}$ given below?</p>\n<p><img alt=\"\" src=\"/question-images/632397287260653815.webp\" width=\"450\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$0^{*} 1\\left(0+10^{*} 1\\right)^{*}$</li>\n<li>$0^{*}\\left(10^{*} 11\\right)^{*} 0^{*}$</li>\n<li>$0^{*} 1\\left(010^{*} 1\\right)^{*} 0^{*}$</li>\n<li>$0\\left(1+0^{*} 10^{*} 1\\right)^{*} 0^{*}$</li>\n</ol></div>\n</div>",
       "options": [
         "$0^{*} 1\\left(0+10^{*} 1\\right)^{*}$",
         "$0^{*}\\left(10^{*} 11\\right)^{*} 0^{*}$",
@@ -11138,8 +11138,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​​Let $\\text{M}$ be the $5$-state $\\text{NFA}$ with $\\epsilon$-transitions shown in the diagram below.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7258246672448653715.webp\" width=\"450\"/><br/>\nWhich one of the following regular expressions represents the language accepted by $\\text{M}$?</p>\n</div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422866\"></a><div itemprop=\"text\"><p>​​Let $\\text{M}$ be the $5$-state $\\text{NFA}$ with $\\epsilon$-transitions shown in the diagram below.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7258246672448653715.webp\" width=\"450\"/><br/>\nWhich one of the following regular expressions represents the language accepted by $\\text{M}$?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$(00)^{*}+1(11)^{*}$</li>\n<li>$0^{*}+\\left(1+0(00)^{*}\\right)(11)^{*}$</li>\n<li>$(00)^{*}+\\left(1+(00)^{*}\\right)(11)^{*}$</li>\n<li>$0^{+}+1(11)^{*}+0(11)^{*}$</li>\n</ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​​Let $\\text{M}$ be the $5$-state $\\text{NFA}$ with $\\epsilon$-transitions shown in the diagram below.</p>\n<p><img alt=\"\" src=\"/question-images/7258246672448653715.webp\" width=\"450\"/><br/>\nWhich one of the following regular expressions represents the language accepted by $\\text{M}$?</p>\n</div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422866\"></a><div itemprop=\"text\"><p>​​Let $\\text{M}$ be the $5$-state $\\text{NFA}$ with $\\epsilon$-transitions shown in the diagram below.</p>\n<p><img alt=\"\" src=\"/question-images/7258246672448653715.webp\" width=\"450\"/><br/>\nWhich one of the following regular expressions represents the language accepted by $\\text{M}$?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$(00)^{*}+1(11)^{*}$</li>\n<li>$0^{*}+\\left(1+0(00)^{*}\\right)(11)^{*}$</li>\n<li>$(00)^{*}+\\left(1+(00)^{*}\\right)(11)^{*}$</li>\n<li>$0^{+}+1(11)^{*}+0(11)^{*}$</li>\n</ol></div>\n</div>",
       "options": [
         "$(00)^{*}+1(11)^{*}$",
         "$0^{*}+\\left(1+0(00)^{*}\\right)(11)^{*}$",
@@ -11438,8 +11438,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the following deterministic finite automaton (DFA) defined over the alphabet, $\\Sigma=\\{a, b\\}$. Identify which of the following language(s) is/are accepted by the given DFA.</p><p style=\"text-align:center\"><img alt=\"DFA\" height=\"262\" src=\"/Gate_QA/question-images/7915045237449375950.webp\" width=\"600\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460040\"></a><div itemprop=\"text\"><p>Consider the following deterministic finite automaton (DFA) defined over the alphabet, $\\Sigma=\\{a, b\\}$. Identify which of the following language(s) is/are accepted by the given DFA.</p><p style=\"text-align:center\"><img alt=\"DFA\" height=\"262\" src=\"/Gate_QA/question-images/7915045237449375950.webp\" width=\"600\"/></p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>The set of all strings containing an even number of $b$ 's.</li><li>The set of all strings containing the pattern $b a b$.</li><li>The set of all strings ending with the pattern $b a b$.</li><li>The set of all strings not containing the pattern $a b a$.</li></ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the following deterministic finite automaton (DFA) defined over the alphabet, $\\Sigma=\\{a, b\\}$. Identify which of the following language(s) is/are accepted by the given DFA.</p><p style=\"text-align:center\"><img alt=\"DFA\" height=\"262\" src=\"/question-images/7915045237449375950.webp\" width=\"600\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460040\"></a><div itemprop=\"text\"><p>Consider the following deterministic finite automaton (DFA) defined over the alphabet, $\\Sigma=\\{a, b\\}$. Identify which of the following language(s) is/are accepted by the given DFA.</p><p style=\"text-align:center\"><img alt=\"DFA\" height=\"262\" src=\"/question-images/7915045237449375950.webp\" width=\"600\"/></p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>The set of all strings containing an even number of $b$ 's.</li><li>The set of all strings containing the pattern $b a b$.</li><li>The set of all strings ending with the pattern $b a b$.</li><li>The set of all strings not containing the pattern $a b a$.</li></ol></div>\n</div>",
       "options": [
         "The set of all strings containing an even number of $b$ 's.",
         "The set of all strings containing the pattern $b a b$.",
@@ -11878,8 +11878,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>If the final states and non-final states in the DFA below are interchanged, then which of the following languages over the alphabet $\\{a, b\\}$ will be accepted by the new DFA?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6965556390260869954.webp\"/></p>",
-      "rawQuestionHtml": "<p>If the final states and non-final states in the DFA below are interchanged, then which of the following languages over the alphabet $\\{a, b\\}$ will be accepted by the new DFA?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6965556390260869954.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Set of all strings that do not end with $ab$</li>\n<li>Set of all strings that begin with either an $a$ or $a \\ b$</li>\n<li>Set of all strings that do not contain the substring $ab$,</li>\n<li>The set described by the regular expression $b^*aa^*(ba)^*b^*$</li>\n</ol>",
+      "question": "<p>If the final states and non-final states in the DFA below are interchanged, then which of the following languages over the alphabet $\\{a, b\\}$ will be accepted by the new DFA?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6965556390260869954.webp\"/></p>",
+      "rawQuestionHtml": "<p>If the final states and non-final states in the DFA below are interchanged, then which of the following languages over the alphabet $\\{a, b\\}$ will be accepted by the new DFA?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6965556390260869954.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Set of all strings that do not end with $ab$</li>\n<li>Set of all strings that begin with either an $a$ or $a \\ b$</li>\n<li>Set of all strings that do not contain the substring $ab$,</li>\n<li>The set described by the regular expression $b^*aa^*(ba)^*b^*$</li>\n</ol>",
       "options": [
         "Set of all strings that do not end with $ab$",
         "Set of all strings that begin with either an $a$ or $a \\ b$",
@@ -12094,8 +12094,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following two finite automata. $M_1$ accepts $L_1$ and $M_2$ accepts $L_2$.</p>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/Gate_QA/question-images/17153006502681841945.webp\" width=\"298\"/>\n<figcaption>$M_1$</figcaption>\n</figure>\n</div>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/Gate_QA/question-images/3061057541747784532.webp\" width=\"297\"/>\n<figcaption>$M_2$</figcaption>\n</figure>\n</div>\n<p> </p>\n<p>Which one of the following is TRUE?</p>",
-      "rawQuestionHtml": "<p>Consider the following two finite automata. $M_1$ accepts $L_1$ and $M_2$ accepts $L_2$.</p>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/Gate_QA/question-images/17153006502681841945.webp\" width=\"298\"/>\n<figcaption>$M_1$</figcaption>\n</figure>\n</div>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/Gate_QA/question-images/3061057541747784532.webp\" width=\"297\"/>\n<figcaption>$M_2$</figcaption>\n</figure>\n</div>\n<p> </p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_1 = L_2$</li>\n<li>$L_1 \\subset L_2$</li>\n<li>$L_1 \\cap  L_{2}^{C} = \\varnothing $</li>\n<li>$L_1 \\cup L_2 \\neq  L_1$</li>\n</ol>",
+      "question": "<p>Consider the following two finite automata. $M_1$ accepts $L_1$ and $M_2$ accepts $L_2$.</p>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/question-images/17153006502681841945.webp\" width=\"298\"/>\n<figcaption>$M_1$</figcaption>\n</figure>\n</div>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/question-images/3061057541747784532.webp\" width=\"297\"/>\n<figcaption>$M_2$</figcaption>\n</figure>\n</div>\n<p> </p>\n<p>Which one of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>Consider the following two finite automata. $M_1$ accepts $L_1$ and $M_2$ accepts $L_2$.</p>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/question-images/17153006502681841945.webp\" width=\"298\"/>\n<figcaption>$M_1$</figcaption>\n</figure>\n</div>\n<div style=\"text-align:center\">\n<figure class=\"image\" style=\"display:inline-block\"><img alt=\"\" src=\"/question-images/3061057541747784532.webp\" width=\"297\"/>\n<figcaption>$M_2$</figcaption>\n</figure>\n</div>\n<p> </p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L_1 = L_2$</li>\n<li>$L_1 \\subset L_2$</li>\n<li>$L_1 \\cap  L_{2}^{C} = \\varnothing $</li>\n<li>$L_1 \\cup L_2 \\neq  L_1$</li>\n</ol>",
       "options": [
         "$L_1 = L_2$",
         "$L_1 \\subset L_2$",
@@ -12256,8 +12256,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following DFA in which $S_0$ is the start state and $S_1$, $S_3$ are the final states.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"275\" src=\"/Gate_QA/question-images/3546921204438135029.webp\" width=\"344\"/></p>\n<p>What language does this $\\textsf{DFA}$ recognize?</p>",
-      "rawQuestionHtml": "<p>Consider the following DFA in which $S_0$ is the start state and $S_1$, $S_3$ are the final states.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"275\" src=\"/Gate_QA/question-images/3546921204438135029.webp\" width=\"344\"/></p>\n<p>What language does this $\\textsf{DFA}$ recognize?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>All strings of $x$ and $y$</li>\n<li>All strings of $x$ and $y$ which have either even number of $x$ and even number of $y$ or odd number of $x$ and odd number of $y$</li>\n<li>All strings of $x$ and $y$ which have equal number of $x$ and $y$</li>\n<li>All strings of $x$ and $y$ with either even number of $x$ and odd number of $y$ or odd number of $x$ and even number of $y$</li>\n</ol>",
+      "question": "<p>Consider the following DFA in which $S_0$ is the start state and $S_1$, $S_3$ are the final states.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"275\" src=\"/question-images/3546921204438135029.webp\" width=\"344\"/></p>\n<p>What language does this $\\textsf{DFA}$ recognize?</p>",
+      "rawQuestionHtml": "<p>Consider the following DFA in which $S_0$ is the start state and $S_1$, $S_3$ are the final states.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"275\" src=\"/question-images/3546921204438135029.webp\" width=\"344\"/></p>\n<p>What language does this $\\textsf{DFA}$ recognize?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>All strings of $x$ and $y$</li>\n<li>All strings of $x$ and $y$ which have either even number of $x$ and even number of $y$ or odd number of $x$ and odd number of $y$</li>\n<li>All strings of $x$ and $y$ which have equal number of $x$ and $y$</li>\n<li>All strings of $x$ and $y$ with either even number of $x$ and odd number of $y$ or odd number of $x$ and even number of $y$</li>\n</ol>",
       "options": [
         "All strings of $x$ and $y$",
         "All strings of $x$ and $y$ which have either even number of $x$ and even number of $y$ or odd number of $x$ and odd number of $y$",
@@ -12418,34 +12418,34 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the following finite automata $P$ and $Q$ over the alphabet $\\{a, b, c\\}$.<em> </em>The start states are indicated by a double arrow and final states are indicated by a double circle. Let the languages recognized by them be denoted by $L(P)$ and $L(Q)$ respectively.</p>\n<p><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/218635705363501520.webp\" style=\"float:left\" width=\"337\"/></p>\n<p><img alt=\"\" height=\"174\" src=\"/Gate_QA/question-images/13085056917541618550.webp\" width=\"335\"/></p>\n<p>The automation which recognizes the language $L(P) \\cap L(Q)$ is :</p>",
-      "rawQuestionHtml": "<p>Consider the following finite automata $P$ and $Q$ over the alphabet $\\{a, b, c\\}$.<em> </em>The start states are indicated by a double arrow and final states are indicated by a double circle. Let the languages recognized by them be denoted by $L(P)$ and $L(Q)$ respectively.</p>\n<p><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/218635705363501520.webp\" style=\"float:left\" width=\"337\"/></p>\n<p><img alt=\"\" height=\"174\" src=\"/Gate_QA/question-images/13085056917541618550.webp\" width=\"335\"/></p>\n<p>The automation which recognizes the language $L(P) \\cap L(Q)$ is :</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/17687078119589595902.webp\" width=\"339\"/></li>\n<li><img alt=\"\" height=\"154\" src=\"/Gate_QA/question-images/6736780159264489612.webp\" width=\"345\"/></li>\n<li><img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/14278447030167052434.webp\" width=\"338\"/></li>\n<li><img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/16563987040963047624.webp\" width=\"357\"/></li>\n</ol>",
+      "question": "<p>Consider the following finite automata $P$ and $Q$ over the alphabet $\\{a, b, c\\}$.<em> </em>The start states are indicated by a double arrow and final states are indicated by a double circle. Let the languages recognized by them be denoted by $L(P)$ and $L(Q)$ respectively.</p>\n<p><img alt=\"\" height=\"179\" src=\"/question-images/218635705363501520.webp\" style=\"float:left\" width=\"337\"/></p>\n<p><img alt=\"\" height=\"174\" src=\"/question-images/13085056917541618550.webp\" width=\"335\"/></p>\n<p>The automation which recognizes the language $L(P) \\cap L(Q)$ is :</p>",
+      "rawQuestionHtml": "<p>Consider the following finite automata $P$ and $Q$ over the alphabet $\\{a, b, c\\}$.<em> </em>The start states are indicated by a double arrow and final states are indicated by a double circle. Let the languages recognized by them be denoted by $L(P)$ and $L(Q)$ respectively.</p>\n<p><img alt=\"\" height=\"179\" src=\"/question-images/218635705363501520.webp\" style=\"float:left\" width=\"337\"/></p>\n<p><img alt=\"\" height=\"174\" src=\"/question-images/13085056917541618550.webp\" width=\"335\"/></p>\n<p>The automation which recognizes the language $L(P) \\cap L(Q)$ is :</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"147\" src=\"/question-images/17687078119589595902.webp\" width=\"339\"/></li>\n<li><img alt=\"\" height=\"154\" src=\"/question-images/6736780159264489612.webp\" width=\"345\"/></li>\n<li><img alt=\"\" height=\"151\" src=\"/question-images/14278447030167052434.webp\" width=\"338\"/></li>\n<li><img alt=\"\" height=\"155\" src=\"/question-images/16563987040963047624.webp\" width=\"357\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/17687078119589595902.webp\" width=\"339\"/>",
-        "<img alt=\"\" height=\"154\" src=\"/Gate_QA/question-images/6736780159264489612.webp\" width=\"345\"/>",
-        "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/14278447030167052434.webp\" width=\"338\"/>",
-        "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/16563987040963047624.webp\" width=\"357\"/>"
+        "<img alt=\"\" height=\"147\" src=\"/question-images/17687078119589595902.webp\" width=\"339\"/>",
+        "<img alt=\"\" height=\"154\" src=\"/question-images/6736780159264489612.webp\" width=\"345\"/>",
+        "<img alt=\"\" height=\"151\" src=\"/question-images/14278447030167052434.webp\" width=\"338\"/>",
+        "<img alt=\"\" height=\"155\" src=\"/question-images/16563987040963047624.webp\" width=\"357\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/17687078119589595902.webp\" width=\"339\"/>",
-          "html": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/17687078119589595902.webp\" width=\"339\"/>"
+          "text": "<img alt=\"\" height=\"147\" src=\"/question-images/17687078119589595902.webp\" width=\"339\"/>",
+          "html": "<img alt=\"\" height=\"147\" src=\"/question-images/17687078119589595902.webp\" width=\"339\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"154\" src=\"/Gate_QA/question-images/6736780159264489612.webp\" width=\"345\"/>",
-          "html": "<img alt=\"\" height=\"154\" src=\"/Gate_QA/question-images/6736780159264489612.webp\" width=\"345\"/>"
+          "text": "<img alt=\"\" height=\"154\" src=\"/question-images/6736780159264489612.webp\" width=\"345\"/>",
+          "html": "<img alt=\"\" height=\"154\" src=\"/question-images/6736780159264489612.webp\" width=\"345\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/14278447030167052434.webp\" width=\"338\"/>",
-          "html": "<img alt=\"\" height=\"151\" src=\"/Gate_QA/question-images/14278447030167052434.webp\" width=\"338\"/>"
+          "text": "<img alt=\"\" height=\"151\" src=\"/question-images/14278447030167052434.webp\" width=\"338\"/>",
+          "html": "<img alt=\"\" height=\"151\" src=\"/question-images/14278447030167052434.webp\" width=\"338\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/16563987040963047624.webp\" width=\"357\"/>",
-          "html": "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/16563987040963047624.webp\" width=\"357\"/>"
+          "text": "<img alt=\"\" height=\"155\" src=\"/question-images/16563987040963047624.webp\" width=\"357\"/>",
+          "html": "<img alt=\"\" height=\"155\" src=\"/question-images/16563987040963047624.webp\" width=\"357\"/>"
         }
       ],
       "answer": [
@@ -12473,33 +12473,33 @@
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
       "question": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which of the following non-deterministic finite automata recognizes the language defined by the regular expression $R$? Edges labeled $\\lambda $ denote transitions on the empty string.</p>",
-      "rawQuestionHtml": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which of the following non-deterministic finite automata recognizes the language defined by the regular expression $R$? Edges labeled $\\lambda $ denote transitions on the empty string.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"279\" src=\"/Gate_QA/question-images/16554358242410702602.webp\" width=\"316\"/></li>\n<li><br/>\n<img alt=\"\" height=\"396\" src=\"/Gate_QA/question-images/8774152576908859544.webp\" width=\"323\"/></li>\n<li><br/>\n<img alt=\"\" height=\"413\" src=\"/Gate_QA/question-images/5748350196593249481.webp\" width=\"336\"/></li>\n<li><br/>\n<img alt=\"\" height=\"414\" src=\"/Gate_QA/question-images/15788213930690656023.webp\" width=\"335\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which of the following non-deterministic finite automata recognizes the language defined by the regular expression $R$? Edges labeled $\\lambda $ denote transitions on the empty string.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"279\" src=\"/question-images/16554358242410702602.webp\" width=\"316\"/></li>\n<li><br/>\n<img alt=\"\" height=\"396\" src=\"/question-images/8774152576908859544.webp\" width=\"323\"/></li>\n<li><br/>\n<img alt=\"\" height=\"413\" src=\"/question-images/5748350196593249481.webp\" width=\"336\"/></li>\n<li><br/>\n<img alt=\"\" height=\"414\" src=\"/question-images/15788213930690656023.webp\" width=\"335\"/></li>\n</ol>",
       "options": [
-        "<br/>\n<img alt=\"\" height=\"279\" src=\"/Gate_QA/question-images/16554358242410702602.webp\" width=\"316\"/>",
-        "<br/>\n<img alt=\"\" height=\"396\" src=\"/Gate_QA/question-images/8774152576908859544.webp\" width=\"323\"/>",
-        "<br/>\n<img alt=\"\" height=\"413\" src=\"/Gate_QA/question-images/5748350196593249481.webp\" width=\"336\"/>",
-        "<br/>\n<img alt=\"\" height=\"414\" src=\"/Gate_QA/question-images/15788213930690656023.webp\" width=\"335\"/>"
+        "<br/>\n<img alt=\"\" height=\"279\" src=\"/question-images/16554358242410702602.webp\" width=\"316\"/>",
+        "<br/>\n<img alt=\"\" height=\"396\" src=\"/question-images/8774152576908859544.webp\" width=\"323\"/>",
+        "<br/>\n<img alt=\"\" height=\"413\" src=\"/question-images/5748350196593249481.webp\" width=\"336\"/>",
+        "<br/>\n<img alt=\"\" height=\"414\" src=\"/question-images/15788213930690656023.webp\" width=\"335\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<br/>\n<img alt=\"\" height=\"279\" src=\"/Gate_QA/question-images/16554358242410702602.webp\" width=\"316\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"279\" src=\"/Gate_QA/question-images/16554358242410702602.webp\" width=\"316\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"279\" src=\"/question-images/16554358242410702602.webp\" width=\"316\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"279\" src=\"/question-images/16554358242410702602.webp\" width=\"316\"/>"
         },
         {
           "label": "B",
-          "text": "<br/>\n<img alt=\"\" height=\"396\" src=\"/Gate_QA/question-images/8774152576908859544.webp\" width=\"323\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"396\" src=\"/Gate_QA/question-images/8774152576908859544.webp\" width=\"323\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"396\" src=\"/question-images/8774152576908859544.webp\" width=\"323\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"396\" src=\"/question-images/8774152576908859544.webp\" width=\"323\"/>"
         },
         {
           "label": "C",
-          "text": "<br/>\n<img alt=\"\" height=\"413\" src=\"/Gate_QA/question-images/5748350196593249481.webp\" width=\"336\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"413\" src=\"/Gate_QA/question-images/5748350196593249481.webp\" width=\"336\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"413\" src=\"/question-images/5748350196593249481.webp\" width=\"336\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"413\" src=\"/question-images/5748350196593249481.webp\" width=\"336\"/>"
         },
         {
           "label": "D",
-          "text": "<br/>\n<img alt=\"\" height=\"414\" src=\"/Gate_QA/question-images/15788213930690656023.webp\" width=\"335\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"414\" src=\"/Gate_QA/question-images/15788213930690656023.webp\" width=\"335\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"414\" src=\"/question-images/15788213930690656023.webp\" width=\"335\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"414\" src=\"/question-images/15788213930690656023.webp\" width=\"335\"/>"
         }
       ],
       "answer": [
@@ -12527,33 +12527,33 @@
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
       "question": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which deterministic finite automaton accepts the language represented by the regular expression $R$?</p>",
-      "rawQuestionHtml": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which deterministic finite automaton accepts the language represented by the regular expression $R$?</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/4084850553518558507.webp\" width=\"305\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/11679686363708204198.webp\" width=\"305\"/></li>\n<li><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/11949589107834012596.webp\" width=\"350\"/></li>\n<li><img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/9562195758838204990.webp\" width=\"356\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the regular expression $R = (a + b)^* (aa + bb) (a + b)^*$</p>\n<p>Which deterministic finite automaton accepts the language represented by the regular expression $R$?</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/question-images/4084850553518558507.webp\" width=\"305\"/></li>\n<li><img alt=\"\" src=\"/question-images/11679686363708204198.webp\" width=\"305\"/></li>\n<li><img alt=\"\" height=\"258\" src=\"/question-images/11949589107834012596.webp\" width=\"350\"/></li>\n<li><img alt=\"\" height=\"263\" src=\"/question-images/9562195758838204990.webp\" width=\"356\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/4084850553518558507.webp\" width=\"305\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/11679686363708204198.webp\" width=\"305\"/>",
-        "<img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/11949589107834012596.webp\" width=\"350\"/>",
-        "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/9562195758838204990.webp\" width=\"356\"/>"
+        "<img alt=\"\" src=\"/question-images/4084850553518558507.webp\" width=\"305\"/>",
+        "<img alt=\"\" src=\"/question-images/11679686363708204198.webp\" width=\"305\"/>",
+        "<img alt=\"\" height=\"258\" src=\"/question-images/11949589107834012596.webp\" width=\"350\"/>",
+        "<img alt=\"\" height=\"263\" src=\"/question-images/9562195758838204990.webp\" width=\"356\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/4084850553518558507.webp\" width=\"305\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/4084850553518558507.webp\" width=\"305\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/4084850553518558507.webp\" width=\"305\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/4084850553518558507.webp\" width=\"305\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/11679686363708204198.webp\" width=\"305\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/11679686363708204198.webp\" width=\"305\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/11679686363708204198.webp\" width=\"305\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/11679686363708204198.webp\" width=\"305\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/11949589107834012596.webp\" width=\"350\"/>",
-          "html": "<img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/11949589107834012596.webp\" width=\"350\"/>"
+          "text": "<img alt=\"\" height=\"258\" src=\"/question-images/11949589107834012596.webp\" width=\"350\"/>",
+          "html": "<img alt=\"\" height=\"258\" src=\"/question-images/11949589107834012596.webp\" width=\"350\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/9562195758838204990.webp\" width=\"356\"/>",
-          "html": "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/9562195758838204990.webp\" width=\"356\"/>"
+          "text": "<img alt=\"\" height=\"263\" src=\"/question-images/9562195758838204990.webp\" width=\"356\"/>",
+          "html": "<img alt=\"\" height=\"263\" src=\"/question-images/9562195758838204990.webp\" width=\"356\"/>"
         }
       ],
       "answer": [
@@ -12634,8 +12634,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>In the automaton below, $s$ is the start state and $t$ is the only final state.</p>\n<p><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/396110473600294641.webp\" width=\"259\"/></p>\n<p>Consider the strings $u = abbaba, v = bab, \\text{and} w = aabb$. Which of the following statements is true?</p>",
-      "rawQuestionHtml": "<p>In the automaton below, $s$ is the start state and $t$ is the only final state.</p>\n<p><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/396110473600294641.webp\" width=\"259\"/></p>\n<p>Consider the strings $u = abbaba, v = bab, \\text{and} w = aabb$. Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The automaton accepts $u$ and $v$ but not $w$</li>\n<li>The automaton accepts each of $u, v,$ and $w$</li>\n<li>The automaton rejects each of $u, v,$ and $w$</li>\n<li>The automaton accepts $u$ but rejects $v$ and $w$</li>\n</ol>",
+      "question": "<p>In the automaton below, $s$ is the start state and $t$ is the only final state.</p>\n<p><img alt=\"\" height=\"301\" src=\"/question-images/396110473600294641.webp\" width=\"259\"/></p>\n<p>Consider the strings $u = abbaba, v = bab, \\text{and} w = aabb$. Which of the following statements is true?</p>",
+      "rawQuestionHtml": "<p>In the automaton below, $s$ is the start state and $t$ is the only final state.</p>\n<p><img alt=\"\" height=\"301\" src=\"/question-images/396110473600294641.webp\" width=\"259\"/></p>\n<p>Consider the strings $u = abbaba, v = bab, \\text{and} w = aabb$. Which of the following statements is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>The automaton accepts $u$ and $v$ but not $w$</li>\n<li>The automaton accepts each of $u, v,$ and $w$</li>\n<li>The automaton rejects each of $u, v,$ and $w$</li>\n<li>The automaton accepts $u$ but rejects $v$ and $w$</li>\n</ol>",
       "options": [
         "The automaton accepts $u$ and $v$ but not $w$",
         "The automaton accepts each of $u, v,$ and $w$",
@@ -12742,8 +12742,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Which regular expression best describes the language accepted by the non-deterministic automaton below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"139\" src=\"/Gate_QA/question-images/8709567931402089810.webp\" width=\"475\"/></p>",
-      "rawQuestionHtml": "<p>Which regular expression best describes the language accepted by the non-deterministic automaton below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"139\" src=\"/Gate_QA/question-images/8709567931402089810.webp\" width=\"475\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(a + b)^* \\ a(a + b)b$</li>\n<li>$(abb)^*$</li>\n<li>$(a + b)^* \\ a(a + b)^* \\ b(a + b)^*$</li>\n<li>$(a + b)^*$</li>\n</ol>",
+      "question": "<p>Which regular expression best describes the language accepted by the non-deterministic automaton below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"139\" src=\"/question-images/8709567931402089810.webp\" width=\"475\"/></p>",
+      "rawQuestionHtml": "<p>Which regular expression best describes the language accepted by the non-deterministic automaton below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"139\" src=\"/question-images/8709567931402089810.webp\" width=\"475\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(a + b)^* \\ a(a + b)b$</li>\n<li>$(abb)^*$</li>\n<li>$(a + b)^* \\ a(a + b)^* \\ b(a + b)^*$</li>\n<li>$(a + b)^*$</li>\n</ol>",
       "options": [
         "$(a + b)^* \\ a(a + b)b$",
         "$(abb)^*$",
@@ -13120,8 +13120,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>For a state machine with the following state diagram the expression for the next state $S^+$ in terms of the current state $S$ and the input variables $x$<em> </em>and $y$ is</p>\n<p><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/4648458964134189784.webp\" width=\"201\"/></p>",
-      "rawQuestionHtml": "<p>For a state machine with the following state diagram the expression for the next state $S^+$ in terms of the current state $S$ and the input variables $x$<em> </em>and $y$ is</p>\n<p><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/4648458964134189784.webp\" width=\"201\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S^+ = S' . y' + S . x$</li>\n<li>$S^+ = S. x . y' + S' . y . x'$</li>\n<li>$S^+ = x . y'$</li>\n<li>$S^+ = S' . y + S . x'$</li>\n</ol>",
+      "question": "<p>For a state machine with the following state diagram the expression for the next state $S^+$ in terms of the current state $S$ and the input variables $x$<em> </em>and $y$ is</p>\n<p><img alt=\"\" height=\"179\" src=\"/question-images/4648458964134189784.webp\" width=\"201\"/></p>",
+      "rawQuestionHtml": "<p>For a state machine with the following state diagram the expression for the next state $S^+$ in terms of the current state $S$ and the input variables $x$<em> </em>and $y$ is</p>\n<p><img alt=\"\" height=\"179\" src=\"/question-images/4648458964134189784.webp\" width=\"201\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S^+ = S' . y' + S . x$</li>\n<li>$S^+ = S. x . y' + S' . y . x'$</li>\n<li>$S^+ = x . y'$</li>\n<li>$S^+ = S' . y + S . x'$</li>\n</ol>",
       "options": [
         "$S^+ = S' . y' + S . x$",
         "$S^+ = S. x . y' + S' . y . x'$",
@@ -13660,8 +13660,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the non-deterministic finite automaton (NFA) shown in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"379\" src=\"/Gate_QA/question-images/10981278001040417255.webp\" width=\"325\"/></p>\n<p>State $X$ is the starting state of the automaton. Let the language accepted by the NFA with $Y$ as the only accepting state be $L1$. Similarly, let the language accepted by the NFA with $Z$ as the only accepting state be $L2$. Which of the following statements about $L1$ and $L2$ is TRUE?</p>",
-      "rawQuestionHtml": "<p>Consider the non-deterministic finite automaton (NFA) shown in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"379\" src=\"/Gate_QA/question-images/10981278001040417255.webp\" width=\"325\"/></p>\n<p>State $X$ is the starting state of the automaton. Let the language accepted by the NFA with $Y$ as the only accepting state be $L1$. Similarly, let the language accepted by the NFA with $Z$ as the only accepting state be $L2$. Which of the following statements about $L1$ and $L2$ is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L1 = L2$</li>\n<li>$L1 \\subset L2$</li>\n<li>$L2 \\subset L1$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Consider the non-deterministic finite automaton (NFA) shown in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"379\" src=\"/question-images/10981278001040417255.webp\" width=\"325\"/></p>\n<p>State $X$ is the starting state of the automaton. Let the language accepted by the NFA with $Y$ as the only accepting state be $L1$. Similarly, let the language accepted by the NFA with $Z$ as the only accepting state be $L2$. Which of the following statements about $L1$ and $L2$ is TRUE?</p>",
+      "rawQuestionHtml": "<p>Consider the non-deterministic finite automaton (NFA) shown in the figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"379\" src=\"/question-images/10981278001040417255.webp\" width=\"325\"/></p>\n<p>State $X$ is the starting state of the automaton. Let the language accepted by the NFA with $Y$ as the only accepting state be $L1$. Similarly, let the language accepted by the NFA with $Z$ as the only accepting state be $L2$. Which of the following statements about $L1$ and $L2$ is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L1 = L2$</li>\n<li>$L1 \\subset L2$</li>\n<li>$L2 \\subset L1$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$L1 = L2$",
         "$L1 \\subset L2$",

@@ -24,3 +24,21 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Question and Option Image Styling */
+.math-content img,
+.inline-math-content img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+  border-radius: 0.5rem;
+  background-color: #ffffff;
+  padding: 0.375rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  vertical-align: middle;
+}
+
+.math-content p {
+  margin-bottom: 0.5rem;
+}

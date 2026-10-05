@@ -78,8 +78,8 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>Consider the undirected graph below:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/6434530301766717919.webp\" width=\"343\"/></p>\n<p>Using Prim's algorithm to construct a minimum spanning tree starting with node A, which one of the following sequences of edges represents a possible order in which the edges would be added to construct the minimum spanning tree?</p>",
-      "rawQuestionHtml": "<p>Consider the undirected graph below:</p>\n<p><img alt=\"\" height=\"278\" src=\"/Gate_QA/question-images/6434530301766717919.webp\" width=\"343\"/></p>\n<p>Using Prim's algorithm to construct a minimum spanning tree starting with node A, which one of the following sequences of edges represents a possible order in which the edges would be added to construct the minimum spanning tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{(E, G), (C, F), (F, G), (A, D), (A, B), (A, C)}$</li>\n<li>$\\text{(A, D), (A, B), (A, C), (C, F), (G, E), (F, G)}$</li>\n<li>$\\text{(A, B), (A, D), (D, F), (F, G), (G, E), (F, C)}$</li>\n<li>$\\text{(A, D), (A, B), (D, F), (F, C), (F, G), (G, E)}$</li>\n</ol>",
+      "question": "<p>Consider the undirected graph below:</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/6434530301766717919.webp\" width=\"343\"/></p>\n<p>Using Prim's algorithm to construct a minimum spanning tree starting with node A, which one of the following sequences of edges represents a possible order in which the edges would be added to construct the minimum spanning tree?</p>",
+      "rawQuestionHtml": "<p>Consider the undirected graph below:</p>\n<p><img alt=\"\" height=\"278\" src=\"/question-images/6434530301766717919.webp\" width=\"343\"/></p>\n<p>Using Prim's algorithm to construct a minimum spanning tree starting with node A, which one of the following sequences of edges represents a possible order in which the edges would be added to construct the minimum spanning tree?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{(E, G), (C, F), (F, G), (A, D), (A, B), (A, C)}$</li>\n<li>$\\text{(A, D), (A, B), (A, C), (C, F), (G, E), (F, G)}$</li>\n<li>$\\text{(A, B), (A, D), (D, F), (F, G), (G, E), (F, C)}$</li>\n<li>$\\text{(A, D), (A, B), (D, F), (F, C), (F, G), (G, E)}$</li>\n</ol>",
       "options": [
         "$\\text{(E, G), (C, F), (F, G), (A, D), (A, B), (A, C)}$",
         "$\\text{(A, D), (A, B), (A, C), (C, F), (G, E), (F, G)}$",
@@ -3427,33 +3427,33 @@
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "MCQ",
       "question": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>",
-      "rawQuestionHtml": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/></li>\n<li><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/></li>\n<li><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/></li>\n<li><img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Which one of the following binary trees has its inorder and preorder traversals as $BCAD$  and $ABCD$, respectively?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/></li>\n<li><img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/></li>\n<li><img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/></li>\n<li><img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>",
-        "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>",
-        "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>",
-        "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>"
+        "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>",
+        "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>",
+        "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>",
+        "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>",
-          "html": "<img alt=\"\" height=\"193\" src=\"/Gate_QA/question-images/11884103077558666867.webp\" width=\"141\"/>"
+          "text": "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>",
+          "html": "<img alt=\"\" height=\"193\" src=\"/question-images/11884103077558666867.webp\" width=\"141\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>",
-          "html": "<img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/13177689439878496852.webp\" width=\"174\"/>"
+          "text": "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>",
+          "html": "<img alt=\"\" height=\"206\" src=\"/question-images/13177689439878496852.webp\" width=\"174\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>",
-          "html": "<img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/3620235370105556664.webp\" width=\"164\"/>"
+          "text": "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>",
+          "html": "<img alt=\"\" height=\"223\" src=\"/question-images/3620235370105556664.webp\" width=\"164\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>",
-          "html": "<img alt=\"\" height=\"226\" src=\"/Gate_QA/question-images/18372728060506908794.webp\" width=\"167\"/>"
+          "text": "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>",
+          "html": "<img alt=\"\" height=\"226\" src=\"/question-images/18372728060506908794.webp\" width=\"167\"/>"
         }
       ],
       "answer": [
@@ -3642,8 +3642,8 @@
       "subjectSlug": "dbms",
       "topic": "ER Model & Relational Algebra",
       "type": "MCQ",
-      "question": "<p>Consider the following entity relationship diagram $(ERD)$, where two entities $E1$ and $E2$ have a relation $R$ of cardinality 1:m.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/15445994923890028188.webp\"/></p>\n<p>The attributes of $E1$ are $A11$, $A12$ and $A13$ where $A11$ is the key attribute. The attributes of $E2$ are $A21$, $A22$ and $A23$ where $A21$ is the key attribute and $A23$ is a multi-valued attribute. Relation $R$ does not have any attribute. A relational database containing minimum number of tables with each table satisfying the requirements of the third normal form ($3NF$) is designed from the above $ERD$. The number of tables in the database is</p>",
-      "rawQuestionHtml": "<p>Consider the following entity relationship diagram $(ERD)$, where two entities $E1$ and $E2$ have a relation $R$ of cardinality 1:m.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/15445994923890028188.webp\"/></p>\n<p>The attributes of $E1$ are $A11$, $A12$ and $A13$ where $A11$ is the key attribute. The attributes of $E2$ are $A21$, $A22$ and $A23$ where $A21$ is the key attribute and $A23$ is a multi-valued attribute. Relation $R$ does not have any attribute. A relational database containing minimum number of tables with each table satisfying the requirements of the third normal form ($3NF$) is designed from the above $ERD$. The number of tables in the database is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$5$</li>\n<li>$4$</li>\n</ol>",
+      "question": "<p>Consider the following entity relationship diagram $(ERD)$, where two entities $E1$ and $E2$ have a relation $R$ of cardinality 1:m.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/15445994923890028188.webp\"/></p>\n<p>The attributes of $E1$ are $A11$, $A12$ and $A13$ where $A11$ is the key attribute. The attributes of $E2$ are $A21$, $A22$ and $A23$ where $A21$ is the key attribute and $A23$ is a multi-valued attribute. Relation $R$ does not have any attribute. A relational database containing minimum number of tables with each table satisfying the requirements of the third normal form ($3NF$) is designed from the above $ERD$. The number of tables in the database is</p>",
+      "rawQuestionHtml": "<p>Consider the following entity relationship diagram $(ERD)$, where two entities $E1$ and $E2$ have a relation $R$ of cardinality 1:m.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/15445994923890028188.webp\"/></p>\n<p>The attributes of $E1$ are $A11$, $A12$ and $A13$ where $A11$ is the key attribute. The attributes of $E2$ are $A21$, $A22$ and $A23$ where $A21$ is the key attribute and $A23$ is a multi-valued attribute. Relation $R$ does not have any attribute. A relational database containing minimum number of tables with each table satisfying the requirements of the third normal form ($3NF$) is designed from the above $ERD$. The number of tables in the database is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$5$</li>\n<li>$4$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -4830,8 +4830,8 @@
       "subjectSlug": "engg-math",
       "topic": "Linear Algebra & Matrices",
       "type": "MCQ",
-      "question": "<p>Consider an XML file called intro.xml and a document type definition (DTD) file intro.dtd as follows:<br><img alt=\"\" src=\"/Gate_QA/question-images/it_go_3733_0.jpg\"/><br>\nA validating parser will classify intro.xml as</p>",
-      "rawQuestionHtml": "<p>Consider an XML file called intro.xml and a document type definition (DTD) file intro.dtd as follows:<br><img alt=\"\" src=\"/Gate_QA/question-images/it_go_3733_0.jpg\"/><br>\nA validating parser will classify intro.xml as</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Well-formed and validated</li>\n<li>Well-formed but not validated</li>\n<li>Validated but not well-formed</li>\n<li>Neither validated nor well-formed</li>\n</ol>",
+      "question": "<p>Consider an XML file called intro.xml and a document type definition (DTD) file intro.dtd as follows:<br><img alt=\"\" src=\"/question-images/it_go_3733_0.jpg\"/><br>\nA validating parser will classify intro.xml as</p>",
+      "rawQuestionHtml": "<p>Consider an XML file called intro.xml and a document type definition (DTD) file intro.dtd as follows:<br><img alt=\"\" src=\"/question-images/it_go_3733_0.jpg\"/><br>\nA validating parser will classify intro.xml as</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Well-formed and validated</li>\n<li>Well-formed but not validated</li>\n<li>Validated but not well-formed</li>\n<li>Neither validated nor well-formed</li>\n</ol>",
       "options": [
         "Well-formed and validated",
         "Well-formed but not validated",

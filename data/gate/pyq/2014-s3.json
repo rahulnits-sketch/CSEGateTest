@@ -820,8 +820,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>The ratio of male to female students in a college for five years is plotted in the following line graph. If the number of female students in $2011$ and $2012$ is equal, what is the ratio of male students in $2012$ to male students in $2011$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"242\" src=\"/Gate_QA/question-images/14235496114888319138.webp\" width=\"390\"/></p>",
-      "rawQuestionHtml": "<p>The ratio of male to female students in a college for five years is plotted in the following line graph. If the number of female students in $2011$ and $2012$ is equal, what is the ratio of male students in $2012$ to male students in $2011$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"242\" src=\"/Gate_QA/question-images/14235496114888319138.webp\" width=\"390\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1:1$</li>\n<li>$2:1$</li>\n<li>$1.5:1$</li>\n<li>$2.5:1$</li>\n</ol>",
+      "question": "<p>The ratio of male to female students in a college for five years is plotted in the following line graph. If the number of female students in $2011$ and $2012$ is equal, what is the ratio of male students in $2012$ to male students in $2011$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"242\" src=\"/question-images/14235496114888319138.webp\" width=\"390\"/></p>",
+      "rawQuestionHtml": "<p>The ratio of male to female students in a college for five years is plotted in the following line graph. If the number of female students in $2011$ and $2012$ is equal, what is the ratio of male students in $2012$ to male students in $2011$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"242\" src=\"/question-images/14235496114888319138.webp\" width=\"390\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1:1$</li>\n<li>$2:1$</li>\n<li>$1.5:1$</li>\n<li>$2.5:1$</li>\n</ol>",
       "options": [
         "$1:1$",
         "$2:1$",
@@ -1068,8 +1068,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "MCQ",
-      "question": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/Gate_QA/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>",
-      "rawQuestionHtml": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/Gate_QA/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$SQPTRWUV$</li>\n<li>$SQPTUWRV$</li>\n<li>$SQPTWUVR$</li>\n<li>$SQPTRUWV$</li>\n</ol>",
+      "question": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>",
+      "rawQuestionHtml": "<p>Consider the following rooted tree with the vertex labeled $P$ as the root:</p>\n<p><img alt=\"\" height=\"287\" src=\"/question-images/2960814793454714242.webp\" width=\"303\"/></p>\n<p>The order in which the nodes are visited during an in-order traversal of the tree is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$SQPTRWUV$</li>\n<li>$SQPTUWRV$</li>\n<li>$SQPTWUVR$</li>\n<li>$SQPTRUWV$</li>\n</ol>",
       "options": [
         "$SQPTRWUV$",
         "$SQPTUWRV$",
@@ -1122,8 +1122,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "NAT",
-      "question": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
-      "rawQuestionHtml": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/Gate_QA/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
+      "question": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
+      "rawQuestionHtml": "<p>Suppose depth first search is executed on the graph below starting at some unknown vertex. Assume that a recursive call to visit a vertex is made only after first checking that the vertex has not been visited earlier. Then the maximum possible recursion depth (including the initial call) is _________.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"176\" src=\"/question-images/8731395499725788914.webp\" width=\"526\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -2578,8 +2578,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>",
-      "rawQuestionHtml": "<p><img alt=\"\" src=\"/Gate_QA/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$001, 010, 011$</li>\n<li>$111, 110, 101$</li>\n<li>$100, 110, 111$</li>\n<li>$100, 011, 001$</li>\n</ol>",
+      "question": "<p><img alt=\"\" src=\"/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" src=\"/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$001, 010, 011$</li>\n<li>$111, 110, 101$</li>\n<li>$100, 110, 111$</li>\n<li>$100, 011, 001$</li>\n</ol>",
       "options": [
         "$001, 010, 011$",
         "$111, 110, 101$",

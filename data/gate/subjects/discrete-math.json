@@ -2199,8 +2199,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Set Theory, Relations & Functions",
       "type": "MCQ",
-      "question": "<p>In the lattice defined by the Hasse diagram given in following figure, how many complements does the element ‘$e$’ have?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"326\" src=\"/Gate_QA/question-images/2484788142081845029.webp\" width=\"206\"/></p>",
-      "rawQuestionHtml": "<p>In the lattice defined by the Hasse diagram given in following figure, how many complements does the element ‘$e$’ have?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"326\" src=\"/Gate_QA/question-images/2484788142081845029.webp\" width=\"206\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$0$</li>\n<li>$1$</li>\n</ol>",
+      "question": "<p>In the lattice defined by the Hasse diagram given in following figure, how many complements does the element ‘$e$’ have?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"326\" src=\"/question-images/2484788142081845029.webp\" width=\"206\"/></p>",
+      "rawQuestionHtml": "<p>In the lattice defined by the Hasse diagram given in following figure, how many complements does the element ‘$e$’ have?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"326\" src=\"/question-images/2484788142081845029.webp\" width=\"206\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$0$</li>\n<li>$1$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -2901,8 +2901,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>The number of articulation points of the following graph is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"187\" src=\"/Gate_QA/question-images/10122687569461872598.webp\" width=\"324\"/></p>",
-      "rawQuestionHtml": "<p>The number of articulation points of the following graph is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"187\" src=\"/Gate_QA/question-images/10122687569461872598.webp\" width=\"324\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n</ol>",
+      "question": "<p>The number of articulation points of the following graph is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"187\" src=\"/question-images/10122687569461872598.webp\" width=\"324\"/></p>",
+      "rawQuestionHtml": "<p>The number of articulation points of the following graph is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"187\" src=\"/question-images/10122687569461872598.webp\" width=\"324\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0$</li>\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n</ol>",
       "options": [
         "$0$",
         "$1$",
@@ -5008,8 +5008,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>The minimum number of colours required to colour the following graph, such that no two adjacent vertices are assigned the same color, is</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/7781467705093671626.webp\"/></p>",
-      "rawQuestionHtml": "<p>The minimum number of colours required to colour the following graph, such that no two adjacent vertices are assigned the same color, is</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/7781467705093671626.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
+      "question": "<p>The minimum number of colours required to colour the following graph, such that no two adjacent vertices are assigned the same color, is</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/7781467705093671626.webp\"/></p>",
+      "rawQuestionHtml": "<p>The minimum number of colours required to colour the following graph, such that no two adjacent vertices are assigned the same color, is</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/7781467705093671626.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -5224,8 +5224,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Set Theory, Relations & Functions",
       "type": "MCQ",
-      "question": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>",
-      "rawQuestionHtml": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>not a lattice</li>\n<li>a lattice but not a distributive lattice</li>\n<li>a distributive lattice but not a Boolean algebra</li>\n<li>a Boolean algebra</li>\n</ol>",
+      "question": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>",
+      "rawQuestionHtml": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>not a lattice</li>\n<li>a lattice but not a distributive lattice</li>\n<li>a distributive lattice but not a Boolean algebra</li>\n<li>a Boolean algebra</li>\n</ol>",
       "options": [
         "not a lattice",
         "a lattice but not a distributive lattice",
@@ -5818,8 +5818,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/Gate_QA/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/Gate_QA/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>G1</li>\n<li>G2</li>\n<li>G3</li>\n<li>G4</li>\n</ol>",
+      "question": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>G1</li>\n<li>G2</li>\n<li>G3</li>\n<li>G4</li>\n</ol>",
       "options": [
         "G1",
         "G2",
@@ -7930,8 +7930,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/Gate_QA/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/Gate_QA/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>",
-      "rawQuestionHtml": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/Gate_QA/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/Gate_QA/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>K4 is a planar while Q3 is not</li>\n<li>Both K4 and Q3 are planar</li>\n<li>Q3 is planar while K4 is not</li>\n<li>Neither K4 nor Q3 is planar</li>\n</ol>",
+      "question": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>",
+      "rawQuestionHtml": "<p>K4 and Q3 are graphs with the following structures.</p>\n<p><img alt=\"\" height=\"360\" src=\"/question-images/4503444027158756413.webp\" style=\"float:left\" width=\"274\"/></p>\n<p><img alt=\"\" height=\"367\" src=\"/question-images/5568573331604376240.webp\" width=\"311\"/></p>\n<p>Which one of the following statements is <strong>TRUE </strong>in relation to these graphs?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>K4 is a planar while Q3 is not</li>\n<li>Both K4 and Q3 are planar</li>\n<li>Q3 is planar while K4 is not</li>\n<li>Neither K4 nor Q3 is planar</li>\n</ol>",
       "options": [
         "K4 is a planar while Q3 is not",
         "Both K4 and Q3 are planar",
@@ -8200,34 +8200,34 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>Which of the following graphs is isomorphic to&nbsp;</p><p>&nbsp;</p><p style=\"text-align:center\"><img alt=\"\" height=\"165\" width=\"224\" src=\"/Gate_QA/question-images/15553639219881940979.webp\"></p>",
-      "rawQuestionHtml": "<a name=\"1611\"></a><div itemprop=\"text\"><p>Which of the following graphs is isomorphic to&nbsp;</p><p>&nbsp;</p><p style=\"text-align:center\"><img alt=\"\" height=\"165\" width=\"224\" src=\"/Gate_QA/question-images/15553639219881940979.webp\"></p><ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:upper-alpha\"><li><br><img alt=\"\" height=\"154\" width=\"209\" src=\"/Gate_QA/question-images/14998394253583156383.webp\"></li><li><br><img alt=\"\" height=\"218\" width=\"200\" src=\"/Gate_QA/question-images/14614700610522175960.webp\"></li><li><br><img alt=\"\" height=\"163\" width=\"221\" src=\"/Gate_QA/question-images/18215131944505232847.webp\"></li><li><br><img alt=\"\" height=\"164\" width=\"223\" src=\"/Gate_QA/question-images/17446322222808286423.webp\"></li></ol></div>",
+      "question": "<p>Which of the following graphs is isomorphic to&nbsp;</p><p>&nbsp;</p><p style=\"text-align:center\"><img alt=\"\" height=\"165\" width=\"224\" src=\"/question-images/15553639219881940979.webp\"></p>",
+      "rawQuestionHtml": "<a name=\"1611\"></a><div itemprop=\"text\"><p>Which of the following graphs is isomorphic to&nbsp;</p><p>&nbsp;</p><p style=\"text-align:center\"><img alt=\"\" height=\"165\" width=\"224\" src=\"/question-images/15553639219881940979.webp\"></p><ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:upper-alpha\"><li><br><img alt=\"\" height=\"154\" width=\"209\" src=\"/question-images/14998394253583156383.webp\"></li><li><br><img alt=\"\" height=\"218\" width=\"200\" src=\"/question-images/14614700610522175960.webp\"></li><li><br><img alt=\"\" height=\"163\" width=\"221\" src=\"/question-images/18215131944505232847.webp\"></li><li><br><img alt=\"\" height=\"164\" width=\"223\" src=\"/question-images/17446322222808286423.webp\"></li></ol></div>",
       "options": [
-        "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/Gate_QA/question-images/14998394253583156383.webp\">",
-        "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/Gate_QA/question-images/14614700610522175960.webp\">",
-        "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/Gate_QA/question-images/18215131944505232847.webp\">",
-        "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/Gate_QA/question-images/17446322222808286423.webp\">"
+        "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/question-images/14998394253583156383.webp\">",
+        "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/question-images/14614700610522175960.webp\">",
+        "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/question-images/18215131944505232847.webp\">",
+        "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/question-images/17446322222808286423.webp\">"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/Gate_QA/question-images/14998394253583156383.webp\">",
-          "html": "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/Gate_QA/question-images/14998394253583156383.webp\">"
+          "text": "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/question-images/14998394253583156383.webp\">",
+          "html": "<br><img alt=\"\" height=\"154\" width=\"209\" src=\"/question-images/14998394253583156383.webp\">"
         },
         {
           "label": "B",
-          "text": "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/Gate_QA/question-images/14614700610522175960.webp\">",
-          "html": "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/Gate_QA/question-images/14614700610522175960.webp\">"
+          "text": "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/question-images/14614700610522175960.webp\">",
+          "html": "<br><img alt=\"\" height=\"218\" width=\"200\" src=\"/question-images/14614700610522175960.webp\">"
         },
         {
           "label": "C",
-          "text": "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/Gate_QA/question-images/18215131944505232847.webp\">",
-          "html": "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/Gate_QA/question-images/18215131944505232847.webp\">"
+          "text": "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/question-images/18215131944505232847.webp\">",
+          "html": "<br><img alt=\"\" height=\"163\" width=\"221\" src=\"/question-images/18215131944505232847.webp\">"
         },
         {
           "label": "D",
-          "text": "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/Gate_QA/question-images/17446322222808286423.webp\">",
-          "html": "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/Gate_QA/question-images/17446322222808286423.webp\">"
+          "text": "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/question-images/17446322222808286423.webp\">",
+          "html": "<br><img alt=\"\" height=\"164\" width=\"223\" src=\"/question-images/17446322222808286423.webp\">"
         }
       ],
       "answer": [
@@ -9746,8 +9746,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Set Theory, Relations & Functions",
       "type": "MCQ",
-      "question": "<p>Suppose $L = \\left\\{ p, q, r, s, t\\right\\}$ is a lattice represented by the following Hasse diagram:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8800817407940861788.webp\"/></p>\n<p>For any $x, y \\in L$, not necessarily distinct , $x \\vee y$ and $x \\wedge y$ are join and meet of $x, y$, respectively. Let $L^3 = \\left\\{\\left(x, y, z\\right): x, y, z \\in L\\right\\}$ be the set of all ordered triplets of the elements of $L$. Let $p_{r}$ be the probability that an element $\\left(x, y,z\\right) \\in L^3$ chosen equiprobably satisfies $x \\vee (y \\wedge z) = (x \\vee  y) \\wedge (x \\vee  z)$. Then</p>",
-      "rawQuestionHtml": "<p>Suppose $L = \\left\\{ p, q, r, s, t\\right\\}$ is a lattice represented by the following Hasse diagram:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8800817407940861788.webp\"/></p>\n<p>For any $x, y \\in L$, not necessarily distinct , $x \\vee y$ and $x \\wedge y$ are join and meet of $x, y$, respectively. Let $L^3 = \\left\\{\\left(x, y, z\\right): x, y, z \\in L\\right\\}$ be the set of all ordered triplets of the elements of $L$. Let $p_{r}$ be the probability that an element $\\left(x, y,z\\right) \\in L^3$ chosen equiprobably satisfies $x \\vee (y \\wedge z) = (x \\vee  y) \\wedge (x \\vee  z)$. Then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$p_r = 0$</li>\n<li>$p_r = 1$</li>\n<li>$0 &lt; p_r ≤ \\frac{1}{5}$</li>\n<li>$\\frac{1}{5} &lt; p_r &lt; 1$</li>\n</ol>",
+      "question": "<p>Suppose $L = \\left\\{ p, q, r, s, t\\right\\}$ is a lattice represented by the following Hasse diagram:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8800817407940861788.webp\"/></p>\n<p>For any $x, y \\in L$, not necessarily distinct , $x \\vee y$ and $x \\wedge y$ are join and meet of $x, y$, respectively. Let $L^3 = \\left\\{\\left(x, y, z\\right): x, y, z \\in L\\right\\}$ be the set of all ordered triplets of the elements of $L$. Let $p_{r}$ be the probability that an element $\\left(x, y,z\\right) \\in L^3$ chosen equiprobably satisfies $x \\vee (y \\wedge z) = (x \\vee  y) \\wedge (x \\vee  z)$. Then</p>",
+      "rawQuestionHtml": "<p>Suppose $L = \\left\\{ p, q, r, s, t\\right\\}$ is a lattice represented by the following Hasse diagram:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8800817407940861788.webp\"/></p>\n<p>For any $x, y \\in L$, not necessarily distinct , $x \\vee y$ and $x \\wedge y$ are join and meet of $x, y$, respectively. Let $L^3 = \\left\\{\\left(x, y, z\\right): x, y, z \\in L\\right\\}$ be the set of all ordered triplets of the elements of $L$. Let $p_{r}$ be the probability that an element $\\left(x, y,z\\right) \\in L^3$ chosen equiprobably satisfies $x \\vee (y \\wedge z) = (x \\vee  y) \\wedge (x \\vee  z)$. Then</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$p_r = 0$</li>\n<li>$p_r = 1$</li>\n<li>$0 &lt; p_r ≤ \\frac{1}{5}$</li>\n<li>$\\frac{1}{5} &lt; p_r &lt; 1$</li>\n</ol>",
       "options": [
         "$p_r = 0$",
         "$p_r = 1$",
@@ -11026,8 +11026,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Set Theory, Relations & Functions",
       "type": "NAT",
-      "question": "<p>Consider the set  $X=\\{a, b, c, d, e\\}$  under partial ordering  $R=\\{(a,a), (a, b), (a, c), (a, d), (a, e), (b, b), (b, c), (b, e), (c, c), (c, e), (d, d), (d, e), (e, e) \\}$</p>\n<p>The Hasse diagram of the partial order $(X, R)$ is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/7716982195694840957.webp\" width=\"208\"/></p>\n<p>The minimum number of ordered pairs that need to be added to $R$ to make $(X, R)$ a lattice is ______</p>",
-      "rawQuestionHtml": "<p>Consider the set  $X=\\{a, b, c, d, e\\}$  under partial ordering  $R=\\{(a,a), (a, b), (a, c), (a, d), (a, e), (b, b), (b, c), (b, e), (c, c), (c, e), (d, d), (d, e), (e, e) \\}$</p>\n<p>The Hasse diagram of the partial order $(X, R)$ is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/7716982195694840957.webp\" width=\"208\"/></p>\n<p>The minimum number of ordered pairs that need to be added to $R$ to make $(X, R)$ a lattice is ______</p>",
+      "question": "<p>Consider the set  $X=\\{a, b, c, d, e\\}$  under partial ordering  $R=\\{(a,a), (a, b), (a, c), (a, d), (a, e), (b, b), (b, c), (b, e), (c, c), (c, e), (d, d), (d, e), (e, e) \\}$</p>\n<p>The Hasse diagram of the partial order $(X, R)$ is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/7716982195694840957.webp\" width=\"208\"/></p>\n<p>The minimum number of ordered pairs that need to be added to $R$ to make $(X, R)$ a lattice is ______</p>",
+      "rawQuestionHtml": "<p>Consider the set  $X=\\{a, b, c, d, e\\}$  under partial ordering  $R=\\{(a,a), (a, b), (a, c), (a, d), (a, e), (b, b), (b, c), (b, e), (c, c), (c, e), (d, d), (d, e), (e, e) \\}$</p>\n<p>The Hasse diagram of the partial order $(X, R)$ is shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/7716982195694840957.webp\" width=\"208\"/></p>\n<p>The minimum number of ordered pairs that need to be added to $R$ to make $(X, R)$ a lattice is ______</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -11116,8 +11116,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "NAT",
-      "question": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
-      "rawQuestionHtml": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/Gate_QA/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
+      "question": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
+      "rawQuestionHtml": "<p>The chromatic number of the following graph is _____</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"172\" src=\"/question-images/2195086819466505971.webp\" width=\"255\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -12130,8 +12130,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MSQ",
-      "question": "<p>The following simple undirected graph is referred to as the Peterson graph.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/Gate_QA/question-images/4651443816084533025.webp\" width=\"203\"/></p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/12521803792638606269.webp\" width=\"192\"/></p>",
-      "rawQuestionHtml": "<p>The following simple undirected graph is referred to as the Peterson graph.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/Gate_QA/question-images/4651443816084533025.webp\" width=\"203\"/></p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>The chromatic number of the graph is $3.$</li>\n<li>The graph has a Hamiltonian path.</li>\n<li>The following graph is isomorphic to the Peterson graph.</li>\n</ol>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/12521803792638606269.webp\" width=\"192\"/></p>\n<ol start=\"4\" style=\"list-style-type:upper-alpha\">\n<li>The size of the largest independent set of the given graph is $3.$ (A subset of vertices of a graph form an independent set if no two vertices of the subset are adjacent.)</li>\n</ol>",
+      "question": "<p>The following simple undirected graph is referred to as the Peterson graph.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/question-images/4651443816084533025.webp\" width=\"203\"/></p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/12521803792638606269.webp\" width=\"192\"/></p>",
+      "rawQuestionHtml": "<p>The following simple undirected graph is referred to as the Peterson graph.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/question-images/4651443816084533025.webp\" width=\"203\"/></p>\n<p>Which of the following statements is/are $\\text{TRUE}?$</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>The chromatic number of the graph is $3.$</li>\n<li>The graph has a Hamiltonian path.</li>\n<li>The following graph is isomorphic to the Peterson graph.</li>\n</ol>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/12521803792638606269.webp\" width=\"192\"/></p>\n<ol start=\"4\" style=\"list-style-type:upper-alpha\">\n<li>The size of the largest independent set of the given graph is $3.$ (A subset of vertices of a graph form an independent set if no two vertices of the subset are adjacent.)</li>\n</ol>",
       "options": [
         "The chromatic number of the graph is $3.$",
         "The graph has a Hamiltonian path.",
@@ -12871,8 +12871,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>The chromatic number of a graph is the minimum number of colours used in a proper colouring of the graph. The chromatic number of the following graph is __________.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15228750902979781848.webp\" width=\"340\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422847\"></a><div itemprop=\"text\"><p>The chromatic number of a graph is the minimum number of colours used in a proper colouring of the graph. The chromatic number of the following graph is __________.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15228750902979781848.webp\" width=\"340\"/></p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>The chromatic number of a graph is the minimum number of colours used in a proper colouring of the graph. The chromatic number of the following graph is __________.</p>\n<p><img alt=\"\" src=\"/question-images/15228750902979781848.webp\" width=\"340\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422847\"></a><div itemprop=\"text\"><p>The chromatic number of a graph is the minimum number of colours used in a proper colouring of the graph. The chromatic number of the following graph is __________.</p>\n<p><img alt=\"\" src=\"/question-images/15228750902979781848.webp\" width=\"340\"/></p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -13233,8 +13233,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Mathematical Logic & Proofs",
       "type": "MCQ",
-      "question": "<p>What is the chromatic number of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3396802636713983726.webp\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>What is the chromatic number of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3396802636713983726.webp\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
+      "question": "<p>What is the chromatic number of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3396802636713983726.webp\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>What is the chromatic number of the following graph?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3396802636713983726.webp\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -13611,8 +13611,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Mathematical Logic & Proofs",
       "type": "MCQ",
-      "question": "<p>Consider the following Hasse diagrams.</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:lower-roman\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13704456230339815073.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14549037313555261470.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/2542191495641001674.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/9889679979641374028.webp\"/></li>\n</ol>\n<p> </p>\n<p style=\"clear:both\">Which all of the above represent a lattice?</p>",
-      "rawQuestionHtml": "<p>Consider the following Hasse diagrams.</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:lower-roman\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13704456230339815073.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14549037313555261470.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/2542191495641001674.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/9889679979641374028.webp\"/></li>\n</ol>\n<p> </p>\n<p style=\"clear:both\">Which all of the above represent a lattice?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(i) and (iv) only</li>\n<li>(ii) and (iii) only</li>\n<li>(iii) only</li>\n<li>(i), (ii) and (iv) only</li>\n</ol>",
+      "question": "<p>Consider the following Hasse diagrams.</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:lower-roman\">\n<li><img alt=\"\" src=\"/question-images/13704456230339815073.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/14549037313555261470.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/2542191495641001674.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/9889679979641374028.webp\"/></li>\n</ol>\n<p> </p>\n<p style=\"clear:both\">Which all of the above represent a lattice?</p>",
+      "rawQuestionHtml": "<p>Consider the following Hasse diagrams.</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:lower-roman\">\n<li><img alt=\"\" src=\"/question-images/13704456230339815073.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/14549037313555261470.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/2542191495641001674.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/9889679979641374028.webp\"/></li>\n</ol>\n<p> </p>\n<p style=\"clear:both\">Which all of the above represent a lattice?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(i) and (iv) only</li>\n<li>(ii) and (iii) only</li>\n<li>(iii) only</li>\n<li>(i), (ii) and (iv) only</li>\n</ol>",
       "options": [
         "(i) and (iv) only",
         "(ii) and (iii) only",
@@ -15177,8 +15177,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Mathematical Logic & Proofs",
       "type": "MCQ",
-      "question": "<p>Which of the following input sequences will always generate a 1 at the output z at the end of the third cycle?<br><br><img alt=\"\" src=\"/Gate_QA/question-images/it_go_3804_0.jpg\"/><br></p>",
-      "rawQuestionHtml": "<p>Which of the following input sequences will always generate a 1 at the output z at the end of the third cycle?<br><br><img alt=\"\" src=\"/Gate_QA/question-images/it_go_3804_0.jpg\"/><br></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\ \\hline \\text{0} & \\text{0} & \\text{0} \\\\ \\hline \\text{1} & \\text{0} & \\text{1} \\\\ \\hline \\text{1} & \\text{1} & \\text{1} \\\\ \\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{1} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{0} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{0} & \\text{1} & \\text{1} \\\\\\hline \\text{1} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{0} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{0} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n</ol>",
+      "question": "<p>Which of the following input sequences will always generate a 1 at the output z at the end of the third cycle?<br><br><img alt=\"\" src=\"/question-images/it_go_3804_0.jpg\"/><br></p>",
+      "rawQuestionHtml": "<p>Which of the following input sequences will always generate a 1 at the output z at the end of the third cycle?<br><br><img alt=\"\" src=\"/question-images/it_go_3804_0.jpg\"/><br></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\ \\hline \\text{0} & \\text{0} & \\text{0} \\\\ \\hline \\text{1} & \\text{0} & \\text{1} \\\\ \\hline \\text{1} & \\text{1} & \\text{1} \\\\ \\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{1} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{0} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{0} & \\text{1} & \\text{1} \\\\\\hline \\text{1} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n<li>$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{0} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{0} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$</li>\n</ol>",
       "options": [
         "$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\ \\hline \\text{0} & \\text{0} & \\text{0} \\\\ \\hline \\text{1} & \\text{0} & \\text{1} \\\\ \\hline \\text{1} & \\text{1} & \\text{1} \\\\ \\hline \\end{array}$",
         "$\\begin{array}{|l|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline \\text{1} & \\text{0} & \\text{1} \\\\\\hline \\text{1} & \\text{1} & \\text{0} \\\\\\hline \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array}$",

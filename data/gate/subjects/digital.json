@@ -504,8 +504,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "NAT",
-      "question": "<p>Consider the digital circuit shown below with two input lines $\\text{A}$ and $\\text{B}$, two select lines $\\text{S0}$ and $\\text{S1}$, and an output line $\\text{Y}$. The blocks $\\text{Q}$ and $\\text{M}$ represent active high $2:4$ decoder and $4$-to-$1$ multiplexer, respectively. Out of $16$ possible input combinations, the number of combinations that produce $\\mathrm{Y}=1$ is $\\_\\_\\_\\_\\_\\_$ (answer in integer)</p><p>Note: One input combination is an instance of [$\\text{A B S1 S0}$].</p><p style=\"text-align:center\"><img alt=\"\" width=\"692\" height=\"252\" src=\"/Gate_QA/question-images/8472459192530204151.webp\"></p>",
-      "rawQuestionHtml": "\n<a name=\"523097\"></a><div itemprop=\"text\"><p>Consider the digital circuit shown below with two input lines $\\text{A}$ and $\\text{B}$, two select lines $\\text{S0}$ and $\\text{S1}$, and an output line $\\text{Y}$. The blocks $\\text{Q}$ and $\\text{M}$ represent active high $2:4$ decoder and $4$-to-$1$ multiplexer, respectively. Out of $16$ possible input combinations, the number of combinations that produce $\\mathrm{Y}=1$ is $\\_\\_\\_\\_\\_\\_$ (answer in integer)</p><p>Note: One input combination is an instance of [$\\text{A B S1 S0}$].</p><p style=\"text-align:center\"><img alt=\"\" width=\"692\" height=\"252\" src=\"/Gate_QA/question-images/8472459192530204151.webp\"></p></div>\n",
+      "question": "<p>Consider the digital circuit shown below with two input lines $\\text{A}$ and $\\text{B}$, two select lines $\\text{S0}$ and $\\text{S1}$, and an output line $\\text{Y}$. The blocks $\\text{Q}$ and $\\text{M}$ represent active high $2:4$ decoder and $4$-to-$1$ multiplexer, respectively. Out of $16$ possible input combinations, the number of combinations that produce $\\mathrm{Y}=1$ is $\\_\\_\\_\\_\\_\\_$ (answer in integer)</p><p>Note: One input combination is an instance of [$\\text{A B S1 S0}$].</p><p style=\"text-align:center\"><img alt=\"\" width=\"692\" height=\"252\" src=\"/question-images/8472459192530204151.webp\"></p>",
+      "rawQuestionHtml": "\n<a name=\"523097\"></a><div itemprop=\"text\"><p>Consider the digital circuit shown below with two input lines $\\text{A}$ and $\\text{B}$, two select lines $\\text{S0}$ and $\\text{S1}$, and an output line $\\text{Y}$. The blocks $\\text{Q}$ and $\\text{M}$ represent active high $2:4$ decoder and $4$-to-$1$ multiplexer, respectively. Out of $16$ possible input combinations, the number of combinations that produce $\\mathrm{Y}=1$ is $\\_\\_\\_\\_\\_\\_$ (answer in integer)</p><p>Note: One input combination is an instance of [$\\text{A B S1 S0}$].</p><p style=\"text-align:center\"><img alt=\"\" width=\"692\" height=\"252\" src=\"/question-images/8472459192530204151.webp\"></p></div>\n",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -534,8 +534,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p>",
-      "rawQuestionHtml": "<a name=\"80029\"></a><div itemprop=\"text\"><p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/1799921037359385132.webp\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
+      "question": "<p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/question-images/1799921037359385132.webp\"></p>",
+      "rawQuestionHtml": "<a name=\"80029\"></a><div itemprop=\"text\"><p>The most satisfactory LED driver circuit using a TTL gate is:</p>\n\n<p><img alt=\"\" src=\"/question-images/1799921037359385132.webp\"></p></div>\n<ol style=\"list-style-type:upper-alpha\">\n<li>(A)</li>\n<li>(B)</li>\n<li>(C)</li>\n<li>(D)</li>\n</ol>",
       "options": [
         "(A)",
         "(B)",
@@ -642,8 +642,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "MCQ",
-      "question": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>",
-      "rawQuestionHtml": "<p><img alt=\"\" height=\"258\" src=\"/Gate_QA/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111\\quad 1111\\quad0000\\quad0000$</li>\n<li>$1111 \\quad 0000\\quad1111\\quad0000$</li>\n<li>$1111 \\quad 0001\\quad0011\\quad0101$</li>\n<li>$1010\\quad1010\\quad1010\\quad1010$</li>\n</ol>",
+      "question": "<p><img alt=\"\" height=\"258\" src=\"/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" height=\"258\" src=\"/question-images/7573777038921681481.webp\" width=\"701\"/></p>\n<p>The above circuit produces the output sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1111\\quad 1111\\quad0000\\quad0000$</li>\n<li>$1111 \\quad 0000\\quad1111\\quad0000$</li>\n<li>$1111 \\quad 0001\\quad0011\\quad0101$</li>\n<li>$1010\\quad1010\\quad1010\\quad1010$</li>\n</ol>",
       "options": [
         "$1111\\quad 1111\\quad0000\\quad0000$",
         "$1111 \\quad 0000\\quad1111\\quad0000$",
@@ -696,8 +696,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>",
-      "rawQuestionHtml": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/7143169322732422482.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$</li>\n<li>$A\\oplus B\\oplus C$</li>\n<li>$A \\oplus B$</li>\n<li>$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$</li>\n</ol>",
+      "question": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/question-images/7143169322732422482.webp\"/></p>",
+      "rawQuestionHtml": "<p>The output $F$ of the below multiplexer circuit can be represented by</p>\n<p><img alt=\"\" src=\"/question-images/7143169322732422482.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$</li>\n<li>$A\\oplus B\\oplus C$</li>\n<li>$A \\oplus B$</li>\n<li>$\\bar{A} \\bar{B} C+ \\bar{A} B \\bar{C}+A \\bar{B} \\bar{C}$</li>\n</ol>",
       "options": [
         "$AB+B\\bar{C}+\\bar{C}A+\\bar{B}\\bar{C}$",
         "$A\\oplus B\\oplus C$",
@@ -858,8 +858,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>",
-      "rawQuestionHtml": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$1111$</li>\n<li>$1001$</li>\n<li>$1000$</li>\n</ol>",
+      "question": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>",
+      "rawQuestionHtml": "<p>The below figure shows four $\\text{D}$-type flip-flops connected as a shift register using a $\\text{XOR}$ gate. The initial state and three subsequent states for three clock pulses are also given.</p>\n<p><img alt=\"\" src=\"/question-images/17285955097631553033.webp\" width=\"760\"/></p>\n<p>$$\\begin{array}{l|c|c|c|c} \\hline \\text{State} &amp; Q_{A} &amp; Q_{B} &amp; Q_{C} &amp; Q_{D} \\\\\\hline \\text{Initial} &amp; 1 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the first clock} &amp; 0 &amp; 1 &amp; 1 &amp; 1 \\\\ \\text{After the second clock} &amp; 0 &amp; 0 &amp; 1 &amp; 1 \\\\ \\text{After the third clock} &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\hline  \\end{array}$$The state $Q_{A} Q_{B} Q_{C} Q_{D}$ after the fourth clock pulse is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$1111$</li>\n<li>$1001$</li>\n<li>$1000$</li>\n</ol>",
       "options": [
         "$0000$",
         "$1111$",
@@ -912,34 +912,34 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>",
-      "rawQuestionHtml": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/Gate_QA/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>\n</li>\n</ol>",
+      "question": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>",
+      "rawQuestionHtml": "<p>A Boolean function $f$ is to be realized only by $\\text{NOR}$ gates. Its $K$-map is given below:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"179\" src=\"/question-images/1995087251848624230.webp\" width=\"271\"/></p>\n<p>The realization is</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>\n</li>\n<li> \n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>\n</li>\n</ol>",
       "options": [
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
-        "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>",
+        "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/17094871470118680541.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/17094871470118680541.webp\"/></p>"
         },
         {
           "label": "B",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2382980744040740425.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2382980744040740425.webp\"/></p>"
         },
         {
           "label": "C",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/13312218518569771874.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/13312218518569771874.webp\"/></p>"
         },
         {
           "label": "D",
-          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>",
-          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8750240911196296486.webp\"/></p>"
+          "text": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>",
+          "html": "<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8750240911196296486.webp\"/></p>"
         }
       ],
       "answer": [
@@ -996,8 +996,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>",
-      "rawQuestionHtml": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Y=ABC + DE$</li>\n<li>$Y=\\overline{ABC + DE}$</li>\n<li>$Y=ABC.DE$</li>\n<li>$Y=\\overline{ABC.DE}$</li>\n</ol>",
+      "question": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>",
+      "rawQuestionHtml": "<p>Choose the correct alternatives (More than one may be correct).</p>\n<p>Two NAND gates having open collector outputs are tied together as shown in below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/14301829791499661150.webp\" width=\"357\"/></p>\n<p>The logic function $Y,$ implemented by the circuit is,</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Y=ABC + DE$</li>\n<li>$Y=\\overline{ABC + DE}$</li>\n<li>$Y=ABC.DE$</li>\n<li>$Y=\\overline{ABC.DE}$</li>\n</ol>",
       "options": [
         "$Y=ABC + DE$",
         "$Y=\\overline{ABC + DE}$",
@@ -1170,8 +1170,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "NAT",
-      "question": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
-      "rawQuestionHtml": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
+      "question": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
+      "rawQuestionHtml": "<p>Find the maximum clock frequency at which the counter in the figure below can be operated. Assume that the propagation delay through each flip flop and each AND gate is $10\\;\\text{ns}$. Also, assume that the setup time for the $JK$ inputs of the flip flops is negligible.</p>\n<p><img alt=\"\" src=\"/question-images/12314613958185348661.webp\" width=\"650\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -1309,8 +1309,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4659966365982334750.webp\"/></p>",
-      "rawQuestionHtml": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4659966365982334750.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>exclusive OR</li>\n<li>exclusive NOR</li>\n<li>NAND</li>\n<li>NOR</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4659966365982334750.webp\"/></p>",
+      "rawQuestionHtml": "<p>Identify the logic function performed by the circuit shown in figure.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4659966365982334750.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>exclusive OR</li>\n<li>exclusive NOR</li>\n<li>NAND</li>\n<li>NOR</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "exclusive OR",
         "exclusive NOR",
@@ -1369,8 +1369,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11950775580811503216.webp\" width=\"600\"/></p>",
-      "rawQuestionHtml": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11950775580811503216.webp\" width=\"600\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$a.b=1$</li>\n<li>$a+b=1$</li>\n<li>$\\bar{a} + \\bar{b} =0$</li>\n<li>$\\overline{a.b}=1$</li>\n<li>$\\overline{a+b} =1$</li>\n</ol>",
+      "question": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/question-images/11950775580811503216.webp\" width=\"600\"/></p>",
+      "rawQuestionHtml": "<p>If the state machine described in figure should have a stable state, the restriction on the inputs is given by</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/question-images/11950775580811503216.webp\" width=\"600\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$a.b=1$</li>\n<li>$a+b=1$</li>\n<li>$\\bar{a} + \\bar{b} =0$</li>\n<li>$\\overline{a.b}=1$</li>\n<li>$\\overline{a+b} =1$</li>\n</ol>",
       "options": [
         "$a.b=1$",
         "$a+b=1$",
@@ -1429,8 +1429,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MSQ",
-      "question": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/Gate_QA/question-images/11587881660080084842.webp\" width=\"567\"/></p>",
-      "rawQuestionHtml": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/Gate_QA/question-images/11587881660080084842.webp\" width=\"567\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Shift Register</li>\n<li>$\\text{Mod- 3}$ Counter</li>\n<li>$\\text{Mod- 6}$ Counter</li>\n<li>$\\text{Mod- 2}$ Counter</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/question-images/11587881660080084842.webp\" width=\"567\"/></p>",
+      "rawQuestionHtml": "<p>For the initial state of $000$, the function performed by the arrangement of the $\\text{J-K}$ flip-flops in figure is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"178\" src=\"/question-images/11587881660080084842.webp\" width=\"567\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>Shift Register</li>\n<li>$\\text{Mod- 3}$ Counter</li>\n<li>$\\text{Mod- 6}$ Counter</li>\n<li>$\\text{Mod- 2}$ Counter</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "Shift Register",
         "$\\text{Mod- 3}$ Counter",
@@ -1490,8 +1490,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/Gate_QA/question-images/9049819705361334855.webp\" width=\"523\"/></p>",
-      "rawQuestionHtml": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/Gate_QA/question-images/9049819705361334855.webp\" width=\"523\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\overline{AC} + \\overline{BC} +CD$</p>\n</li>\n<li>\n<p>$\\overline{A}C + \\overline{B}C + CD$</p>\n</li>\n<li>\n<p>$ABC +\\overline {C}\\; \\overline{D}$</p>\n</li>\n<li>\n<p>$\\overline{A}\\; \\overline{B} + \\overline{B}\\;  \\overline{C} +CD$</p>\n</li>\n</ol>",
+      "question": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/question-images/9049819705361334855.webp\" width=\"523\"/></p>",
+      "rawQuestionHtml": "<p>The logic expression for the output of the circuit shown in figure below is:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"231\" src=\"/question-images/9049819705361334855.webp\" width=\"523\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\overline{AC} + \\overline{BC} +CD$</p>\n</li>\n<li>\n<p>$\\overline{A}C + \\overline{B}C + CD$</p>\n</li>\n<li>\n<p>$ABC +\\overline {C}\\; \\overline{D}$</p>\n</li>\n<li>\n<p>$\\overline{A}\\; \\overline{B} + \\overline{B}\\;  \\overline{C} +CD$</p>\n</li>\n</ol>",
       "options": [
         "$\\overline{AC} + \\overline{BC} +CD$",
         "$\\overline{A}C + \\overline{B}C + CD$",
@@ -1570,8 +1570,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "NAT",
-      "question": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
-      "rawQuestionHtml": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
+      "question": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
+      "rawQuestionHtml": "<p>Find the contents of the flip-flop $Q_2, Q_1$ and $Q_0$ in the circuit of figure, after giving four clock pulses to the clock terminal. Assume $Q_2Q_1Q_0=000$ initially.</p>\n<p><img alt=\"\" src=\"/question-images/12348231465355729099.webp\" width=\"650\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -1924,8 +1924,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the circuit in below figure which has a four bit binary number $b_3b_2b_1b_0$ as input and a five bit binary number, $d_4d_3d_2d_1d_0$ as output.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/13834319317200339089.webp\" width=\"329\"/></p>",
-      "rawQuestionHtml": "<p>Consider the circuit in below figure which has a four bit binary number $b_3b_2b_1b_0$ as input and a five bit binary number, $d_4d_3d_2d_1d_0$ as output.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/Gate_QA/question-images/13834319317200339089.webp\" width=\"329\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Binary to Hex conversion</p>\n</li>\n<li>\n<p>Binary to BCD conversion</p>\n</li>\n<li>\n<p>Binary to Gray code conversion</p>\n</li>\n<li>\n<p>Binary to $radix-12$ conversion</p>\n</li>\n</ol>",
+      "question": "<p>Consider the circuit in below figure which has a four bit binary number $b_3b_2b_1b_0$ as input and a five bit binary number, $d_4d_3d_2d_1d_0$ as output.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/13834319317200339089.webp\" width=\"329\"/></p>",
+      "rawQuestionHtml": "<p>Consider the circuit in below figure which has a four bit binary number $b_3b_2b_1b_0$ as input and a five bit binary number, $d_4d_3d_2d_1d_0$ as output.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"301\" src=\"/question-images/13834319317200339089.webp\" width=\"329\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>Binary to Hex conversion</p>\n</li>\n<li>\n<p>Binary to BCD conversion</p>\n</li>\n<li>\n<p>Binary to Gray code conversion</p>\n</li>\n<li>\n<p>Binary to $radix-12$ conversion</p>\n</li>\n</ol>",
       "options": [
         "Binary to Hex conversion",
         "Binary to BCD conversion",
@@ -1978,8 +1978,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>Consider the circuit in figure. $f$ implements</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"221\" src=\"/Gate_QA/question-images/11537155974416398715.webp\" width=\"270\"/></p>",
-      "rawQuestionHtml": "<p>Consider the circuit in figure. $f$ implements</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"221\" src=\"/Gate_QA/question-images/11537155974416398715.webp\" width=\"270\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\overline{A} \\overline{B}C + \\overline{A}B \\overline{C} + ABC$</p>\n</li>\n<li>\n<p>$A + B + C$</p>\n</li>\n<li>\n<p>$A \\oplus B \\oplus C$</p>\n</li>\n<li>\n<p>$AB + BC + CA$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the circuit in figure. $f$ implements</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"221\" src=\"/question-images/11537155974416398715.webp\" width=\"270\"/></p>",
+      "rawQuestionHtml": "<p>Consider the circuit in figure. $f$ implements</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"221\" src=\"/question-images/11537155974416398715.webp\" width=\"270\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\overline{A} \\overline{B}C + \\overline{A}B \\overline{C} + ABC$</p>\n</li>\n<li>\n<p>$A + B + C$</p>\n</li>\n<li>\n<p>$A \\oplus B \\oplus C$</p>\n</li>\n<li>\n<p>$AB + BC + CA$</p>\n</li>\n</ol>",
       "options": [
         "$\\overline{A} \\overline{B}C + \\overline{A}B \\overline{C} + ABC$",
         "$A + B + C$",
@@ -2032,8 +2032,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>What is the equivalent Boolean expression in product-of-sums form for the Karnaugh map given in Fig</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"204\" src=\"/Gate_QA/question-images/12699814496559587426.webp\" width=\"212\"/></p>",
-      "rawQuestionHtml": "<p>What is the equivalent Boolean expression in product-of-sums form for the Karnaugh map given in Fig</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"204\" src=\"/Gate_QA/question-images/12699814496559587426.webp\" width=\"212\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$B\\overline{D} + \\overline{B}D$</p>\n</li>\n<li>\n<p>$(B + \\overline{C} +D) (\\overline{B} + C + \\overline{D})$</p>\n</li>\n<li>\n<p>$(B + {D})(\\overline{B} +\\overline{ D})$</p>\n</li>\n<li>\n<p>$(B + \\overline{D})(\\overline{B} + {D})$</p>\n</li>\n</ol>",
+      "question": "<p>What is the equivalent Boolean expression in product-of-sums form for the Karnaugh map given in Fig</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"204\" src=\"/question-images/12699814496559587426.webp\" width=\"212\"/></p>",
+      "rawQuestionHtml": "<p>What is the equivalent Boolean expression in product-of-sums form for the Karnaugh map given in Fig</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"204\" src=\"/question-images/12699814496559587426.webp\" width=\"212\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$B\\overline{D} + \\overline{B}D$</p>\n</li>\n<li>\n<p>$(B + \\overline{C} +D) (\\overline{B} + C + \\overline{D})$</p>\n</li>\n<li>\n<p>$(B + {D})(\\overline{B} +\\overline{ D})$</p>\n</li>\n<li>\n<p>$(B + \\overline{D})(\\overline{B} + {D})$</p>\n</li>\n</ol>",
       "options": [
         "$B\\overline{D} + \\overline{B}D$",
         "$(B + \\overline{C} +D) (\\overline{B} + C + \\overline{D})$",
@@ -2302,8 +2302,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider a logic circuit shown in figure below. The functions $f_1, f_2 \\text{ and } f$ (in canonical sum of products form in decimal notation) are :</p>\n<p>$f_1 (w, x, y, z) = \\sum 8, 9, 10$</p>\n<p>$f_2 (w, x, y, z) = \\sum 7, 8, 12, 13, 14, 15$</p>\n<p>$f (w, x, y, z) = \\sum 8, 9$</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9181598549419690474.webp\"/></p>\n<p>The function $f_3$ is</p>",
-      "rawQuestionHtml": "<p>Consider a logic circuit shown in figure below. The functions $f_1, f_2 \\text{ and } f$ (in canonical sum of products form in decimal notation) are :</p>\n<p>$f_1 (w, x, y, z) = \\sum 8, 9, 10$</p>\n<p>$f_2 (w, x, y, z) = \\sum 7, 8, 12, 13, 14, 15$</p>\n<p>$f (w, x, y, z) = \\sum 8, 9$</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/9181598549419690474.webp\"/></p>\n<p>The function $f_3$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\sum 9, 10$</li>\n<li>\n<p>$\\sum 9$</p>\n</li>\n<li>\n<p>$\\sum 1, 8, 9$</p>\n</li>\n<li>\n<p>$\\sum 8, 10, 15$</p>\n</li>\n</ol>",
+      "question": "<p>Consider a logic circuit shown in figure below. The functions $f_1, f_2 \\text{ and } f$ (in canonical sum of products form in decimal notation) are :</p>\n<p>$f_1 (w, x, y, z) = \\sum 8, 9, 10$</p>\n<p>$f_2 (w, x, y, z) = \\sum 7, 8, 12, 13, 14, 15$</p>\n<p>$f (w, x, y, z) = \\sum 8, 9$</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/9181598549419690474.webp\"/></p>\n<p>The function $f_3$ is</p>",
+      "rawQuestionHtml": "<p>Consider a logic circuit shown in figure below. The functions $f_1, f_2 \\text{ and } f$ (in canonical sum of products form in decimal notation) are :</p>\n<p>$f_1 (w, x, y, z) = \\sum 8, 9, 10$</p>\n<p>$f_2 (w, x, y, z) = \\sum 7, 8, 12, 13, 14, 15$</p>\n<p>$f (w, x, y, z) = \\sum 8, 9$</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/9181598549419690474.webp\"/></p>\n<p>The function $f_3$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\sum 9, 10$</li>\n<li>\n<p>$\\sum 9$</p>\n</li>\n<li>\n<p>$\\sum 1, 8, 9$</p>\n</li>\n<li>\n<p>$\\sum 8, 10, 15$</p>\n</li>\n</ol>",
       "options": [
         "$\\sum 9, 10$",
         "$\\sum 9$",
@@ -2356,8 +2356,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/3369880659959224209.webp\" style=\"height:138px; width:582px\"></p>",
-      "rawQuestionHtml": "<a name=\"2267\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3369880659959224209.webp\" style=\"height:138px; width:582px\"></p>\n</div>",
+      "question": "<p><img alt=\"\" src=\"/question-images/3369880659959224209.webp\" style=\"height:138px; width:582px\"></p>",
+      "rawQuestionHtml": "<a name=\"2267\"></a><div itemprop=\"text\">\n<p><img alt=\"\" src=\"/question-images/3369880659959224209.webp\" style=\"height:138px; width:582px\"></p>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [],
@@ -2544,8 +2544,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/Gate_QA/question-images/17435472286866137865.webp\" width=\"208\"/></p>",
-      "rawQuestionHtml": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/Gate_QA/question-images/17435472286866137865.webp\" width=\"208\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A.B$</li>\n<li>$AB+BC+CA$</li>\n<li>$\\overline{B \\oplus C}$</li>\n<li>$A.BC$</li>\n</ol>",
+      "question": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/question-images/17435472286866137865.webp\" width=\"208\"/></p>",
+      "rawQuestionHtml": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/question-images/17435472286866137865.webp\" width=\"208\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A.B$</li>\n<li>$AB+BC+CA$</li>\n<li>$\\overline{B \\oplus C}$</li>\n<li>$A.BC$</li>\n</ol>",
       "options": [
         "$A.B$",
         "$AB+BC+CA$",
@@ -2760,8 +2760,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Which of the following functions implements the Karnaugh map shown below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"213\" src=\"/Gate_QA/question-images/6998948880441613881.webp\" width=\"220\"/></p>",
-      "rawQuestionHtml": "<p>Which of the following functions implements the Karnaugh map shown below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"213\" src=\"/Gate_QA/question-images/6998948880441613881.webp\" width=\"220\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\bar{A}B + CD$</li>\n<li>$D(C+A)$</li>\n<li>$AD+\\bar{A}B$</li>\n<li>$(C+D) (\\bar{C}+D) + (A+B)$</li>\n</ol>",
+      "question": "<p>Which of the following functions implements the Karnaugh map shown below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"213\" src=\"/question-images/6998948880441613881.webp\" width=\"220\"/></p>",
+      "rawQuestionHtml": "<p>Which of the following functions implements the Karnaugh map shown below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"213\" src=\"/question-images/6998948880441613881.webp\" width=\"220\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\bar{A}B + CD$</li>\n<li>$D(C+A)$</li>\n<li>$AD+\\bar{A}B$</li>\n<li>$(C+D) (\\bar{C}+D) + (A+B)$</li>\n</ol>",
       "options": [
         "$\\bar{A}B + CD$",
         "$D(C+A)$",
@@ -2922,8 +2922,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the circuit shown below. In a certain steady state, the line $Y$ is at $'1'$. What are the possible values of $A, B$ and $C$ in this state?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11122906806978392687.webp\" width=\"349\"/></p>",
-      "rawQuestionHtml": "<p>Consider the circuit shown below. In a certain steady state, the line $Y$ is at $'1'$. What are the possible values of $A, B$ and $C$ in this state?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/Gate_QA/question-images/11122906806978392687.webp\" width=\"349\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$A=0, B=0, C=1$</p>\n</li>\n<li>\n<p>$A=0, B=1, C=1$</p>\n</li>\n<li>\n<p>$A=1, B=0, C=1$</p>\n</li>\n<li>\n<p>$A=1, B=1, C=1$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the circuit shown below. In a certain steady state, the line $Y$ is at $'1'$. What are the possible values of $A, B$ and $C$ in this state?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/question-images/11122906806978392687.webp\" width=\"349\"/></p>",
+      "rawQuestionHtml": "<p>Consider the circuit shown below. In a certain steady state, the line $Y$ is at $'1'$. What are the possible values of $A, B$ and $C$ in this state?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"166\" src=\"/question-images/11122906806978392687.webp\" width=\"349\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$A=0, B=0, C=1$</p>\n</li>\n<li>\n<p>$A=0, B=1, C=1$</p>\n</li>\n<li>\n<p>$A=1, B=0, C=1$</p>\n</li>\n<li>\n<p>$A=1, B=1, C=1$</p>\n</li>\n</ol>",
       "options": [
         "$A=0, B=0, C=1$",
         "$A=0, B=1, C=1$",
@@ -3248,8 +3248,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>",
-      "rawQuestionHtml": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(w + x) y$</li>\n<li>$xy + yw$</li>\n<li>$(w + x) (\\bar{w} + y) (\\bar{x} + y)$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/question-images/2942936006174363835.webp\" width=\"229\"/></p>",
+      "rawQuestionHtml": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/question-images/2942936006174363835.webp\" width=\"229\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(w + x) y$</li>\n<li>$xy + yw$</li>\n<li>$(w + x) (\\bar{w} + y) (\\bar{x} + y)$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$(w + x) y$",
         "$xy + yw$",
@@ -3302,8 +3302,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>",
-      "rawQuestionHtml": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0$</li>\n<li>$1, 1$</li>\n<li>$0, 0$</li>\n<li>$0, 1$</li>\n</ol>",
+      "question": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>",
+      "rawQuestionHtml": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0$</li>\n<li>$1, 1$</li>\n<li>$0, 0$</li>\n<li>$0, 1$</li>\n</ol>",
       "options": [
         "$1, 0$",
         "$1, 1$",
@@ -3410,8 +3410,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/12659020570234557228.webp\" width=\"248\"/></p>",
-      "rawQuestionHtml": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/12659020570234557228.webp\" width=\"248\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$XY+Y'Z$</li>\n<li>$WX'Y' + XY +XZ$</li>\n<li>$W'X+Y'Z+XY$</li>\n<li>$XZ+Y$</li>\n</ol>",
+      "question": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/12659020570234557228.webp\" width=\"248\"/></p>",
+      "rawQuestionHtml": "<p>Given the following karnaugh map, which one of the following represents the minimal Sum-Of-Products of the map?</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/12659020570234557228.webp\" width=\"248\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$XY+Y'Z$</li>\n<li>$WX'Y' + XY +XZ$</li>\n<li>$W'X+Y'Z+XY$</li>\n<li>$XZ+Y$</li>\n</ol>",
       "options": [
         "$XY+Y'Z$",
         "$WX'Y' + XY +XZ$",
@@ -3464,34 +3464,34 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/Gate_QA/question-images/2488972625413410129.webp\"/></p>",
-      "rawQuestionHtml": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/Gate_QA/question-images/2488972625413410129.webp\"/></p>\n<ol class=\"noshrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/></li>\n</ol>",
+      "question": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/question-images/2488972625413410129.webp\"/></p>",
+      "rawQuestionHtml": "<p>Consider the following circuit with initial state $Q_0 = Q_1 = 0$. The D Flip-flops are positive edged triggered and have set up times 20 nanosecond and hold times $0.$</p>\n<p><img alt=\"\" height=\"198\" src=\"/question-images/9221747725518616449.webp\" width=\"600\"/></p>\n<p>Consider the following timing diagrams of X and C. The clock period of $C \\geq 40$ nanosecond. Which one is the correct plot of Y?</p>\n<p>      <img alt=\"\" src=\"/question-images/2488972625413410129.webp\"/></p>\n<ol class=\"noshrink-inline-options\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/question-images/3456568675387499394.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/14688239766279513406.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/501811622338992844.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/3480170884668263904.webp\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>"
+        "<img alt=\"\" src=\"/question-images/3456568675387499394.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/14688239766279513406.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/501811622338992844.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/3480170884668263904.webp\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/3456568675387499394.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/3456568675387499394.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/3456568675387499394.webp\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/14688239766279513406.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/14688239766279513406.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/14688239766279513406.webp\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/501811622338992844.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/501811622338992844.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/501811622338992844.webp\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/3480170884668263904.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/3480170884668263904.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/3480170884668263904.webp\"/>"
         }
       ],
       "answer": [
@@ -3572,8 +3572,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>",
-      "rawQuestionHtml": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/Gate_QA/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f=X_1'+X_2$</li>\n<li>$f=X_1'X_2+X_1X_2'$</li>\n<li>$f=X_1X_2+X_1'X_2'$</li>\n<li>$f=X_1+X_2'$</li>\n</ol>",
+      "question": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>",
+      "rawQuestionHtml": "<p>Consider the circuit shown below. The output of a $2:1$ MUX is given by the function $(ac' + bc)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"235\" src=\"/question-images/18422666762468336422.webp\" width=\"413\"/></p>\n<p>Which of the following is true?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f=X_1'+X_2$</li>\n<li>$f=X_1'X_2+X_1X_2'$</li>\n<li>$f=X_1X_2+X_1'X_2'$</li>\n<li>$f=X_1+X_2'$</li>\n</ol>",
       "options": [
         "$f=X_1'+X_2$",
         "$f=X_1'X_2+X_1X_2'$",
@@ -3626,8 +3626,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>",
-      "rawQuestionHtml": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/Gate_QA/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 3, 4, 6, 7, 5, 2$</li>\n<li>$1, 2, 5, 3, 7, 6, 4$</li>\n<li>$1, 2, 7, 3, 5, 6, 4$</li>\n<li>$1, 6, 5, 7, 2, 3, 4$</li>\n</ol>",
+      "question": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>",
+      "rawQuestionHtml": "<p>Consider the circuit given below with initial state $Q_0=1, Q_1=Q_2=0$. The state of the circuit is given by the value $4Q_2+2Q_1+Q_0$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"198\" src=\"/question-images/16406867829687824984.webp\" width=\"600\"/></p>\n<p>Which one of the following is correct state sequence of the circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 3, 4, 6, 7, 5, 2$</li>\n<li>$1, 2, 5, 3, 7, 6, 4$</li>\n<li>$1, 2, 7, 3, 5, 6, 4$</li>\n<li>$1, 6, 5, 7, 2, 3, 4$</li>\n</ol>",
       "options": [
         "$1, 3, 4, 6, 7, 5, 2$",
         "$1, 2, 5, 3, 7, 6, 4$",
@@ -3680,8 +3680,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/2629978306346336146.webp\" width=\"239\"/></p>",
-      "rawQuestionHtml": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/2629978306346336146.webp\" width=\"239\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xz + y'z$</li>\n<li>$xz' + zx'$</li>\n<li>$x'y + zx'$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/question-images/2629978306346336146.webp\" width=\"239\"/></p>",
+      "rawQuestionHtml": "<p>Minimum sum of product expression for $f(w,x,y,z)$ shown in Karnaugh-map below</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/question-images/2629978306346336146.webp\" width=\"239\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xz + y'z$</li>\n<li>$xz' + zx'$</li>\n<li>$x'y + zx'$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$xz + y'z$",
         "$xz' + zx'$",
@@ -3950,8 +3950,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>",
-      "rawQuestionHtml": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Sigma (1,4,5)$</li>\n<li>$\\Sigma (6,7)$</li>\n<li>$\\Sigma (0,1,3,5)$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>",
+      "rawQuestionHtml": "<p>Consider the following logic circuit whose inputs are functions $f_1, f_2, f_3$ and output is $f$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"140\" src=\"/question-images/1141434455209251543.webp\" width=\"494\"/></p>\n<p>Given that</p>\n<ul>\n<li>$f_1(x,y,z) = \\Sigma (0,1,3,5)$</li>\n<li>$f_2(x,y,z) = \\Sigma (6,7),$ and</li>\n<li>$f(x,y,z) = \\Sigma (1,4,5).$</li>\n</ul>\n<p>$f_3$ is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Sigma (1,4,5)$</li>\n<li>$\\Sigma (6,7)$</li>\n<li>$\\Sigma (0,1,3,5)$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$\\Sigma (1,4,5)$",
         "$\\Sigma (6,7)$",
@@ -4004,8 +4004,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>",
-      "rawQuestionHtml": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/Gate_QA/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xyz'$</li>\n<li>$xy + z$</li>\n<li>$x + y$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>",
+      "rawQuestionHtml": "<p>Consider the following multiplexer where $I0, I1, I2, I3$ are four data input lines selected by two address line combinations $A1A0=00,01,10,11$ respectively and $f$ is the output of the multiplexor. EN is the Enable input.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"237\" src=\"/question-images/15680035907577050194.webp\" width=\"426\"/></p>\n<p>The function $f(x,y,z)$ implemented by the above circuit is </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xyz'$</li>\n<li>$xy + z$</li>\n<li>$x + y$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$xyz'$",
         "$xy + z$",
@@ -4220,8 +4220,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The following is a scheme for floating point number representation using $16$ bits.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3062571920889462072.webp\" width=\"450\"/></p>\n<p>Let $s, e,$ and $m$ be the numbers represented in binary in the sign, exponent, and mantissa fields respectively. Then the floating point number represented is:</p>\n<p>$$\\begin{cases}(-1)^s \\left(1+m \\times 2^{-9}\\right) 2^{e-31}, &amp; \\text{ if the exponent } \\neq 111111 \\\\  0, &amp; \\text{ otherwise} \\end{cases}$$</p>\n<p>What is the maximum difference between two successive real numbers representable in this system?</p>",
-      "rawQuestionHtml": "<p>The following is a scheme for floating point number representation using $16$ bits.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3062571920889462072.webp\" width=\"450\"/></p>\n<p>Let $s, e,$ and $m$ be the numbers represented in binary in the sign, exponent, and mantissa fields respectively. Then the floating point number represented is:</p>\n<p>$$\\begin{cases}(-1)^s \\left(1+m \\times 2^{-9}\\right) 2^{e-31}, &amp; \\text{ if the exponent } \\neq 111111 \\\\  0, &amp; \\text{ otherwise} \\end{cases}$$</p>\n<p>What is the maximum difference between two successive real numbers representable in this system?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2^{-40}$</li>\n<li>$2^{-9}$</li>\n<li>$2^{22}$</li>\n<li>$2^{31}$</li>\n</ol>",
+      "question": "<p>The following is a scheme for floating point number representation using $16$ bits.</p>\n<p><img alt=\"\" src=\"/question-images/3062571920889462072.webp\" width=\"450\"/></p>\n<p>Let $s, e,$ and $m$ be the numbers represented in binary in the sign, exponent, and mantissa fields respectively. Then the floating point number represented is:</p>\n<p>$$\\begin{cases}(-1)^s \\left(1+m \\times 2^{-9}\\right) 2^{e-31}, &amp; \\text{ if the exponent } \\neq 111111 \\\\  0, &amp; \\text{ otherwise} \\end{cases}$$</p>\n<p>What is the maximum difference between two successive real numbers representable in this system?</p>",
+      "rawQuestionHtml": "<p>The following is a scheme for floating point number representation using $16$ bits.</p>\n<p><img alt=\"\" src=\"/question-images/3062571920889462072.webp\" width=\"450\"/></p>\n<p>Let $s, e,$ and $m$ be the numbers represented in binary in the sign, exponent, and mantissa fields respectively. Then the floating point number represented is:</p>\n<p>$$\\begin{cases}(-1)^s \\left(1+m \\times 2^{-9}\\right) 2^{e-31}, &amp; \\text{ if the exponent } \\neq 111111 \\\\  0, &amp; \\text{ otherwise} \\end{cases}$$</p>\n<p>What is the maximum difference between two successive real numbers representable in this system?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2^{-40}$</li>\n<li>$2^{-9}$</li>\n<li>$2^{22}$</li>\n<li>$2^{31}$</li>\n</ol>",
       "options": [
         "$2^{-40}$",
         "$2^{-9}$",
@@ -4328,8 +4328,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The literal count of a Boolean expression is the sum of the number of times each literal appears in the expression. For example, the literal count of $\\left(xy+xz'\\right)$ is $4.$ What are the minimum possible literal counts of the product-of-sum and sum-of-product representations respectively of the function given by the following Karnaugh map? Here, $X$ denotes \"don't care\"</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"238\" src=\"/Gate_QA/question-images/17324418675822304302.webp\" width=\"241\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>The literal count of a Boolean expression is the sum of the number of times each literal appears in the expression. For example, the literal count of $\\left(xy+xz'\\right)$ is $4.$ What are the minimum possible literal counts of the product-of-sum and sum-of-product representations respectively of the function given by the following Karnaugh map? Here, $X$ denotes \"don't care\"</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"238\" src=\"/Gate_QA/question-images/17324418675822304302.webp\" width=\"241\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(11, 9)$</li>\n<li>$(9, 13)$</li>\n<li>$(9, 10)$</li>\n<li>$(11,11)$</li>\n</ol>",
+      "question": "<p>The literal count of a Boolean expression is the sum of the number of times each literal appears in the expression. For example, the literal count of $\\left(xy+xz'\\right)$ is $4.$ What are the minimum possible literal counts of the product-of-sum and sum-of-product representations respectively of the function given by the following Karnaugh map? Here, $X$ denotes \"don't care\"</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"238\" src=\"/question-images/17324418675822304302.webp\" width=\"241\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>The literal count of a Boolean expression is the sum of the number of times each literal appears in the expression. For example, the literal count of $\\left(xy+xz'\\right)$ is $4.$ What are the minimum possible literal counts of the product-of-sum and sum-of-product representations respectively of the function given by the following Karnaugh map? Here, $X$ denotes \"don't care\"</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"238\" src=\"/question-images/17324418675822304302.webp\" width=\"241\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(11, 9)$</li>\n<li>$(9, 13)$</li>\n<li>$(9, 10)$</li>\n<li>$(11,11)$</li>\n</ol>",
       "options": [
         "$(11, 9)$",
         "$(9, 13)$",
@@ -4382,8 +4382,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the ALU shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"345\" src=\"/Gate_QA/question-images/1856404516948256541.webp\" width=\"600\"/></p>\n<p> </p>\n<p>If the operands are in $2’s$ complement representation, which of the following operations can be performed by suitably setting the control lines $K$ and $C_0$ only (+ and – denote addition and subtraction respectively)?</p>",
-      "rawQuestionHtml": "<p>Consider the ALU shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"345\" src=\"/Gate_QA/question-images/1856404516948256541.webp\" width=\"600\"/></p>\n<p> </p>\n<p>If the operands are in $2’s$ complement representation, which of the following operations can be performed by suitably setting the control lines $K$ and $C_0$ only (+ and – denote addition and subtraction respectively)?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A + B$, and $A – B$, but not $A + 1$</li>\n<li>$A + B$, and $A + 1$, but not $A – B$</li>\n<li>$A + B$, but not $A – B$ or $A + 1$</li>\n<li>$A + B$, and $A – B$, and $A + 1$</li>\n</ol>",
+      "question": "<p>Consider the ALU shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"345\" src=\"/question-images/1856404516948256541.webp\" width=\"600\"/></p>\n<p> </p>\n<p>If the operands are in $2’s$ complement representation, which of the following operations can be performed by suitably setting the control lines $K$ and $C_0$ only (+ and – denote addition and subtraction respectively)?</p>",
+      "rawQuestionHtml": "<p>Consider the ALU shown below.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"345\" src=\"/question-images/1856404516948256541.webp\" width=\"600\"/></p>\n<p> </p>\n<p>If the operands are in $2’s$ complement representation, which of the following operations can be performed by suitably setting the control lines $K$ and $C_0$ only (+ and – denote addition and subtraction respectively)?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A + B$, and $A – B$, but not $A + 1$</li>\n<li>$A + B$, and $A + 1$, but not $A – B$</li>\n<li>$A + B$, but not $A – B$ or $A + 1$</li>\n<li>$A + B$, and $A – B$, and $A + 1$</li>\n</ol>",
       "options": [
         "$A + B$, and $A – B$, but not $A + 1$",
         "$A + B$, and $A + 1$, but not $A – B$",
@@ -4436,8 +4436,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit composed of XOR gates and non-inverting buffers.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/14895110248385472791.png\"/></p>\n<p>The non-inverting buffers have delays $\\delta_1 = 2 ns$ and $\\delta_2 = 4 ns$ as shown in the figure. Both XOR gates and all wires have zero delays. Assume that all gate inputs, outputs, and wires are stable at logic level $0$ at time $0$. If the following waveform is applied at input $A$, how many transition(s) (change of logic levels) occur(s) at $B$ during the interval from $0$ to $10$ ns?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13975612741309214604.png\"/></p>",
-      "rawQuestionHtml": "<p>Consider the following circuit composed of XOR gates and non-inverting buffers.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/14895110248385472791.png\"/></p>\n<p>The non-inverting buffers have delays $\\delta_1 = 2 ns$ and $\\delta_2 = 4 ns$ as shown in the figure. Both XOR gates and all wires have zero delays. Assume that all gate inputs, outputs, and wires are stable at logic level $0$ at time $0$. If the following waveform is applied at input $A$, how many transition(s) (change of logic levels) occur(s) at $B$ during the interval from $0$ to $10$ ns?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13975612741309214604.png\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n</ol>",
+      "question": "<p>Consider the following circuit composed of XOR gates and non-inverting buffers.</p>\n<p><img alt=\"\" src=\"/question-images/14895110248385472791.png\"/></p>\n<p>The non-inverting buffers have delays $\\delta_1 = 2 ns$ and $\\delta_2 = 4 ns$ as shown in the figure. Both XOR gates and all wires have zero delays. Assume that all gate inputs, outputs, and wires are stable at logic level $0$ at time $0$. If the following waveform is applied at input $A$, how many transition(s) (change of logic levels) occur(s) at $B$ during the interval from $0$ to $10$ ns?</p>\n<p><img alt=\"\" src=\"/question-images/13975612741309214604.png\"/></p>",
+      "rawQuestionHtml": "<p>Consider the following circuit composed of XOR gates and non-inverting buffers.</p>\n<p><img alt=\"\" src=\"/question-images/14895110248385472791.png\"/></p>\n<p>The non-inverting buffers have delays $\\delta_1 = 2 ns$ and $\\delta_2 = 4 ns$ as shown in the figure. Both XOR gates and all wires have zero delays. Assume that all gate inputs, outputs, and wires are stable at logic level $0$ at time $0$. If the following waveform is applied at input $A$, how many transition(s) (change of logic levels) occur(s) at $B$ during the interval from $0$ to $10$ ns?</p>\n<p><img alt=\"\" src=\"/question-images/13975612741309214604.png\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1$</li>\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n</ol>",
       "options": [
         "$1$",
         "$2$",
@@ -4760,8 +4760,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/Gate_QA/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/Gate_QA/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$f$ is independent of $x$</p>\n</li>\n<li>\n<p>$f$ is independent of $y$</p>\n</li>\n<li>\n<p>$f$ is independent of $z$</p>\n</li>\n<li>\n<p>None of $x, y, z$ is redundant</p>\n</li>\n</ol>",
+      "question": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$f$ is independent of $x$</p>\n</li>\n<li>\n<p>$f$ is independent of $y$</p>\n</li>\n<li>\n<p>$f$ is independent of $z$</p>\n</li>\n<li>\n<p>None of $x, y, z$ is redundant</p>\n</li>\n</ol>",
       "options": [
         "$f$ is independent of $x$",
         "$f$ is independent of $y$",
@@ -4976,8 +4976,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>",
-      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{0D 24}$</li>\n<li>$\\text{0D 4D}$</li>\n<li>$\\text{4D 0D}$</li>\n<li>$\\text{4D 3D}$</li>\n</ol>",
+      "question": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>",
+      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{0D 24}$</li>\n<li>$\\text{0D 4D}$</li>\n<li>$\\text{4D 0D}$</li>\n<li>$\\text{4D 3D}$</li>\n</ol>",
       "options": [
         "$\\text{0D 24}$",
         "$\\text{0D 4D}$",
@@ -5030,8 +5030,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/Gate_QA/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>",
-      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/Gate_QA/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0A\\;20$</li>\n<li>$11\\;34$</li>\n<li>$49\\;D0$</li>\n<li>$4A\\;E8$</li>\n</ol>",
+      "question": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0A\\;20$</li>\n<li>$11\\;34$</li>\n<li>$49\\;D0$</li>\n<li>$4A\\;E8$</li>\n</ol>",
       "options": [
         "$0A\\;20$",
         "$11\\;34$",
@@ -5085,33 +5085,33 @@
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
       "question": "<p>You are given a free running clock with a duty cycle of $50\\%$ and a digital waveform $f$ which changes only at the negative edge of the clock. Which one of the following circuits (using clocked D flip-flops) will delay the phase of $f$ by $180°$?</p>",
-      "rawQuestionHtml": "<p>You are given a free running clock with a duty cycle of $50\\%$ and a digital waveform $f$ which changes only at the negative edge of the clock. Which one of the following circuits (using clocked D flip-flops) will delay the phase of $f$ by $180°$?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"114\" src=\"/Gate_QA/question-images/14731948535905401121.webp\" width=\"369\"/></li>\n<li><img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/5006800766308162003.webp\" width=\"384\"/></li>\n<li><img alt=\"\" height=\"106\" src=\"/Gate_QA/question-images/84934078360959735.webp\" width=\"382\"/></li>\n<li><img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/11868693327832980175.webp\" width=\"384\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>You are given a free running clock with a duty cycle of $50\\%$ and a digital waveform $f$ which changes only at the negative edge of the clock. Which one of the following circuits (using clocked D flip-flops) will delay the phase of $f$ by $180°$?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" height=\"114\" src=\"/question-images/14731948535905401121.webp\" width=\"369\"/></li>\n<li><img alt=\"\" height=\"107\" src=\"/question-images/5006800766308162003.webp\" width=\"384\"/></li>\n<li><img alt=\"\" height=\"106\" src=\"/question-images/84934078360959735.webp\" width=\"382\"/></li>\n<li><img alt=\"\" height=\"107\" src=\"/question-images/11868693327832980175.webp\" width=\"384\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"114\" src=\"/Gate_QA/question-images/14731948535905401121.webp\" width=\"369\"/>",
-        "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/5006800766308162003.webp\" width=\"384\"/>",
-        "<img alt=\"\" height=\"106\" src=\"/Gate_QA/question-images/84934078360959735.webp\" width=\"382\"/>",
-        "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/11868693327832980175.webp\" width=\"384\"/>"
+        "<img alt=\"\" height=\"114\" src=\"/question-images/14731948535905401121.webp\" width=\"369\"/>",
+        "<img alt=\"\" height=\"107\" src=\"/question-images/5006800766308162003.webp\" width=\"384\"/>",
+        "<img alt=\"\" height=\"106\" src=\"/question-images/84934078360959735.webp\" width=\"382\"/>",
+        "<img alt=\"\" height=\"107\" src=\"/question-images/11868693327832980175.webp\" width=\"384\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"114\" src=\"/Gate_QA/question-images/14731948535905401121.webp\" width=\"369\"/>",
-          "html": "<img alt=\"\" height=\"114\" src=\"/Gate_QA/question-images/14731948535905401121.webp\" width=\"369\"/>"
+          "text": "<img alt=\"\" height=\"114\" src=\"/question-images/14731948535905401121.webp\" width=\"369\"/>",
+          "html": "<img alt=\"\" height=\"114\" src=\"/question-images/14731948535905401121.webp\" width=\"369\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/5006800766308162003.webp\" width=\"384\"/>",
-          "html": "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/5006800766308162003.webp\" width=\"384\"/>"
+          "text": "<img alt=\"\" height=\"107\" src=\"/question-images/5006800766308162003.webp\" width=\"384\"/>",
+          "html": "<img alt=\"\" height=\"107\" src=\"/question-images/5006800766308162003.webp\" width=\"384\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"106\" src=\"/Gate_QA/question-images/84934078360959735.webp\" width=\"382\"/>",
-          "html": "<img alt=\"\" height=\"106\" src=\"/Gate_QA/question-images/84934078360959735.webp\" width=\"382\"/>"
+          "text": "<img alt=\"\" height=\"106\" src=\"/question-images/84934078360959735.webp\" width=\"382\"/>",
+          "html": "<img alt=\"\" height=\"106\" src=\"/question-images/84934078360959735.webp\" width=\"382\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/11868693327832980175.webp\" width=\"384\"/>",
-          "html": "<img alt=\"\" height=\"107\" src=\"/Gate_QA/question-images/11868693327832980175.webp\" width=\"384\"/>"
+          "text": "<img alt=\"\" height=\"107\" src=\"/question-images/11868693327832980175.webp\" width=\"384\"/>",
+          "html": "<img alt=\"\" height=\"107\" src=\"/question-images/11868693327832980175.webp\" width=\"384\"/>"
         }
       ],
       "answer": [
@@ -5138,8 +5138,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/Gate_QA/question-images/1223293490776723138.webp\" width=\"286\"/></p>\n<p>Consider the circuit above. Which one of the following options correctly represents $f\\left(x,y,z\\right)$</p>",
-      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/Gate_QA/question-images/1223293490776723138.webp\" width=\"286\"/></p>\n<p>Consider the circuit above. Which one of the following options correctly represents $f\\left(x,y,z\\right)$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$x\\bar{z}+xy+\\bar{y}z$</li>\n<li>$x\\bar{z}+xy+\\overline{yz}$</li>\n<li>$xz+xy+\\overline{yz}$</li>\n<li>$xz+x\\bar{y}+\\bar{y}z$</li>\n</ol>",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/question-images/1223293490776723138.webp\" width=\"286\"/></p>\n<p>Consider the circuit above. Which one of the following options correctly represents $f\\left(x,y,z\\right)$</p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/question-images/1223293490776723138.webp\" width=\"286\"/></p>\n<p>Consider the circuit above. Which one of the following options correctly represents $f\\left(x,y,z\\right)$</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$x\\bar{z}+xy+\\bar{y}z$</li>\n<li>$x\\bar{z}+xy+\\overline{yz}$</li>\n<li>$xz+xy+\\overline{yz}$</li>\n<li>$xz+x\\bar{y}+\\bar{y}z$</li>\n</ol>",
       "options": [
         "$x\\bar{z}+xy+\\bar{y}z$",
         "$x\\bar{z}+xy+\\overline{yz}$",
@@ -5246,8 +5246,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>Consider the circuit in the diagram. The $\\oplus$ operator represents Ex-OR. The D flip-flops are initialized to zeroes (cleared).</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10915633092487927258.webp\" width=\"560\"/></p>\n<p>The following data: $100110000$ is supplied to the “data” terminal in nine clock cycles. After that the values of $q_{2}q_{1}q_{0}$ are:</p>",
-      "rawQuestionHtml": "<p>Consider the circuit in the diagram. The $\\oplus$ operator represents Ex-OR. The D flip-flops are initialized to zeroes (cleared).</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10915633092487927258.webp\" width=\"560\"/></p>\n<p>The following data: $100110000$ is supplied to the “data” terminal in nine clock cycles. After that the values of $q_{2}q_{1}q_{0}$ are:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$000$</li>\n<li>$001$</li>\n<li>$010$</li>\n<li>$101$</li>\n</ol>",
+      "question": "<p>Consider the circuit in the diagram. The $\\oplus$ operator represents Ex-OR. The D flip-flops are initialized to zeroes (cleared).</p>\n<p><img alt=\"\" src=\"/question-images/10915633092487927258.webp\" width=\"560\"/></p>\n<p>The following data: $100110000$ is supplied to the “data” terminal in nine clock cycles. After that the values of $q_{2}q_{1}q_{0}$ are:</p>",
+      "rawQuestionHtml": "<p>Consider the circuit in the diagram. The $\\oplus$ operator represents Ex-OR. The D flip-flops are initialized to zeroes (cleared).</p>\n<p><img alt=\"\" src=\"/question-images/10915633092487927258.webp\" width=\"560\"/></p>\n<p>The following data: $100110000$ is supplied to the “data” terminal in nine clock cycles. After that the values of $q_{2}q_{1}q_{0}$ are:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$000$</li>\n<li>$001$</li>\n<li>$010$</li>\n<li>$101$</li>\n</ol>",
       "options": [
         "$000$",
         "$001$",
@@ -5786,8 +5786,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The control signal functions of a $4$-$bit$ binary counter are given below (where $X$ is “don’t care”):<br/>\n$$\\small {\\begin{array}{|c|c|c|c|l|}\\hline<br/>\n\\textbf{Clear}&amp;    \\textbf{Clock}&amp;  \\textbf{Load}&amp;\\bf{ Count}&amp; \\textbf{Function}\\\\\\hline<br/>\n1&amp;\\text{X}&amp;\\text{X}&amp;\\text{X}&amp;\\text{Clear to 0} \\\\<br/>\n0&amp;\\text{X}&amp;0&amp;0&amp;\\text{No Change}\\\\    <br/>\n0&amp;\\uparrow&amp;1&amp;\\text{X}&amp; \\text{Load Input} \\\\    <br/>\n0&amp;\\uparrow&amp;0&amp;1&amp; \\text{Count Next} \\\\ \\hline  <br/>\n \\end{array}}$$<br/>\nThe counter is connected as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/426310628487573791.webp\" width=\"405\"/></p>\n<p>     </p>\n<p>Assume that the counter and gate delays are negligible. If the counter starts at $0,$ then it cycles through the following sequence:</p>",
-      "rawQuestionHtml": "<p>The control signal functions of a $4$-$bit$ binary counter are given below (where $X$ is “don’t care”):<br/>\n$$\\small {\\begin{array}{|c|c|c|c|l|}\\hline<br/>\n\\textbf{Clear}&amp;    \\textbf{Clock}&amp;  \\textbf{Load}&amp;\\bf{ Count}&amp; \\textbf{Function}\\\\\\hline<br/>\n1&amp;\\text{X}&amp;\\text{X}&amp;\\text{X}&amp;\\text{Clear to 0} \\\\<br/>\n0&amp;\\text{X}&amp;0&amp;0&amp;\\text{No Change}\\\\    <br/>\n0&amp;\\uparrow&amp;1&amp;\\text{X}&amp; \\text{Load Input} \\\\    <br/>\n0&amp;\\uparrow&amp;0&amp;1&amp; \\text{Count Next} \\\\ \\hline  <br/>\n \\end{array}}$$<br/>\nThe counter is connected as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/426310628487573791.webp\" width=\"405\"/></p>\n<p>     </p>\n<p>Assume that the counter and gate delays are negligible. If the counter starts at $0,$ then it cycles through the following sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0, 3, 4$</li>\n<li>$0, 3, 4, 5$</li>\n<li>$0, 1, 2, 3, 4$</li>\n<li>$0, 1, 2, 3, 4, 5$</li>\n</ol>",
+      "question": "<p>The control signal functions of a $4$-$bit$ binary counter are given below (where $X$ is “don’t care”):<br/>\n$$\\small {\\begin{array}{|c|c|c|c|l|}\\hline<br/>\n\\textbf{Clear}&amp;    \\textbf{Clock}&amp;  \\textbf{Load}&amp;\\bf{ Count}&amp; \\textbf{Function}\\\\\\hline<br/>\n1&amp;\\text{X}&amp;\\text{X}&amp;\\text{X}&amp;\\text{Clear to 0} \\\\<br/>\n0&amp;\\text{X}&amp;0&amp;0&amp;\\text{No Change}\\\\    <br/>\n0&amp;\\uparrow&amp;1&amp;\\text{X}&amp; \\text{Load Input} \\\\    <br/>\n0&amp;\\uparrow&amp;0&amp;1&amp; \\text{Count Next} \\\\ \\hline  <br/>\n \\end{array}}$$<br/>\nThe counter is connected as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"256\" src=\"/question-images/426310628487573791.webp\" width=\"405\"/></p>\n<p>     </p>\n<p>Assume that the counter and gate delays are negligible. If the counter starts at $0,$ then it cycles through the following sequence:</p>",
+      "rawQuestionHtml": "<p>The control signal functions of a $4$-$bit$ binary counter are given below (where $X$ is “don’t care”):<br/>\n$$\\small {\\begin{array}{|c|c|c|c|l|}\\hline<br/>\n\\textbf{Clear}&amp;    \\textbf{Clock}&amp;  \\textbf{Load}&amp;\\bf{ Count}&amp; \\textbf{Function}\\\\\\hline<br/>\n1&amp;\\text{X}&amp;\\text{X}&amp;\\text{X}&amp;\\text{Clear to 0} \\\\<br/>\n0&amp;\\text{X}&amp;0&amp;0&amp;\\text{No Change}\\\\    <br/>\n0&amp;\\uparrow&amp;1&amp;\\text{X}&amp; \\text{Load Input} \\\\    <br/>\n0&amp;\\uparrow&amp;0&amp;1&amp; \\text{Count Next} \\\\ \\hline  <br/>\n \\end{array}}$$<br/>\nThe counter is connected as follows:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"256\" src=\"/question-images/426310628487573791.webp\" width=\"405\"/></p>\n<p>     </p>\n<p>Assume that the counter and gate delays are negligible. If the counter starts at $0,$ then it cycles through the following sequence:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0, 3, 4$</li>\n<li>$0, 3, 4, 5$</li>\n<li>$0, 1, 2, 3, 4$</li>\n<li>$0, 1, 2, 3, 4, 5$</li>\n</ol>",
       "options": [
         "$0, 3, 4$",
         "$0, 3, 4, 5$",
@@ -5948,8 +5948,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>In the Karnaugh map shown below, $X$ denotes a don’t care term. What is the minimal form of the function represented by the Karnaugh map?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/Gate_QA/question-images/9206309608637578130.webp\" width=\"222\"/></p>",
-      "rawQuestionHtml": "<p>In the Karnaugh map shown below, $X$ denotes a don’t care term. What is the minimal form of the function represented by the Karnaugh map?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/Gate_QA/question-images/9206309608637578130.webp\" width=\"222\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\bar{b}.\\bar{d} + \\bar{a}.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{a}.\\bar{b} + \\bar{b}.\\bar{d} + \\bar{a}.b.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{b}.\\bar{d} + \\bar{a}.b.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{a}.\\bar{b} + \\bar{b}.\\bar{d} + \\bar{a}.\\bar{d}$</p>\n</li>\n</ol>",
+      "question": "<p>In the Karnaugh map shown below, $X$ denotes a don’t care term. What is the minimal form of the function represented by the Karnaugh map?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/question-images/9206309608637578130.webp\" width=\"222\"/></p>",
+      "rawQuestionHtml": "<p>In the Karnaugh map shown below, $X$ denotes a don’t care term. What is the minimal form of the function represented by the Karnaugh map?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"220\" src=\"/question-images/9206309608637578130.webp\" width=\"222\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\bar{b}.\\bar{d} + \\bar{a}.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{a}.\\bar{b} + \\bar{b}.\\bar{d} + \\bar{a}.b.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{b}.\\bar{d} + \\bar{a}.b.\\bar{d}$</p>\n</li>\n<li>\n<p>$\\bar{a}.\\bar{b} + \\bar{b}.\\bar{d} + \\bar{a}.\\bar{d}$</p>\n</li>\n</ol>",
       "options": [
         "$\\bar{b}.\\bar{d} + \\bar{a}.\\bar{d}$",
         "$\\bar{a}.\\bar{b} + \\bar{b}.\\bar{d} + \\bar{a}.b.\\bar{d}$",
@@ -6056,8 +6056,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Given $f_1$, $f_3$ and $f$ in canonical sum of products form (in decimal) for the circuit</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"110\" src=\"/Gate_QA/question-images/633254185439706995.webp\" width=\"388\"/></p>\n<p>$f_1 = \\Sigma m(4, 5, 6, 7, 8)$</p>\n<p>$f_3 = \\Sigma m(1, 6, 15)$</p>\n<p>$f = \\Sigma m(1, 6, 8, 15)$</p>\n<p>then $f_2$ is</p>",
-      "rawQuestionHtml": "<p>Given $f_1$, $f_3$ and $f$ in canonical sum of products form (in decimal) for the circuit</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"110\" src=\"/Gate_QA/question-images/633254185439706995.webp\" width=\"388\"/></p>\n<p>$f_1 = \\Sigma m(4, 5, 6, 7, 8)$</p>\n<p>$f_3 = \\Sigma m(1, 6, 15)$</p>\n<p>$f = \\Sigma m(1, 6, 8, 15)$</p>\n<p>then $f_2$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\Sigma m(4, 6)$</p>\n</li>\n<li>\n<p>$\\Sigma m(4, 8)$</p>\n</li>\n<li>\n<p>$\\Sigma m(6, 8)$</p>\n</li>\n<li>\n<p>$\\Sigma m(4, 6, 8)$</p>\n</li>\n</ol>",
+      "question": "<p>Given $f_1$, $f_3$ and $f$ in canonical sum of products form (in decimal) for the circuit</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"110\" src=\"/question-images/633254185439706995.webp\" width=\"388\"/></p>\n<p>$f_1 = \\Sigma m(4, 5, 6, 7, 8)$</p>\n<p>$f_3 = \\Sigma m(1, 6, 15)$</p>\n<p>$f = \\Sigma m(1, 6, 8, 15)$</p>\n<p>then $f_2$ is</p>",
+      "rawQuestionHtml": "<p>Given $f_1$, $f_3$ and $f$ in canonical sum of products form (in decimal) for the circuit</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"110\" src=\"/question-images/633254185439706995.webp\" width=\"388\"/></p>\n<p>$f_1 = \\Sigma m(4, 5, 6, 7, 8)$</p>\n<p>$f_3 = \\Sigma m(1, 6, 15)$</p>\n<p>$f = \\Sigma m(1, 6, 8, 15)$</p>\n<p>then $f_2$ is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\Sigma m(4, 6)$</p>\n</li>\n<li>\n<p>$\\Sigma m(4, 8)$</p>\n</li>\n<li>\n<p>$\\Sigma m(6, 8)$</p>\n</li>\n<li>\n<p>$\\Sigma m(4, 6, 8)$</p>\n</li>\n</ol>",
       "options": [
         "$\\Sigma m(4, 6)$",
         "$\\Sigma m(4, 8)$",
@@ -6488,8 +6488,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The Boolean expression of the output $f$ of the multiplexer shown below is</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/11904794169150704733.webp\" width=\"400\"/></p>",
-      "rawQuestionHtml": "<p>The Boolean expression of the output $f$ of the multiplexer shown below is</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/11904794169150704733.webp\" width=\"400\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline {P \\oplus Q \\oplus R}$</li>\n<li>$\\overline{P+Q+R}$</li>\n<li>$P+Q+R$</li>\n<li>$P \\oplus Q \\oplus R$</li>\n</ol>",
+      "question": "<p>The Boolean expression of the output $f$ of the multiplexer shown below is</p>\n<p><img alt=\"\" src=\"/question-images/11904794169150704733.webp\" width=\"400\"/></p>",
+      "rawQuestionHtml": "<p>The Boolean expression of the output $f$ of the multiplexer shown below is</p>\n<p><img alt=\"\" src=\"/question-images/11904794169150704733.webp\" width=\"400\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline {P \\oplus Q \\oplus R}$</li>\n<li>$\\overline{P+Q+R}$</li>\n<li>$P+Q+R$</li>\n<li>$P \\oplus Q \\oplus R$</li>\n</ol>",
       "options": [
         "$\\overline {P \\oplus Q \\oplus R}$",
         "$\\overline{P+Q+R}$",
@@ -6542,8 +6542,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>What is the boolean expression for the output $f$ of the combinational logic circuit of NOR gates given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"244\" src=\"/Gate_QA/question-images/5539233184119005584.webp\" width=\"343\"/></p>",
-      "rawQuestionHtml": "<p>What is the boolean expression for the output $f$ of the combinational logic circuit of NOR gates given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"244\" src=\"/Gate_QA/question-images/5539233184119005584.webp\" width=\"343\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline{Q+R}$</li>\n<li>$\\overline{P+Q}$</li>\n<li>$\\overline{P+R}$</li>\n<li>$\\overline{P+Q+R}$</li>\n</ol>",
+      "question": "<p>What is the boolean expression for the output $f$ of the combinational logic circuit of NOR gates given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"244\" src=\"/question-images/5539233184119005584.webp\" width=\"343\"/></p>",
+      "rawQuestionHtml": "<p>What is the boolean expression for the output $f$ of the combinational logic circuit of NOR gates given below?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"244\" src=\"/question-images/5539233184119005584.webp\" width=\"343\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline{Q+R}$</li>\n<li>$\\overline{P+Q}$</li>\n<li>$\\overline{P+R}$</li>\n<li>$\\overline{P+Q+R}$</li>\n</ol>",
       "options": [
         "$\\overline{Q+R}$",
         "$\\overline{P+Q}$",
@@ -6596,8 +6596,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>In the sequential circuit shown below, if the initial value of the output $Q_1Q_0$ is $00$. What are the next four values of $Q_1Q_0$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/Gate_QA/question-images/11620377880464154982.webp\" width=\"377\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>In the sequential circuit shown below, if the initial value of the output $Q_1Q_0$ is $00$. What are the next four values of $Q_1Q_0$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/Gate_QA/question-images/11620377880464154982.webp\" width=\"377\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$11$, $10$, $01$, $00$</li>\n<li>$10$, $11$, $01$, $00$</li>\n<li>$10$, $00$, $01$, $11$</li>\n<li>$11$, $10$, $00$, $01$</li>\n</ol>",
+      "question": "<p>In the sequential circuit shown below, if the initial value of the output $Q_1Q_0$ is $00$. What are the next four values of $Q_1Q_0$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/question-images/11620377880464154982.webp\" width=\"377\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>In the sequential circuit shown below, if the initial value of the output $Q_1Q_0$ is $00$. What are the next four values of $Q_1Q_0$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"195\" src=\"/question-images/11620377880464154982.webp\" width=\"377\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$11$, $10$, $01$, $00$</li>\n<li>$10$, $11$, $01$, $00$</li>\n<li>$10$, $00$, $01$, $11$</li>\n<li>$11$, $10$, $00$, $01$</li>\n</ol>",
       "options": [
         "$11$, $10$, $01$, $00$",
         "$10$, $11$, $01$, $00$",
@@ -6651,33 +6651,33 @@
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
       "question": "<p>Which one of the following circuits is <strong>NOT </strong>equivalent to a $2$-input $XNOR$ (exclusive $NOR$) gate?</p>",
-      "rawQuestionHtml": "<p>Which one of the following circuits is <strong>NOT </strong>equivalent to a $2$-input $XNOR$ (exclusive $NOR$) gate?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Which one of the following circuits is <strong>NOT </strong>equivalent to a $2$-input $XNOR$ (exclusive $NOR$) gate?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/question-images/528016710956976101.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/13475021387045579416.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/13817407411229508592.webp\"/></li>\n<li><img alt=\"\" src=\"/question-images/8905695554062865039.webp\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>"
+        "<img alt=\"\" src=\"/question-images/528016710956976101.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/13475021387045579416.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/13817407411229508592.webp\"/>",
+        "<img alt=\"\" src=\"/question-images/8905695554062865039.webp\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/528016710956976101.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/528016710956976101.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/528016710956976101.webp\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/13475021387045579416.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/13475021387045579416.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/13475021387045579416.webp\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/13817407411229508592.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/13817407411229508592.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/13817407411229508592.webp\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8905695554062865039.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/8905695554062865039.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/8905695554062865039.webp\"/>"
         }
       ],
       "answer": [
@@ -6812,8 +6812,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$000$</li>\n<li>$001$</li>\n<li>$010$</li>\n<li>$011$</li>\n</ol>",
+      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"431\" src=\"/question-images/16331742062646635613.webp\" width=\"270\"/></p>\n<p>If at some instance prior to the occurrence of the clock edge, $P, Q$ and $R$ have a value $0$, $1$ and $0$ respectively, what shall be the value of $PQR$ after the clock edge?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$000$</li>\n<li>$001$</li>\n<li>$010$</li>\n<li>$011$</li>\n</ol>",
       "options": [
         "$000$",
         "$001$",
@@ -6866,8 +6866,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/Gate_QA/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/Gate_QA/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n</ol>",
+      "question": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit involving three D-type flip-flops used in a certain type of counter configuration.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"464\" src=\"/question-images/2363883555377985117.webp\" width=\"294\"/></p>\n<p>If all the flip-flops were reset to $0$ at power on, what is the total number of distinct outputs (states) represented by $PQR$ generated by the counter?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n<li>$6$</li>\n</ol>",
       "options": [
         "$3$",
         "$4$",
@@ -7082,8 +7082,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>What is the minimal form of the Karnaugh map shown below? Assume that $X$ denotes a don’t care term</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"232\" src=\"/Gate_QA/question-images/3558454650009787958.webp\" width=\"234\"/></p>",
-      "rawQuestionHtml": "<p>What is the minimal form of the Karnaugh map shown below? Assume that $X$ denotes a don’t care term</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"232\" src=\"/Gate_QA/question-images/3558454650009787958.webp\" width=\"234\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\bar{b} \\bar{d}$</li>\n<li>$ \\bar { b } \\bar { d } + \\bar{b} \\bar{c} $</li>\n<li>$ \\bar{b} \\bar{d} + {a} \\bar{b} \\bar{c} {d}$</li>\n<li>$ \\bar{b} \\bar{d} + \\bar{b} \\bar{c} + \\bar{c} \\bar{d} $</li>\n</ol>",
+      "question": "<p>What is the minimal form of the Karnaugh map shown below? Assume that $X$ denotes a don’t care term</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"232\" src=\"/question-images/3558454650009787958.webp\" width=\"234\"/></p>",
+      "rawQuestionHtml": "<p>What is the minimal form of the Karnaugh map shown below? Assume that $X$ denotes a don’t care term</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"232\" src=\"/question-images/3558454650009787958.webp\" width=\"234\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\bar{b} \\bar{d}$</li>\n<li>$ \\bar { b } \\bar { d } + \\bar{b} \\bar{c} $</li>\n<li>$ \\bar{b} \\bar{d} + {a} \\bar{b} \\bar{c} {d}$</li>\n<li>$ \\bar{b} \\bar{d} + \\bar{b} \\bar{c} + \\bar{c} \\bar{d} $</li>\n</ol>",
       "options": [
         "$\\bar{b} \\bar{d}$",
         "$ \\bar { b } \\bar { d } + \\bar{b} \\bar{c} $",
@@ -7438,8 +7438,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/Gate_QA/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p>",
-      "rawQuestionHtml": "<a name=\"1923\"></a><div itemprop=\"text\"><p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/Gate_QA/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p><ol style=\"list-style-type:upper-alpha\"><li>$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}QR + \\bar{P}Q\\bar{R} + Q\\bar{R} + P\\bar{Q}R$</li><li>$PQ\\bar{R}$</li></ol></div>",
+      "question": "<p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p>",
+      "rawQuestionHtml": "<a name=\"1923\"></a><div itemprop=\"text\"><p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p><ol style=\"list-style-type:upper-alpha\"><li>$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}QR + \\bar{P}Q\\bar{R} + Q\\bar{R} + P\\bar{Q}R$</li><li>$PQ\\bar{R}$</li></ol></div>",
       "options": [
         "$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$",
         "$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$",
@@ -7794,8 +7794,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p><img alt=\"\" src=\"/Gate_QA/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>",
-      "rawQuestionHtml": "<p><img alt=\"\" src=\"/Gate_QA/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$001, 010, 011$</li>\n<li>$111, 110, 101$</li>\n<li>$100, 110, 111$</li>\n<li>$100, 011, 001$</li>\n</ol>",
+      "question": "<p><img alt=\"\" src=\"/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>",
+      "rawQuestionHtml": "<p><img alt=\"\" src=\"/question-images/17621587290921446516.webp\" width=\"740\"/></p>\n<p>The above synchronous sequential circuit built using JK flip-flops is initialized with $Q_2Q_1Q_0 = 000$. The state sequence for this circuit for the next $3$ clock cycles is</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$001, 010, 011$</li>\n<li>$111, 110, 101$</li>\n<li>$100, 110, 111$</li>\n<li>$100, 011, 001$</li>\n</ol>",
       "options": [
         "$001, 010, 011$",
         "$111, 110, 101$",
@@ -8388,8 +8388,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/Gate_QA/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>",
-      "rawQuestionHtml": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/Gate_QA/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$\\overline{P} \\ \\overline {Q}+PQR$</li>\n<li>$\\overline{P} \\ {Q}+QR$</li>\n<li>$PQ +\\overline{P} \\ \\overline{Q}R$</li>\n<li>$\\overline{Q} \\ \\overline{R} + PQR$</li>\n</ol>",
+      "question": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>",
+      "rawQuestionHtml": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$\\overline{P} \\ \\overline {Q}+PQR$</li>\n<li>$\\overline{P} \\ {Q}+QR$</li>\n<li>$PQ +\\overline{P} \\ \\overline{Q}R$</li>\n<li>$\\overline{Q} \\ \\overline{R} + PQR$</li>\n</ol>",
       "options": [
         "$\\overline{P} \\ \\overline {Q}+PQR$",
         "$\\overline{P} \\ {Q}+QR$",
@@ -8718,8 +8718,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "NAT",
-      "question": "<p>Consider the Karnaugh map given below, where $X$ represents <em>\"don't care\" </em>and blank represents $0$.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"269\" src=\"/Gate_QA/question-images/8927096346179624195.webp\" width=\"272\"/></p>\n<p>Assume for all inputs $\\left ( a,b,c,d \\right )$, the respective complements $\\left ( \\bar{a}, \\bar{b}, \\bar{c}, \\bar{d} \\right )$ are also available. The above logic is implemented using $2$-input $\\text{NOR}$ gates only. The minimum number of gates required is ____________ .</p>",
-      "rawQuestionHtml": "<p>Consider the Karnaugh map given below, where $X$ represents <em>\"don't care\" </em>and blank represents $0$.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"269\" src=\"/Gate_QA/question-images/8927096346179624195.webp\" width=\"272\"/></p>\n<p>Assume for all inputs $\\left ( a,b,c,d \\right )$, the respective complements $\\left ( \\bar{a}, \\bar{b}, \\bar{c}, \\bar{d} \\right )$ are also available. The above logic is implemented using $2$-input $\\text{NOR}$ gates only. The minimum number of gates required is ____________ .</p>",
+      "question": "<p>Consider the Karnaugh map given below, where $X$ represents <em>\"don't care\" </em>and blank represents $0$.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"269\" src=\"/question-images/8927096346179624195.webp\" width=\"272\"/></p>\n<p>Assume for all inputs $\\left ( a,b,c,d \\right )$, the respective complements $\\left ( \\bar{a}, \\bar{b}, \\bar{c}, \\bar{d} \\right )$ are also available. The above logic is implemented using $2$-input $\\text{NOR}$ gates only. The minimum number of gates required is ____________ .</p>",
+      "rawQuestionHtml": "<p>Consider the Karnaugh map given below, where $X$ represents <em>\"don't care\" </em>and blank represents $0$.</p>\n<p> </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"269\" src=\"/question-images/8927096346179624195.webp\" width=\"272\"/></p>\n<p>Assume for all inputs $\\left ( a,b,c,d \\right )$, the respective complements $\\left ( \\bar{a}, \\bar{b}, \\bar{c}, \\bar{d} \\right )$ are also available. The above logic is implemented using $2$-input $\\text{NOR}$ gates only. The minimum number of gates required is ____________ .</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -8748,8 +8748,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider a combination of $\\text{T}$ and $\\text{D}$ flip-flops connected as shown below. The output of the $\\text{D}$ flip-flop is connected to the input of the $\\text{T}$ flip-flop and the output of the $\\text{T}$ flip-flop is connected to the input of the $\\text{D}$ flip-flop.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3886956125177836916.webp\" width=\"500\"/></p>\n<p>Initially, both $Q_{0}$ and $Q_{1}$ are set to $1$ (before the $1^{\\text{st}}$ clock cycle). The outputs</p>",
-      "rawQuestionHtml": "<p>Consider a combination of $\\text{T}$ and $\\text{D}$ flip-flops connected as shown below. The output of the $\\text{D}$ flip-flop is connected to the input of the $\\text{T}$ flip-flop and the output of the $\\text{T}$ flip-flop is connected to the input of the $\\text{D}$ flip-flop.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/3886956125177836916.webp\" width=\"500\"/></p>\n<p>Initially, both $Q_{0}$ and $Q_{1}$ are set to $1$ (before the $1^{\\text{st}}$ clock cycle). The outputs</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $00$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $01$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $00$ and after the $4^{\\text{th}}$ cycle are $11$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $01$ and after the $4^{\\text{th}}$ cycle are $01$ respectively.</li>\n</ol>",
+      "question": "<p>Consider a combination of $\\text{T}$ and $\\text{D}$ flip-flops connected as shown below. The output of the $\\text{D}$ flip-flop is connected to the input of the $\\text{T}$ flip-flop and the output of the $\\text{T}$ flip-flop is connected to the input of the $\\text{D}$ flip-flop.</p>\n<p><img alt=\"\" src=\"/question-images/3886956125177836916.webp\" width=\"500\"/></p>\n<p>Initially, both $Q_{0}$ and $Q_{1}$ are set to $1$ (before the $1^{\\text{st}}$ clock cycle). The outputs</p>",
+      "rawQuestionHtml": "<p>Consider a combination of $\\text{T}$ and $\\text{D}$ flip-flops connected as shown below. The output of the $\\text{D}$ flip-flop is connected to the input of the $\\text{T}$ flip-flop and the output of the $\\text{T}$ flip-flop is connected to the input of the $\\text{D}$ flip-flop.</p>\n<p><img alt=\"\" src=\"/question-images/3886956125177836916.webp\" width=\"500\"/></p>\n<p>Initially, both $Q_{0}$ and $Q_{1}$ are set to $1$ (before the $1^{\\text{st}}$ clock cycle). The outputs</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $00$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $01$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $00$ and after the $4^{\\text{th}}$ cycle are $11$ respectively.</li>\n<li>$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $01$ and after the $4^{\\text{th}}$ cycle are $01$ respectively.</li>\n</ol>",
       "options": [
         "$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $00$ respectively.",
         "$Q_{1}Q_{0}$ after the $3^{\\text{rd}}$ cycle are $11$ and after the $4^{\\text{th}}$ cycle are $01$ respectively.",
@@ -9126,8 +9126,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "NAT",
-      "question": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
-      "rawQuestionHtml": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
+      "question": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
+      "rawQuestionHtml": "<p>Consider the sequential circuit shown in the figure,  where both flip-flops used are positive edge-triggered $\\text{D}$ flip-flops.</p>\n<p><img alt=\"\" src=\"/question-images/10337311508764295072.webp\" width=\"390\"/></p>\n<p>The number of states in the state transition diagram of this circuit that have a transition back to the same state on some value of \"in\" is ____</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -9434,8 +9434,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider three $4$-variable functions $f_1, f_2$, and $f_3$, which are expressed in sum-of-minterms as</p>\n<p>$f_1=\\Sigma(0,2,5,8,14),$</p>\n<p>$f_2=\\Sigma(2,3,6,8,14,15),$</p>\n<p>$f_3=\\Sigma (2,7,11,14)$</p>\n<p>For the following circuit with one AND gate and one XOR gate the output function $f$ can be expressed as:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"170\" src=\"/Gate_QA/question-images/17727893427241753853.webp\" width=\"363\"/></p>",
-      "rawQuestionHtml": "<p>Consider three $4$-variable functions $f_1, f_2$, and $f_3$, which are expressed in sum-of-minterms as</p>\n<p>$f_1=\\Sigma(0,2,5,8,14),$</p>\n<p>$f_2=\\Sigma(2,3,6,8,14,15),$</p>\n<p>$f_3=\\Sigma (2,7,11,14)$</p>\n<p>For the following circuit with one AND gate and one XOR gate the output function $f$ can be expressed as:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"170\" src=\"/Gate_QA/question-images/17727893427241753853.webp\" width=\"363\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Sigma(7,8,11)$</li>\n<li>$\\Sigma (2,7,8,11,14)$</li>\n<li>$\\Sigma (2,14)$</li>\n<li>$\\Sigma (0,2,3,5,6,7,8,11,14,15)$</li>\n</ol>",
+      "question": "<p>Consider three $4$-variable functions $f_1, f_2$, and $f_3$, which are expressed in sum-of-minterms as</p>\n<p>$f_1=\\Sigma(0,2,5,8,14),$</p>\n<p>$f_2=\\Sigma(2,3,6,8,14,15),$</p>\n<p>$f_3=\\Sigma (2,7,11,14)$</p>\n<p>For the following circuit with one AND gate and one XOR gate the output function $f$ can be expressed as:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"170\" src=\"/question-images/17727893427241753853.webp\" width=\"363\"/></p>",
+      "rawQuestionHtml": "<p>Consider three $4$-variable functions $f_1, f_2$, and $f_3$, which are expressed in sum-of-minterms as</p>\n<p>$f_1=\\Sigma(0,2,5,8,14),$</p>\n<p>$f_2=\\Sigma(2,3,6,8,14,15),$</p>\n<p>$f_3=\\Sigma (2,7,11,14)$</p>\n<p>For the following circuit with one AND gate and one XOR gate the output function $f$ can be expressed as:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"170\" src=\"/question-images/17727893427241753853.webp\" width=\"363\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\Sigma(7,8,11)$</li>\n<li>$\\Sigma (2,7,8,11,14)$</li>\n<li>$\\Sigma (2,14)$</li>\n<li>$\\Sigma (0,2,3,5,6,7,8,11,14,15)$</li>\n</ol>",
       "options": [
         "$\\Sigma(7,8,11)$",
         "$\\Sigma (2,7,8,11,14)$",
@@ -9576,8 +9576,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the Boolean function $z(a,b,c)$.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4027847451769533488.webp\" width=\"600\"/></p>\n<p> Which one of the following minterm lists represents the circuit given above?</p>",
-      "rawQuestionHtml": "<p>Consider the Boolean function $z(a,b,c)$.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4027847451769533488.webp\" width=\"600\"/></p>\n<p> Which one of the following minterm lists represents the circuit given above?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$z=\\sum (0,1,3,7)$</li>\n<li>$z=\\sum (1,4,5,6,7)$</li>\n<li>$z=\\sum (2,4,5,6,7)$</li>\n<li>$z=\\sum (2,3,5)$</li>\n</ol>",
+      "question": "<p>Consider the Boolean function $z(a,b,c)$.</p>\n<p><img alt=\"\" src=\"/question-images/4027847451769533488.webp\" width=\"600\"/></p>\n<p> Which one of the following minterm lists represents the circuit given above?</p>",
+      "rawQuestionHtml": "<p>Consider the Boolean function $z(a,b,c)$.</p>\n<p><img alt=\"\" src=\"/question-images/4027847451769533488.webp\" width=\"600\"/></p>\n<p> Which one of the following minterm lists represents the circuit given above?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$z=\\sum (0,1,3,7)$</li>\n<li>$z=\\sum (1,4,5,6,7)$</li>\n<li>$z=\\sum (2,4,5,6,7)$</li>\n<li>$z=\\sum (2,3,5)$</li>\n</ol>",
       "options": [
         "$z=\\sum (0,1,3,7)$",
         "$z=\\sum (1,4,5,6,7)$",
@@ -9768,8 +9768,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "MCQ",
-      "question": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>",
-      "rawQuestionHtml": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$011,101,000$</li>\n<li>$001,010,111$</li>\n<li>$011,101,111$</li>\n<li>$001,010,000$</li>\n</ol>",
+      "question": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>",
+      "rawQuestionHtml": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$011,101,000$</li>\n<li>$001,010,111$</li>\n<li>$011,101,111$</li>\n<li>$001,010,000$</li>\n</ol>",
       "options": [
         "$011,101,000$",
         "$001,010,111$",
@@ -9933,33 +9933,33 @@
       "topic": "Combinational Circuits",
       "type": "MCQ",
       "question": "<p>Which one of the following circuits implements the Boolean function given below?</p>\n<p>$f(x,y,z) = m_0+m_1+m_3+m_4+m_5+m_6$, where $m_i$ is the $i^{\\text{th}}$ minterm.</p>\n\n<p> </p>",
-      "rawQuestionHtml": "<p>Which one of the following circuits implements the Boolean function given below?</p>\n<p>$f(x,y,z) = m_0+m_1+m_3+m_4+m_5+m_6$, where $m_i$ is the $i^{\\text{th}}$ minterm.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/></li>\n</ol>\n<p> </p>",
+      "rawQuestionHtml": "<p>Which one of the following circuits implements the Boolean function given below?</p>\n<p>$f(x,y,z) = m_0+m_1+m_3+m_4+m_5+m_6$, where $m_i$ is the $i^{\\text{th}}$ minterm.</p>\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n<li><img alt=\"\" src=\"/question-images/615432353926685059.webp\" width=\"175\"/></li>\n<li><img alt=\"\" src=\"/question-images/15735899882352442934.webp\" width=\"174\"/></li>\n<li><img alt=\"\" src=\"/question-images/8622358969404695945.webp\" width=\"179\"/></li>\n<li><img alt=\"\" src=\"/question-images/11987571660268002342.webp\" width=\"182\"/></li>\n</ol>\n<p> </p>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>"
+        "<img alt=\"\" src=\"/question-images/615432353926685059.webp\" width=\"175\"/>",
+        "<img alt=\"\" src=\"/question-images/15735899882352442934.webp\" width=\"174\"/>",
+        "<img alt=\"\" src=\"/question-images/8622358969404695945.webp\" width=\"179\"/>",
+        "<img alt=\"\" src=\"/question-images/11987571660268002342.webp\" width=\"182\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/615432353926685059.webp\" width=\"175\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/615432353926685059.webp\" width=\"175\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/615432353926685059.webp\" width=\"175\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/15735899882352442934.webp\" width=\"174\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/15735899882352442934.webp\" width=\"174\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/15735899882352442934.webp\" width=\"174\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/8622358969404695945.webp\" width=\"179\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/8622358969404695945.webp\" width=\"179\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/8622358969404695945.webp\" width=\"179\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/11987571660268002342.webp\" width=\"182\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/11987571660268002342.webp\" width=\"182\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/11987571660268002342.webp\" width=\"182\"/>"
         }
       ],
       "answer": [
@@ -10155,8 +10155,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>Consider a digital display system $\\text{(DDS)}$ shown in the figure that displays the contents  of register $\\text{X}.$ A $16 – \\text{bit}$ code word is used to load a word in $\\text{X},$ either from $\\text{S}$ or from $\\text{R}.$ $\\text{S}$ is a $1024-$word memory segment and $\\text{R}$ is a $32-$word register file. Based on the value of mode bit  $\\text{M, T}$ selects an input word to load in $\\text{X. P}$ and $\\text{Q}$ interface with the corresponding bits in the code word to choose the addressed word. Which one of the following represents the functionality of  $\\text{P, Q,}$ and $\\text{T}?$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"432\" src=\"/Gate_QA/question-images/6195252247558556395.webp\" width=\"444\"/></p>",
-      "rawQuestionHtml": "<p>Consider a digital display system $\\text{(DDS)}$ shown in the figure that displays the contents  of register $\\text{X}.$ A $16 – \\text{bit}$ code word is used to load a word in $\\text{X},$ either from $\\text{S}$ or from $\\text{R}.$ $\\text{S}$ is a $1024-$word memory segment and $\\text{R}$ is a $32-$word register file. Based on the value of mode bit  $\\text{M, T}$ selects an input word to load in $\\text{X. P}$ and $\\text{Q}$ interface with the corresponding bits in the code word to choose the addressed word. Which one of the following represents the functionality of  $\\text{P, Q,}$ and $\\text{T}?$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"432\" src=\"/Gate_QA/question-images/6195252247558556395.webp\" width=\"444\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\text{P}$ is $10:1$ multiplexer$; \\qquad \\; \\;\\text{Q}$ is $5:1$ multiplexer$; \\qquad \\; \\text{T}$ is $2:1$ multiplexer</li>\n<li>$\\text{P}$ is $10:2^{10}$ decoder$; \\qquad \\quad \\text{Q}$ is $5:2^{5}$ decoder$; \\qquad \\quad \\text{T}$ is $2:1$ encoder</li>\n<li>$\\text{P}$ is $10:2^{10}$ decoder$; \\qquad \\quad \\text{Q}$ is $5:2^{5}$ decoder$; \\qquad \\quad \\text{T}$ is $2:1$ multiplexer</li>\n<li>$\\text{P}$ is $1:10$ de-multiplexer$; \\quad \\; \\;\\text{Q}$ is $1:5$ de-multiplexer$; \\quad \\text{T}$ is $2:1$ multiplexer</li>\n</ol>",
+      "question": "<p>Consider a digital display system $\\text{(DDS)}$ shown in the figure that displays the contents  of register $\\text{X}.$ A $16 – \\text{bit}$ code word is used to load a word in $\\text{X},$ either from $\\text{S}$ or from $\\text{R}.$ $\\text{S}$ is a $1024-$word memory segment and $\\text{R}$ is a $32-$word register file. Based on the value of mode bit  $\\text{M, T}$ selects an input word to load in $\\text{X. P}$ and $\\text{Q}$ interface with the corresponding bits in the code word to choose the addressed word. Which one of the following represents the functionality of  $\\text{P, Q,}$ and $\\text{T}?$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"432\" src=\"/question-images/6195252247558556395.webp\" width=\"444\"/></p>",
+      "rawQuestionHtml": "<p>Consider a digital display system $\\text{(DDS)}$ shown in the figure that displays the contents  of register $\\text{X}.$ A $16 – \\text{bit}$ code word is used to load a word in $\\text{X},$ either from $\\text{S}$ or from $\\text{R}.$ $\\text{S}$ is a $1024-$word memory segment and $\\text{R}$ is a $32-$word register file. Based on the value of mode bit  $\\text{M, T}$ selects an input word to load in $\\text{X. P}$ and $\\text{Q}$ interface with the corresponding bits in the code word to choose the addressed word. Which one of the following represents the functionality of  $\\text{P, Q,}$ and $\\text{T}?$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"432\" src=\"/question-images/6195252247558556395.webp\" width=\"444\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\text{P}$ is $10:1$ multiplexer$; \\qquad \\; \\;\\text{Q}$ is $5:1$ multiplexer$; \\qquad \\; \\text{T}$ is $2:1$ multiplexer</li>\n<li>$\\text{P}$ is $10:2^{10}$ decoder$; \\qquad \\quad \\text{Q}$ is $5:2^{5}$ decoder$; \\qquad \\quad \\text{T}$ is $2:1$ encoder</li>\n<li>$\\text{P}$ is $10:2^{10}$ decoder$; \\qquad \\quad \\text{Q}$ is $5:2^{5}$ decoder$; \\qquad \\quad \\text{T}$ is $2:1$ multiplexer</li>\n<li>$\\text{P}$ is $1:10$ de-multiplexer$; \\quad \\; \\;\\text{Q}$ is $1:5$ de-multiplexer$; \\quad \\text{T}$ is $2:1$ multiplexer</li>\n</ol>",
       "options": [
         "$\\text{P}$ is $10:1$ multiplexer$; \\qquad \\; \\;\\text{Q}$ is $5:1$ multiplexer$; \\qquad \\; \\text{T}$ is $2:1$ multiplexer",
         "$\\text{P}$ is $10:2^{10}$ decoder$; \\qquad \\quad \\text{Q}$ is $5:2^{5}$ decoder$; \\qquad \\quad \\text{T}$ is $2:1$ encoder",
@@ -10263,8 +10263,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>",
-      "rawQuestionHtml": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{D}$ Flip-flop</li>\n<li>$\\text{D}$ Latch</li>\n<li>Half-adder</li>\n<li>Demultiplexer</li>\n</ol>",
+      "question": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>",
+      "rawQuestionHtml": "<p>The output of a $2$-input multiplexer is connected back to one of its inputs as shown in the figure.</p>\n<p><img alt=\"\" src=\"/question-images/17774935358970065627.webp\" width=\"300\"/><br/>\n<br/>\nMatch the functional equivalence of this circuit to one of the following options.</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{D}$ Flip-flop</li>\n<li>$\\text{D}$ Latch</li>\n<li>Half-adder</li>\n<li>Demultiplexer</li>\n</ol>",
       "options": [
         "$\\text{D}$ Flip-flop",
         "$\\text{D}$ Latch",
@@ -10347,8 +10347,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "MCQ",
-      "question": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>",
-      "rawQuestionHtml": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(0,0,1)$</li>\n<li>$(1,0,0)$</li>\n<li>$(1,0,1)$</li>\n<li>$(1,1,1)$</li>\n</ol>",
+      "question": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>",
+      "rawQuestionHtml": "<p>Consider a sequential digital circuit consisting of $\\mathrm{T}$ flip-flops and $\\mathrm{D}$ flip-flops as shown in the figure. $\\text{CLKIN}$ is the clock input to the circuit. At the beginning, $\\text{Q1, Q2}$ and $\\text{Q3}$ have values $0,1$ and $1,$ respectively.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/2282856915453985973.webp\" width=\"500\"/></p>\n<p>Which one of the given values of $\\text{(Q1, Q2, Q3)}$ can $\\text{NEVER}$ be obtained with this digital circuit?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(0,0,1)$</li>\n<li>$(1,0,0)$</li>\n<li>$(1,0,1)$</li>\n<li>$(1,1,1)$</li>\n</ol>",
       "options": [
         "$(0,0,1)$",
         "$(1,0,0)$",
@@ -10401,8 +10401,8 @@
       "subjectSlug": "digital",
       "topic": "Combinational Circuits",
       "type": "MCQ",
-      "question": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>",
-      "rawQuestionHtml": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/Gate_QA/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(1,1,0,0,1,1,1,0)$</li>\n<li>$(1,1,0,0,1,1,0,1)$</li>\n<li>$(1,1,0,1,1,1,0,0)$</li>\n<li>$(0,0,1,1,0,1,1,1)$</li>\n</ol>",
+      "question": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>",
+      "rawQuestionHtml": "<p>A Boolean digital circuit is composed using two $4$-input multiplexers $\\text{(M1 and M2)}$ and one $2$-input multiplexer $\\text{(M3)}$ as shown in the figure. $\\text{X0-X7}$ are the inputs of the multiplexers $\\text{M1 and M2}$ and could be connected to either $0$ or $1.$ The select lines of the multiplexers are connected to Boolean variables $\\text{A, B and C}$ as shown.</p>\n<p><img alt=\"\" height=\"431\" src=\"/question-images/10380797853499656678.webp\" width=\"443\"/></p>\n<p>Which one of the following set of values of $\\text{(X0, X1, X2, X3, X4, X5, X6, X7)}$ will realise the Boolean function $\\overline{\\mathrm{A}}+\\overline{\\mathrm{A}} \\cdot \\overline{\\mathrm{C}}+\\mathrm{A} \\cdot \\overline{\\mathrm{B}} \\cdot \\mathrm{C}?$ </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(1,1,0,0,1,1,1,0)$</li>\n<li>$(1,1,0,0,1,1,0,1)$</li>\n<li>$(1,1,0,1,1,1,0,0)$</li>\n<li>$(0,0,1,1,0,1,1,1)$</li>\n</ol>",
       "options": [
         "$(1,1,0,0,1,1,1,0)$",
         "$(1,1,0,0,1,1,0,1)$",
@@ -10509,8 +10509,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​​Consider the circuit shown below where the gates may have propagation delays. Assume that all signal transitions occur instantaneously and that wires have no delays. Which of the following statements about the circuit is/are CORRECT?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/18270935242676374001.webp\" width=\"400\"/></p>\n</div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422824\"></a><div itemprop=\"text\"><p>​​Consider the circuit shown below where the gates may have propagation delays. Assume that all signal transitions occur instantaneously and that wires have no delays. Which of the following statements about the circuit is/are CORRECT?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/18270935242676374001.webp\" width=\"400\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>With no propagation delays, the output $Y$ is always logic Zero</li>\n<li>With no propagation delays, the output $Y$ is always logic One</li>\n<li>With propagation delays, the output $Y$ can have a transient logic One after $X$ transitions from logic Zero to logic One</li>\n<li>With propagation delays, the output $Y$ can have a transient logic Zero after $X$ transitions from logic One to logic Zero </li>\n</ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​​Consider the circuit shown below where the gates may have propagation delays. Assume that all signal transitions occur instantaneously and that wires have no delays. Which of the following statements about the circuit is/are CORRECT?</p>\n<p><img alt=\"\" src=\"/question-images/18270935242676374001.webp\" width=\"400\"/></p>\n</div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422824\"></a><div itemprop=\"text\"><p>​​Consider the circuit shown below where the gates may have propagation delays. Assume that all signal transitions occur instantaneously and that wires have no delays. Which of the following statements about the circuit is/are CORRECT?</p>\n<p><img alt=\"\" src=\"/question-images/18270935242676374001.webp\" width=\"400\"/></p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>With no propagation delays, the output $Y$ is always logic Zero</li>\n<li>With no propagation delays, the output $Y$ is always logic One</li>\n<li>With propagation delays, the output $Y$ can have a transient logic One after $X$ transitions from logic Zero to logic One</li>\n<li>With propagation delays, the output $Y$ can have a transient logic Zero after $X$ transitions from logic One to logic Zero </li>\n</ol></div>\n</div>",
       "options": [
         "With no propagation delays, the output $Y$ is always logic Zero",
         "With no propagation delays, the output $Y$ is always logic One",
@@ -10619,8 +10619,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Consider a digital logic circuit consisting of three $2$-to-$1$ multiplexers $\\text{M1, M2}$, and $\\text{M3}$ as shown below. $\\mathrm{X} 1$ and $\\mathrm{X} 2$ are inputs of $\\mathrm{M} 1$. $\\text{X3}$ and $\\text{X4}$ are inputs of $\\text{M2}$. $\\text{A, B}$, and $\\text{C}$ are select lines of $\\text{M1, M2}$, and $\\text{M3}$, respectively.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17143374221160483695.webp\" width=\"360\"/></p>\n<p>For an instance of inputs $\\mathbf{X} \\mathbf{1}=\\mathbf{1}, \\mathbf{X} \\mathbf{2}=\\mathbf{1}, \\mathbf{X} \\mathbf{3}=\\mathbf{0}$, and $\\mathbf{X} \\mathbf{4}=\\mathbf{0}$, the number of combinations of $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$ that give the output $\\mathbf{Y}=\\mathbf{1}$ is ____________.</p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422788\"></a><div itemprop=\"text\"><p>Consider a digital logic circuit consisting of three $2$-to-$1$ multiplexers $\\text{M1, M2}$, and $\\text{M3}$ as shown below. $\\mathrm{X} 1$ and $\\mathrm{X} 2$ are inputs of $\\mathrm{M} 1$. $\\text{X3}$ and $\\text{X4}$ are inputs of $\\text{M2}$. $\\text{A, B}$, and $\\text{C}$ are select lines of $\\text{M1, M2}$, and $\\text{M3}$, respectively.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17143374221160483695.webp\" width=\"360\"/></p>\n<p>For an instance of inputs $\\mathbf{X} \\mathbf{1}=\\mathbf{1}, \\mathbf{X} \\mathbf{2}=\\mathbf{1}, \\mathbf{X} \\mathbf{3}=\\mathbf{0}$, and $\\mathbf{X} \\mathbf{4}=\\mathbf{0}$, the number of combinations of $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$ that give the output $\\mathbf{Y}=\\mathbf{1}$ is ____________.</p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Consider a digital logic circuit consisting of three $2$-to-$1$ multiplexers $\\text{M1, M2}$, and $\\text{M3}$ as shown below. $\\mathrm{X} 1$ and $\\mathrm{X} 2$ are inputs of $\\mathrm{M} 1$. $\\text{X3}$ and $\\text{X4}$ are inputs of $\\text{M2}$. $\\text{A, B}$, and $\\text{C}$ are select lines of $\\text{M1, M2}$, and $\\text{M3}$, respectively.</p>\n<p><img alt=\"\" src=\"/question-images/17143374221160483695.webp\" width=\"360\"/></p>\n<p>For an instance of inputs $\\mathbf{X} \\mathbf{1}=\\mathbf{1}, \\mathbf{X} \\mathbf{2}=\\mathbf{1}, \\mathbf{X} \\mathbf{3}=\\mathbf{0}$, and $\\mathbf{X} \\mathbf{4}=\\mathbf{0}$, the number of combinations of $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$ that give the output $\\mathbf{Y}=\\mathbf{1}$ is ____________.</p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422788\"></a><div itemprop=\"text\"><p>Consider a digital logic circuit consisting of three $2$-to-$1$ multiplexers $\\text{M1, M2}$, and $\\text{M3}$ as shown below. $\\mathrm{X} 1$ and $\\mathrm{X} 2$ are inputs of $\\mathrm{M} 1$. $\\text{X3}$ and $\\text{X4}$ are inputs of $\\text{M2}$. $\\text{A, B}$, and $\\text{C}$ are select lines of $\\text{M1, M2}$, and $\\text{M3}$, respectively.</p>\n<p><img alt=\"\" src=\"/question-images/17143374221160483695.webp\" width=\"360\"/></p>\n<p>For an instance of inputs $\\mathbf{X} \\mathbf{1}=\\mathbf{1}, \\mathbf{X} \\mathbf{2}=\\mathbf{1}, \\mathbf{X} \\mathbf{3}=\\mathbf{0}$, and $\\mathbf{X} \\mathbf{4}=\\mathbf{0}$, the number of combinations of $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$ that give the output $\\mathbf{Y}=\\mathbf{1}$ is ____________.</p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -10814,8 +10814,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Consider $4$-variable functions $f 1, f 2, f 3, f 4$ expressed in sum-of-minterms form as given below.<br/>\n$$<br/>\n\\begin{array}{l}<br/>\nf 1=\\sum(0,2,3,5,7,8,11,13) \\\\<br/>\nf 2=\\sum(1,3,5,7,11,13,15) \\\\<br/>\nf 3=\\sum(0,1,4,11) \\\\<br/>\nf 4=\\sum(0,2,6,13)<br/>\n\\end{array}<br/>\n$$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15156264317239692795.webp\" width=\"450\"/><br/>\n<br/>\nWith respect to the circuit given above, which of the following options is/are CORRECT?</p>\n</div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422857\"></a><div itemprop=\"text\"><p>Consider $4$-variable functions $f 1, f 2, f 3, f 4$ expressed in sum-of-minterms form as given below.<br/>\n$$<br/>\n\\begin{array}{l}<br/>\nf 1=\\sum(0,2,3,5,7,8,11,13) \\\\<br/>\nf 2=\\sum(1,3,5,7,11,13,15) \\\\<br/>\nf 3=\\sum(0,1,4,11) \\\\<br/>\nf 4=\\sum(0,2,6,13)<br/>\n\\end{array}<br/>\n$$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15156264317239692795.webp\" width=\"450\"/><br/>\n<br/>\nWith respect to the circuit given above, which of the following options is/are CORRECT?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\boldsymbol{Y}=\\sum(0,1,2,11,13)$</li>\n<li>$\\boldsymbol{Y}=\\Pi(3,4,5,6,7,8,9,10,12,14,15)$</li>\n<li>$\\boldsymbol{Y}=\\sum(0,1,2,3,4,5,6,7)$</li>\n<li>$\\boldsymbol{Y}=\\Pi(8,9,10,11,12,13,14,15)$</li>\n</ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Consider $4$-variable functions $f 1, f 2, f 3, f 4$ expressed in sum-of-minterms form as given below.<br/>\n$$<br/>\n\\begin{array}{l}<br/>\nf 1=\\sum(0,2,3,5,7,8,11,13) \\\\<br/>\nf 2=\\sum(1,3,5,7,11,13,15) \\\\<br/>\nf 3=\\sum(0,1,4,11) \\\\<br/>\nf 4=\\sum(0,2,6,13)<br/>\n\\end{array}<br/>\n$$</p>\n<p><img alt=\"\" src=\"/question-images/15156264317239692795.webp\" width=\"450\"/><br/>\n<br/>\nWith respect to the circuit given above, which of the following options is/are CORRECT?</p>\n</div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"422857\"></a><div itemprop=\"text\"><p>Consider $4$-variable functions $f 1, f 2, f 3, f 4$ expressed in sum-of-minterms form as given below.<br/>\n$$<br/>\n\\begin{array}{l}<br/>\nf 1=\\sum(0,2,3,5,7,8,11,13) \\\\<br/>\nf 2=\\sum(1,3,5,7,11,13,15) \\\\<br/>\nf 3=\\sum(0,1,4,11) \\\\<br/>\nf 4=\\sum(0,2,6,13)<br/>\n\\end{array}<br/>\n$$</p>\n<p><img alt=\"\" src=\"/question-images/15156264317239692795.webp\" width=\"450\"/><br/>\n<br/>\nWith respect to the circuit given above, which of the following options is/are CORRECT?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$\\boldsymbol{Y}=\\sum(0,1,2,11,13)$</li>\n<li>$\\boldsymbol{Y}=\\Pi(3,4,5,6,7,8,9,10,12,14,15)$</li>\n<li>$\\boldsymbol{Y}=\\sum(0,1,2,3,4,5,6,7)$</li>\n<li>$\\boldsymbol{Y}=\\Pi(8,9,10,11,12,13,14,15)$</li>\n</ol></div>\n</div>",
       "options": [
         "$\\boldsymbol{Y}=\\sum(0,1,2,11,13)$",
         "$\\boldsymbol{Y}=\\Pi(3,4,5,6,7,8,9,10,12,14,15)$",
@@ -11033,8 +11033,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "NAT",
-      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the given sequential circuit designed using D-Flip-flops. The circuit is initialized with some value (initial state). The number of distinct states the circuit will go through before returning back to the initial state is ___________. (Answer in integer)</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"429\" src=\"/Gate_QA/question-images/3984206057288205587.webp\" width=\"800\"/></p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460030\"></a><div itemprop=\"text\"><p>Consider the given sequential circuit designed using D-Flip-flops. The circuit is initialized with some value (initial state). The number of distinct states the circuit will go through before returning back to the initial state is ___________. (Answer in integer)</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"429\" src=\"/Gate_QA/question-images/3984206057288205587.webp\" width=\"800\"/></p></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>Consider the given sequential circuit designed using D-Flip-flops. The circuit is initialized with some value (initial state). The number of distinct states the circuit will go through before returning back to the initial state is ___________. (Answer in integer)</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"429\" src=\"/question-images/3984206057288205587.webp\" width=\"800\"/></p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460030\"></a><div itemprop=\"text\"><p>Consider the given sequential circuit designed using D-Flip-flops. The circuit is initialized with some value (initial state). The number of distinct states the circuit will go through before returning back to the initial state is ___________. (Answer in integer)</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"429\" src=\"/question-images/3984206057288205587.webp\" width=\"800\"/></p></div>\n</div>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -11063,8 +11063,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​Consider the following logic circuit diagram.</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"308\" src=\"/Gate_QA/question-images/3875659743658102990.webp\" width=\"600\"/></p><p><br/>Which is/are the CORRECT option(s) for the output function $F$ ?</p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460814\"></a><div itemprop=\"text\"><p>​Consider the following logic circuit diagram.</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"308\" src=\"/Gate_QA/question-images/3875659743658102990.webp\" width=\"600\"/></p><p><br/>Which is/are the CORRECT option(s) for the output function $F$ ?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$\\overline{X Y}$</li><li>$\\overline{X}+\\overline{Y}+X \\overline{Y}$</li><li>$\\overline{XY}+\\overline{X}+X \\overline{Y}$</li><li>$X+\\overline{Y}$</li></ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​Consider the following logic circuit diagram.</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"308\" src=\"/question-images/3875659743658102990.webp\" width=\"600\"/></p><p><br/>Which is/are the CORRECT option(s) for the output function $F$ ?</p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460814\"></a><div itemprop=\"text\"><p>​Consider the following logic circuit diagram.</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" height=\"308\" src=\"/question-images/3875659743658102990.webp\" width=\"600\"/></p><p><br/>Which is/are the CORRECT option(s) for the output function $F$ ?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$\\overline{X Y}$</li><li>$\\overline{X}+\\overline{Y}+X \\overline{Y}$</li><li>$\\overline{XY}+\\overline{X}+X \\overline{Y}$</li><li>$X+\\overline{Y}$</li></ol></div>\n</div>",
       "options": [
         "$\\overline{X Y}$",
         "$\\overline{X}+\\overline{Y}+X \\overline{Y}$",
@@ -11179,8 +11179,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MSQ",
-      "question": "<div class=\"qa-q-view-content\">\n<p>​​​​Given the following Karnaugh Map for a Boolean function $F(w, x, y, z)$ :</p><p style=\"text-align:center\"><img alt=\"K Map\" height=\"396\" src=\"/Gate_QA/question-images/8056052334547745052.webp\" width=\"400\"/></p><p><br/>Which one or more of the following Boolean expression(s) represent(s) $F$ ?</p></div>",
-      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460802\"></a><div itemprop=\"text\"><p>​​​​Given the following Karnaugh Map for a Boolean function $F(w, x, y, z)$ :</p><p style=\"text-align:center\"><img alt=\"K Map\" height=\"396\" src=\"/Gate_QA/question-images/8056052334547745052.webp\" width=\"400\"/></p><p><br/>Which one or more of the following Boolean expression(s) represent(s) $F$ ?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y \\bar{z}+x z$</li><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y z+x z$</li><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} z+x z$</li><li>$\\bar{x} \\bar{z}+x z$</li></ol></div>\n</div>",
+      "question": "<div class=\"qa-q-view-content\">\n<p>​​​​Given the following Karnaugh Map for a Boolean function $F(w, x, y, z)$ :</p><p style=\"text-align:center\"><img alt=\"K Map\" height=\"396\" src=\"/question-images/8056052334547745052.webp\" width=\"400\"/></p><p><br/>Which one or more of the following Boolean expression(s) represent(s) $F$ ?</p></div>",
+      "rawQuestionHtml": "<div class=\"qa-q-view-content\">\n<a name=\"460802\"></a><div itemprop=\"text\"><p>​​​​Given the following Karnaugh Map for a Boolean function $F(w, x, y, z)$ :</p><p style=\"text-align:center\"><img alt=\"K Map\" height=\"396\" src=\"/question-images/8056052334547745052.webp\" width=\"400\"/></p><p><br/>Which one or more of the following Boolean expression(s) represent(s) $F$ ?</p><ol start=\"1\" style=\"list-style-type: upper-alpha;\"><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y \\bar{z}+x z$</li><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y z+x z$</li><li>$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} z+x z$</li><li>$\\bar{x} \\bar{z}+x z$</li></ol></div>\n</div>",
       "options": [
         "$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+w \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y \\bar{z}+x z$",
         "$\\bar{w} \\bar{x} \\bar{y} \\bar{z}+\\bar{w} \\bar{x} y \\bar{z}+w \\bar{x} y z+x z$",
@@ -11508,8 +11508,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>What Boolean function does the circuit below realize?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4074976207832212511.webp\" width=\"440\"/></p>",
-      "rawQuestionHtml": "<p>What Boolean function does the circuit below realize?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/4074976207832212511.webp\" width=\"440\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xz + \\bar{x}\\bar{z}$</li>\n<li>$x\\bar{z} + \\bar{x}{z}$</li>\n<li>$\\bar{x}\\bar{y} + {y}{z}$</li>\n<li>$xy + \\bar{y}\\bar{z}$ </li>\n</ol>",
+      "question": "<p>What Boolean function does the circuit below realize?</p>\n<p><img alt=\"\" src=\"/question-images/4074976207832212511.webp\" width=\"440\"/></p>",
+      "rawQuestionHtml": "<p>What Boolean function does the circuit below realize?</p>\n<p><img alt=\"\" src=\"/question-images/4074976207832212511.webp\" width=\"440\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$xz + \\bar{x}\\bar{z}$</li>\n<li>$x\\bar{z} + \\bar{x}{z}$</li>\n<li>$\\bar{x}\\bar{y} + {y}{z}$</li>\n<li>$xy + \\bar{y}\\bar{z}$ </li>\n</ol>",
       "options": [
         "$xz + \\bar{x}\\bar{z}$",
         "$x\\bar{z} + \\bar{x}{z}$",
@@ -11616,8 +11616,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following state diagram and its realization by a JK flip flop</p>\n<p><img alt=\"\" height=\"185\" src=\"/Gate_QA/question-images/10869971402404026218.webp\" style=\"float:left\" width=\"268\"/></p>\n<p><img alt=\"\" height=\"187\" src=\"/Gate_QA/question-images/6301338166636855654.webp\" width=\"307\"/></p>\n<p>The combinational circuit generates J and K in terms of x, y and Q.<br/>\nThe Boolean expressions for J and K are :</p>",
-      "rawQuestionHtml": "<p>Consider the following state diagram and its realization by a JK flip flop</p>\n<p><img alt=\"\" height=\"185\" src=\"/Gate_QA/question-images/10869971402404026218.webp\" style=\"float:left\" width=\"268\"/></p>\n<p><img alt=\"\" height=\"187\" src=\"/Gate_QA/question-images/6301338166636855654.webp\" width=\"307\"/></p>\n<p>The combinational circuit generates J and K in terms of x, y and Q.<br/>\nThe Boolean expressions for J and K are :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline {x \\oplus y}$ and $\\overline {x \\oplus y}$ </li>\n<li>$\\overline {x \\oplus y}$ and $ {x \\oplus y}$</li>\n<li>$ {x \\oplus y}$ and $\\overline {x \\oplus y}$</li>\n<li>$ {x \\oplus y}$ and $ {x \\oplus y}$</li>\n</ol>",
+      "question": "<p>Consider the following state diagram and its realization by a JK flip flop</p>\n<p><img alt=\"\" height=\"185\" src=\"/question-images/10869971402404026218.webp\" style=\"float:left\" width=\"268\"/></p>\n<p><img alt=\"\" height=\"187\" src=\"/question-images/6301338166636855654.webp\" width=\"307\"/></p>\n<p>The combinational circuit generates J and K in terms of x, y and Q.<br/>\nThe Boolean expressions for J and K are :</p>",
+      "rawQuestionHtml": "<p>Consider the following state diagram and its realization by a JK flip flop</p>\n<p><img alt=\"\" height=\"185\" src=\"/question-images/10869971402404026218.webp\" style=\"float:left\" width=\"268\"/></p>\n<p><img alt=\"\" height=\"187\" src=\"/question-images/6301338166636855654.webp\" width=\"307\"/></p>\n<p>The combinational circuit generates J and K in terms of x, y and Q.<br/>\nThe Boolean expressions for J and K are :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\overline {x \\oplus y}$ and $\\overline {x \\oplus y}$ </li>\n<li>$\\overline {x \\oplus y}$ and $ {x \\oplus y}$</li>\n<li>$ {x \\oplus y}$ and $\\overline {x \\oplus y}$</li>\n<li>$ {x \\oplus y}$ and $ {x \\oplus y}$</li>\n</ol>",
       "options": [
         "$\\overline {x \\oplus y}$ and $\\overline {x \\oplus y}$",
         "$\\overline {x \\oplus y}$ and $ {x \\oplus y}$",
@@ -11778,8 +11778,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The following circuit implements a two-input AND gate using two $2-1$ multiplexers.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/11969401104685478601.webp\" width=\"390\"/></p>\n<p>What are the values of $X_1, X_2, X_3$?</p>",
-      "rawQuestionHtml": "<p>The following circuit implements a two-input AND gate using two $2-1$ multiplexers.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/Gate_QA/question-images/11969401104685478601.webp\" width=\"390\"/></p>\n<p>What are the values of $X_1, X_2, X_3$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X_1 = b, X_2 = 0, X_3 = a$</li>\n<li>$X_1 = b, X_2 = 1, X_3 = b$</li>\n<li>$X_1 = a, X_2 = b, X_3 = 1$</li>\n<li>$X_1 = a, X_2 = 0, X_3 = b$</li>\n</ol>",
+      "question": "<p>The following circuit implements a two-input AND gate using two $2-1$ multiplexers.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/11969401104685478601.webp\" width=\"390\"/></p>\n<p>What are the values of $X_1, X_2, X_3$?</p>",
+      "rawQuestionHtml": "<p>The following circuit implements a two-input AND gate using two $2-1$ multiplexers.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"217\" src=\"/question-images/11969401104685478601.webp\" width=\"390\"/></p>\n<p>What are the values of $X_1, X_2, X_3$?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$X_1 = b, X_2 = 0, X_3 = a$</li>\n<li>$X_1 = b, X_2 = 1, X_3 = b$</li>\n<li>$X_1 = a, X_2 = b, X_3 = 1$</li>\n<li>$X_1 = a, X_2 = 0, X_3 = b$</li>\n</ol>",
       "options": [
         "$X_1 = b, X_2 = 0, X_3 = a$",
         "$X_1 = b, X_2 = 1, X_3 = b$",
@@ -11886,8 +11886,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>What is the final value stored in the linear feedback shift register if the input is $101101$?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/11146140526418646359.webp\" width=\"300\"/></p>",
-      "rawQuestionHtml": "<p>What is the final value stored in the linear feedback shift register if the input is $101101$?</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/11146140526418646359.webp\" width=\"300\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0110$</li>\n<li>$1011$</li>\n<li>$1101$</li>\n<li>$1111$</li>\n</ol>",
+      "question": "<p>What is the final value stored in the linear feedback shift register if the input is $101101$?</p>\n<p><img alt=\"\" src=\"/question-images/11146140526418646359.webp\" width=\"300\"/></p>",
+      "rawQuestionHtml": "<p>What is the final value stored in the linear feedback shift register if the input is $101101$?</p>\n<p><img alt=\"\" src=\"/question-images/11146140526418646359.webp\" width=\"300\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0110$</li>\n<li>$1011$</li>\n<li>$1101$</li>\n<li>$1111$</li>\n</ol>",
       "options": [
         "$0110$",
         "$1011$",
@@ -11994,8 +11994,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The line $T$ in the following figure is permanently connected to the ground.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4503860270348278811.webp\"/></p>\n<p>Which of the following inputs $(X_1 X_2 X_3 X_4)$ will detect the fault ?</p>",
-      "rawQuestionHtml": "<p>The line $T$ in the following figure is permanently connected to the ground.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/4503860270348278811.webp\"/></p>\n<p>Which of the following inputs $(X_1 X_2 X_3 X_4)$ will detect the fault ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$0111$</li>\n<li>$1111$</li>\n<li>None of these</li>\n</ol>",
+      "question": "<p>The line $T$ in the following figure is permanently connected to the ground.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4503860270348278811.webp\"/></p>\n<p>Which of the following inputs $(X_1 X_2 X_3 X_4)$ will detect the fault ?</p>",
+      "rawQuestionHtml": "<p>The line $T$ in the following figure is permanently connected to the ground.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/4503860270348278811.webp\"/></p>\n<p>Which of the following inputs $(X_1 X_2 X_3 X_4)$ will detect the fault ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0000$</li>\n<li>$0111$</li>\n<li>$1111$</li>\n<li>None of these</li>\n</ol>",
       "options": [
         "$0000$",
         "$0111$",
@@ -12049,33 +12049,33 @@
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
       "question": "<p>Consider the following expression</p>\n<p>$a\\bar d + \\bar a\\bar c + b\\bar cd$</p>\n<p>Which of the following Karnaugh Maps correctly represents the expression?</p>",
-      "rawQuestionHtml": "<p>Consider the following expression</p>\n<p>$a\\bar d + \\bar a\\bar c + b\\bar cd$</p>\n<p>Which of the following Karnaugh Maps correctly represents the expression?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/5438499315505040350.webp\" width=\"258\"/></li>\n<li><br/>\n <img alt=\"\" height=\"260\" src=\"/Gate_QA/question-images/13766139539626269411.webp\" width=\"262\"/></li>\n<li><br/>\n <img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/4696039330387315646.webp\" width=\"268\"/></li>\n<li><br/>\n<img alt=\"\" height=\"272\" src=\"/Gate_QA/question-images/14241503825772370922.webp\" width=\"275\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the following expression</p>\n<p>$a\\bar d + \\bar a\\bar c + b\\bar cd$</p>\n<p>Which of the following Karnaugh Maps correctly represents the expression?</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li><br/>\n<img alt=\"\" height=\"256\" src=\"/question-images/5438499315505040350.webp\" width=\"258\"/></li>\n<li><br/>\n <img alt=\"\" height=\"260\" src=\"/question-images/13766139539626269411.webp\" width=\"262\"/></li>\n<li><br/>\n <img alt=\"\" height=\"265\" src=\"/question-images/4696039330387315646.webp\" width=\"268\"/></li>\n<li><br/>\n<img alt=\"\" height=\"272\" src=\"/question-images/14241503825772370922.webp\" width=\"275\"/></li>\n</ol>",
       "options": [
-        "<br/>\n<img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/5438499315505040350.webp\" width=\"258\"/>",
-        "<br/>\n <img alt=\"\" height=\"260\" src=\"/Gate_QA/question-images/13766139539626269411.webp\" width=\"262\"/>",
-        "<br/>\n <img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/4696039330387315646.webp\" width=\"268\"/>",
-        "<br/>\n<img alt=\"\" height=\"272\" src=\"/Gate_QA/question-images/14241503825772370922.webp\" width=\"275\"/>"
+        "<br/>\n<img alt=\"\" height=\"256\" src=\"/question-images/5438499315505040350.webp\" width=\"258\"/>",
+        "<br/>\n <img alt=\"\" height=\"260\" src=\"/question-images/13766139539626269411.webp\" width=\"262\"/>",
+        "<br/>\n <img alt=\"\" height=\"265\" src=\"/question-images/4696039330387315646.webp\" width=\"268\"/>",
+        "<br/>\n<img alt=\"\" height=\"272\" src=\"/question-images/14241503825772370922.webp\" width=\"275\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<br/>\n<img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/5438499315505040350.webp\" width=\"258\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"256\" src=\"/Gate_QA/question-images/5438499315505040350.webp\" width=\"258\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"256\" src=\"/question-images/5438499315505040350.webp\" width=\"258\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"256\" src=\"/question-images/5438499315505040350.webp\" width=\"258\"/>"
         },
         {
           "label": "B",
-          "text": "<br/>\n <img alt=\"\" height=\"260\" src=\"/Gate_QA/question-images/13766139539626269411.webp\" width=\"262\"/>",
-          "html": "<br/>\n <img alt=\"\" height=\"260\" src=\"/Gate_QA/question-images/13766139539626269411.webp\" width=\"262\"/>"
+          "text": "<br/>\n <img alt=\"\" height=\"260\" src=\"/question-images/13766139539626269411.webp\" width=\"262\"/>",
+          "html": "<br/>\n <img alt=\"\" height=\"260\" src=\"/question-images/13766139539626269411.webp\" width=\"262\"/>"
         },
         {
           "label": "C",
-          "text": "<br/>\n <img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/4696039330387315646.webp\" width=\"268\"/>",
-          "html": "<br/>\n <img alt=\"\" height=\"265\" src=\"/Gate_QA/question-images/4696039330387315646.webp\" width=\"268\"/>"
+          "text": "<br/>\n <img alt=\"\" height=\"265\" src=\"/question-images/4696039330387315646.webp\" width=\"268\"/>",
+          "html": "<br/>\n <img alt=\"\" height=\"265\" src=\"/question-images/4696039330387315646.webp\" width=\"268\"/>"
         },
         {
           "label": "D",
-          "text": "<br/>\n<img alt=\"\" height=\"272\" src=\"/Gate_QA/question-images/14241503825772370922.webp\" width=\"275\"/>",
-          "html": "<br/>\n<img alt=\"\" height=\"272\" src=\"/Gate_QA/question-images/14241503825772370922.webp\" width=\"275\"/>"
+          "text": "<br/>\n<img alt=\"\" height=\"272\" src=\"/question-images/14241503825772370922.webp\" width=\"275\"/>",
+          "html": "<br/>\n<img alt=\"\" height=\"272\" src=\"/question-images/14241503825772370922.webp\" width=\"275\"/>"
         }
       ],
       "answer": [
@@ -12210,8 +12210,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The boolean function for a combinational circuit with four inputs is represented by the following Karnaugh map.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/Gate_QA/question-images/8868646293660903563.webp\" width=\"224\"/></p>\n<p>Which of the product terms given below is an essential prime implicant of the function?</p>",
-      "rawQuestionHtml": "<p>The boolean function for a combinational circuit with four inputs is represented by the following Karnaugh map.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/Gate_QA/question-images/8868646293660903563.webp\" width=\"224\"/></p>\n<p>Which of the product terms given below is an essential prime implicant of the function?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{QRS}$</li>\n<li>$\\text{PQS}$</li>\n<li>$\\text{PQ'S'}$</li>\n<li>$\\text{Q'S'}$</li>\n</ol>",
+      "question": "<p>The boolean function for a combinational circuit with four inputs is represented by the following Karnaugh map.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/question-images/8868646293660903563.webp\" width=\"224\"/></p>\n<p>Which of the product terms given below is an essential prime implicant of the function?</p>",
+      "rawQuestionHtml": "<p>The boolean function for a combinational circuit with four inputs is represented by the following Karnaugh map.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"218\" src=\"/question-images/8868646293660903563.webp\" width=\"224\"/></p>\n<p>Which of the product terms given below is an essential prime implicant of the function?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{QRS}$</li>\n<li>$\\text{PQS}$</li>\n<li>$\\text{PQ'S'}$</li>\n<li>$\\text{Q'S'}$</li>\n</ol>",
       "options": [
         "$\\text{QRS}$",
         "$\\text{PQS}$",
@@ -12264,8 +12264,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The majority function is a Boolean function $f(x, y, z)$ that takes the value $1$ whenever a majority of the variables $x,y,z$ are $1.$ In the circuit diagram for the majority function shown below, the logic gates for the boxes labeled $P$ and $Q$ are, respectively,</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17388094292352546960.webp\" width=\"540\"/></p>",
-      "rawQuestionHtml": "<p>The majority function is a Boolean function $f(x, y, z)$ that takes the value $1$ whenever a majority of the variables $x,y,z$ are $1.$ In the circuit diagram for the majority function shown below, the logic gates for the boxes labeled $P$ and $Q$ are, respectively,</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/17388094292352546960.webp\" width=\"540\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\textsf{XOR}, \\textsf{AND}$</li>\n<li>$\\textsf{XOR}, \\textsf{XOR}$</li>\n<li>$\\textsf{OR}, \\textsf{OR}$</li>\n<li>$\\textsf{OR}, \\textsf{AND}$</li>\n</ol>",
+      "question": "<p>The majority function is a Boolean function $f(x, y, z)$ that takes the value $1$ whenever a majority of the variables $x,y,z$ are $1.$ In the circuit diagram for the majority function shown below, the logic gates for the boxes labeled $P$ and $Q$ are, respectively,</p>\n<p><img alt=\"\" src=\"/question-images/17388094292352546960.webp\" width=\"540\"/></p>",
+      "rawQuestionHtml": "<p>The majority function is a Boolean function $f(x, y, z)$ that takes the value $1$ whenever a majority of the variables $x,y,z$ are $1.$ In the circuit diagram for the majority function shown below, the logic gates for the boxes labeled $P$ and $Q$ are, respectively,</p>\n<p><img alt=\"\" src=\"/question-images/17388094292352546960.webp\" width=\"540\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\textsf{XOR}, \\textsf{AND}$</li>\n<li>$\\textsf{XOR}, \\textsf{XOR}$</li>\n<li>$\\textsf{OR}, \\textsf{OR}$</li>\n<li>$\\textsf{OR}, \\textsf{AND}$</li>\n</ol>",
       "options": [
         "$\\textsf{XOR}, \\textsf{AND}$",
         "$\\textsf{XOR}, \\textsf{XOR}$",
@@ -12804,8 +12804,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>A two-way switch has three terminals $a, b$ and $c.$ In ON position (logic value $1$), $a$ is connected to $b,$ and in OFF position, $a$ is connected to $c$. Two of these two-way switches $S1$ and $S2$ are connected to a bulb as shown below.</p>\n<p style=\"text-align:center\"><img alt=\"GATE2005-IT_10\" height=\"209\" src=\"/Gate_QA/question-images/2875522373419654906.webp\" width=\"425\"/></p>\n<p>Which of the following expressions, if true, will always result in the lighting of the bulb ?</p>",
-      "rawQuestionHtml": "<p>A two-way switch has three terminals $a, b$ and $c.$ In ON position (logic value $1$), $a$ is connected to $b,$ and in OFF position, $a$ is connected to $c$. Two of these two-way switches $S1$ and $S2$ are connected to a bulb as shown below.</p>\n<p style=\"text-align:center\"><img alt=\"GATE2005-IT_10\" height=\"209\" src=\"/Gate_QA/question-images/2875522373419654906.webp\" width=\"425\"/></p>\n<p>Which of the following expressions, if true, will always result in the lighting of the bulb ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S1.\\overline{S2}$ </li>\n<li>$S1 + S2$</li>\n<li>$\\overline {S1\\oplus S2}$</li>\n<li>$S1 \\oplus S2$</li>\n</ol>",
+      "question": "<p>A two-way switch has three terminals $a, b$ and $c.$ In ON position (logic value $1$), $a$ is connected to $b,$ and in OFF position, $a$ is connected to $c$. Two of these two-way switches $S1$ and $S2$ are connected to a bulb as shown below.</p>\n<p style=\"text-align:center\"><img alt=\"GATE2005-IT_10\" height=\"209\" src=\"/question-images/2875522373419654906.webp\" width=\"425\"/></p>\n<p>Which of the following expressions, if true, will always result in the lighting of the bulb ?</p>",
+      "rawQuestionHtml": "<p>A two-way switch has three terminals $a, b$ and $c.$ In ON position (logic value $1$), $a$ is connected to $b,$ and in OFF position, $a$ is connected to $c$. Two of these two-way switches $S1$ and $S2$ are connected to a bulb as shown below.</p>\n<p style=\"text-align:center\"><img alt=\"GATE2005-IT_10\" height=\"209\" src=\"/question-images/2875522373419654906.webp\" width=\"425\"/></p>\n<p>Which of the following expressions, if true, will always result in the lighting of the bulb ?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$S1.\\overline{S2}$ </li>\n<li>$S1 + S2$</li>\n<li>$\\overline {S1\\oplus S2}$</li>\n<li>$S1 \\oplus S2$</li>\n</ol>",
       "options": [
         "$S1.\\overline{S2}$",
         "$S1 + S2$",
@@ -12966,8 +12966,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The circuit shown below implements a $\\text{2-input}$ NOR gate using two $2-4$ MUX (control signal $1$ selects the upper input). What are the values of signals $x, y$ and $z$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/14517450092010283874.webp\" width=\"584\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>The circuit shown below implements a $\\text{2-input}$ NOR gate using two $2-4$ MUX (control signal $1$ selects the upper input). What are the values of signals $x, y$ and $z$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"286\" src=\"/Gate_QA/question-images/14517450092010283874.webp\" width=\"584\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0, B$</li>\n<li>$1, 0, A$</li>\n<li>$0, 1, B$</li>\n<li>$0, 1, A$</li>\n</ol>",
+      "question": "<p>The circuit shown below implements a $\\text{2-input}$ NOR gate using two $2-4$ MUX (control signal $1$ selects the upper input). What are the values of signals $x, y$ and $z$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"286\" src=\"/question-images/14517450092010283874.webp\" width=\"584\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>The circuit shown below implements a $\\text{2-input}$ NOR gate using two $2-4$ MUX (control signal $1$ selects the upper input). What are the values of signals $x, y$ and $z$?</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"286\" src=\"/question-images/14517450092010283874.webp\" width=\"584\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0, B$</li>\n<li>$1, 0, A$</li>\n<li>$0, 1, B$</li>\n<li>$0, 1, A$</li>\n</ol>",
       "options": [
         "$1, 0, B$",
         "$1, 0, A$",
@@ -13074,8 +13074,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>",
-      "rawQuestionHtml": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0.5</li>\n<li>29</li>\n<li>2</li>\n<li>Any value</li>\n</ol>",
+      "question": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>",
+      "rawQuestionHtml": "<p>Fig. below shows the circuit diagram of a wien bridge oscillator using an op-amp.</p>\n<p><img alt=\"\" src=\"/question-images/82656.jpg\"></p>\n<p>The frequency of oscillation is given by $f= 1/(2 \\pi RC)$. To have the system oscillate the ratio $R_{2}/R_{1}$ should be</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>0.5</li>\n<li>29</li>\n<li>2</li>\n<li>Any value</li>\n</ol>",
       "options": [
         "0.5",
         "29",

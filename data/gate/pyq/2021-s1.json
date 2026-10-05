@@ -133,33 +133,33 @@
       "topic": "Spatial Aptitude & Data Interpretation",
       "type": "MCQ",
       "question": "<p>A polygon is convex if, for every pair of points, $\\text{P}$ and $\\text{Q}$ belonging to the polygon, the line segment $\\text{PQ}$ lies completely inside or on the polygon.</p>\n<p>Which one of the following is $\\underline{\\text{NOT}}$ a convex polygon?</p>",
-      "rawQuestionHtml": "<p>A polygon is convex if, for every pair of points, $\\text{P}$ and $\\text{Q}$ belonging to the polygon, the line segment $\\text{PQ}$ lies completely inside or on the polygon.</p>\n<p>Which one of the following is $\\underline{\\text{NOT}}$ a convex polygon?</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/17270809462553088932.webp\"/></li>\n<li><img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/17470186927622117085.webp\" width=\"155\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/16967521463137178532.webp\" width=\"147\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/7642318159703119165.webp\" width=\"176\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>A polygon is convex if, for every pair of points, $\\text{P}$ and $\\text{Q}$ belonging to the polygon, the line segment $\\text{PQ}$ lies completely inside or on the polygon.</p>\n<p>Which one of the following is $\\underline{\\text{NOT}}$ a convex polygon?</p>\n<ol class=\"shrink-inline-options\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/question-images/17270809462553088932.webp\"/></li>\n<li><img alt=\"\" height=\"140\" src=\"/question-images/17470186927622117085.webp\" width=\"155\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/question-images/16967521463137178532.webp\" width=\"147\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/question-images/7642318159703119165.webp\" width=\"176\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/17270809462553088932.webp\"/>",
-        "<img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/17470186927622117085.webp\" width=\"155\"/>",
-        "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/16967521463137178532.webp\" width=\"147\"/>",
-        "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/7642318159703119165.webp\" width=\"176\"/>"
+        "<img alt=\"\" src=\"/question-images/17270809462553088932.webp\"/>",
+        "<img alt=\"\" height=\"140\" src=\"/question-images/17470186927622117085.webp\" width=\"155\"/>",
+        "<img alt=\"\" height=\"147\" src=\"/question-images/16967521463137178532.webp\" width=\"147\"/>",
+        "<img alt=\"\" height=\"147\" src=\"/question-images/7642318159703119165.webp\" width=\"176\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/17270809462553088932.webp\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/17270809462553088932.webp\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/17270809462553088932.webp\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/17270809462553088932.webp\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/17470186927622117085.webp\" width=\"155\"/>",
-          "html": "<img alt=\"\" height=\"140\" src=\"/Gate_QA/question-images/17470186927622117085.webp\" width=\"155\"/>"
+          "text": "<img alt=\"\" height=\"140\" src=\"/question-images/17470186927622117085.webp\" width=\"155\"/>",
+          "html": "<img alt=\"\" height=\"140\" src=\"/question-images/17470186927622117085.webp\" width=\"155\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/16967521463137178532.webp\" width=\"147\"/>",
-          "html": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/16967521463137178532.webp\" width=\"147\"/>"
+          "text": "<img alt=\"\" height=\"147\" src=\"/question-images/16967521463137178532.webp\" width=\"147\"/>",
+          "html": "<img alt=\"\" height=\"147\" src=\"/question-images/16967521463137178532.webp\" width=\"147\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/7642318159703119165.webp\" width=\"176\"/>",
-          "html": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/7642318159703119165.webp\" width=\"176\"/>"
+          "text": "<img alt=\"\" height=\"147\" src=\"/question-images/7642318159703119165.webp\" width=\"176\"/>",
+          "html": "<img alt=\"\" height=\"147\" src=\"/question-images/7642318159703119165.webp\" width=\"176\"/>"
         }
       ],
       "answer": [
@@ -348,34 +348,34 @@
       "subjectSlug": "aptitude",
       "topic": "Spatial Aptitude & Data Interpretation",
       "type": "MCQ",
-      "question": "<p> </p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9926263969779141697.webp\"/></p>\n<p> </p>\n<p>A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like _______.</p>\n<p> </p>\n\n<p> </p>",
-      "rawQuestionHtml": "<p> </p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9926263969779141697.webp\"/></p>\n<p> </p>\n<p>A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like _______.</p>\n<p> </p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/7076882187562355877.webp\" width=\"149\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/5741606464842084230.webp\" width=\"147\"/></li>\n<li><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/3558829794566137329.webp\" width=\"149\"/></li>\n<li><img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/297574588530294908.webp\" width=\"155\"/></li>\n</ol>\n<p> </p>",
+      "question": "<p> </p>\n<p><img alt=\"\" src=\"/question-images/9926263969779141697.webp\"/></p>\n<p> </p>\n<p>A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like _______.</p>\n<p> </p>\n\n<p> </p>",
+      "rawQuestionHtml": "<p> </p>\n<p><img alt=\"\" src=\"/question-images/9926263969779141697.webp\"/></p>\n<p> </p>\n<p>A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like _______.</p>\n<p> </p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"149\" src=\"/question-images/7076882187562355877.webp\" width=\"149\"/></li>\n<li><img alt=\"\" height=\"147\" src=\"/question-images/5741606464842084230.webp\" width=\"147\"/></li>\n<li><img alt=\"\" height=\"149\" src=\"/question-images/3558829794566137329.webp\" width=\"149\"/></li>\n<li><img alt=\"\" height=\"155\" src=\"/question-images/297574588530294908.webp\" width=\"155\"/></li>\n</ol>\n<p> </p>",
       "options": [
-        "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/7076882187562355877.webp\" width=\"149\"/>",
-        "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/5741606464842084230.webp\" width=\"147\"/>",
-        "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/3558829794566137329.webp\" width=\"149\"/>",
-        "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/297574588530294908.webp\" width=\"155\"/>"
+        "<img alt=\"\" height=\"149\" src=\"/question-images/7076882187562355877.webp\" width=\"149\"/>",
+        "<img alt=\"\" height=\"147\" src=\"/question-images/5741606464842084230.webp\" width=\"147\"/>",
+        "<img alt=\"\" height=\"149\" src=\"/question-images/3558829794566137329.webp\" width=\"149\"/>",
+        "<img alt=\"\" height=\"155\" src=\"/question-images/297574588530294908.webp\" width=\"155\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/7076882187562355877.webp\" width=\"149\"/>",
-          "html": "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/7076882187562355877.webp\" width=\"149\"/>"
+          "text": "<img alt=\"\" height=\"149\" src=\"/question-images/7076882187562355877.webp\" width=\"149\"/>",
+          "html": "<img alt=\"\" height=\"149\" src=\"/question-images/7076882187562355877.webp\" width=\"149\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/5741606464842084230.webp\" width=\"147\"/>",
-          "html": "<img alt=\"\" height=\"147\" src=\"/Gate_QA/question-images/5741606464842084230.webp\" width=\"147\"/>"
+          "text": "<img alt=\"\" height=\"147\" src=\"/question-images/5741606464842084230.webp\" width=\"147\"/>",
+          "html": "<img alt=\"\" height=\"147\" src=\"/question-images/5741606464842084230.webp\" width=\"147\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/3558829794566137329.webp\" width=\"149\"/>",
-          "html": "<img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/3558829794566137329.webp\" width=\"149\"/>"
+          "text": "<img alt=\"\" height=\"149\" src=\"/question-images/3558829794566137329.webp\" width=\"149\"/>",
+          "html": "<img alt=\"\" height=\"149\" src=\"/question-images/3558829794566137329.webp\" width=\"149\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/297574588530294908.webp\" width=\"155\"/>",
-          "html": "<img alt=\"\" height=\"155\" src=\"/Gate_QA/question-images/297574588530294908.webp\" width=\"155\"/>"
+          "text": "<img alt=\"\" height=\"155\" src=\"/question-images/297574588530294908.webp\" width=\"155\"/>",
+          "html": "<img alt=\"\" height=\"155\" src=\"/question-images/297574588530294908.webp\" width=\"155\"/>"
         }
       ],
       "answer": [
@@ -1408,8 +1408,8 @@
       "subjectSlug": "dsa",
       "topic": "Trees & Binary Search Trees (BST/AVL)",
       "type": "NAT",
-      "question": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/Gate_QA/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
-      "rawQuestionHtml": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/Gate_QA/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
+      "question": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
+      "rawQuestionHtml": "<p>Consider the following undirected graph with edge weights as shown:</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"253\" src=\"/question-images/938910367005231583.webp\" width=\"363\"/></p>\n<p>The number of minimum-weight spanning trees of the graph is ___________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -1796,8 +1796,8 @@
       "subjectSlug": "digital",
       "topic": "Sequential Circuits, Flip-Flops & Counters",
       "type": "MCQ",
-      "question": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>",
-      "rawQuestionHtml": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$011,101,000$</li>\n<li>$001,010,111$</li>\n<li>$011,101,111$</li>\n<li>$001,010,000$</li>\n</ol>",
+      "question": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>",
+      "rawQuestionHtml": "<p>Consider a $3$-bit counter, designed using $T$ flip-flops, as shown below:</p>\n<p><img alt=\"\" src=\"/question-images/10269108378890162261.webp\" width=\"600\"/></p>\n<p>Assuming the initial state of the counter given by $\\text{PQR}$ as $000$, what are the next three states?</p>\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n<li>$011,101,000$</li>\n<li>$001,010,111$</li>\n<li>$011,101,111$</li>\n<li>$001,010,000$</li>\n</ol>",
       "options": [
         "$011,101,000$",
         "$001,010,111$",
@@ -2337,33 +2337,33 @@
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
       "question": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>",
-      "rawQuestionHtml": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/></li>\n<li><img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/></li>\n<li><img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/></li>\n<li><img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/></li>\n</ol>",
+      "rawQuestionHtml": "<p>Consider the following language:</p>\n<p>$$L= \\{ w \\in \\{0,1\\}^* \\mid w \\text{ ends with the substring } 011 \\}$$</p>\n<p>Which one of the following deterministic finite automata accepts $L?$</p>\n<ol class=\"shrink-inline-options2\" start=\"1\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/></li>\n<li><img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/></li>\n<li><img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/></li>\n<li><img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>",
-        "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>",
-        "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>",
-        "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>"
+        "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>",
+        "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>",
+        "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>",
+        "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>",
-          "html": "<img alt=\"\" height=\"143\" src=\"/Gate_QA/question-images/17198729198449717120.webp\" width=\"390\"/>"
+          "text": "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>",
+          "html": "<img alt=\"\" height=\"143\" src=\"/question-images/17198729198449717120.webp\" width=\"390\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>",
-          "html": "<img alt=\"\" height=\"118\" src=\"/Gate_QA/question-images/15302761059953682001.webp\" width=\"403\"/>"
+          "text": "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>",
+          "html": "<img alt=\"\" height=\"118\" src=\"/question-images/15302761059953682001.webp\" width=\"403\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>",
-          "html": "<img alt=\"\" height=\"145\" src=\"/Gate_QA/question-images/3752427661884478388.webp\" width=\"400\"/>"
+          "text": "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>",
+          "html": "<img alt=\"\" height=\"145\" src=\"/question-images/3752427661884478388.webp\" width=\"400\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>",
-          "html": "<img alt=\"\" height=\"197\" src=\"/Gate_QA/question-images/14430205567604114426.webp\" width=\"410\"/>"
+          "text": "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>",
+          "html": "<img alt=\"\" height=\"197\" src=\"/question-images/14430205567604114426.webp\" width=\"410\"/>"
         }
       ],
       "answer": [
@@ -2830,8 +2830,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "MSQ",
-      "question": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>",
-      "rawQuestionHtml": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$5,9,4,13,10,7$</li>\n<li>$9,5,10,6,7,1$</li>\n<li>$10,9,6,7,5,13$</li>\n<li>$9,5,13,6,10,14$</li>\n</ol>",
+      "question": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>",
+      "rawQuestionHtml": "<p>Consider a $\\textit{dynamic}$ hashing approach for $4$-bit integer keys:</p>\n<ol start=\"1\" style=\"list-style-type:decimal\">\n<li>There is a main hash table of size $4$.</li>\n<li>The $2$ least significant bits of a key is used to index into the main hash table.</li>\n<li>Initially, the main hash table entries are empty.</li>\n<li>Thereafter, when more keys are hashed into it, to resolve collisions, the set of all keys corresponding to a main hash table entry is organized as a binary tree that grows on demand.</li>\n<li>First, the $3^{\\text{rd}}$ least significant bit is used to divide the keys into left and right subtrees.</li>\n<li>To resolve more collisions, each node of the binary tree is further sub-divided into left and right subtrees based on the $4^{\\text{th}}$ least significant bit.</li>\n<li>A split is done only if it is needed, i.e., only when there is a collision.</li>\n</ol>\n<p>Consider the following state of the hash table.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/3193927925000122473.webp\" width=\"500\"/></p>\n<p>Which of the following sequences of key insertions can cause the above state of the hash table (assume the keys are in decimal notation)?</p>\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n<li>$5,9,4,13,10,7$</li>\n<li>$9,5,10,6,7,1$</li>\n<li>$10,9,6,7,5,13$</li>\n<li>$9,5,13,6,10,14$</li>\n</ol>",
       "options": [
         "$5,9,4,13,10,7$",
         "$9,5,10,6,7,1$",
@@ -2974,8 +2974,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "NAT",
-      "question": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/Gate_QA/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
-      "rawQuestionHtml": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/Gate_QA/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
+      "question": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
+      "rawQuestionHtml": "<p>In a  pushdown automaton $P=(Q, \\Sigma, \\Gamma, \\delta, q_0, F)$, a transition of the form,</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"99\" src=\"/question-images/15136504387173321687.webp\" width=\"324\"/></p>\n<p>where $p,q \\in Q$, $a \\in \\Sigma \\cup \\{ \\epsilon \\}$, and $X,Y \\in \\Gamma \\cup \\{ \\epsilon \\}$, represents $$(q,Y) \\in \\delta(p,a,X). $$Consider the following pushdown automaton over the input alphabet $\\Sigma = \\{a,b\\}$ and stack alphabet $\\Gamma = \\{ \\#, A\\}$.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16996227048332358749.webp\" width=\"750\"/></p>\n<p>The number of strings of length $100$ accepted by the above pushdown automaton is ___________</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -3064,8 +3064,8 @@
       "subjectSlug": "engg-math",
       "topic": "Probability & Statistics",
       "type": "NAT",
-      "question": "<p>A sender $(\\textsf{S})$ transmits a signal, which can be one of the two kinds: $H$ and $L$ with probabilities $0.1$ and $0.9$ respectively, to a receiver $(\\textsf{R})$.</p>\n<p>In the graph below, the weight of edge $(u,v)$ is the probability of receiving $v$ when $u$ is transmitted, where $u,v \\in \\{H,L\\}$. For example, the probability that the received signal is $L$ given the transmitted signal was $H$, is $0.7$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"173\" src=\"/Gate_QA/question-images/7079308523429416349.webp\" width=\"275\"/></p>\n<p>If the received signal is $H,$ the probability that the transmitted signal was $H$ (rounded to $2$ decimal places) is __________.</p>",
-      "rawQuestionHtml": "<p>A sender $(\\textsf{S})$ transmits a signal, which can be one of the two kinds: $H$ and $L$ with probabilities $0.1$ and $0.9$ respectively, to a receiver $(\\textsf{R})$.</p>\n<p>In the graph below, the weight of edge $(u,v)$ is the probability of receiving $v$ when $u$ is transmitted, where $u,v \\in \\{H,L\\}$. For example, the probability that the received signal is $L$ given the transmitted signal was $H$, is $0.7$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"173\" src=\"/Gate_QA/question-images/7079308523429416349.webp\" width=\"275\"/></p>\n<p>If the received signal is $H,$ the probability that the transmitted signal was $H$ (rounded to $2$ decimal places) is __________.</p>",
+      "question": "<p>A sender $(\\textsf{S})$ transmits a signal, which can be one of the two kinds: $H$ and $L$ with probabilities $0.1$ and $0.9$ respectively, to a receiver $(\\textsf{R})$.</p>\n<p>In the graph below, the weight of edge $(u,v)$ is the probability of receiving $v$ when $u$ is transmitted, where $u,v \\in \\{H,L\\}$. For example, the probability that the received signal is $L$ given the transmitted signal was $H$, is $0.7$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"173\" src=\"/question-images/7079308523429416349.webp\" width=\"275\"/></p>\n<p>If the received signal is $H,$ the probability that the transmitted signal was $H$ (rounded to $2$ decimal places) is __________.</p>",
+      "rawQuestionHtml": "<p>A sender $(\\textsf{S})$ transmits a signal, which can be one of the two kinds: $H$ and $L$ with probabilities $0.1$ and $0.9$ respectively, to a receiver $(\\textsf{R})$.</p>\n<p>In the graph below, the weight of edge $(u,v)$ is the probability of receiving $v$ when $u$ is transmitted, where $u,v \\in \\{H,L\\}$. For example, the probability that the received signal is $L$ given the transmitted signal was $H$, is $0.7$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"173\" src=\"/question-images/7079308523429416349.webp\" width=\"275\"/></p>\n<p>If the received signal is $H,$ the probability that the transmitted signal was $H$ (rounded to $2$ decimal places) is __________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [

@@ -594,8 +594,8 @@
       "subjectSlug": "dbms",
       "topic": "Functional Dependencies & Normalization",
       "type": "NAT",
-      "question": "<p>With reference to the B+ tree index of order $1$ shown below, the minimum number of nodes (including the Root node) that must be fetched in order to satisfy the following query. \"Get all records with a search key greater than or equal to $7$ and less than $15$ \" is ______.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/16272833869196598984.webp\" width=\"750\"/></p>",
-      "rawQuestionHtml": "<p>With reference to the B+ tree index of order $1$ shown below, the minimum number of nodes (including the Root node) that must be fetched in order to satisfy the following query. \"Get all records with a search key greater than or equal to $7$ and less than $15$ \" is ______.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/16272833869196598984.webp\" width=\"750\"/></p>",
+      "question": "<p>With reference to the B+ tree index of order $1$ shown below, the minimum number of nodes (including the Root node) that must be fetched in order to satisfy the following query. \"Get all records with a search key greater than or equal to $7$ and less than $15$ \" is ______.</p>\n<p><img alt=\"\" src=\"/question-images/16272833869196598984.webp\" width=\"750\"/></p>",
+      "rawQuestionHtml": "<p>With reference to the B+ tree index of order $1$ shown below, the minimum number of nodes (including the Root node) that must be fetched in order to satisfy the following query. \"Get all records with a search key greater than or equal to $7$ and less than $15$ \" is ______.</p>\n<p><img alt=\"\" src=\"/question-images/16272833869196598984.webp\" width=\"750\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -708,8 +708,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>In a triangle $PQR, PS$ is the angle bisector of $\\angle QPR \\text{ and } \\angle QPS =60^\\circ$. What is the length of $PS$ ?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/1755196094206857551.webp\"/></p>",
-      "rawQuestionHtml": "<p>In a triangle $PQR, PS$ is the angle bisector of $\\angle QPR \\text{ and } \\angle QPS =60^\\circ$. What is the length of $PS$ ?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/1755196094206857551.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left(\\dfrac{(q+r)} {qr}\\right)$</li>\n<li>$\\left(\\dfrac {qr} {q+r}\\right)$</li>\n<li>$\\large \\sqrt {(q^2 + r^2)}$</li>\n<li>$\\left(\\dfrac{(q+r)^2} {qr}\\right)$</li>\n</ol>",
+      "question": "<p>In a triangle $PQR, PS$ is the angle bisector of $\\angle QPR \\text{ and } \\angle QPS =60^\\circ$. What is the length of $PS$ ?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/1755196094206857551.webp\"/></p>",
+      "rawQuestionHtml": "<p>In a triangle $PQR, PS$ is the angle bisector of $\\angle QPR \\text{ and } \\angle QPS =60^\\circ$. What is the length of $PS$ ?</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/1755196094206857551.webp\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\left(\\dfrac{(q+r)} {qr}\\right)$</li>\n<li>$\\left(\\dfrac {qr} {q+r}\\right)$</li>\n<li>$\\large \\sqrt {(q^2 + r^2)}$</li>\n<li>$\\left(\\dfrac{(q+r)^2} {qr}\\right)$</li>\n</ol>",
       "options": [
         "$\\left(\\dfrac{(q+r)} {qr}\\right)$",
         "$\\left(\\dfrac {qr} {q+r}\\right)$",

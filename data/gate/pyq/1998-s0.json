@@ -2325,8 +2325,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/Gate_QA/question-images/17435472286866137865.webp\" width=\"208\"/></p>",
-      "rawQuestionHtml": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/Gate_QA/question-images/17435472286866137865.webp\" width=\"208\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A.B$</li>\n<li>$AB+BC+CA$</li>\n<li>$\\overline{B \\oplus C}$</li>\n<li>$A.BC$</li>\n</ol>",
+      "question": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/question-images/17435472286866137865.webp\" width=\"208\"/></p>",
+      "rawQuestionHtml": "<p>The function represented by the Karnaugh map given below is</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"130\" src=\"/question-images/17435472286866137865.webp\" width=\"208\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A.B$</li>\n<li>$AB+BC+CA$</li>\n<li>$\\overline{B \\oplus C}$</li>\n<li>$A.BC$</li>\n</ol>",
       "options": [
         "$A.B$",
         "$AB+BC+CA$",
@@ -2811,8 +2811,8 @@
       "subjectSlug": "os",
       "topic": "Memory Management & Paging",
       "type": "MCQ",
-      "question": "<p>The overlay tree for a program is as shown below:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/692586385974638312.webp\"/></p>\n<p>What will be the size of the partition (in physical memory) required to load (and run) this program?</p>",
-      "rawQuestionHtml": "<p>The overlay tree for a program is as shown below:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/692586385974638312.webp\"/></p>\n<p>What will be the size of the partition (in physical memory) required to load (and run) this program?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{12 KB}$</li>\n<li>$\\text{14 KB}$</li>\n<li>$\\text{10 KB}$</li>\n<li>$\\text{8 KB}$</li>\n</ol>",
+      "question": "<p>The overlay tree for a program is as shown below:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/692586385974638312.webp\"/></p>\n<p>What will be the size of the partition (in physical memory) required to load (and run) this program?</p>",
+      "rawQuestionHtml": "<p>The overlay tree for a program is as shown below:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/692586385974638312.webp\"/></p>\n<p>What will be the size of the partition (in physical memory) required to load (and run) this program?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{12 KB}$</li>\n<li>$\\text{14 KB}$</li>\n<li>$\\text{10 KB}$</li>\n<li>$\\text{8 KB}$</li>\n</ol>",
       "options": [
         "$\\text{12 KB}$",
         "$\\text{14 KB}$",

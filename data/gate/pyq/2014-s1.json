@@ -992,8 +992,8 @@
       "subjectSlug": "dsa",
       "topic": "Searching, Sorting & Hashing",
       "type": "MCQ",
-      "question": "<p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>",
-      "rawQuestionHtml": "<a name=\"1779\"></a><div itemprop=\"text\"><p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>The graph does not have any topological ordering.</li>\n\t<li>Both PQRS and SRQP are topological orderings.</li>\n\t<li>Both PSRQ and SPRQ are topological orderings.</li>\n\t<li>PSRQ is the only topological ordering.</li>\n</ol></div>",
+      "question": "<p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>",
+      "rawQuestionHtml": "<a name=\"1779\"></a><div itemprop=\"text\"><p>Consider the directed graph below given.&nbsp;</p>\n\n<p><img alt=\"\" height=\"163\" src=\"/question-images/14566885978473608417.webp\" width=\"163\"></p>\n\n<p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>The graph does not have any topological ordering.</li>\n\t<li>Both PQRS and SRQP are topological orderings.</li>\n\t<li>Both PSRQ and SPRQ are topological orderings.</li>\n\t<li>PSRQ is the only topological ordering.</li>\n</ol></div>",
       "options": [
         "The graph does not have any topological ordering.",
         "Both PQRS and SRQP are topological orderings.",
@@ -1154,8 +1154,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>",
-      "rawQuestionHtml": "<a name=\"1782\"></a><div itemprop=\"text\"><p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/Gate_QA/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{q_0,q_1,q_2\\}$</li>\n<li>$\\{q_0,q_1\\}$</li>\n<li>$\\{q_0,q_1,q_2,q_3\\}$</li>\n<li>$\\{q_3\\}$</li>\n</ol></div>",
+      "question": "<p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>",
+      "rawQuestionHtml": "<a name=\"1782\"></a><div itemprop=\"text\"><p>Consider the finite automaton in the following figure:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"149\" src=\"/question-images/362574993480493568.webp\" width=\"514\"></p>\n\n<p>&nbsp;</p>\n<p>What is the set of reachable states for the input string $0011$?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\{q_0,q_1,q_2\\}$</li>\n<li>$\\{q_0,q_1\\}$</li>\n<li>$\\{q_0,q_1,q_2,q_3\\}$</li>\n<li>$\\{q_3\\}$</li>\n</ol></div>",
       "options": [
         "$\\{q_0,q_1,q_2\\}$",
         "$\\{q_0,q_1\\}$",
@@ -2102,8 +2102,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MCQ",
-      "question": "<p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/Gate_QA/question-images/12781742856226767013.webp\" width=\"286\"></p>",
-      "rawQuestionHtml": "<a name=\"1914\"></a><div itemprop=\"text\"><p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/Gate_QA/question-images/12781742856226767013.webp\" width=\"286\"></p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>$0^*1(1+00^*1)^* $</li>\n\t<li>$0^*1^*1+11^*0^*1 $</li>\n\t<li>$(0+1)^*1$</li>\n</ol>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>I and II only</li>\n\t<li>I and III only</li>\n\t<li>II and III only</li>\n\t<li>I, II and III</li>\n</ol></div>",
+      "question": "<p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/question-images/12781742856226767013.webp\" width=\"286\"></p>",
+      "rawQuestionHtml": "<a name=\"1914\"></a><div itemprop=\"text\"><p>Which of the regular expressions given below represent the following DFA?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"162\" src=\"/question-images/12781742856226767013.webp\" width=\"286\"></p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>$0^*1(1+00^*1)^* $</li>\n\t<li>$0^*1^*1+11^*0^*1 $</li>\n\t<li>$(0+1)^*1$</li>\n</ol>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li>I and II only</li>\n\t<li>I and III only</li>\n\t<li>II and III only</li>\n\t<li>I, II and III</li>\n</ol></div>",
       "options": [
         "I and II only",
         "I and III only",
@@ -2189,33 +2189,33 @@
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "MCQ",
       "question": "<p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>",
-      "rawQuestionHtml": "<a name=\"1916\"></a><div itemprop=\"text\"><p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\"></li>\n\t<li><img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\"></li>\n</ol></div>",
+      "rawQuestionHtml": "<a name=\"1916\"></a><div itemprop=\"text\"><p>Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP Complete (NPC)?</p>\n\n<ol style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" src=\"/question-images/4690040794242596387.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/9147408786835595613.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/7014625262490770422.webp\"></li>\n\t<li><img alt=\"\" src=\"/question-images/2771179607250397481.webp\"></li>\n</ol></div>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">"
+        "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">",
+        "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">",
+        "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">",
+        "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/4690040794242596387.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/4690040794242596387.webp\">"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/9147408786835595613.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/9147408786835595613.webp\">"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/7014625262490770422.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/7014625262490770422.webp\">"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/2771179607250397481.webp\">"
+          "text": "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">",
+          "html": "<img alt=\"\" src=\"/question-images/2771179607250397481.webp\">"
         }
       ],
       "answer": [
@@ -2522,8 +2522,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/Gate_QA/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p>",
-      "rawQuestionHtml": "<a name=\"1923\"></a><div itemprop=\"text\"><p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/Gate_QA/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p><ol style=\"list-style-type:upper-alpha\"><li>$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}QR + \\bar{P}Q\\bar{R} + Q\\bar{R} + P\\bar{Q}R$</li><li>$PQ\\bar{R}$</li></ol></div>",
+      "question": "<p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p>",
+      "rawQuestionHtml": "<a name=\"1923\"></a><div itemprop=\"text\"><p>Consider the $4\\text{-to-1}$ multiplexer with two select lines $ S_1$ and $ S_0 $ given below</p><p style=\"text-align:center\"><img alt=\"\" height=\"283\" width=\"379\" src=\"/question-images/16085252473762513301.webp\"></p><p>The minimal sum-of-products form of the Boolean expression for the output $F$<em>&nbsp;</em>of the multiplexer is</p><ol style=\"list-style-type:upper-alpha\"><li>$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$</li><li>$\\bar{P}QR + \\bar{P}Q\\bar{R} + Q\\bar{R} + P\\bar{Q}R$</li><li>$PQ\\bar{R}$</li></ol></div>",
       "options": [
         "$\\bar{P}Q + Q\\bar{R} + P\\bar{Q}R$",
         "$\\bar{P}Q + \\bar{P}Q\\bar{R} + PQ\\bar{R} + P\\bar{Q}R$",

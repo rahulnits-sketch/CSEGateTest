@@ -19,9 +19,15 @@ export default function MathContent({ content, className = "", inline = false }:
     if (!content) return "";
     let html = String(content);
 
-    // Fix relative image paths from GateQA (e.g. question-images/xxx.png -> /question-images/xxx.png)
-    html = html.replace(/src=["'](?:\.\/)?question-images\//gi, 'src="/question-images/');
-    html = html.replace(/src=["'](?:\.\/)?images\//gi, 'src="/images/');
+    // Fix all relative/absolute image paths from GateQA
+    // Handles:
+    // - /Gate_QA/question-images/xxx.webp -> /question-images/xxx.webp
+    // - Gate_QA/question-images/xxx.webp  -> /question-images/xxx.webp
+    // - ./question-images/xxx.webp       -> /question-images/xxx.webp
+    // - question-images/xxx.webp         -> /question-images/xxx.webp
+    html = html.replace(/src=["'](?:\/|\.\/)?(?:Gate_QA\/)?question-images\//gi, 'src="___Q_IMG___/');
+    html = html.replace(/src=["'](?:\/|\.\/)?(?:Gate_QA\/)?images\//gi, 'src="/images/');
+    html = html.replace(/src="___Q_IMG___\//g, 'src="/question-images/');
 
     // Basic LaTeX cleanup if raw LaTeX is displayed
     // E.g. \_ -> _

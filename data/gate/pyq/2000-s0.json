@@ -1806,8 +1806,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>",
-      "rawQuestionHtml": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/Gate_QA/question-images/2942936006174363835.webp\" width=\"229\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(w + x) y$</li>\n<li>$xy + yw$</li>\n<li>$(w + x) (\\bar{w} + y) (\\bar{x} + y)$</li>\n<li>None of the above</li>\n</ol>",
+      "question": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/question-images/2942936006174363835.webp\" width=\"229\"/></p>",
+      "rawQuestionHtml": "<p>Which functions does NOT implement the Karnaugh map given below?</p>\n<p>                                        </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"227\" src=\"/question-images/2942936006174363835.webp\" width=\"229\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$(w + x) y$</li>\n<li>$xy + yw$</li>\n<li>$(w + x) (\\bar{w} + y) (\\bar{x} + y)$</li>\n<li>None of the above</li>\n</ol>",
       "options": [
         "$(w + x) y$",
         "$xy + yw$",
@@ -1860,8 +1860,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>",
-      "rawQuestionHtml": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0$</li>\n<li>$1, 1$</li>\n<li>$0, 0$</li>\n<li>$0, 1$</li>\n</ol>",
+      "question": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>",
+      "rawQuestionHtml": "<p>The following arrangement of master-slave flip flops</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/8492054730077204303.webp\" width=\"406\"/></p>\n<p>has the initial state of $P, Q$ as $0, 1$ (respectively). After three clock cycles the output state $P, Q$ is (respectively),</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$1, 0$</li>\n<li>$1, 1$</li>\n<li>$0, 0$</li>\n<li>$0, 1$</li>\n</ol>",
       "options": [
         "$1, 0$",
         "$1, 1$",

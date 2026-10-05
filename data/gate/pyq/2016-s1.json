@@ -938,8 +938,8 @@
       "subjectSlug": "dsa",
       "topic": "Graph Algorithms (Shortest Paths, MST)",
       "type": "NAT",
-      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
-      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
+      "question": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
+      "rawQuestionHtml": "<p>Consider the following directed graph:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/16555054397713931599.webp\" width=\"284\"/></p>\n<p>The number of different topological orderings of the vertices of the graph is _____________.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -1800,8 +1800,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/Gate_QA/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>",
-      "rawQuestionHtml": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/Gate_QA/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$\\overline{P} \\ \\overline {Q}+PQR$</li>\n<li>$\\overline{P} \\ {Q}+QR$</li>\n<li>$PQ +\\overline{P} \\ \\overline{Q}R$</li>\n<li>$\\overline{Q} \\ \\overline{R} + PQR$</li>\n</ol>",
+      "question": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>",
+      "rawQuestionHtml": "<p>Consider the two cascade $2$ to $1$ multiplexers as shown in the figure .</p>\n<p>    <img alt=\"\" src=\"/question-images/6567566322521955352.webp\"/></p>\n<p>The minimal sum of products form of the output $X$ is </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li>$\\overline{P} \\ \\overline {Q}+PQR$</li>\n<li>$\\overline{P} \\ {Q}+QR$</li>\n<li>$PQ +\\overline{P} \\ \\overline{Q}R$</li>\n<li>$\\overline{Q} \\ \\overline{R} + PQR$</li>\n</ol>",
       "options": [
         "$\\overline{P} \\ \\overline {Q}+PQR$",
         "$\\overline{P} \\ {Q}+QR$",
@@ -2384,8 +2384,8 @@
       "subjectSlug": "toc",
       "topic": "Context-Free Languages & Pushdown Automata",
       "type": "MCQ",
-      "question": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>",
-      "rawQuestionHtml": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA </li>\n<li>$L$ is not accepted by any Turing machine that halts on every input </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is deterministic context-free</li>\n</ol>",
+      "question": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>",
+      "rawQuestionHtml": "<p>Consider the transition diagram of a PDA given below with input alphabet $\\Sigma=\\{a,b\\}$ and stack alphabet $\\Gamma = \\{X,Z\\}$. $Z$ is the initial stack symbol. Let $L$ denote the language accepted by the PDA</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"184\" src=\"/question-images/17998836937072121916.webp\" width=\"524\"/></p>\n<p>Which one of the following is <strong>TRUE</strong>? </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA </li>\n<li>$L$ is not accepted by any Turing machine that halts on every input </li>\n<li>$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is deterministic context-free</li>\n</ol>",
       "options": [
         "$L =\\{a^nb^n\\mid n \\geq0 \\}$ and is not accepted by any finite automata",
         "$L =\\{a^n\\mid n \\geq0 \\} \\cup \\{a^nb^n \\mid n \\geq 0\\}$ and is not accepted by any deterministic PDA",

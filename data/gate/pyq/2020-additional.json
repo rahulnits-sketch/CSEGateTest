@@ -942,8 +942,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>The total expenditure of a family, on different activities in a month, is shown in the pie-chart. The extra money spent on education as compared to transport (in percent) is&nbsp;&nbsp;______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8181521707324802281.jpg\"></p>",
-      "rawQuestionHtml": "<a name=\"359848\"></a><div itemprop=\"text\"><p>The total expenditure of a family, on different activities in a month, is shown in the pie-chart. The extra money spent on education as compared to transport (in percent) is&nbsp;&nbsp;______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/8181521707324802281.jpg\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$5$</li>\n\t<li>$33.3$</li>\n\t<li>$50$</li>\n\t<li>$100$</li>\n</ol></div>",
+      "question": "<p>The total expenditure of a family, on different activities in a month, is shown in the pie-chart. The extra money spent on education as compared to transport (in percent) is&nbsp;&nbsp;______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8181521707324802281.jpg\"></p>",
+      "rawQuestionHtml": "<a name=\"359848\"></a><div itemprop=\"text\"><p>The total expenditure of a family, on different activities in a month, is shown in the pie-chart. The extra money spent on education as compared to transport (in percent) is&nbsp;&nbsp;______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/8181521707324802281.jpg\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$5$</li>\n\t<li>$33.3$</li>\n\t<li>$50$</li>\n\t<li>$100$</li>\n</ol></div>",
       "options": [
         "$5$",
         "$33.3$",
@@ -1159,33 +1159,33 @@
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
       "question": "<p>After the inauguration of the new building, the Head of the Department (HoD) collated faculty preferences for office space. $P$ wanted a room adjacent to the lab. $Q$ wanted to be close to the lift. $R$ wanted a view of the playground and $S$ wanted a corner office.</p>\n\n<p>Assuming that everyone was satisfied, which among the following shows a possible&nbsp;allocation?</p>",
-      "rawQuestionHtml": "<a name=\"359840\"></a><div itemprop=\"text\"><p>After the inauguration of the new building, the Head of the Department (HoD) collated faculty preferences for office space. $P$ wanted a room adjacent to the lab. $Q$ wanted to be close to the lift. $R$ wanted a view of the playground and $S$ wanted a corner office.</p>\n\n<p>Assuming that everyone was satisfied, which among the following shows a possible&nbsp;allocation?</p>\n\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li><img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/12994826472665787141.png\" width=\"268\"></li>\n\t<li><img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/3073225362889325706.png\" width=\"269\"></li>\n\t<li><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/8732166395648817053.png\" width=\"270\"></li>\n\t<li><img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/365129322080711205.png\" width=\"270\"></li>\n</ol></div>",
+      "rawQuestionHtml": "<a name=\"359840\"></a><div itemprop=\"text\"><p>After the inauguration of the new building, the Head of the Department (HoD) collated faculty preferences for office space. $P$ wanted a room adjacent to the lab. $Q$ wanted to be close to the lift. $R$ wanted a view of the playground and $S$ wanted a corner office.</p>\n\n<p>Assuming that everyone was satisfied, which among the following shows a possible&nbsp;allocation?</p>\n\n<ol class=\"shrink-inline-options2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li><img alt=\"\" height=\"247\" src=\"/question-images/12994826472665787141.png\" width=\"268\"></li>\n\t<li><img alt=\"\" height=\"247\" src=\"/question-images/3073225362889325706.png\" width=\"269\"></li>\n\t<li><img alt=\"\" height=\"248\" src=\"/question-images/8732166395648817053.png\" width=\"270\"></li>\n\t<li><img alt=\"\" height=\"248\" src=\"/question-images/365129322080711205.png\" width=\"270\"></li>\n</ol></div>",
       "options": [
-        "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/12994826472665787141.png\" width=\"268\">",
-        "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/3073225362889325706.png\" width=\"269\">",
-        "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/8732166395648817053.png\" width=\"270\">",
-        "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/365129322080711205.png\" width=\"270\">"
+        "<img alt=\"\" height=\"247\" src=\"/question-images/12994826472665787141.png\" width=\"268\">",
+        "<img alt=\"\" height=\"247\" src=\"/question-images/3073225362889325706.png\" width=\"269\">",
+        "<img alt=\"\" height=\"248\" src=\"/question-images/8732166395648817053.png\" width=\"270\">",
+        "<img alt=\"\" height=\"248\" src=\"/question-images/365129322080711205.png\" width=\"270\">"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/12994826472665787141.png\" width=\"268\">",
-          "html": "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/12994826472665787141.png\" width=\"268\">"
+          "text": "<img alt=\"\" height=\"247\" src=\"/question-images/12994826472665787141.png\" width=\"268\">",
+          "html": "<img alt=\"\" height=\"247\" src=\"/question-images/12994826472665787141.png\" width=\"268\">"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/3073225362889325706.png\" width=\"269\">",
-          "html": "<img alt=\"\" height=\"247\" src=\"/Gate_QA/question-images/3073225362889325706.png\" width=\"269\">"
+          "text": "<img alt=\"\" height=\"247\" src=\"/question-images/3073225362889325706.png\" width=\"269\">",
+          "html": "<img alt=\"\" height=\"247\" src=\"/question-images/3073225362889325706.png\" width=\"269\">"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/8732166395648817053.png\" width=\"270\">",
-          "html": "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/8732166395648817053.png\" width=\"270\">"
+          "text": "<img alt=\"\" height=\"248\" src=\"/question-images/8732166395648817053.png\" width=\"270\">",
+          "html": "<img alt=\"\" height=\"248\" src=\"/question-images/8732166395648817053.png\" width=\"270\">"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/365129322080711205.png\" width=\"270\">",
-          "html": "<img alt=\"\" height=\"248\" src=\"/Gate_QA/question-images/365129322080711205.png\" width=\"270\">"
+          "text": "<img alt=\"\" height=\"248\" src=\"/question-images/365129322080711205.png\" width=\"270\">",
+          "html": "<img alt=\"\" height=\"248\" src=\"/question-images/365129322080711205.png\" width=\"270\">"
         }
       ],
       "answer": [
@@ -2292,8 +2292,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>Given a semicircle with $\\text{O}$ as the centre, as shown in the figure, the ratio $\\dfrac{\\overline{AC}+\\overline{CB}}{\\overline{AB}}$ is _______,&nbsp;where&nbsp;$\\overline{AC}$,&nbsp;$\\overline{CB}$ and&nbsp;$\\overline{AB}$ are chords.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"185\" src=\"/Gate_QA/question-images/10856567777098935580.png\" width=\"275\"></p>",
-      "rawQuestionHtml": "<a name=\"359713\"></a><div itemprop=\"text\"><p>Given a semicircle with $\\text{O}$ as the centre, as shown in the figure, the ratio $\\dfrac{\\overline{AC}+\\overline{CB}}{\\overline{AB}}$ is _______,&nbsp;where&nbsp;$\\overline{AC}$,&nbsp;$\\overline{CB}$ and&nbsp;$\\overline{AB}$ are chords.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"185\" src=\"/Gate_QA/question-images/10856567777098935580.png\" width=\"275\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\sqrt{2}$</li>\n\t<li>$\\sqrt{3}$</li>\n\t<li>$2$</li>\n\t<li>$3$</li>\n</ol></div>",
+      "question": "<p>Given a semicircle with $\\text{O}$ as the centre, as shown in the figure, the ratio $\\dfrac{\\overline{AC}+\\overline{CB}}{\\overline{AB}}$ is _______,&nbsp;where&nbsp;$\\overline{AC}$,&nbsp;$\\overline{CB}$ and&nbsp;$\\overline{AB}$ are chords.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"185\" src=\"/question-images/10856567777098935580.png\" width=\"275\"></p>",
+      "rawQuestionHtml": "<a name=\"359713\"></a><div itemprop=\"text\"><p>Given a semicircle with $\\text{O}$ as the centre, as shown in the figure, the ratio $\\dfrac{\\overline{AC}+\\overline{CB}}{\\overline{AB}}$ is _______,&nbsp;where&nbsp;$\\overline{AC}$,&nbsp;$\\overline{CB}$ and&nbsp;$\\overline{AB}$ are chords.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"185\" src=\"/question-images/10856567777098935580.png\" width=\"275\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$\\sqrt{2}$</li>\n\t<li>$\\sqrt{3}$</li>\n\t<li>$2$</li>\n\t<li>$3$</li>\n</ol></div>",
       "options": [
         "$\\sqrt{2}$",
         "$\\sqrt{3}$",
@@ -2346,8 +2346,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>The revenue and expenditure of four different companies $\\text{P, Q, R and S}$ in $2015$ are shown&nbsp;in the figure. If the revenue of company $\\text{Q}$ in $2015$ was $20$% more than that in $2014$, and&nbsp;company $\\text{Q}$ had earned a profit of $10$% on expenditure in $2014$, then its expenditure (in million rupees) in $2014$ was _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"331\" src=\"/Gate_QA/question-images/10977358907873751170.jpg\" width=\"369\"></p>",
-      "rawQuestionHtml": "<a name=\"359710\"></a><div itemprop=\"text\"><p>The revenue and expenditure of four different companies $\\text{P, Q, R and S}$ in $2015$ are shown&nbsp;in the figure. If the revenue of company $\\text{Q}$ in $2015$ was $20$% more than that in $2014$, and&nbsp;company $\\text{Q}$ had earned a profit of $10$% on expenditure in $2014$, then its expenditure (in million rupees) in $2014$ was _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"331\" src=\"/Gate_QA/question-images/10977358907873751170.jpg\" width=\"369\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$32.7$</li>\n\t<li>$33.7$</li>\n\t<li>$34.1$</li>\n\t<li>$35.1$</li>\n</ol></div>",
+      "question": "<p>The revenue and expenditure of four different companies $\\text{P, Q, R and S}$ in $2015$ are shown&nbsp;in the figure. If the revenue of company $\\text{Q}$ in $2015$ was $20$% more than that in $2014$, and&nbsp;company $\\text{Q}$ had earned a profit of $10$% on expenditure in $2014$, then its expenditure (in million rupees) in $2014$ was _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"331\" src=\"/question-images/10977358907873751170.jpg\" width=\"369\"></p>",
+      "rawQuestionHtml": "<a name=\"359710\"></a><div itemprop=\"text\"><p>The revenue and expenditure of four different companies $\\text{P, Q, R and S}$ in $2015$ are shown&nbsp;in the figure. If the revenue of company $\\text{Q}$ in $2015$ was $20$% more than that in $2014$, and&nbsp;company $\\text{Q}$ had earned a profit of $10$% on expenditure in $2014$, then its expenditure (in million rupees) in $2014$ was _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"331\" src=\"/question-images/10977358907873751170.jpg\" width=\"369\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$32.7$</li>\n\t<li>$33.7$</li>\n\t<li>$34.1$</li>\n\t<li>$35.1$</li>\n</ol></div>",
       "options": [
         "$32.7$",
         "$33.7$",
@@ -2779,33 +2779,33 @@
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
       "question": "<p>Select the graph that schematically represents BOTH&nbsp;$y=x^{m}\\:\\text{and}\\:y=x^{1/m}$ properly in the&nbsp;interval&nbsp;$0\\leq x \\leq 1$, for integer values of $m,$&nbsp;where $m &gt; 1.$</p>\n\n\n\n<p>&nbsp;</p>",
-      "rawQuestionHtml": "<a name=\"359520\"></a><div itemprop=\"text\"><p>Select the graph that schematically represents BOTH&nbsp;$y=x^{m}\\:\\text{and}\\:y=x^{1/m}$ properly in the&nbsp;interval&nbsp;$0\\leq x \\leq 1$, for integer values of $m,$&nbsp;where $m &gt; 1.$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" height=\"284\" src=\"/Gate_QA/question-images/5857637480285504546.png\" width=\"261\"></li>\n\t<li><img alt=\"\" height=\"271\" src=\"/Gate_QA/question-images/18442131739771823590.png\" width=\"249\"></li>\n\t<li><img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/13072718916191301471.png\" width=\"243\"></li>\n\t<li><img alt=\"\" height=\"270\" src=\"/Gate_QA/question-images/17706232188831839588.png\" width=\"249\"></li>\n</ol>\n\n<p>&nbsp;</p></div>",
+      "rawQuestionHtml": "<a name=\"359520\"></a><div itemprop=\"text\"><p>Select the graph that schematically represents BOTH&nbsp;$y=x^{m}\\:\\text{and}\\:y=x^{1/m}$ properly in the&nbsp;interval&nbsp;$0\\leq x \\leq 1$, for integer values of $m,$&nbsp;where $m &gt; 1.$</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li><img alt=\"\" height=\"284\" src=\"/question-images/5857637480285504546.png\" width=\"261\"></li>\n\t<li><img alt=\"\" height=\"271\" src=\"/question-images/18442131739771823590.png\" width=\"249\"></li>\n\t<li><img alt=\"\" height=\"263\" src=\"/question-images/13072718916191301471.png\" width=\"243\"></li>\n\t<li><img alt=\"\" height=\"270\" src=\"/question-images/17706232188831839588.png\" width=\"249\"></li>\n</ol>\n\n<p>&nbsp;</p></div>",
       "options": [
-        "<img alt=\"\" height=\"284\" src=\"/Gate_QA/question-images/5857637480285504546.png\" width=\"261\">",
-        "<img alt=\"\" height=\"271\" src=\"/Gate_QA/question-images/18442131739771823590.png\" width=\"249\">",
-        "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/13072718916191301471.png\" width=\"243\">",
-        "<img alt=\"\" height=\"270\" src=\"/Gate_QA/question-images/17706232188831839588.png\" width=\"249\">"
+        "<img alt=\"\" height=\"284\" src=\"/question-images/5857637480285504546.png\" width=\"261\">",
+        "<img alt=\"\" height=\"271\" src=\"/question-images/18442131739771823590.png\" width=\"249\">",
+        "<img alt=\"\" height=\"263\" src=\"/question-images/13072718916191301471.png\" width=\"243\">",
+        "<img alt=\"\" height=\"270\" src=\"/question-images/17706232188831839588.png\" width=\"249\">"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" height=\"284\" src=\"/Gate_QA/question-images/5857637480285504546.png\" width=\"261\">",
-          "html": "<img alt=\"\" height=\"284\" src=\"/Gate_QA/question-images/5857637480285504546.png\" width=\"261\">"
+          "text": "<img alt=\"\" height=\"284\" src=\"/question-images/5857637480285504546.png\" width=\"261\">",
+          "html": "<img alt=\"\" height=\"284\" src=\"/question-images/5857637480285504546.png\" width=\"261\">"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" height=\"271\" src=\"/Gate_QA/question-images/18442131739771823590.png\" width=\"249\">",
-          "html": "<img alt=\"\" height=\"271\" src=\"/Gate_QA/question-images/18442131739771823590.png\" width=\"249\">"
+          "text": "<img alt=\"\" height=\"271\" src=\"/question-images/18442131739771823590.png\" width=\"249\">",
+          "html": "<img alt=\"\" height=\"271\" src=\"/question-images/18442131739771823590.png\" width=\"249\">"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/13072718916191301471.png\" width=\"243\">",
-          "html": "<img alt=\"\" height=\"263\" src=\"/Gate_QA/question-images/13072718916191301471.png\" width=\"243\">"
+          "text": "<img alt=\"\" height=\"263\" src=\"/question-images/13072718916191301471.png\" width=\"243\">",
+          "html": "<img alt=\"\" height=\"263\" src=\"/question-images/13072718916191301471.png\" width=\"243\">"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" height=\"270\" src=\"/Gate_QA/question-images/17706232188831839588.png\" width=\"249\">",
-          "html": "<img alt=\"\" height=\"270\" src=\"/Gate_QA/question-images/17706232188831839588.png\" width=\"249\">"
+          "text": "<img alt=\"\" height=\"270\" src=\"/question-images/17706232188831839588.png\" width=\"249\">",
+          "html": "<img alt=\"\" height=\"270\" src=\"/question-images/17706232188831839588.png\" width=\"249\">"
         }
       ],
       "answer": [
@@ -2832,8 +2832,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>The bar graph shows the data of the students who appeared and passed in an examination for four schools $P, Q, R$, and $S$. The average of success rates $\\text{(in percentage)}$ of&nbsp; these four schools is _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"304\" src=\"/Gate_QA/question-images/5817743697393196869.jpg\" width=\"419\"></p>",
-      "rawQuestionHtml": "<a name=\"359518\"></a><div itemprop=\"text\"><p>The bar graph shows the data of the students who appeared and passed in an examination for four schools $P, Q, R$, and $S$. The average of success rates $\\text{(in percentage)}$ of&nbsp; these four schools is _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"304\" src=\"/Gate_QA/question-images/5817743697393196869.jpg\" width=\"419\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$58.5\\%$</li>\n\t<li>$58.8\\%$</li>\n\t<li>$59.0\\%$</li>\n\t<li>$59.3\\%$</li>\n</ol></div>",
+      "question": "<p>The bar graph shows the data of the students who appeared and passed in an examination for four schools $P, Q, R$, and $S$. The average of success rates $\\text{(in percentage)}$ of&nbsp; these four schools is _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"304\" src=\"/question-images/5817743697393196869.jpg\" width=\"419\"></p>",
+      "rawQuestionHtml": "<a name=\"359518\"></a><div itemprop=\"text\"><p>The bar graph shows the data of the students who appeared and passed in an examination for four schools $P, Q, R$, and $S$. The average of success rates $\\text{(in percentage)}$ of&nbsp; these four schools is _______.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"304\" src=\"/question-images/5817743697393196869.jpg\" width=\"419\"></p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>$58.5\\%$</li>\n\t<li>$58.8\\%$</li>\n\t<li>$59.0\\%$</li>\n\t<li>$59.3\\%$</li>\n</ol></div>",
       "options": [
         "$58.5\\%$",
         "$58.8\\%$",
@@ -3102,8 +3102,8 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>There are five levels $\\{P, Q, R, S, T\\}$ in a linear supply chain before a product reaches customers, as shown in the figure.</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15904938424576868037.png\"></p>\n\n<p>At each of the five levels, the price of the product is increased by $25 \\%$. If the product is produced at level $P$ at the cost of Rs. $120$ per unit, what is the price paid (in rupees) by the customers?</p>",
-      "rawQuestionHtml": "<a name=\"359548\"></a><div itemprop=\"text\"><p>There are five levels $\\{P, Q, R, S, T\\}$ in a linear supply chain before a product reaches customers, as shown in the figure.</p>\n\n<p><img alt=\"\" src=\"/Gate_QA/question-images/15904938424576868037.png\"></p>\n\n<p>At each of the five levels, the price of the product is increased by $25 \\%$. If the product is produced at level $P$ at the cost of Rs. $120$ per unit, what is the price paid (in rupees) by the customers?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$187.50$</li>\n\t<li>$234.38$</li>\n\t<li>$292.96$</li>\n\t<li>$366.21$</li>\n</ol></div>",
+      "question": "<p>There are five levels $\\{P, Q, R, S, T\\}$ in a linear supply chain before a product reaches customers, as shown in the figure.</p>\n\n<p><img alt=\"\" src=\"/question-images/15904938424576868037.png\"></p>\n\n<p>At each of the five levels, the price of the product is increased by $25 \\%$. If the product is produced at level $P$ at the cost of Rs. $120$ per unit, what is the price paid (in rupees) by the customers?</p>",
+      "rawQuestionHtml": "<a name=\"359548\"></a><div itemprop=\"text\"><p>There are five levels $\\{P, Q, R, S, T\\}$ in a linear supply chain before a product reaches customers, as shown in the figure.</p>\n\n<p><img alt=\"\" src=\"/question-images/15904938424576868037.png\"></p>\n\n<p>At each of the five levels, the price of the product is increased by $25 \\%$. If the product is produced at level $P$ at the cost of Rs. $120$ per unit, what is the price paid (in rupees) by the customers?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$187.50$</li>\n\t<li>$234.38$</li>\n\t<li>$292.96$</li>\n\t<li>$366.21$</li>\n</ol></div>",
       "options": [
         "$187.50$",
         "$234.38$",
@@ -3264,8 +3264,8 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>An engineer measures THREE quantities, $X, Y$ and $Z$ in an experiment. She finds that they follow a relationship that is represented in the figure below$: ($the product of $X$ and $Y$ linearly varies with $Z)$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/11172299236264837459.png\" width=\"171\"></p>\n\n<p>Then, which of the following statements is FALSE?</p>",
-      "rawQuestionHtml": "<a name=\"359540\"></a><div itemprop=\"text\"><p>An engineer measures THREE quantities, $X, Y$ and $Z$ in an experiment. She finds that they follow a relationship that is represented in the figure below$: ($the product of $X$ and $Y$ linearly varies with $Z)$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"163\" src=\"/Gate_QA/question-images/11172299236264837459.png\" width=\"171\"></p>\n\n<p>Then, which of the following statements is FALSE?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>For fixed $Z$; $X$ is proportional to $Y$</li>\n\t<li>For fixed $Y$; $X$ is proportional to $Z$</li>\n\t<li>For fixed $X$; $Z$ is proportional to $Y$</li>\n\t<li>$XY/Z$ is constant</li>\n</ol></div>",
+      "question": "<p>An engineer measures THREE quantities, $X, Y$ and $Z$ in an experiment. She finds that they follow a relationship that is represented in the figure below$: ($the product of $X$ and $Y$ linearly varies with $Z)$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"163\" src=\"/question-images/11172299236264837459.png\" width=\"171\"></p>\n\n<p>Then, which of the following statements is FALSE?</p>",
+      "rawQuestionHtml": "<a name=\"359540\"></a><div itemprop=\"text\"><p>An engineer measures THREE quantities, $X, Y$ and $Z$ in an experiment. She finds that they follow a relationship that is represented in the figure below$: ($the product of $X$ and $Y$ linearly varies with $Z)$</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"163\" src=\"/question-images/11172299236264837459.png\" width=\"171\"></p>\n\n<p>Then, which of the following statements is FALSE?</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>For fixed $Z$; $X$ is proportional to $Y$</li>\n\t<li>For fixed $Y$; $X$ is proportional to $Z$</li>\n\t<li>For fixed $X$; $Z$ is proportional to $Y$</li>\n\t<li>$XY/Z$ is constant</li>\n</ol></div>",
       "options": [
         "For fixed $Z$; $X$ is proportional to $Y$",
         "For fixed $Y$; $X$ is proportional to $Z$",
@@ -3318,8 +3318,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p>The two pie-charts given below show the data of total students and only girls registered in different streams in a university. If the total number of students registered in the university is $5000$, and the total number of the registered girls is $1500$; then, the ratio of boys enrolled in Arts to the girls enrolled in Management is ___________</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6557002048370981316.webp\"></p>",
-      "rawQuestionHtml": "<a name=\"359538\"></a><div itemprop=\"text\"><p>The two pie-charts given below show the data of total students and only girls registered in different streams in a university. If the total number of students registered in the university is $5000$, and the total number of the registered girls is $1500$; then, the ratio of boys enrolled in Arts to the girls enrolled in Management is ___________</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/Gate_QA/question-images/6557002048370981316.webp\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2:1$</li>\n\t<li>$9:22$</li>\n\t<li>$11:9$</li>\n\t<li>$22:9$</li>\n</ol></div>",
+      "question": "<p>The two pie-charts given below show the data of total students and only girls registered in different streams in a university. If the total number of students registered in the university is $5000$, and the total number of the registered girls is $1500$; then, the ratio of boys enrolled in Arts to the girls enrolled in Management is ___________</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6557002048370981316.webp\"></p>",
+      "rawQuestionHtml": "<a name=\"359538\"></a><div itemprop=\"text\"><p>The two pie-charts given below show the data of total students and only girls registered in different streams in a university. If the total number of students registered in the university is $5000$, and the total number of the registered girls is $1500$; then, the ratio of boys enrolled in Arts to the girls enrolled in Management is ___________</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"/question-images/6557002048370981316.webp\"></p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>$2:1$</li>\n\t<li>$9:22$</li>\n\t<li>$11:9$</li>\n\t<li>$22:9$</li>\n</ol></div>",
       "options": [
         "$2:1$",
         "$9:22$",

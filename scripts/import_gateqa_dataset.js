@@ -20,9 +20,17 @@ function stripHtmlToText(html = "") {
     .trim();
 }
 
+function normalizeHtmlImages(html = "") {
+  if (!html || typeof html !== "string") return "";
+  return html
+    .replace(/(?:(?:\/|\.\/)?Gate_QA\/)?question-images\//gi, "___Q_IMG___/")
+    .replace(/(?:(?:\/|\.\/)?Gate_QA\/)?images\//gi, "/images/")
+    .replace(/___Q_IMG___\//g, "/question-images/");
+}
+
 function cleanQuestionStem(html = "") {
   if (!html || typeof html !== "string") return "";
-  let cleaned = html;
+  let cleaned = normalizeHtmlImages(html);
   const ALPHA_OPTION_LIST_RE = /<(ol|ul)\b[^>]*(?:list-style-type\s*:\s*(?:upper-alpha|lower-alpha)|\btype\s*=\s*["']?[Aa]["']?)[^>]*>[\s\S]*?<\/\1>/gi;
   const OPTION_LIST_RE = /<(ol|ul)\b[^>]*>\s*(?:<li\b[^>]*>\s*(?:<(?:strong|b|em|span)\b[^>]*>\s*)?(?:\(?[A-E]\)?[\.\):])\s*[\s\S]*?<\/li>\s*){2,5}<\/\1>/gi;
   const TRAILING_OPTION_LIST_RE = /<(ol|ul)\b[^>]*>\s*(?:<li\b[^>]*>[\s\S]*?<\/li>\s*){2,5}<\/\1>\s*(?:<br\s*\/?>|\s)*$/gi;
@@ -40,7 +48,7 @@ function cleanQuestionStem(html = "") {
 }
 
 function extractOptions(html = "") {
-  const raw = String(html || "");
+  const raw = normalizeHtmlImages(String(html || ""));
   const options = [];
   const seen = new Set();
   const OPTION_LABELS = ["A", "B", "C", "D", "E"];
@@ -388,8 +396,8 @@ rawQuestions.forEach((q, idx) => {
     subjectSlug,
     topic,
     type,
-    question: cleanStem || q.question,
-    rawQuestionHtml: q.question,
+    question: cleanStem || normalizeHtmlImages(q.question),
+    rawQuestionHtml: normalizeHtmlImages(q.question),
     options: options.map(o => o.text),
     structuredOptions: options,
     answer: finalAnswer,
@@ -399,7 +407,7 @@ rawQuestions.forEach((q, idx) => {
     source: "GATE CSE / GateOverflow",
     link: q.link || `https://gateoverflow.in/${uid.replace('go:', '')}`,
     difficulty: marks === 2 ? "Hard" : "Medium",
-    explanation: q.explanation || `Refer to official GATE answer key & GateOverflow discussion at: ${q.link || 'https://gateoverflow.in'}`
+    explanation: normalizeHtmlImages(q.explanation || `Refer to official GATE answer key & GateOverflow discussion at: ${q.link || 'https://gateoverflow.in'}`)
   };
 
   allQuestions.push(gateQuestion);

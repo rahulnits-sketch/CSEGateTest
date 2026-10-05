@@ -830,8 +830,8 @@
       "subjectSlug": "aptitude",
       "topic": "Quantitative Aptitude",
       "type": "MCQ",
-      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"251\" src=\"/Gate_QA/question-images/5036139318886835359.webp\" width=\"393\"/></p>",
-      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"251\" src=\"/Gate_QA/question-images/5036139318886835359.webp\" width=\"393\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f(x) = 1 - |x - 1|$</li>\n<li>$f(x) =1 + |x - 1|$</li>\n<li>$f(x) = 2 - |x - 1|$</li>\n<li>$f(x) = 2 + |x - 1|$</li>\n</ol>",
+      "question": "<p style=\"text-align:center\"><img alt=\"\" height=\"251\" src=\"/question-images/5036139318886835359.webp\" width=\"393\"/></p>",
+      "rawQuestionHtml": "<p style=\"text-align:center\"><img alt=\"\" height=\"251\" src=\"/question-images/5036139318886835359.webp\" width=\"393\"/></p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$f(x) = 1 - |x - 1|$</li>\n<li>$f(x) =1 + |x - 1|$</li>\n<li>$f(x) = 2 - |x - 1|$</li>\n<li>$f(x) = 2 + |x - 1|$</li>\n</ol>",
       "options": [
         "$f(x) = 1 - |x - 1|$",
         "$f(x) =1 + |x - 1|$",
@@ -2164,8 +2164,8 @@
       "subjectSlug": "dsa",
       "topic": "Asymptotic Analysis & Recurrences",
       "type": "NAT",
-      "question": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/Gate_QA/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
-      "rawQuestionHtml": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/Gate_QA/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
+      "question": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
+      "rawQuestionHtml": "<p>The given diagram shows the flowchart for a recursive function $A(n)$. Assume that all statements, except for the recursive calls, have $O(1)$ time complexity. If the worst case time complexity of this function is $O(n^{\\alpha})$, then the least possible value (accurate up to two decimal positions) of $\\alpha$ is ________.</p>\n<p>Flow chart for Recursive Function $A(n)$.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"421\" src=\"/question-images/2001639867392283483.webp\" width=\"800\"/></p>",
       "options": [],
       "structuredOptions": [],
       "answer": [
@@ -2666,8 +2666,8 @@
       "subjectSlug": "coa",
       "topic": "Cache & Memory Hierarchy",
       "type": "NAT",
-      "question": "<p>A file system uses an in-memory cache to cache disk blocks. The miss rate of the cache is shown in the figure. The latency to read a block from the cache is $1$ ms and to read a block from the disk is $10$ ms. Assume that the cost of checking whether a block exists in the cache is negligible. Available cache sizes are in multiples of $10$ MB.</p>\n<p><img alt=\"\" height=\"292\" src=\"/Gate_QA/question-images/6514782755401415237.webp\" width=\"298\"/></p>\n<p>The smallest cache size required to ensure an average read latency of less than $6$ ms is _________ MB.</p>",
-      "rawQuestionHtml": "<p>A file system uses an in-memory cache to cache disk blocks. The miss rate of the cache is shown in the figure. The latency to read a block from the cache is $1$ ms and to read a block from the disk is $10$ ms. Assume that the cost of checking whether a block exists in the cache is negligible. Available cache sizes are in multiples of $10$ MB.</p>\n<p><img alt=\"\" height=\"292\" src=\"/Gate_QA/question-images/6514782755401415237.webp\" width=\"298\"/></p>\n<p>The smallest cache size required to ensure an average read latency of less than $6$ ms is _________ MB.</p>",
+      "question": "<p>A file system uses an in-memory cache to cache disk blocks. The miss rate of the cache is shown in the figure. The latency to read a block from the cache is $1$ ms and to read a block from the disk is $10$ ms. Assume that the cost of checking whether a block exists in the cache is negligible. Available cache sizes are in multiples of $10$ MB.</p>\n<p><img alt=\"\" height=\"292\" src=\"/question-images/6514782755401415237.webp\" width=\"298\"/></p>\n<p>The smallest cache size required to ensure an average read latency of less than $6$ ms is _________ MB.</p>",
+      "rawQuestionHtml": "<p>A file system uses an in-memory cache to cache disk blocks. The miss rate of the cache is shown in the figure. The latency to read a block from the cache is $1$ ms and to read a block from the disk is $10$ ms. Assume that the cost of checking whether a block exists in the cache is negligible. Available cache sizes are in multiples of $10$ MB.</p>\n<p><img alt=\"\" height=\"292\" src=\"/question-images/6514782755401415237.webp\" width=\"298\"/></p>\n<p>The smallest cache size required to ensure an average read latency of less than $6$ ms is _________ MB.</p>",
       "options": [],
       "structuredOptions": [],
       "answer": [

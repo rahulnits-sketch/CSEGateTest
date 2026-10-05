@@ -726,8 +726,8 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit involving a positive edge triggered D FF.</p>\n<p><img alt=\"\" height=\"213\" src=\"/Gate_QA/question-images/14188554105723082797.webp\" width=\"555\"/></p>\n<p>Consider the following timing diagram. Let $A_{i}$ represents the logic level on the line $A$ in the $i$-th clock period.</p>\n<p><img alt=\"\" height=\"261\" src=\"/Gate_QA/question-images/11403173226895472133.webp\" width=\"563\"/></p>\n<p>Let $A'$ represent the complement of $A$. The correct output sequence on $Y$ over the clock periods $1$ through $5$ is:</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit involving a positive edge triggered D FF.</p>\n<p><img alt=\"\" height=\"213\" src=\"/Gate_QA/question-images/14188554105723082797.webp\" width=\"555\"/></p>\n<p>Consider the following timing diagram. Let $A_{i}$ represents the logic level on the line $A$ in the $i$-th clock period.</p>\n<p><img alt=\"\" height=\"261\" src=\"/Gate_QA/question-images/11403173226895472133.webp\" width=\"563\"/></p>\n<p>Let $A'$ represent the complement of $A$. The correct output sequence on $Y$ over the clock periods $1$ through $5$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A_{0} A_{1} A_{1}' A_{3} A_{4}$</li>\n<li>$A_{0} A_{1} A_{2}' A_{3} A_{4}$</li>\n<li>$A_{1} A_{2} A_{2}' A_{3} A_{4}$</li>\n<li>$A_{1} A_{2}' A_{3} A_{4} A_{5}'$</li>\n</ol>",
+      "question": "<p>Consider the following circuit involving a positive edge triggered D FF.</p>\n<p><img alt=\"\" height=\"213\" src=\"/question-images/14188554105723082797.webp\" width=\"555\"/></p>\n<p>Consider the following timing diagram. Let $A_{i}$ represents the logic level on the line $A$ in the $i$-th clock period.</p>\n<p><img alt=\"\" height=\"261\" src=\"/question-images/11403173226895472133.webp\" width=\"563\"/></p>\n<p>Let $A'$ represent the complement of $A$. The correct output sequence on $Y$ over the clock periods $1$ through $5$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit involving a positive edge triggered D FF.</p>\n<p><img alt=\"\" height=\"213\" src=\"/question-images/14188554105723082797.webp\" width=\"555\"/></p>\n<p>Consider the following timing diagram. Let $A_{i}$ represents the logic level on the line $A$ in the $i$-th clock period.</p>\n<p><img alt=\"\" height=\"261\" src=\"/question-images/11403173226895472133.webp\" width=\"563\"/></p>\n<p>Let $A'$ represent the complement of $A$. The correct output sequence on $Y$ over the clock periods $1$ through $5$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$A_{0} A_{1} A_{1}' A_{3} A_{4}$</li>\n<li>$A_{0} A_{1} A_{2}' A_{3} A_{4}$</li>\n<li>$A_{1} A_{2} A_{2}' A_{3} A_{4}$</li>\n<li>$A_{1} A_{2}' A_{3} A_{4} A_{5}'$</li>\n</ol>",
       "options": [
         "$A_{0} A_{1} A_{1}' A_{3} A_{4}$",
         "$A_{0} A_{1} A_{2}' A_{3} A_{4}$",
@@ -834,8 +834,8 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>The following diagram represents a finite state machine which takes as input a binary number from the least significant bit.</p>\n<p><img alt=\"\" height=\"208\" src=\"/Gate_QA/question-images/3449370509285401659.webp\" width=\"282\"/></p>\n<p>     </p>\n<p>Which of the following is TRUE?</p>",
-      "rawQuestionHtml": "<p>The following diagram represents a finite state machine which takes as input a binary number from the least significant bit.</p>\n<p><img alt=\"\" height=\"208\" src=\"/Gate_QA/question-images/3449370509285401659.webp\" width=\"282\"/></p>\n<p>     </p>\n<p>Which of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>It computes $1$’s complement of the input number</p>\n</li>\n<li>\n<p>It computes $2$’s complement of the input number</p>\n</li>\n<li>\n<p>It increments the input number</p>\n</li>\n<li>\n<p>it decrements the input number</p>\n</li>\n</ol>",
+      "question": "<p>The following diagram represents a finite state machine which takes as input a binary number from the least significant bit.</p>\n<p><img alt=\"\" height=\"208\" src=\"/question-images/3449370509285401659.webp\" width=\"282\"/></p>\n<p>     </p>\n<p>Which of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>The following diagram represents a finite state machine which takes as input a binary number from the least significant bit.</p>\n<p><img alt=\"\" height=\"208\" src=\"/question-images/3449370509285401659.webp\" width=\"282\"/></p>\n<p>     </p>\n<p>Which of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>It computes $1$’s complement of the input number</p>\n</li>\n<li>\n<p>It computes $2$’s complement of the input number</p>\n</li>\n<li>\n<p>It increments the input number</p>\n</li>\n<li>\n<p>it decrements the input number</p>\n</li>\n</ol>",
       "options": [
         "It computes $1$’s complement of the input number",
         "It computes $2$’s complement of the input number",
@@ -888,8 +888,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Set Theory, Relations & Functions",
       "type": "MCQ",
-      "question": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>",
-      "rawQuestionHtml": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/Gate_QA/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>not a lattice</li>\n<li>a lattice but not a distributive lattice</li>\n<li>a distributive lattice but not a Boolean algebra</li>\n<li>a Boolean algebra</li>\n</ol>",
+      "question": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>",
+      "rawQuestionHtml": "<p>The following is the Hasse diagram of the poset $\\left[\\{a,b,c,d,e\\},≺\\right]$</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"245\" src=\"/question-images/15905205628911740146.webp\" width=\"253\"/></p>\n<p>The poset is :</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>not a lattice</li>\n<li>a lattice but not a distributive lattice</li>\n<li>a distributive lattice but not a Boolean algebra</li>\n<li>a Boolean algebra</li>\n</ol>",
       "options": [
         "not a lattice",
         "a lattice but not a distributive lattice",
@@ -942,34 +942,34 @@
       "subjectSlug": "aptitude",
       "topic": "Verbal Aptitude & Grammar",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9620482535850972519.webp\" width=\"654\"/></p>\n<p>The flip-flops are positive edge triggered $D$ $\\textsf{FF}$s. Each state is designated as a two-bit string $Q_0Q_1$. Let the initial state be $00.$ The state transition sequence is</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit:</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/9620482535850972519.webp\" width=\"654\"/></p>\n<p>The flip-flops are positive edge triggered $D$ $\\textsf{FF}$s. Each state is designated as a two-bit string $Q_0Q_1$. Let the initial state be $00.$ The state transition sequence is</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/Gate_QA/question-images/4348248970258388609.webp\" width=\"160\"/>  </li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/9245206116700193146.webp\" width=\"120\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/15555793545974093268.webp\" width=\"200\"/></li>\n<li><img alt=\"\" src=\"/Gate_QA/question-images/3833359906027570533.webp\" width=\"200\"/></li>\n</ol>",
+      "question": "<p>Consider the following circuit:</p>\n<p><img alt=\"\" src=\"/question-images/9620482535850972519.webp\" width=\"654\"/></p>\n<p>The flip-flops are positive edge triggered $D$ $\\textsf{FF}$s. Each state is designated as a two-bit string $Q_0Q_1$. Let the initial state be $00.$ The state transition sequence is</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit:</p>\n<p><img alt=\"\" src=\"/question-images/9620482535850972519.webp\" width=\"654\"/></p>\n<p>The flip-flops are positive edge triggered $D$ $\\textsf{FF}$s. Each state is designated as a two-bit string $Q_0Q_1$. Let the initial state be $00.$ The state transition sequence is</p>\n<ol class=\"shrink-inline-options\" style=\"list-style-type:upper-alpha\">\n<li><img alt=\"\" src=\"/question-images/4348248970258388609.webp\" width=\"160\"/>  </li>\n<li><img alt=\"\" src=\"/question-images/9245206116700193146.webp\" width=\"120\"/></li>\n<li><img alt=\"\" src=\"/question-images/15555793545974093268.webp\" width=\"200\"/></li>\n<li><img alt=\"\" src=\"/question-images/3833359906027570533.webp\" width=\"200\"/></li>\n</ol>",
       "options": [
-        "<img alt=\"\" src=\"/Gate_QA/question-images/4348248970258388609.webp\" width=\"160\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/9245206116700193146.webp\" width=\"120\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/15555793545974093268.webp\" width=\"200\"/>",
-        "<img alt=\"\" src=\"/Gate_QA/question-images/3833359906027570533.webp\" width=\"200\"/>"
+        "<img alt=\"\" src=\"/question-images/4348248970258388609.webp\" width=\"160\"/>",
+        "<img alt=\"\" src=\"/question-images/9245206116700193146.webp\" width=\"120\"/>",
+        "<img alt=\"\" src=\"/question-images/15555793545974093268.webp\" width=\"200\"/>",
+        "<img alt=\"\" src=\"/question-images/3833359906027570533.webp\" width=\"200\"/>"
       ],
       "structuredOptions": [
         {
           "label": "A",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/4348248970258388609.webp\" width=\"160\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/4348248970258388609.webp\" width=\"160\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/4348248970258388609.webp\" width=\"160\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/4348248970258388609.webp\" width=\"160\"/>"
         },
         {
           "label": "B",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/9245206116700193146.webp\" width=\"120\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/9245206116700193146.webp\" width=\"120\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/9245206116700193146.webp\" width=\"120\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/9245206116700193146.webp\" width=\"120\"/>"
         },
         {
           "label": "C",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/15555793545974093268.webp\" width=\"200\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/15555793545974093268.webp\" width=\"200\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/15555793545974093268.webp\" width=\"200\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/15555793545974093268.webp\" width=\"200\"/>"
         },
         {
           "label": "D",
-          "text": "<img alt=\"\" src=\"/Gate_QA/question-images/3833359906027570533.webp\" width=\"200\"/>",
-          "html": "<img alt=\"\" src=\"/Gate_QA/question-images/3833359906027570533.webp\" width=\"200\"/>"
+          "text": "<img alt=\"\" src=\"/question-images/3833359906027570533.webp\" width=\"200\"/>",
+          "html": "<img alt=\"\" src=\"/question-images/3833359906027570533.webp\" width=\"200\"/>"
         }
       ],
       "answer": [
@@ -1320,8 +1320,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/Gate_QA/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>",
-      "rawQuestionHtml": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/Gate_QA/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$f$ is independent of $x$</p>\n</li>\n<li>\n<p>$f$ is independent of $y$</p>\n</li>\n<li>\n<p>$f$ is independent of $z$</p>\n</li>\n<li>\n<p>None of $x, y, z$ is redundant</p>\n</li>\n</ol>",
+      "question": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>",
+      "rawQuestionHtml": "<p>Consider the following circuit.     </p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"194\" src=\"/question-images/3490962689715104386.webp\" width=\"363\"/></p>\n<p>Which one of the following is TRUE?</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$f$ is independent of $x$</p>\n</li>\n<li>\n<p>$f$ is independent of $y$</p>\n</li>\n<li>\n<p>$f$ is independent of $z$</p>\n</li>\n<li>\n<p>None of $x, y, z$ is redundant</p>\n</li>\n</ol>",
       "options": [
         "$f$ is independent of $x$",
         "$f$ is independent of $y$",
@@ -3048,8 +3048,8 @@
       "subjectSlug": "discrete-math",
       "topic": "Graph Theory",
       "type": "MCQ",
-      "question": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/Gate_QA/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>",
-      "rawQuestionHtml": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/Gate_QA/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/Gate_QA/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/Gate_QA/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/Gate_QA/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>G1</li>\n<li>G2</li>\n<li>G3</li>\n<li>G4</li>\n</ol>",
+      "question": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>",
+      "rawQuestionHtml": "<p>Which one of the following graphs is NOT planar?</p>\n<p><img alt=\"\" height=\"234\" src=\"/question-images/18438339814217545146.webp\" style=\"float:left\" width=\"226\"/></p>\n<p><img alt=\"\" height=\"223\" src=\"/question-images/18286721738363924438.webp\" style=\"float:left\" width=\"145\"/></p>\n<p><img alt=\"\" height=\"206\" src=\"/question-images/9292558515068691803.webp\" style=\"float:left\" width=\"156\"/></p>\n<p><img alt=\"\" height=\"211\" src=\"/question-images/6358365421792615402.webp\" width=\"176\"/></p>\n<p> </p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>G1</li>\n<li>G2</li>\n<li>G3</li>\n<li>G4</li>\n</ol>",
       "options": [
         "G1",
         "G2",
@@ -3372,8 +3372,8 @@
       "subjectSlug": "toc",
       "topic": "Finite Automata & Regular Languages",
       "type": "MTA",
-      "question": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>",
-      "rawQuestionHtml": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/Gate_QA/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ contains the substring ‘$abb$’} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ does not contain ‘$aa$’ as a substring} \\right\\}$</p>\n</li>\n</ol>",
+      "question": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the machine $M$:</p>\n<p><img alt=\"\" height=\"184\" src=\"/question-images/3393258070599593767.webp\" width=\"447\"/></p>\n<p>The language recognized by $M$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>\n<p>$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ contains the substring ‘$abb$’} \\right\\}$</p>\n</li>\n<li>\n<p>$\\left\\{w \\in \\{a, b\\}^* \\text{ | $w$ does not contain ‘$aa$’ as a substring} \\right\\}$</p>\n</li>\n</ol>",
       "options": [
         "$\\left\\{ w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by exactly two $b$’s} \\right\\}$",
         "$\\left\\{w \\in \\{a, b\\}^* \\text{ | every a in $w$ is followed by at least two $b$’s} \\right\\}$",
@@ -4236,8 +4236,8 @@
       "subjectSlug": "coa",
       "topic": "Instruction Set Architecture & Addressing Modes",
       "type": "MCQ",
-      "question": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/8051408258367583932.webp\" width=\"770\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction $``\\text{add R0, R1}”$ has the register transfer interpretation $\\text{R0} \\Leftarrow \\text{R0 + R1}.$ The minimum number of clock cycles needed for execution cycle of this instruction is:</p>",
-      "rawQuestionHtml": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/8051408258367583932.webp\" width=\"770\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction $``\\text{add R0, R1}”$ has the register transfer interpretation $\\text{R0} \\Leftarrow \\text{R0 + R1}.$ The minimum number of clock cycles needed for execution cycle of this instruction is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
+      "question": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/question-images/8051408258367583932.webp\" width=\"770\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction $``\\text{add R0, R1}”$ has the register transfer interpretation $\\text{R0} \\Leftarrow \\text{R0 + R1}.$ The minimum number of clock cycles needed for execution cycle of this instruction is:</p>",
+      "rawQuestionHtml": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/question-images/8051408258367583932.webp\" width=\"770\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction $``\\text{add R0, R1}”$ has the register transfer interpretation $\\text{R0} \\Leftarrow \\text{R0 + R1}.$ The minimum number of clock cycles needed for execution cycle of this instruction is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -4290,8 +4290,8 @@
       "subjectSlug": "coa",
       "topic": "Instruction Set Architecture & Addressing Modes",
       "type": "MCQ",
-      "question": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/8098110218971958067.webp\" width=\"700\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction \"call Rn, sub” is a two word instruction. Assuming that $\\text{PC}$ is incremented during the fetch cycle of the first word of the instruction, its register transfer interpretation is</p>\n<p>$\\text{Rn} \\leftarrow \\text{PC} + 1$;</p>\n<p>$\\text{PC} \\leftarrow \\text{M[PC]}$;</p>\n<p>The minimum number of <strong>CPU </strong>clock cycles needed during the execution cycle of this instruction is:</p>",
-      "rawQuestionHtml": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/8098110218971958067.webp\" width=\"700\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction \"call Rn, sub” is a two word instruction. Assuming that $\\text{PC}$ is incremented during the fetch cycle of the first word of the instruction, its register transfer interpretation is</p>\n<p>$\\text{Rn} \\leftarrow \\text{PC} + 1$;</p>\n<p>$\\text{PC} \\leftarrow \\text{M[PC]}$;</p>\n<p>The minimum number of <strong>CPU </strong>clock cycles needed during the execution cycle of this instruction is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
+      "question": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/question-images/8098110218971958067.webp\" width=\"700\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction \"call Rn, sub” is a two word instruction. Assuming that $\\text{PC}$ is incremented during the fetch cycle of the first word of the instruction, its register transfer interpretation is</p>\n<p>$\\text{Rn} \\leftarrow \\text{PC} + 1$;</p>\n<p>$\\text{PC} \\leftarrow \\text{M[PC]}$;</p>\n<p>The minimum number of <strong>CPU </strong>clock cycles needed during the execution cycle of this instruction is:</p>",
+      "rawQuestionHtml": "<p>Consider the following data path of a $\\text{CPU}.$</p>\n<p><img alt=\"\" src=\"/question-images/8098110218971958067.webp\" width=\"700\"/></p>\n<p>The $\\text{ALU},$ the bus and all the registers in the data path are of identical size. All operations including incrementation of the $\\text{PC}$ and the $\\text{GPRs}$ are to be carried out in the $\\text{ALU}.$ Two clock cycles are needed for memory read operation – the first one for loading address in the $\\text{MAR}$ and the next one for loading data from the memory bus into the $\\text{MDR}.$</p>\n<p>The instruction \"call Rn, sub” is a two word instruction. Assuming that $\\text{PC}$ is incremented during the fetch cycle of the first word of the instruction, its register transfer interpretation is</p>\n<p>$\\text{Rn} \\leftarrow \\text{PC} + 1$;</p>\n<p>$\\text{PC} \\leftarrow \\text{M[PC]}$;</p>\n<p>The minimum number of <strong>CPU </strong>clock cycles needed during the execution cycle of this instruction is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$2$</li>\n<li>$3$</li>\n<li>$4$</li>\n<li>$5$</li>\n</ol>",
       "options": [
         "$2$",
         "$3$",
@@ -4776,8 +4776,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>",
-      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/Gate_QA/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{0D 24}$</li>\n<li>$\\text{0D 4D}$</li>\n<li>$\\text{4D 0D}$</li>\n<li>$\\text{4D 3D}$</li>\n</ol>",
+      "question": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>",
+      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p><img alt=\"\" src=\"/question-images/13477920771681972443.webp\" width=\"337\"/></p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<p>The decimal number $0.239 \\times 2^{13}$ has the following hexadecimal representation (without normalization and rounding off):</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$\\text{0D 24}$</li>\n<li>$\\text{0D 4D}$</li>\n<li>$\\text{4D 0D}$</li>\n<li>$\\text{4D 3D}$</li>\n</ol>",
       "options": [
         "$\\text{0D 24}$",
         "$\\text{0D 4D}$",
@@ -4830,8 +4830,8 @@
       "subjectSlug": "digital",
       "topic": "Boolean Algebra & Logic Minimization",
       "type": "MCQ",
-      "question": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/Gate_QA/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>",
-      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/Gate_QA/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0A\\;20$</li>\n<li>$11\\;34$</li>\n<li>$49\\;D0$</li>\n<li>$4A\\;E8$</li>\n</ol>",
+      "question": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>",
+      "rawQuestionHtml": "<p>Consider the following floating-point format.</p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"135\" src=\"/question-images/8570564411685475347.webp\" width=\"367\"/></p>\n<p> </p>\n<p>Mantissa is a pure fraction in sign-magnitude form.</p>\n<ol>\n</ol>\n<p>The normalized representation for the above format is specified as follows. The mantissa has an implicit $1$ preceding the binary (radix) point. Assume that only $0’s$ are padded in while shifting a field.</p>\n<p>The normalized representation of the above number $(0.239 \\times 2^{13})$ is:</p>\n<ol style=\"list-style-type:upper-alpha\">\n<li>$0A\\;20$</li>\n<li>$11\\;34$</li>\n<li>$49\\;D0$</li>\n<li>$4A\\;E8$</li>\n</ol>",
       "options": [
         "$0A\\;20$",
         "$11\\;34$",
