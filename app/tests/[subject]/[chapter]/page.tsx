@@ -47,7 +47,7 @@ export default async function ChapterTestsPage({ params }: PageProps) {
         <div className="mb-6 flex flex-wrap items-center gap-2 text-xs text-gray-500">
           <Link href="/" className="hover:text-white transition">Home</Link>
           <span>/</span>
-          <Link href="/tests" className="hover:text-white transition">GATE Subjects</Link>
+          <Link href="/tests" className="hover:text-white transition">Explore Hub</Link>
           <span>/</span>
           <Link href={`/tests/${subject}`} className="hover:text-white transition">{subjectInfo.name}</Link>
           <span>/</span>

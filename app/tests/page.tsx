@@ -1,9 +1,31 @@
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import SubjectCard from "@/components/SubjectCard";
-import subjectsData from "@/data/subjects.json";
 import BackButton from "@/components/BackButton";
+
+const exploreOptions = [
+  {
+    href: "/dsa",
+    icon: "💻",
+    title: "DSA Practice",
+    description: "Strengthen data structures and algorithms with topic-wise practice.",
+    accent: "cyan",
+  },
+  {
+    href: "/placement",
+    icon: "🎯",
+    title: "Placement Prep",
+    description: "Practice aptitude, reasoning, and verbal tests for placements.",
+    accent: "amber",
+  },
+  {
+    href: "/syllabus",
+    icon: "📘",
+    title: "GATE Syllabus",
+    description: "Browse the complete GATE CSE syllabus by subject.",
+    accent: "blue",
+  },
+] as const;
 
 export default function GatePrepPage() {
   return (
@@ -86,25 +108,34 @@ export default function GatePrepPage() {
           </Link>
         </div>
 
-        {/* Subject-Wise & Chapter-Wise Grid */}
         <div className="mb-12">
-          <div className="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-2">
-            <div>
-              <h2 className="text-2xl font-bold tracking-tight text-white">
-                GATE CS Core Subjects ({subjectsData.length})
-              </h2>
-              <p className="text-xs text-gray-400 mt-1">
-                Select any subject to explore its chapters, unit tests, and topic breakdowns.
-              </p>
-            </div>
-            <span className="text-xs text-blue-400 font-semibold bg-blue-500/10 border border-blue-500/20 px-3 py-1 rounded-full self-start md:self-auto">
-              100+ Topics Covered
-            </span>
-          </div>
-
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {subjectsData.map((subj) => (
-              <SubjectCard key={subj.id} {...subj} />
+          <h2 className="mb-6 text-2xl font-bold tracking-tight text-white">
+            Explore More
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-3">
+            {exploreOptions.map((option) => (
+              <Link
+                key={option.href}
+                href={option.href}
+                className={`group rounded-2xl border bg-white/[0.02] p-5 transition hover:bg-white/[0.04] ${
+                  option.accent === "cyan"
+                    ? "border-cyan-500/20 hover:border-cyan-500/40"
+                    : option.accent === "amber"
+                      ? "border-amber-500/20 hover:border-amber-500/40"
+                      : "border-blue-500/20 hover:border-blue-500/40"
+                }`}
+              >
+                <div className="mb-3 flex items-center justify-between">
+                  <span className="text-xl" aria-hidden="true">{option.icon}</span>
+                  <span className="text-sm text-gray-500 transition group-hover:translate-x-0.5">→</span>
+                </div>
+                <h3 className="font-bold text-white transition group-hover:text-blue-300">
+                  {option.title}
+                </h3>
+                <p className="mt-1 text-xs leading-relaxed text-gray-400">
+                  {option.description}
+                </p>
+              </Link>
             ))}
           </div>
         </div>

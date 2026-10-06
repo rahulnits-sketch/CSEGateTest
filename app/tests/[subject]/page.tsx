@@ -45,7 +45,7 @@ export default async function SubjectChaptersPage({ params }: PageProps) {
         <div className="mb-6 flex items-center gap-2 text-xs text-gray-500">
           <Link href="/" className="hover:text-white transition">Home</Link>
           <span>/</span>
-          <Link href="/tests" className="hover:text-white transition">GATE Subjects</Link>
+          <Link href="/tests" className="hover:text-white transition">Explore Hub</Link>
           <span>/</span>
           <span className="text-blue-400 font-medium">{subjectInfo.name}</span>
         </div>
@@ -107,7 +107,7 @@ export default async function SubjectChaptersPage({ params }: PageProps) {
               href="/tests"
               className="mt-4 inline-block text-xs font-semibold text-blue-400 hover:text-blue-300"
             >
-              ← Back to All Subjects
+              ← Back to Explore Hub
             </Link>
           </div>
         )}
