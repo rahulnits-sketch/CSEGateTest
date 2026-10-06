@@ -9,6 +9,16 @@ type PageProps = {
   params: Promise<{ subject: string }>;
 };
 
+type SubjectTopic = {
+  name: string;
+  questionCount: number;
+};
+
+type SubjectData = {
+  topics: SubjectTopic[];
+  totalQuestions: number;
+};
+
 export default async function SubjectDetailPage({ params }: PageProps) {
   const { subject } = await params;
   const subjectMeta = subjectsManifest.find((s) => s.id === subject);
@@ -18,16 +28,16 @@ export default async function SubjectDetailPage({ params }: PageProps) {
   }
 
   // Load subject file with topics and questions
-  let subjectData: any = null;
+  let subjectData: SubjectData;
   try {
     const mod = await import(`@/data/gate/subjects/${subject}.json`);
-    subjectData = mod.default;
+    subjectData = mod.default as SubjectData;
   } catch {
     notFound();
   }
 
-  const topics = subjectData?.topics || [];
-  const totalQuestions = subjectData?.totalQuestions || 0;
+  const topics = subjectData.topics;
+  const totalQuestions = subjectData.totalQuestions;
 
   return (
     <main className="min-h-screen bg-[#08090b] text-white flex flex-col justify-between selection:bg-blue-500 selection:text-white">
@@ -96,7 +106,7 @@ export default async function SubjectDetailPage({ params }: PageProps) {
           </div>
 
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {topics.map((t: { name: string; questionCount: number }, idx: number) => {
+            {topics.map((t, idx) => {
               const topicSlug = encodeURIComponent(t.name.toLowerCase().replace(/[^a-z0-9]+/g, "-"));
               return (
                 <div

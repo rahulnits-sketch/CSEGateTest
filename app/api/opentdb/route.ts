@@ -121,7 +121,7 @@ export async function GET(request: Request) {
         difficulty:
           item.difficulty.charAt(0).toUpperCase() + item.difficulty.slice(1),
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: `According to Open Trivia DB, the correct answer is "${decodedCorrect}".`,
       };
     });
@@ -167,7 +167,7 @@ export async function GET(request: Request) {
         topic: "Hardware",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "CPU stands for Central Processing Unit.",
       },
       {
@@ -181,7 +181,7 @@ export async function GET(request: Request) {
         topic: "Programming",
         difficulty: "Medium",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "The conditional (ternary) operator in C, Java, JS is defined with '?:'.",
       },
       {
@@ -195,7 +195,7 @@ export async function GET(request: Request) {
         topic: "Operating Systems",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Oracle is a database management system, not an OS.",
       },
       {
@@ -209,7 +209,7 @@ export async function GET(request: Request) {
         topic: "Networking",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "HTTP (Hypertext Transfer Protocol) is used for web communication.",
       },
       {
@@ -223,7 +223,7 @@ export async function GET(request: Request) {
         topic: "Data Structures",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "A Queue operates on FIFO basis.",
       },
       {
@@ -237,7 +237,7 @@ export async function GET(request: Request) {
         topic: "History",
         difficulty: "Medium",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Python was created by Guido van Rossum and released in 1991.",
       },
       {
@@ -251,7 +251,7 @@ export async function GET(request: Request) {
         topic: "Web Development",
         difficulty: "Medium",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Brendan Eich developed JavaScript while working at Netscape.",
       },
       {
@@ -265,7 +265,7 @@ export async function GET(request: Request) {
         topic: "Number Systems",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Hexadecimal digits A-F represent decimal 10-15. F is 15.",
       },
       {
@@ -279,7 +279,7 @@ export async function GET(request: Request) {
         topic: "Networking",
         difficulty: "Easy",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Standard HTTPS traffic operates on TCP port 443.",
       },
       {
@@ -293,7 +293,7 @@ export async function GET(request: Request) {
         topic: "Mobile OS",
         difficulty: "Medium",
         marks: 1,
-        negativeMarks: 0.33,
+        negativeMarks: 0,
         explanation: "Android Inc. was founded in Palo Alto in 2003 and acquired by Google in 2005.",
       },
     ];

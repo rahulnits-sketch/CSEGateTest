@@ -225,7 +225,7 @@ export default function ResultPage() {
 
               return (
                 <div
-                  key={q.id || idx}
+                  key={`${q.testId}-${q.id}-${idx}`}
                   className="rounded-2xl border border-white/10 bg-white/[0.02] p-6 transition hover:border-white/20"
                 >
                   {/* Top Badge Info */}

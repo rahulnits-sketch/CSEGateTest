@@ -19,9 +19,9 @@
         {
           "id": "placement-aptitude-01",
           "title": "Quantitative Aptitude — Foundation Test 01",
-          "duration": "15 min",
-          "questionsCount": 10,
-          "difficulty": "Medium",
+          "duration": "100 min",
+          "questionsCount": 100,
+          "difficulty": "Basic",
           "description": "Percentages, Profit & Loss, Time & Work, and Ratio proportions."
         }
       ]

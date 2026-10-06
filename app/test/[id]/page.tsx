@@ -26,6 +26,60 @@ export type Question = {
   link?: string;
 };
 
+function normalizeQuestionIds(questions: Question[]): Question[] {
+  const seen = new Set<string>();
+
+  return questions.map((question, index) => {
+    const originalId = String(question.id);
+    let uniqueId = originalId;
+
+    if (seen.has(uniqueId)) {
+      uniqueId = `${originalId}__${index}`;
+      while (seen.has(uniqueId)) {
+        uniqueId = `${uniqueId}_`;
+      }
+    }
+
+    seen.add(uniqueId);
+    return uniqueId === originalId ? question : { ...question, id: uniqueId };
+  });
+}
+
+function normalizeAnswerToken(value: string | number | null | undefined) {
+  return String(value ?? "").trim().replace(/\s+/g, " ").toUpperCase();
+}
+
+function buildOptionMap(question: Question) {
+  const entries = (question.structuredOptions && question.structuredOptions.length > 0
+    ? question.structuredOptions
+    : question.options.map((opt, index) => ({
+        label: String.fromCharCode(65 + index),
+        text: opt,
+        html: opt,
+      })))
+    .map((opt) => [normalizeAnswerToken(opt.label), String(opt.text ?? "")]);
+
+  return Object.fromEntries(entries);
+}
+
+function isSelectedAnswerCorrect(question: Question, selectedValue: string | string[] | null | undefined) {
+  if (selectedValue == null) return false;
+
+  const optionMap = buildOptionMap(question);
+  const values = Array.isArray(selectedValue) ? selectedValue : [selectedValue];
+
+  const normalizedSelected = values.map((value) => {
+    const token = normalizeAnswerToken(value);
+    return optionMap[token] ?? String(value ?? "");
+  });
+
+  return question.answer.some((candidate) => {
+    const normalizedCandidate = normalizeAnswerToken(candidate);
+    const resolvedCandidate = optionMap[normalizedCandidate] ?? String(candidate ?? "");
+    return normalizedSelected.some((selected) => normalizeAnswerToken(selected) === normalizeAnswerToken(resolvedCandidate));
+  });
+}
+
 export default function TestPage() {
   const router = useRouter();
   const params = useParams();
@@ -40,6 +94,7 @@ export default function TestPage() {
 
   // Dynamic test duration in seconds (default 30 mins, 180 mins for Full GATE Mocks/PYQ)
   const [totalDurationSeconds, setTotalDurationSeconds] = useState(30 * 60);
+  const [timeLeft, setTimeLeft] = useState(30 * 60);
 
   useEffect(() => {
     let isMounted = true;
@@ -160,7 +215,7 @@ export default function TestPage() {
   }, [testId]);
 
   const questions: Question[] = useMemo(() => {
-    return loadedQuestions || [];
+    return normalizeQuestionIds(loadedQuestions || []);
   }, [loadedQuestions]);
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -169,17 +224,9 @@ export default function TestPage() {
   const [answers, setAnswers] = useState<Record<string | number, string | string[]>>({});
   const [visited, setVisited] = useState<(string | number)[]>([]);
   const [marked, setMarked] = useState<(string | number)[]>([]);
-  const [timeLeft, setTimeLeft] = useState(30 * 60);
   const [showSubmit, setShowSubmit] = useState(false);
   const [showCalc, setShowCalc] = useState(false);
   const [calcInput, setCalcInput] = useState("");
-
-  // Initialize visited on first question load
-  useEffect(() => {
-    if (questions.length > 0 && visited.length === 0) {
-      setVisited([questions[0].id]);
-    }
-  }, [questions, visited.length]);
 
   const question = questions[currentQuestion] || questions[0];
 
@@ -224,23 +271,13 @@ export default function TestPage() {
       } else if (q.type === "MCQ") {
         if (typeof userAns === "string" && userAns.trim() !== "") {
           isAnswered = true;
-          const cleanUser = userAns.trim().toUpperCase();
-          // Check if answer matches option letter (e.g. "B") or text value
-          isCorrect = q.answer.some((ans) => {
-            const cleanAns = String(ans).trim().toUpperCase();
-            return cleanAns === cleanUser || ans === userAns;
-          });
+          isCorrect = isSelectedAnswerCorrect(q, userAns);
         }
       } else if (q.type === "MSQ") {
         const arr = Array.isArray(userAns) ? userAns : [];
         if (arr.length > 0) {
           isAnswered = true;
-          const userNorm = arr.map((a) => String(a).trim().toUpperCase()).sort();
-          const targetNorm = q.answer.map((a) => String(a).trim().toUpperCase()).sort();
-
-          isCorrect =
-            userNorm.length === targetNorm.length &&
-            userNorm.every((val, i) => val === targetNorm[i]);
+          isCorrect = isSelectedAnswerCorrect(q, arr);
         }
       } else if (q.type === "NAT") {
         if (typeof userAns === "string" && userAns.trim() !== "") {
@@ -770,7 +807,7 @@ export default function TestPage() {
                     ? (answers[q.id] as string[]).length > 0
                     : String(answers[q.id]).trim() !== "");
                 const isMarked = marked.includes(q.id);
-                const isVisited = visited.includes(q.id);
+                const isVisited = visited.includes(q.id) || isCurrent;
 
                 let bgClass = "bg-white/5 text-gray-400 border-white/10";
                 if (isCurrent) {

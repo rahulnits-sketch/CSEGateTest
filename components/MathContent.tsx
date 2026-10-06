@@ -8,6 +8,12 @@ interface MathContentProps {
   inline?: boolean;
 }
 
+type MathJaxWindow = Window & {
+  MathJax?: {
+    typesetPromise?: (elements: HTMLElement[]) => Promise<void>;
+  };
+};
+
 /**
  * Renders HTML question stems with LaTeX math formatting and image path resolution.
  */
@@ -37,11 +43,14 @@ export default function MathContent({ content, className = "", inline = false }:
   }, [content]);
 
   useEffect(() => {
-    if (!containerRef.current) return;
-    
-    // If window.MathJax is available, typeset this container
-    if (typeof window !== "undefined" && (window as any).MathJax && (window as any).MathJax.typesetPromise) {
-      (window as any).MathJax.typesetPromise([containerRef.current]).catch(() => {});
+    const container = containerRef.current;
+    if (!container) return;
+
+    const mathJax = (window as MathJaxWindow).MathJax;
+    if (mathJax?.typesetPromise) {
+      mathJax.typesetPromise([container]).catch((error: unknown) => {
+        console.error("MathJax typesetting failed", error);
+      });
     }
   }, [formattedHtml]);
 

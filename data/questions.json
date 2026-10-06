@@ -793,7 +793,7 @@
     "explanation": "EMAT = Hit_ratio * (TLB + Mem) + (1 - Hit_ratio) * (TLB + 2*Mem) = 0.9 * (10 + 100) + 0.1 * (10 + 200) = 0.9 * 110 + 0.1 * 210 = 99 + 21 = 120 ns."
   },
   {
-    "id": 41,
+    "id": 101,
     "testId": "placement-aptitude-01",
     "type": "MCQ",
     "question": "A can do a piece of work in 12 days and B can do it in 24 days. Working together, in how many days will they finish the work?",
@@ -814,7 +814,7 @@
     "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/24. (A+B) 1-day work = 1/12 + 1/24 = 3/24 = 1/8. Total days = 8."
   },
   {
-    "id": 42,
+    "id": 102,
     "testId": "placement-aptitude-01",
     "type": "MCQ",
     "question": "A train 150m long passes a pole in 15 seconds. What is the speed of the train in km/h?",
@@ -835,7 +835,7 @@
     "explanation": "Speed = Distance / Time = 150 / 15 = 10 m/s. In km/h: 10 * (18/5) = 36 km/h."
   },
   {
-    "id": 43,
+    "id": 103,
     "testId": "placement-aptitude-01",
     "type": "MCQ",
     "question": "If the cost price of 12 pens is equal to the selling price of 8 pens, find the gain percentage.",
@@ -856,7 +856,7 @@
     "explanation": "Let CP of 1 pen = 1. CP of 12 pens = 12 = SP of 8 pens. SP of 1 pen = 12/8 = 1.5. Profit = 0.5. Profit % = (0.5/1)*100 = 50%."
   },
   {
-    "id": 44,
+    "id": 104,
     "testId": "placement-aptitude-01",
     "type": "MCQ",
     "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose sum is greater than 9?",
@@ -1640,24 +1640,2103 @@
     "explanation": "The determinant of a matrix equals the product of its eigenvalues. Det(A) = 1 * 2 * 3 = 6."
   },
   {
-    "id": 125,
+    "id": 1,
     "testId": "placement-aptitude-01",
     "type": "MCQ",
-    "question": "If A can complete a work in 10 days and B can complete the same work in 15 days, working together how many days will they take to finish the work?",
+    "question": "A number is increased by 20% and then decreased by 10%. If the final result is 264, find the original number.",
     "options": [
-      "6 days",
-      "8 days",
-      "12 days",
-      "5 days"
+      "240",
+      "244.44",
+      "250",
+      "260"
     ],
     "answer": [
-      "6 days"
+      "244.44"
     ],
     "subject": "General Aptitude",
-    "topic": "Time & Work Problems",
+    "topic": "Percentages",
     "difficulty": "Easy",
     "marks": 1,
     "negativeMarks": 0.33,
-    "explanation": "Combined rate = 1/10 + 1/15 = 5/30 = 1/6. Total days = 6."
+    "explanation": "Let the original number be x. After a 20% increase it becomes 1.2x. After a 10% decrease it becomes 1.2x × 0.9 = 1.08x. Therefore, 1.08x = 264, so x = 264/1.08 = 244.44."
+  },
+  {
+    "id": 2,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 30% of a number is 45, what is 40% of that number?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer": [
+      "60"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let the number be x. Given 0.3x = 45, so x = 150. Therefore, 40% of 150 = 0.4 × 150 = 60."
+  },
+  {
+    "id": 3,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A salary of $5000 is increased by 15%. What is the new salary?",
+    "options": [
+      "$5500",
+      "$5650",
+      "$5750",
+      "$5800"
+    ],
+    "answer": [
+      "$5750"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Increase = 15% of 5000 = 750. New salary = 5000 + 750 = $5750."
+  },
+  {
+    "id": 4,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If a price is reduced by 25% and the new price is $150, what was the original price?",
+    "options": [
+      "$180",
+      "$190",
+      "$200",
+      "$220"
+    ],
+    "answer": [
+      "$200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "After a 25% reduction, the price is 75% of the original price. Thus, 0.75x = 150, giving x = $200."
+  },
+  {
+    "id": 5,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A number is decreased by 10% and then increased by 20%. If the final result is 264, find the original number.",
+    "options": [
+      "240",
+      "244.44",
+      "250",
+      "260"
+    ],
+    "answer": [
+      "244.44"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "After a 10% decrease the number becomes 0.9x. After a 20% increase it becomes 0.9x × 1.2 = 1.08x. Hence x = 264/1.08 = 244.44."
+  },
+  {
+    "id": 6,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 40% of a number exceeds 25% of it by 30, find the number.",
+    "options": [
+      "150",
+      "180",
+      "200",
+      "240"
+    ],
+    "answer": [
+      "200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let the number be x. Then 0.4x - 0.25x = 30, so 0.15x = 30 and x = 200."
+  },
+  {
+    "id": 7,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A shop offers a 20% discount on an item and still makes a 20% profit. If the cost price is $100, find the marked price.",
+    "options": [
+      "$120",
+      "$125",
+      "$150",
+      "$160"
+    ],
+    "answer": [
+      "$150"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Selling price at 20% profit = 100 × 1.2 = $120. With a 20% discount, 0.8 × marked price = 120. Therefore, marked price = $150."
+  },
+  {
+    "id": 8,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If a population increases by 10% annually, what is the population after 2 years if it is 1000 now?",
+    "options": [
+      "1100",
+      "1200",
+      "1210",
+      "1220"
+    ],
+    "answer": [
+      "1210"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "After one year, population = 1000 × 1.1 = 1100. After two years, population = 1100 × 1.1 = 1210."
+  },
+  {
+    "id": 9,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A number is increased by 25% and then decreased by 20%. If the result is 300, find the original number.",
+    "options": [
+      "280",
+      "300",
+      "320",
+      "360"
+    ],
+    "answer": [
+      "300"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "After a 25% increase the number becomes 1.25x. After a 20% decrease it becomes 1.25x × 0.8 = x. Therefore, the original number is 300."
+  },
+  {
+    "id": 10,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 15% of a number is 60, what is 75% of that number?",
+    "options": [
+      "250",
+      "275",
+      "300",
+      "325"
+    ],
+    "answer": [
+      "300"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "0.15x = 60 gives x = 400. Therefore, 75% of 400 = 300."
+  },
+  {
+    "id": 11,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A shopkeeper sells an item at a 10% profit. If the cost price is $200, what is the selling price?",
+    "options": [
+      "$210",
+      "$220",
+      "$230",
+      "$240"
+    ],
+    "answer": [
+      "$220"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Profit = 10% of $200 = $20. Selling price = $200 + $20 = $220."
+  },
+  {
+    "id": 12,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "An article is sold at a 15% loss. If the selling price is $170, find the cost price.",
+    "options": [
+      "$190",
+      "$195",
+      "$200",
+      "$210"
+    ],
+    "answer": [
+      "$200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Selling price is 85% of cost price. Thus, 0.85x = 170, giving x = $200."
+  },
+  {
+    "id": 13,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A man buys an item for $150 and sells it for $180. Find the profit percentage.",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": [
+      "20%"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Profit = 180 - 150 = $30. Profit percentage = (30/150) × 100 = 20%."
+  },
+  {
+    "id": 14,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If a book is sold for $120 at a 20% loss, what is the cost price?",
+    "options": [
+      "$140",
+      "$145",
+      "$150",
+      "$160"
+    ],
+    "answer": [
+      "$150"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Selling price is 80% of cost price. Therefore, 0.8x = 120, giving x = $150."
+  },
+  {
+    "id": 15,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A trader marks an item 25% above cost price and gives a 10% discount. If the cost price is $200, find the selling price.",
+    "options": [
+      "$215",
+      "$220",
+      "$225",
+      "$230"
+    ],
+    "answer": [
+      "$225"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Marked price = 200 × 1.25 = $250. After a 10% discount, selling price = 250 × 0.9 = $225."
+  },
+  {
+    "id": 16,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "An item is sold at a 5% profit. If the cost price is $400, what is the selling price?",
+    "options": [
+      "$410",
+      "$415",
+      "$420",
+      "$425"
+    ],
+    "answer": [
+      "$420"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Profit = 5% of $400 = $20. Selling price = $400 + $20 = $420."
+  },
+  {
+    "id": 17,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A shopkeeper sells a product at a 12% loss. If the cost price is $250, find the selling price.",
+    "options": [
+      "$210",
+      "$220",
+      "$225",
+      "$230"
+    ],
+    "answer": [
+      "$220"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Selling price = 250 × (1 - 0.12) = 250 × 0.88 = $220."
+  },
+  {
+    "id": 18,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If an article is bought for $300 and sold for $360, what is the profit percentage?",
+    "options": [
+      "15%",
+      "18%",
+      "20%",
+      "25%"
+    ],
+    "answer": [
+      "20%"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Profit = 360 - 300 = $60. Profit percentage = (60/300) × 100 = 20%."
+  },
+  {
+    "id": 19,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A vendor marks up an item by 40% and offers a 15% discount. If the cost price is $500, find the selling price.",
+    "options": [
+      "$575",
+      "$585",
+      "$595",
+      "$600"
+    ],
+    "answer": [
+      "$595"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Marked price = 500 × 1.4 = $700. After a 15% discount, selling price = 700 × 0.85 = $595."
+  },
+  {
+    "id": 20,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the selling price of an item is $180 and the loss is 10%, find the cost price.",
+    "options": [
+      "$190",
+      "$195",
+      "$200",
+      "$210"
+    ],
+    "answer": [
+      "$200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Selling price is 90% of cost price. Therefore, 0.9x = 180, giving x = $200."
+  },
+  {
+    "id": 21,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A can do a work in 12 days, and B can do it in 18 days. How long will they take together?",
+    "options": [
+      "6 days",
+      "7.2 days",
+      "8 days",
+      "9 days"
+    ],
+    "answer": [
+      "7.2 days"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "A's rate = 1/12 and B's rate = 1/18. Combined rate = 1/12 + 1/18 = 5/36. Therefore, time = 36/5 = 7.2 days."
+  },
+  {
+    "id": 22,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 6 workers complete a job in 8 days, how long will 4 workers take?",
+    "options": [
+      "10 days",
+      "12 days",
+      "14 days",
+      "16 days"
+    ],
+    "answer": [
+      "12 days"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total work = 6 × 8 = 48 worker-days. For 4 workers, time = 48/4 = 12 days."
+  },
+  {
+    "id": 23,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A can do a work in 15 days, and B in 20 days. If they work together for 5 days, what fraction of the work is left?",
+    "options": [
+      "1/4",
+      "1/3",
+      "5/12",
+      "7/12"
+    ],
+    "answer": [
+      "5/12"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Combined rate = 1/15 + 1/20 = 7/60. Work done in 5 days = 35/60 = 7/12. Work left = 1 - 7/12 = 5/12."
+  },
+  {
+    "id": 24,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 3 men can complete a task in 10 days, how many men are needed to complete it in 6 days?",
+    "options": [
+      "4 men",
+      "5 men",
+      "6 men",
+      "8 men"
+    ],
+    "answer": [
+      "5 men"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total work = 3 × 10 = 30 man-days. Number of men required for 6 days = 30/6 = 5."
+  },
+  {
+    "id": 25,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A can do a job in 10 days. After working for 4 days, B joins and they finish in 3 more days. How long does B take alone?",
+    "options": [
+      "8 days",
+      "10 days",
+      "12 days",
+      "15 days"
+    ],
+    "answer": [
+      "10 days"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "A completes 4/10 = 2/5 of the work in 4 days, leaving 3/5. In the next 3 days A completes 3/10, so B completes 3/10 in 3 days. Thus B's rate is 1/10 and B alone takes 10 days."
+  },
+  {
+    "id": 26,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 8 machines produce 160 units in 5 hours, how many units will 6 machines produce in 4 hours?",
+    "options": [
+      "80 units",
+      "96 units",
+      "100 units",
+      "120 units"
+    ],
+    "answer": [
+      "96 units"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Rate per machine per hour = 160/(8 × 5) = 4 units. Therefore, 6 machines in 4 hours produce 6 × 4 × 4 = 96 units."
+  },
+  {
+    "id": 27,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A and B together can do a work in 6 days. If A alone takes 10 days, how long does B take?",
+    "options": [
+      "12 days",
+      "15 days",
+      "18 days",
+      "20 days"
+    ],
+    "answer": [
+      "15 days"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "B's rate = 1/6 - 1/10 = 1/15. Therefore, B alone takes 15 days."
+  },
+  {
+    "id": 28,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 5 workers build a wall in 12 days, how long will 3 workers take?",
+    "options": [
+      "15 days",
+      "18 days",
+      "20 days",
+      "24 days"
+    ],
+    "answer": [
+      "20 days"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total work = 5 × 12 = 60 worker-days. For 3 workers, time = 60/3 = 20 days."
+  },
+  {
+    "id": 29,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A can do a work in 8 days, and B in 12 days. How much work is done in 3 days together?",
+    "options": [
+      "1/2",
+      "5/8",
+      "2/3",
+      "3/4"
+    ],
+    "answer": [
+      "5/8"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Combined rate = 1/8 + 1/12 = 5/24. In 3 days, work done = 15/24 = 5/8."
+  },
+  {
+    "id": 30,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 4 men can paint a house in 15 days, how many men are needed to paint it in 10 days?",
+    "options": [
+      "5 men",
+      "6 men",
+      "7 men",
+      "8 men"
+    ],
+    "answer": [
+      "6 men"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total work = 4 × 15 = 60 man-days. Men needed for 10 days = 60/10 = 6."
+  },
+  {
+    "id": 31,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A car travels 240 km in 4 hours. What is its speed in km/h?",
+    "options": [
+      "50 km/h",
+      "55 km/h",
+      "60 km/h",
+      "65 km/h"
+    ],
+    "answer": [
+      "60 km/h"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Speed = Distance/Time = 240/4 = 60 km/h."
+  },
+  {
+    "id": 32,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A train covers 300 km at 50 km/h. How long does it take?",
+    "options": [
+      "5 hours",
+      "6 hours",
+      "7 hours",
+      "8 hours"
+    ],
+    "answer": [
+      "6 hours"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Time = Distance/Speed = 300/50 = 6 hours."
+  },
+  {
+    "id": 33,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A cyclist travels at 20 km/h for 3 hours and then at 15 km/h for 2 hours. What is the total distance?",
+    "options": [
+      "80 km",
+      "90 km",
+      "100 km",
+      "110 km"
+    ],
+    "answer": [
+      "90 km"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "First distance = 20 × 3 = 60 km. Second distance = 15 × 2 = 30 km. Total distance = 90 km."
+  },
+  {
+    "id": 34,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Two cars start from the same point. One travels at 60 km/h and the other at 40 km/h in the same direction. What is their distance apart after 3 hours?",
+    "options": [
+      "40 km",
+      "50 km",
+      "60 km",
+      "70 km"
+    ],
+    "answer": [
+      "60 km"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Relative speed = 60 - 40 = 20 km/h. Distance apart after 3 hours = 20 × 3 = 60 km."
+  },
+  {
+    "id": 35,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A man walks at 5 km/h for 2 hours and then cycles at 15 km/h for 1 hour. What is his average speed?",
+    "options": [
+      "7.5 km/h",
+      "8.33 km/h",
+      "9 km/h",
+      "10 km/h"
+    ],
+    "answer": [
+      "8.33 km/h"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total distance = 5 × 2 + 15 × 1 = 25 km. Total time = 3 hours. Average speed = 25/3 ≈ 8.33 km/h."
+  },
+  {
+    "id": 36,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A train travels 180 km at 45 km/h. How long does it take?",
+    "options": [
+      "3 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "answer": [
+      "4 hours"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Time = 180/45 = 4 hours."
+  },
+  {
+    "id": 37,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A car covers a distance at 60 km/h and returns at 40 km/h. If the total time is 5 hours, find the one-way distance.",
+    "options": [
+      "100 km",
+      "120 km",
+      "140 km",
+      "150 km"
+    ],
+    "answer": [
+      "120 km"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let the one-way distance be d. Then d/60 + d/40 = 5. This gives 5d/120 = 5, so d = 120 km."
+  },
+  {
+    "id": 38,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A person travels 100 km at 25 km/h and another 100 km at 50 km/h. What is the average speed?",
+    "options": [
+      "30 km/h",
+      "33.33 km/h",
+      "35 km/h",
+      "37.5 km/h"
+    ],
+    "answer": [
+      "33.33 km/h"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Time for the first 100 km = 4 hours and for the second 100 km = 2 hours. Total distance = 200 km and total time = 6 hours. Average speed = 200/6 = 33.33 km/h."
+  },
+  {
+    "id": 39,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A bus travels at 50 km/h for 2 hours and then at 60 km/h for 3 hours. What is the total distance?",
+    "options": [
+      "260 km",
+      "270 km",
+      "280 km",
+      "290 km"
+    ],
+    "answer": [
+      "280 km"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "First distance = 50 × 2 = 100 km. Second distance = 60 × 3 = 180 km. Total distance = 280 km."
+  },
+  {
+    "id": 40,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Two trains approach each other at 60 km/h and 40 km/h. If they are 200 km apart, when will they meet?",
+    "options": [
+      "1 hour",
+      "2 hours",
+      "2.5 hours",
+      "3 hours"
+    ],
+    "answer": [
+      "2 hours"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Time and Distance",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Relative speed = 60 + 40 = 100 km/h. Time = 200/100 = 2 hours."
+  },
+  {
+    "id": 41,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the ratio of two numbers is 3:5 and their sum is 80, find the numbers.",
+    "options": [
+      "20 and 60",
+      "25 and 55",
+      "30 and 50",
+      "35 and 45"
+    ],
+    "answer": [
+      "30 and 50"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let the numbers be 3x and 5x. Then 8x = 80, so x = 10. The numbers are 30 and 50."
+  },
+  {
+    "id": 42,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Divide $180 in the ratio 2:3:5.",
+    "options": [
+      "$30, $60, $90",
+      "$36, $54, $90",
+      "$40, $50, $90",
+      "$45, $55, $80"
+    ],
+    "answer": [
+      "$36, $54, $90"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total parts = 2 + 3 + 5 = 10. Shares are 2/10 × 180 = 36, 3/10 × 180 = 54, and 5/10 × 180 = 90."
+  },
+  {
+    "id": 43,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If A:B = 4:5 and B:C = 3:2, find A:C.",
+    "options": [
+      "4:3",
+      "5:4",
+      "6:5",
+      "8:5"
+    ],
+    "answer": [
+      "6:5"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Make B common: A:B = 12:15 and B:C = 15:10. Thus A:C = 12:10 = 6:5."
+  },
+  {
+    "id": 44,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 2:3 :: x:18, find x.",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": [
+      "12"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Using 2/3 = x/18, x = (2 × 18)/3 = 12."
+  },
+  {
+    "id": 45,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The ratio of two quantities is 5:7. If the larger quantity is 28, find the smaller quantity.",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "answer": [
+      "20"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "7x = 28, so x = 4. Smaller quantity = 5 × 4 = 20."
+  },
+  {
+    "id": 46,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Divide 240 in the ratio 3:4:5.",
+    "options": [
+      "50, 80, 110",
+      "60, 80, 100",
+      "60, 90, 90",
+      "70, 80, 90"
+    ],
+    "answer": [
+      "60, 80, 100"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total parts = 12. The shares are 3/12 × 240 = 60, 4/12 × 240 = 80, and 5/12 × 240 = 100."
+  },
+  {
+    "id": 47,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If A:B = 2:3 and B:C = 5:4, find A:B:C.",
+    "options": [
+      "8:12:9",
+      "10:15:12",
+      "12:15:10",
+      "15:10:12"
+    ],
+    "answer": [
+      "10:15:12"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Make B common. A:B = 10:15 and B:C = 15:12. Hence A:B:C = 10:15:12."
+  },
+  {
+    "id": 48,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the ratio of two numbers is 7:9 and their difference is 8, find the numbers.",
+    "options": [
+      "21 and 29",
+      "24 and 32",
+      "28 and 36",
+      "30 and 38"
+    ],
+    "answer": [
+      "28 and 36"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let the numbers be 7x and 9x. Their difference is 2x = 8, so x = 4. Therefore, the numbers are 28 and 36."
+  },
+  {
+    "id": 49,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If 5:8 :: 20:x, find x.",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "35"
+    ],
+    "answer": [
+      "32"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Using 5/8 = 20/x, x = (8 × 20)/5 = 32."
+  },
+  {
+    "id": 50,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The ratio of incomes of A and B is 3:4, and their expenditures are in the ratio 4:5. If A saves $100 and B saves $200, find their incomes.",
+    "options": [
+      "$600 and $800",
+      "$750 and $1000",
+      "$900 and $1200",
+      "$1000 and $1400"
+    ],
+    "answer": [
+      "$900 and $1200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Let incomes be 3x and 4x and expenditures be 4y and 5y. From 3x - 4y = 100 and 4x - 5y = 200, solving gives x = 300. Hence incomes are $900 and $1200."
+  },
+  {
+    "id": 51,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 5 numbers is 40. If one number is 50, what is the average of the remaining 4?",
+    "options": [
+      "35",
+      "37.5",
+      "40",
+      "42.5"
+    ],
+    "answer": [
+      "37.5"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total sum = 5 × 40 = 200. Remaining sum = 200 - 50 = 150. Average of remaining four = 150/4 = 37.5."
+  },
+  {
+    "id": 52,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average weight of 6 people is 60 kg. If one person weighing 70 kg leaves, what is the new average?",
+    "options": [
+      "56 kg",
+      "58 kg",
+      "59 kg",
+      "60 kg"
+    ],
+    "answer": [
+      "58 kg"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total weight = 6 × 60 = 360 kg. After removing 70 kg, total = 290 kg. New average = 290/5 = 58 kg."
+  },
+  {
+    "id": 53,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 7 numbers is 35. If two numbers are 40 and 45, find the average of the remaining 5.",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "answer": [
+      "32"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total sum = 7 × 35 = 245. Remaining sum = 245 - 40 - 45 = 160. Average = 160/5 = 32."
+  },
+  {
+    "id": 54,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 4 numbers is 25. If three numbers are 20, 30, and 25, find the fourth number.",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": [
+      "25"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total sum = 4 × 25 = 100. Sum of three numbers = 75. Fourth number = 100 - 75 = 25."
+  },
+  {
+    "id": 55,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average score of a class of 10 students is 80. If one student scores 90, what is the average of the others?",
+    "options": [
+      "77.5",
+      "78.89",
+      "79.5",
+      "80"
+    ],
+    "answer": [
+      "78.89"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total score = 10 × 80 = 800. Remaining score = 800 - 90 = 710. Average of 9 students = 710/9 ≈ 78.89."
+  },
+  {
+    "id": 56,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 8 numbers is 50. If one number is removed, the average becomes 48. Find the removed number.",
+    "options": [
+      "60",
+      "62",
+      "64",
+      "66"
+    ],
+    "answer": [
+      "64"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Original sum = 8 × 50 = 400. New sum = 7 × 48 = 336. Removed number = 400 - 336 = 64."
+  },
+  {
+    "id": 57,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 5 numbers is 30. If a new number is added and the average becomes 32, find the new number.",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "answer": [
+      "42"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Original sum = 5 × 30 = 150. New sum = 6 × 32 = 192. New number = 192 - 150 = 42."
+  },
+  {
+    "id": 58,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 6 numbers is 45. If two numbers are 50 and 60, find the average of the remaining 4.",
+    "options": [
+      "35",
+      "40",
+      "42",
+      "45"
+    ],
+    "answer": [
+      "40"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total sum = 6 × 45 = 270. Remaining sum = 270 - 110 = 160. Average = 160/4 = 40."
+  },
+  {
+    "id": 59,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 9 numbers is 36. If one number is 54, what is the average of the remaining 8?",
+    "options": [
+      "32.5",
+      "33.75",
+      "34.5",
+      "35"
+    ],
+    "answer": [
+      "33.75"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total sum = 9 × 36 = 324. Remaining sum = 324 - 54 = 270. Average = 270/8 = 33.75."
+  },
+  {
+    "id": 60,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "The average of 3 numbers is 20. If a fourth number is added and the average becomes 22, find the fourth number.",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": [
+      "28"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Averages",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Original sum = 3 × 20 = 60. New sum = 4 × 22 = 88. Fourth number = 88 - 60 = 28."
+  },
+  {
+    "id": 61,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the simple interest on $2000 at 6% per annum for 3 years.",
+    "options": [
+      "$300",
+      "$320",
+      "$360",
+      "$400"
+    ],
+    "answer": [
+      "$360"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Simple Interest = (P × R × T)/100 = (2000 × 6 × 3)/100 = $360."
+  },
+  {
+    "id": 62,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the simple interest on a sum is $450 at 5% for 3 years, find the principal.",
+    "options": [
+      "$2500",
+      "$3000",
+      "$3500",
+      "$4000"
+    ],
+    "answer": [
+      "$3000"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "450 = (P × 5 × 3)/100. Therefore, P = $3000."
+  },
+  {
+    "id": 63,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the compound interest on $1000 at 10% per annum for 2 years, compounded annually.",
+    "options": [
+      "$200",
+      "$205",
+      "$210",
+      "$220"
+    ],
+    "answer": [
+      "$210"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Amount = 1000 × (1.1)^2 = $1210. Compound interest = 1210 - 1000 = $210."
+  },
+  {
+    "id": 64,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the simple interest on $500 is $75 for 3 years, find the rate.",
+    "options": [
+      "4%",
+      "5%",
+      "6%",
+      "7%"
+    ],
+    "answer": [
+      "5%"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "75 = (500 × R × 3)/100. Therefore, R = 5%."
+  },
+  {
+    "id": 65,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the simple interest on $3000 at 4% for 5 years.",
+    "options": [
+      "$500",
+      "$550",
+      "$600",
+      "$650"
+    ],
+    "answer": [
+      "$600"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "SI = (3000 × 4 × 5)/100 = $600."
+  },
+  {
+    "id": 66,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the compound interest on $2000 is $410 for 2 years, compounded annually, find the approximate rate of interest.",
+    "options": [
+      "8.5%",
+      "9%",
+      "9.8%",
+      "10.5%"
+    ],
+    "answer": [
+      "9.8%"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Medium",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Amount = $2410. Thus 2410 = 2000(1 + R/100)^2. Therefore (1 + R/100) = √1.205 ≈ 1.098, giving R ≈ 9.8%."
+  },
+  {
+    "id": 67,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the simple interest on $1500 at 8% for 2 years.",
+    "options": [
+      "$200",
+      "$220",
+      "$240",
+      "$260"
+    ],
+    "answer": [
+      "$240"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "SI = (1500 × 8 × 2)/100 = $240."
+  },
+  {
+    "id": 68,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the simple interest is $200 for 4 years at 5%, find the principal.",
+    "options": [
+      "$800",
+      "$900",
+      "$1000",
+      "$1200"
+    ],
+    "answer": [
+      "$1000"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "200 = (P × 5 × 4)/100. Therefore, P = $1000."
+  },
+  {
+    "id": 69,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the compound interest on $5000 at 5% for 2 years, compounded annually.",
+    "options": [
+      "$500",
+      "$512.50",
+      "$525",
+      "$550"
+    ],
+    "answer": [
+      "$512.50"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Amount = 5000 × (1.05)^2 = $5512.50. Compound interest = $5512.50 - $5000 = $512.50."
+  },
+  {
+    "id": 70,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If the simple interest on a sum is $360 at 6% for 5 years, find the principal.",
+    "options": [
+      "$1000",
+      "$1100",
+      "$1200",
+      "$1500"
+    ],
+    "answer": [
+      "$1200"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Simple and Compound Interest",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "360 = (P × 6 × 5)/100. Therefore, P = $1200."
+  },
+  {
+    "id": 71,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the LCM of 12 and 18.",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "answer": [
+      "36"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "12 = 2² × 3 and 18 = 2 × 3². Therefore, LCM = 2² × 3² = 36."
+  },
+  {
+    "id": 72,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the HCF of 24 and 36.",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "answer": [
+      "12"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "24 = 2³ × 3 and 36 = 2² × 3². The common factors give HCF = 2² × 3 = 12."
+  },
+  {
+    "id": 73,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "What is the sum of the first 10 odd numbers?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": [
+      "100"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The sum of the first n odd numbers is n². For n = 10, the sum is 10² = 100."
+  },
+  {
+    "id": 74,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If a number is divisible by 4 and 6, is it necessarily divisible by 24?",
+    "options": [
+      "Yes, always",
+      "No, not necessarily",
+      "Only if it is odd",
+      "Only if it is prime"
+    ],
+    "answer": [
+      "No, not necessarily"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "A number divisible by both 4 and 6 must be divisible by their LCM, 12. It need not be divisible by 24."
+  },
+  {
+    "id": 75,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the square root of 625.",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": [
+      "25"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Since 25 × 25 = 625, the square root of 625 is 25."
+  },
+  {
+    "id": 76,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "What is the product of the first 5 even numbers?",
+    "options": [
+      "1920",
+      "2880",
+      "3840",
+      "4800"
+    ],
+    "answer": [
+      "3840"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The first five even numbers are 2, 4, 6, 8, and 10. Their product is 2 × 4 × 6 × 8 × 10 = 3840."
+  },
+  {
+    "id": 77,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the cube root of 216.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": [
+      "6"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Since 6³ = 216, the cube root of 216 is 6."
+  },
+  {
+    "id": 78,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "If a number is divided by 15, the quotient is 7 and the remainder is 3. Find the number.",
+    "options": [
+      "98",
+      "103",
+      "108",
+      "113"
+    ],
+    "answer": [
+      "108"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Number = Divisor × Quotient + Remainder = 15 × 7 + 3 = 108."
+  },
+  {
+    "id": 79,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Find the LCM of 15 and 20.",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "80"
+    ],
+    "answer": [
+      "60"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "15 = 3 × 5 and 20 = 2² × 5. Therefore, LCM = 2² × 3 × 5 = 60."
+  },
+  {
+    "id": 80,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "What is the HCF of 18 and 27?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "answer": [
+      "9"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Number Systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "18 = 2 × 3² and 27 = 3³. Therefore, HCF = 3² = 9."
+  },
+  {
+    "id": 81,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "In how many ways can 4 books be arranged on a shelf?",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "32"
+    ],
+    "answer": [
+      "24"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Four distinct books can be arranged in 4! = 4 × 3 × 2 × 1 = 24 ways."
+  },
+  {
+    "id": 82,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "How many 3-digit numbers can be formed using 1, 2, and 3 without repetition?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": [
+      "6"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The three digits can be arranged in 3! = 6 ways."
+  },
+  {
+    "id": 83,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "In how many ways can 3 people be seated in 5 chairs?",
+    "options": [
+      "30",
+      "40",
+      "60",
+      "75"
+    ],
+    "answer": [
+      "60"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of arrangements is P(5,3) = 5 × 4 × 3 = 60."
+  },
+  {
+    "id": 84,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "How many ways can 2 items be chosen from 5?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "answer": [
+      "10"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of selections is C(5,2) = 5!/(2!3!) = 10."
+  },
+  {
+    "id": 85,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "In how many ways can 3 letters be selected from A, B, C, and D?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": [
+      "4"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of selections is C(4,3) = 4."
+  },
+  {
+    "id": 86,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "How many ways can 5 people be arranged in a circle?",
+    "options": [
+      "20",
+      "24",
+      "60",
+      "120"
+    ],
+    "answer": [
+      "24"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "For circular arrangements of n distinct people, the number of ways is (n - 1)!. Thus, (5 - 1)! = 24."
+  },
+  {
+    "id": 87,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "In how many ways can 2 books be selected from 6 different books?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "answer": [
+      "15"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of selections is C(6,2) = 6!/(2!4!) = 15."
+  },
+  {
+    "id": 88,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "How many 4-digit numbers can be formed using 1, 2, 3, and 4 without repetition?",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "32"
+    ],
+    "answer": [
+      "24"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The four digits can be arranged in 4! = 24 ways."
+  },
+  {
+    "id": 89,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "In how many ways can 3 students be chosen from 7 for a team?",
+    "options": [
+      "21",
+      "28",
+      "35",
+      "42"
+    ],
+    "answer": [
+      "35"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of selections is C(7,3) = 7!/(3!4!) = 35."
+  },
+  {
+    "id": 90,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "How many ways can 4 people be seated in 6 chairs?",
+    "options": [
+      "120",
+      "240",
+      "360",
+      "480"
+    ],
+    "answer": [
+      "360"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "The number of arrangements is P(6,4) = 6 × 5 × 4 × 3 = 360."
+  },
+  {
+    "id": 91,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A die is rolled. What is the probability of getting an even number?",
+    "options": [
+      "1/3",
+      "1/2",
+      "2/3",
+      "5/6"
+    ],
+    "answer": [
+      "1/2"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 3 even outcomes, 2, 4, and 6, out of 6 total outcomes. Probability = 3/6 = 1/2."
+  },
+  {
+    "id": 92,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A card is drawn from a deck of 52 cards. What is the probability of getting a heart?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/13"
+    ],
+    "answer": [
+      "1/4"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 13 hearts in a standard deck of 52 cards. Probability = 13/52 = 1/4."
+  },
+  {
+    "id": 93,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Two coins are tossed. What is the probability of getting at least one head?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "answer": [
+      "3/4"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Possible outcomes are HH, HT, TH, and TT. Three outcomes contain at least one head. Therefore, probability = 3/4."
+  },
+  {
+    "id": 94,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A bag contains 4 red and 6 blue balls. What is the probability of drawing a red ball?",
+    "options": [
+      "1/5",
+      "2/5",
+      "1/2",
+      "3/5"
+    ],
+    "answer": [
+      "2/5"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total balls = 4 + 6 = 10. Probability of drawing a red ball = 4/10 = 2/5."
+  },
+  {
+    "id": 95,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A die is rolled twice. What is the probability of getting a sum of 7?",
+    "options": [
+      "1/12",
+      "1/6",
+      "1/5",
+      "1/4"
+    ],
+    "answer": [
+      "1/6"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 36 total outcomes. Six outcomes give a sum of 7: (1,6), (2,5), (3,4), (4,3), (5,2), and (6,1). Probability = 6/36 = 1/6."
+  },
+  {
+    "id": 96,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A card is drawn from a deck. What is the probability of getting a king or queen?",
+    "options": [
+      "1/13",
+      "2/13",
+      "3/13",
+      "4/13"
+    ],
+    "answer": [
+      "2/13"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 4 kings and 4 queens, giving 8 favorable cards out of 52. Probability = 8/52 = 2/13."
+  },
+  {
+    "id": 97,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A bag has 3 white and 5 black balls. What is the probability of drawing a white ball?",
+    "options": [
+      "1/4",
+      "3/8",
+      "1/2",
+      "5/8"
+    ],
+    "answer": [
+      "3/8"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total balls = 3 + 5 = 8. Probability of drawing a white ball = 3/8."
+  },
+  {
+    "id": 98,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "Two dice are rolled. What is the probability of getting a double?",
+    "options": [
+      "1/12",
+      "1/6",
+      "1/4",
+      "1/3"
+    ],
+    "answer": [
+      "1/6"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 36 total outcomes and 6 doubles: (1,1), (2,2), (3,3), (4,4), (5,5), and (6,6). Probability = 6/36 = 1/6."
+  },
+  {
+    "id": 99,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A coin is tossed 3 times. What is the probability of getting exactly 2 heads?",
+    "options": [
+      "1/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "answer": [
+      "3/8"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "There are 2³ = 8 total outcomes. Exactly two heads occur in HHT, HTH, and THH, giving 3 favorable outcomes. Probability = 3/8."
+  },
+  {
+    "id": 100,
+    "testId": "placement-aptitude-01",
+    "type": "MCQ",
+    "question": "A box contains 5 green and 3 yellow balls. What is the probability of drawing a yellow ball?",
+    "options": [
+      "1/4",
+      "3/8",
+      "1/2",
+      "5/8"
+    ],
+    "answer": [
+      "3/8"
+    ],
+    "subject": "General Aptitude",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "explanation": "Total balls = 5 + 3 = 8. Probability of drawing a yellow ball = 3/8."
   }
 ]

@@ -7,8 +7,10 @@ import Footer from "@/components/Footer";
 import BackButton from "@/components/BackButton";
 import mockPresets from "@/data/gate/mock/mocks.json";
 
+type MockCategory = "all" | "full" | "subject" | "random";
+
 export default function GateMockPage() {
-  const [selectedCategory, setSelectedCategory] = useState<"all" | "full" | "subject" | "random">("all");
+  const [selectedCategory, setSelectedCategory] = useState<MockCategory>("all");
 
   const fullMocks = useMemo(() => {
     return mockPresets.filter((m) => m.type === "Full Mock");
@@ -73,15 +75,15 @@ export default function GateMockPage() {
 
         {/* Category Tabs */}
         <div className="mb-8 flex flex-wrap gap-2">
-          {[
+          {([
             { id: "all", label: `All Mock Tests (${mockPresets.length})` },
             { id: "full", label: `Full GATE Mocks (${fullMocks.length})` },
             { id: "subject", label: `Subject Mocks (${subjectMocks.length})` },
             { id: "random", label: `Random PYQ Tests (${randomMocks.length})` },
-          ].map((tab) => (
+          ] satisfies { id: MockCategory; label: string }[]).map((tab) => (
             <button
               key={tab.id}
-              onClick={() => setSelectedCategory(tab.id as any)}
+              onClick={() => setSelectedCategory(tab.id)}
               className={`rounded-xl px-4 py-2 text-xs font-bold transition ${
                 selectedCategory === tab.id
                   ? "bg-blue-600 text-white shadow-md shadow-blue-600/30"
