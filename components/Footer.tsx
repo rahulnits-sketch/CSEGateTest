@@ -22,7 +22,7 @@ export default function Footer() {
             <Check className="h-4 w-4" strokeWidth={3} aria-hidden="true" />
           </span>
           <span>
-            CheckMate <span className="text-blue-500">GATE</span>
+            CheckMate <span className="text-blue-500">College</span>
           </span>
         </Link>
 

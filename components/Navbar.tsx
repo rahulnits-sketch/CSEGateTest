@@ -30,16 +30,16 @@ export default function Navbar() {
             <Check className="h-5 w-5" strokeWidth={3} aria-hidden="true" />
           </span>
           <span>
-            CheckMate <span className="text-blue-500">GATE</span>
+            CheckMate <span className="text-blue-500">College</span>
           </span>
         </Link>
 
-        <div className="hidden items-center gap-6 text-xs font-semibold uppercase tracking-wider text-gray-400 md:flex">
+        <div className="hidden items-center gap-5 text-sm font-medium text-gray-300 lg:gap-7 md:flex">
           {navigationLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className="transition-colors hover:text-white"
+              className="rounded-sm transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300"
             >
               {link.label}
             </Link>
