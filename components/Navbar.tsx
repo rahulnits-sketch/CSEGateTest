@@ -1,49 +1,97 @@
+"use client";
+
 import Link from "next/link";
+import { useState } from "react";
+import { Check, Menu, X } from "lucide-react";
+
+const navigationLinks = [
+  { href: "/gate", label: "GATE Hub" },
+  { href: "/dsa", label: "DSA" },
+  { href: "/placement", label: "Placement" },
+  { href: "/general", label: "Quiz" },
+  { href: "/syllabus", label: "Syllabus" },
+];
 
 export default function Navbar() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <header className="sticky top-0 z-50 border-b border-white/10 bg-[#08090b]/90 backdrop-blur-md">
-      <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6">
-        <Link href="/" className="flex items-center gap-2.5 text-xl font-bold tracking-tight text-white">
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 text-base shadow-lg shadow-blue-500/30">
-            ♟️
+      <nav
+        aria-label="Main navigation"
+        className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-6"
+      >
+        <Link
+          href="/"
+          className="flex shrink-0 items-center gap-2.5 whitespace-nowrap text-base font-bold tracking-tight text-white md:text-xl"
+          onClick={() => setMenuOpen(false)}
+        >
+          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 text-white shadow-lg shadow-blue-500/20">
+            <Check className="h-5 w-5" strokeWidth={3} aria-hidden="true" />
           </span>
           <span>
             CheckMate <span className="text-blue-500">GATE</span>
           </span>
         </Link>
 
-        {/* Clean Categorized Navigation */}
-        <div className="hidden items-center gap-5 text-xs font-semibold text-gray-400 md:flex uppercase tracking-wider">
-          <Link href="/gate" className="transition hover:text-white text-blue-400">
-            GATE Hub
-          </Link>
-          <span className="text-white/20">|</span>
-          <Link href="/dsa" className="transition hover:text-white">
-            DSA
-          </Link>
-          <Link href="/placement" className="transition hover:text-white">
-            Placement
-          </Link>
-          <Link href="/general" className="flex items-center gap-1.5 transition hover:text-white">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            Quiz
-          </Link>
-          <Link href="/syllabus" className="transition hover:text-white">
-            Syllabus
-          </Link>
+        <div className="hidden items-center gap-6 text-xs font-semibold uppercase tracking-wider text-gray-400 md:flex">
+          {navigationLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className="transition-colors hover:text-white"
+            >
+              {link.label}
+            </Link>
+          ))}
         </div>
 
-        {/* Explore Button */}
-        <div>
+        <div className="flex items-center gap-2">
           <Link
             href="/tests"
-            className="rounded-full bg-white px-5 py-2 text-xs font-bold text-black transition hover:bg-gray-200 shadow-sm"
+            className="rounded-full bg-blue-600 px-4 py-2.5 text-xs font-bold text-white shadow-sm transition hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300 md:px-5"
           >
             Explore
           </Link>
+          <button
+            type="button"
+            aria-label={menuOpen ? "Close navigation menu" : "Open navigation menu"}
+            aria-expanded={menuOpen}
+            aria-controls="mobile-navigation"
+            onClick={() => setMenuOpen((open) => !open)}
+            className="flex h-9 w-9 items-center justify-center rounded-lg border border-white/10 text-gray-300 transition hover:bg-white/5 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400 md:hidden"
+          >
+            {menuOpen ? (
+              <X className="h-5 w-5" aria-hidden="true" />
+            ) : (
+              <Menu className="h-5 w-5" aria-hidden="true" />
+            )}
+          </button>
         </div>
       </nav>
+
+      {menuOpen && (
+        <div
+          id="mobile-navigation"
+          className="border-t border-white/10 bg-[#08090b] px-6 py-3 md:hidden"
+        >
+          <nav
+            aria-label="Mobile navigation"
+            className="mx-auto grid max-w-7xl gap-1"
+          >
+            {navigationLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                onClick={() => setMenuOpen(false)}
+                className="rounded-lg px-3 py-3 text-sm font-medium text-gray-300 transition hover:bg-white/5 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400"
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
+        </div>
+      )}
     </header>
   );
 }
