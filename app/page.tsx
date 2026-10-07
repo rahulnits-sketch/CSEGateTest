@@ -70,22 +70,22 @@ export default function Home() {
 
           <Link
             href="/dsa"
-            className="group relative flex min-h-64 flex-col justify-between overflow-hidden rounded-3xl border border-white/[0.09] bg-gradient-to-br from-white/[0.045] to-white/[0.015] p-7 shadow-[0_16px_50px_rgba(0,0,0,0.18)] transition duration-300 hover:-translate-y-1 hover:border-blue-300/30 hover:from-blue-400/[0.08] hover:to-white/[0.02] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300"
+            className="group relative flex min-h-64 flex-col justify-between overflow-hidden rounded-3xl border border-purple-400/20 bg-gradient-to-br from-purple-400/[0.07] via-white/[0.025] to-white/[0.015] p-7 shadow-[0_16px_50px_rgba(0,0,0,0.2)] transition duration-300 hover:-translate-y-1 hover:border-purple-300/45 hover:from-purple-400/[0.12] hover:to-purple-400/[0.03] hover:shadow-[0_20px_60px_rgba(168,85,247,0.12)] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-purple-300"
           >
-            <div className="pointer-events-none absolute -bottom-12 -right-8 h-40 w-40 rounded-full bg-blue-500/[0.06] blur-3xl transition group-hover:bg-blue-500/10" />
+            <div className="pointer-events-none absolute -bottom-16 -right-10 h-48 w-48 rounded-full bg-purple-500/[0.12] blur-3xl transition duration-300 group-hover:bg-purple-400/20" />
             <div className="relative">
-              <span className="flex h-12 w-12 items-center justify-center rounded-xl border border-blue-400/20 bg-blue-400/10 text-blue-300">
+              <span className="flex h-14 w-14 items-center justify-center rounded-2xl border border-purple-300/30 bg-purple-400/15 text-purple-200 shadow-[0_8px_24px_rgba(168,85,247,0.12)] transition duration-300 group-hover:border-purple-200/50 group-hover:bg-purple-400/20">
                 <Code2 className="h-6 w-6" aria-hidden="true" />
               </span>
-              <h3 className="mt-5 flex items-center gap-3 text-2xl font-bold text-white">
+              <h3 className="mt-6 flex items-center gap-3 text-2xl font-bold text-white sm:text-[1.7rem]">
                 DSA
-                <ArrowRight className="h-5 w-5 text-blue-300 transition group-hover:translate-x-1" aria-hidden="true" />
+                <ArrowRight className="h-5 w-5 text-purple-200 transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true" />
               </h3>
-              <p className="mt-2 max-w-xs text-sm leading-relaxed text-gray-400">
+              <p className="mt-3 max-w-sm text-sm leading-6 text-gray-300">
                 Build problem-solving skills with topic-wise practice and structured roadmaps.
               </p>
             </div>
-            <span className="relative mt-6 w-fit rounded-full border border-blue-400/20 bg-blue-400/10 px-3 py-1 text-xs font-semibold text-blue-300">
+            <span className="relative mt-7 w-fit rounded-full border border-purple-300/30 bg-purple-400/15 px-3.5 py-1.5 text-xs font-semibold text-purple-200 transition group-hover:border-purple-200/50 group-hover:bg-purple-400/20">
               Explore DSA
             </span>
           </Link>
@@ -176,26 +176,29 @@ export default function Home() {
 
     <Link
       href="/roadmaps/dsa"
-      className="group flex min-h-64 flex-col rounded-3xl border border-white/[0.09] bg-gradient-to-br from-white/[0.045] to-white/[0.015] p-7 shadow-[0_16px_50px_rgba(0,0,0,0.18)] transition duration-300 hover:-translate-y-1 hover:border-purple-400/30 hover:from-purple-400/[0.08] hover:to-white/[0.02] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-purple-300"
+      className="group relative flex min-h-64 flex-col overflow-hidden rounded-3xl border border-purple-400/20 bg-gradient-to-br from-purple-400/[0.07] via-white/[0.025] to-white/[0.015] p-7 shadow-[0_16px_50px_rgba(0,0,0,0.2)] transition duration-300 hover:-translate-y-1 hover:border-purple-300/40 hover:from-purple-400/[0.11] hover:to-purple-400/[0.025] hover:shadow-[0_20px_60px_rgba(168,85,247,0.1)] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-purple-300"
     >
-      <span className="text-sm font-semibold text-purple-400">
-        DSA
-      </span>
-
-      <h3 className="mt-4 text-2xl font-bold">
-        How to learn DSA
-      </h3>
-
-      <p className="mt-3 text-sm leading-6 text-gray-400">
-         Follow patterns, roadmaps and problem-solving strategies
-          instead of randomly solving questions.
-       </p>
-
-        <span className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-purple-300">
-         Start DSA
-         <ArrowRight className="h-4 w-4 transition group-hover:translate-x-1" />
+      <div className="pointer-events-none absolute -right-12 -top-16 h-48 w-48 rounded-full bg-purple-500/[0.1] blur-3xl transition duration-300 group-hover:bg-purple-400/[0.18]" />
+      <div className="relative flex flex-1 flex-col">
+        <span className="text-sm font-semibold tracking-wide text-purple-300">
+          DSA
         </span>
-      </Link>
+
+        <h3 className="mt-4 text-2xl font-bold text-white">
+          How to learn DSA
+        </h3>
+
+        <p className="mt-3 text-sm leading-6 text-gray-300">
+          Follow patterns, roadmaps and problem-solving strategies
+          instead of randomly solving questions.
+        </p>
+
+        <span className="mt-auto inline-flex items-center gap-2 pt-8 text-sm font-semibold text-purple-200">
+          Start DSA
+          <ArrowRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-1" />
+        </span>
+      </div>
+    </Link>
 
       <Link
         href="/roadmaps/placement"

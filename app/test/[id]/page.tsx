@@ -508,32 +508,36 @@ export default function TestPage() {
     <main className="min-h-screen bg-[#08090b] text-white flex flex-col justify-between">
       {/* Test Header */}
       <header className="sticky top-0 z-40 border-b border-white/10 bg-[#08090b]/95 backdrop-blur">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-8">
-          <div className="flex items-center gap-3">
-            <Link href="/" className="text-lg font-bold">
+        <div className="mx-auto flex min-h-16 max-w-7xl flex-col justify-center gap-2 px-4 py-2 sm:h-16 sm:flex-row sm:items-center sm:justify-between sm:gap-4 sm:py-0 md:px-8">
+          <div className="flex min-w-0 items-center gap-2 sm:gap-3">
+            <Link href="/" className="shrink-0 text-lg font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-[#08090b]">
               CheckMate <span className="text-blue-500">GATE</span>
             </Link>
-            <span className="hidden text-xs text-gray-500 md:inline">|</span>
-            <span className="hidden text-xs font-medium text-gray-400 md:inline truncate max-w-[280px]">
+            <span className="hidden text-xs text-gray-500 sm:inline">|</span>
+            <span className="min-w-0 truncate text-[11px] font-medium text-gray-300 sm:text-xs sm:max-w-[280px]">
               {testTitle || question.subject}
             </span>
           </div>
 
           {/* Virtual Calculator button & Timer */}
-          <div className="flex items-center gap-3 md:gap-4">
+          <div className="flex items-center justify-end gap-2 sm:gap-3 md:gap-4">
             <button
               onClick={() => setShowCalc(!showCalc)}
-              className="rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-medium text-gray-300 transition hover:bg-white/10"
+              aria-expanded={showCalc}
+              aria-controls="quiz-calculator"
+              className="min-h-10 rounded-lg border border-white/10 bg-white/5 px-3 py-2 text-xs font-medium text-gray-200 transition hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#08090b]"
               title="Virtual Calculator"
             >
               🧮 Calculator
             </button>
 
             <div
+              role="timer"
+              aria-label={`Time remaining ${formattedTime}`}
               className={`rounded-xl border px-3.5 py-1.5 font-mono text-sm md:text-base font-bold transition ${
                 timeLeft <= 300
-                  ? "border-red-500/40 bg-red-500/10 text-red-400 animate-pulse"
-                  : "border-white/10 bg-white/5 text-blue-400"
+                  ? "border-red-500/40 bg-red-500/10 text-red-300 animate-pulse"
+                  : "border-white/10 bg-white/5 text-blue-300"
               }`}
             >
               ⏱ {formattedTime}
@@ -541,7 +545,7 @@ export default function TestPage() {
 
             <button
               onClick={() => setShowSubmit(true)}
-              className="rounded-lg bg-blue-600 px-4 py-1.5 text-xs font-semibold text-white transition hover:bg-blue-500 shadow-md shadow-blue-600/20"
+              className="min-h-10 rounded-lg bg-blue-600 px-4 py-2 text-xs font-semibold text-white shadow-md shadow-blue-600/20 transition hover:bg-blue-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#08090b]"
             >
               Submit Test
             </button>
@@ -550,12 +554,12 @@ export default function TestPage() {
       </header>
 
       {/* Main Grid */}
-      <div className="mx-auto grid w-full max-w-7xl flex-1 gap-6 p-4 md:grid-cols-[1fr_320px] md:p-6">
+      <div className="mx-auto grid w-full max-w-7xl flex-1 gap-4 p-3 md:grid-cols-[minmax(0,1fr)_320px] md:gap-6 md:p-6">
         {/* Left Question Box */}
-        <section className="flex flex-col justify-between rounded-2xl border border-white/10 bg-white/[0.02] overflow-hidden">
+        <section className="order-last flex min-w-0 flex-col justify-between overflow-hidden rounded-2xl border border-white/10 bg-white/[0.02] md:order-none">
           <div>
             {/* Question Top Info Bar */}
-            <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 p-4 md:p-5 bg-white/[0.01]">
+            <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 bg-white/[0.01] p-4 md:p-5">
               <div className="flex items-center gap-2.5 flex-wrap">
                 <span className="rounded-md bg-blue-500/10 border border-blue-500/20 px-2.5 py-1 text-xs font-bold text-blue-400">
                   Q{currentQuestion + 1} of {questions.length}
@@ -578,11 +582,12 @@ export default function TestPage() {
 
               <button
                 onClick={toggleMark}
+                aria-pressed={marked.includes(question.id)}
                 className={`rounded-lg border px-3 py-1 text-xs font-medium transition ${
                   marked.includes(question.id)
-                    ? "border-amber-500/50 bg-amber-500/15 text-amber-300"
-                    : "border-white/10 text-gray-400 hover:bg-white/5 hover:text-white"
-                }`}
+                    ? "min-h-10 border-amber-500/50 bg-amber-500/15 text-amber-200"
+                    : "min-h-10 border-white/10 text-gray-300 hover:bg-white/5 hover:text-white"
+                } focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113]`}
               >
                 {marked.includes(question.id) ? "★ Marked for Review" : "☆ Mark for Review"}
               </button>
@@ -620,9 +625,10 @@ export default function TestPage() {
                           key={opt.label}
                           type="button"
                           onClick={() => handleSelectMCQ(opt.label)}
-                          className={`flex w-full items-start gap-4 rounded-xl border p-4 text-left transition ${
+                          aria-pressed={isSelected}
+                          className={`flex min-h-14 w-full items-start gap-4 rounded-xl border p-4 text-left transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113] ${
                             isSelected
-                              ? "border-blue-500 bg-blue-500/15 text-white"
+                              ? "border-blue-400 bg-blue-500/20 text-white ring-1 ring-inset ring-blue-300/50"
                               : "border-white/10 bg-white/[0.02] text-gray-300 hover:border-white/20 hover:bg-white/[0.04]"
                           }`}
                         >
@@ -670,11 +676,12 @@ export default function TestPage() {
                             key={opt.label}
                             type="button"
                             onClick={() => handleToggleMSQ(opt.label)}
-                            className={`flex w-full items-start gap-4 rounded-xl border p-4 text-left transition ${
-                              isSelected
-                                ? "border-blue-500 bg-blue-500/15 text-white"
-                                : "border-white/10 bg-white/[0.02] text-gray-300 hover:border-white/20 hover:bg-white/[0.04]"
-                            }`}
+                              aria-pressed={isSelected}
+                              className={`flex min-h-14 w-full items-start gap-4 rounded-xl border p-4 text-left transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113] ${
+                                isSelected
+                                  ? "border-blue-400 bg-blue-500/20 text-white ring-1 ring-inset ring-blue-300/50"
+                                  : "border-white/10 bg-white/[0.02] text-gray-300 hover:border-white/20 hover:bg-white/[0.04]"
+                              }`}
                           >
                             <span
                               className={`flex h-6 w-6 shrink-0 items-center justify-center rounded border text-xs font-bold mt-0.5 ${
@@ -711,12 +718,12 @@ export default function TestPage() {
                         placeholder="Enter numerical answer..."
                         value={(answers[question.id] as string) || ""}
                         onChange={(e) => handleNATInput(e.target.value)}
-                        className="w-full rounded-xl border border-white/20 bg-white/5 px-4 py-3 text-base text-white outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 font-mono"
+                        className="w-full rounded-xl border border-white/20 bg-white/5 px-4 py-3 text-base font-mono text-white outline-none focus:border-blue-400 focus:ring-2 focus:ring-blue-400"
                       />
                       <button
                         type="button"
                         onClick={clearResponse}
-                        className="shrink-0 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-xs font-semibold text-gray-400 hover:bg-white/10 hover:text-white transition"
+                        className="min-h-12 shrink-0 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-xs font-semibold text-gray-300 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113]"
                       >
                         Clear
                       </button>
@@ -740,21 +747,21 @@ export default function TestPage() {
           </div>
 
           {/* Question Bottom Action Bar */}
-          <div className="flex flex-wrap items-center justify-between gap-3 border-t border-white/10 p-4 md:p-5 bg-white/[0.01]">
+          <div className="flex flex-wrap items-center justify-between gap-3 border-t border-white/10 bg-white/[0.01] p-4 md:p-5">
             <div className="flex items-center gap-3">
               <button
                 onClick={clearResponse}
-                className="rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs font-semibold text-gray-400 hover:bg-white/10 hover:text-white transition"
+                className="min-h-11 rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs font-semibold text-gray-300 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113]"
               >
                 Clear Response
               </button>
             </div>
 
-            <div className="flex items-center gap-3">
+            <div className="flex items-center gap-2 sm:gap-3">
               <button
                 onClick={previousQuestion}
                 disabled={currentQuestion === 0}
-                className="rounded-xl border border-white/10 bg-white/5 px-5 py-2.5 text-xs font-semibold text-white transition hover:bg-white/10 disabled:opacity-30 disabled:cursor-not-allowed"
+                className="min-h-11 rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs font-semibold text-white transition hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113] disabled:cursor-not-allowed disabled:opacity-40 sm:px-5"
               >
                 ← Previous
               </button>
@@ -762,7 +769,7 @@ export default function TestPage() {
               <button
                 onClick={nextQuestion}
                 disabled={currentQuestion === questions.length - 1}
-                className="rounded-xl bg-blue-600 px-6 py-2.5 text-xs font-semibold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500 disabled:opacity-30 disabled:cursor-not-allowed"
+                className="min-h-11 rounded-xl bg-blue-600 px-5 py-2.5 text-xs font-semibold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113] disabled:cursor-not-allowed disabled:opacity-40 sm:px-6"
               >
                 Next →
               </button>
@@ -771,7 +778,7 @@ export default function TestPage() {
         </section>
 
         {/* Right Side: Question Navigation Palette */}
-        <aside className="flex flex-col gap-6">
+        <aside className="order-first flex min-w-0 flex-col gap-4 md:sticky md:top-20 md:order-none md:self-start">
           <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-5">
             <h3 className="mb-4 text-xs font-bold uppercase tracking-wider text-gray-400">
               Question Palette ({questions.length})
@@ -798,7 +805,7 @@ export default function TestPage() {
             </div>
 
             {/* Grid Palette */}
-            <div className="grid grid-cols-5 gap-2 max-h-[380px] overflow-y-auto pr-1">
+            <div className="grid max-h-48 grid-cols-6 gap-2 overflow-y-auto pr-1 sm:grid-cols-8 md:max-h-[380px] md:grid-cols-5">
               {questions.map((q, idx) => {
                 const isCurrent = idx === currentQuestion;
                 const isAnswered =
@@ -809,13 +816,13 @@ export default function TestPage() {
                 const isMarked = marked.includes(q.id);
                 const isVisited = visited.includes(q.id) || isCurrent;
 
-                let bgClass = "bg-white/5 text-gray-400 border-white/10";
+                let bgClass = "bg-white/5 text-gray-300 border-dashed border-white/20";
                 if (isCurrent) {
-                  bgClass = "bg-blue-600 text-white font-bold border-blue-400 ring-2 ring-blue-500/50";
+                  bgClass = "bg-blue-600 text-white font-bold border-double border-white ring-2 ring-blue-400";
                 } else if (isMarked) {
-                  bgClass = "bg-amber-500 text-black font-bold border-amber-400";
+                  bgClass = "bg-amber-300 text-black font-bold border-amber-100 rounded-full";
                 } else if (isAnswered) {
-                  bgClass = "bg-emerald-600 text-white font-bold border-emerald-500";
+                  bgClass = "bg-emerald-700 text-white font-bold border-emerald-300";
                 } else if (isVisited) {
                   bgClass = "bg-white/15 text-gray-200 border-white/20";
                 }
@@ -824,7 +831,10 @@ export default function TestPage() {
                   <button
                     key={q.id}
                     onClick={() => goToQuestion(idx)}
-                    className={`flex h-9 w-full items-center justify-center rounded-lg border text-xs transition hover:scale-105 ${bgClass}`}
+                    type="button"
+                    aria-current={isCurrent ? "step" : undefined}
+                    aria-label={`Question ${idx + 1}${isCurrent ? ", current" : isMarked ? ", marked for review" : isAnswered ? ", answered" : isVisited ? ", visited" : ", not visited"}`}
+                    className={`flex h-10 w-full items-center justify-center rounded-lg border text-xs transition hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#101113] ${bgClass}`}
                   >
                     {idx + 1}
                   </button>
@@ -874,14 +884,20 @@ export default function TestPage() {
 
       {/* Floating Scientific Calculator Modal */}
       {showCalc && (
-        <div className="fixed bottom-6 right-6 z-50 w-72 rounded-2xl border border-white/20 bg-[#12141a]/95 p-4 shadow-2xl backdrop-blur-md">
+        <div
+          id="quiz-calculator"
+          role="dialog"
+          aria-modal="true"
+          aria-label="Virtual Calculator"
+          className="fixed inset-x-3 bottom-3 z-50 max-h-[min(75vh,32rem)] overflow-y-auto rounded-2xl border border-white/20 bg-[#12141a]/[0.98] p-4 shadow-2xl backdrop-blur-md sm:inset-x-auto sm:bottom-6 sm:right-6 sm:w-72"
+        >
           <div className="mb-3 flex items-center justify-between border-b border-white/10 pb-2">
             <span className="text-xs font-bold uppercase tracking-wider text-blue-400">
               Virtual Calculator
             </span>
             <button
               onClick={() => setShowCalc(false)}
-              className="text-gray-400 hover:text-white"
+              className="flex h-10 w-10 items-center justify-center rounded-lg text-gray-300 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
             >
               ✕
             </button>
@@ -895,7 +911,7 @@ export default function TestPage() {
                 <button
                   key={btn}
                   onClick={() => handleCalcBtn(btn)}
-                  className={`rounded-lg p-2.5 transition active:scale-95 ${
+                  className={`min-h-11 rounded-lg p-2.5 transition active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-1 focus-visible:ring-offset-[#12141a] ${
                     btn === "="
                       ? "col-span-1 bg-blue-600 text-white hover:bg-blue-500"
                       : btn === "C" || btn === "DEL"
@@ -914,8 +930,8 @@ export default function TestPage() {
       {/* Submit Confirmation Modal */}
       {showSubmit && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4 backdrop-blur-sm">
-          <div className="w-full max-w-md rounded-2xl border border-white/20 bg-[#0d0f14] p-6 shadow-2xl">
-            <h3 className="text-lg font-bold text-white">Submit GATE Test?</h3>
+          <div role="dialog" aria-modal="true" aria-labelledby="submit-dialog-title" className="w-full max-w-md rounded-2xl border border-white/20 bg-[#0d0f14] p-6 shadow-2xl">
+            <h3 id="submit-dialog-title" className="text-lg font-bold text-white">Submit GATE Test?</h3>
             <p className="mt-2 text-xs text-gray-400 leading-relaxed">
               Are you sure you want to end this test? You will receive instant GATE-standard analysis, marks breakdown, and solutions.
             </p>
@@ -949,13 +965,13 @@ export default function TestPage() {
             <div className="mt-6 flex justify-end gap-3">
               <button
                 onClick={() => setShowSubmit(false)}
-                className="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-xs font-semibold text-gray-300 transition hover:bg-white/10"
+                className="min-h-11 rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-xs font-semibold text-gray-300 transition hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#0d0f14]"
               >
                 Continue Test
               </button>
               <button
                 onClick={handleSubmit}
-                className="rounded-xl bg-blue-600 px-5 py-2 text-xs font-bold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500"
+                className="min-h-11 rounded-xl bg-blue-600 px-5 py-2 text-xs font-bold text-white shadow-lg shadow-blue-600/30 transition hover:bg-blue-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#0d0f14]"
               >
                 Yes, Submit Now
               </button>
