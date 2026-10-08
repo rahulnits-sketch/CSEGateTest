@@ -70,21 +70,15 @@ export default function GateMasterPage() {
       <section className="mx-auto w-full max-w-6xl flex-1 px-6 py-10 md:py-16">
         <div className="mb-10 flex flex-col gap-5 border-b border-white/10 pb-8 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p className="mb-2 text-xs font-bold uppercase tracking-[0.2em] text-blue-400">
-              CheckMate GATE · CSE
-            </p>
+         
             <h1 className="text-3xl font-black tracking-tight md:text-5xl">
               What would you like to{" "}
               <span className="bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
                 practise today?
               </span>
             </h1>
-            <p className="mt-3 max-w-2xl text-sm leading-relaxed text-gray-400">
-              Choose a path to get started. You can browse papers year-wise,
-              practise by subject, or take a mock test.
-            </p>
+        
           </div>
-          <BackButton />
         </div>
 
         <div className="grid gap-5 md:grid-cols-3">

@@ -36,24 +36,13 @@ export default function GatePrepPage() {
         {/* Header */}
         <div className="mb-10 flex flex-col md:flex-row md:items-end md:justify-between gap-6 border-b border-white/10 pb-8">
           <div>
-            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-blue-400 mb-2">
-              <span className="flex h-2 w-2 rounded-full bg-blue-400 animate-pulse" />
-              <span>GateQA Preparation Hub</span>
-              <span>•</span>
-              <span className="text-gray-400">Computer Science & IT</span>
-            </div>
-
             <h1 className="text-3xl font-black tracking-tight text-white md:text-5xl">
               GATE CSE Test Series
             </h1>
-
-            <p className="mt-3 text-sm text-gray-400 max-w-2xl leading-relaxed">
-              Master GATE Computer Science with subject-wise, chapter-wise, and topic-wise targeted practice tests, instant analysis, and virtual calculator simulation.
-            </p>
           </div>
 
           <div className="flex flex-wrap items-center gap-3">
-            <BackButton />
+            
             <Link
               href="/gate/pyq"
               className="rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-xs font-semibold text-gray-300 hover:bg-white/10 hover:text-white transition"

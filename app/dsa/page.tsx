@@ -35,7 +35,6 @@ export default function DSAPage() {
           </div>
 
           <div className="flex flex-wrap items-center gap-3">
-            <BackButton />
             <Link
               href="/dsa/roadmaps"
               className="rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-xs font-semibold text-gray-300 hover:bg-white/10 hover:text-white transition flex items-center gap-2"
